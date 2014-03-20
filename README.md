@@ -1,3 +1,3 @@
 erc
 ===
-This a place to work together on pitches and proposals.
+This is a place to work together on pitches and proposals.
