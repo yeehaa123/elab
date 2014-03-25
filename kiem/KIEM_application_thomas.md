@@ -1,4 +1,4 @@
-#Creative industry â€“ KIEM Application form 2014
+#Creative industry - KIEM Application form 2014
 
 
 General
@@ -40,8 +40,7 @@ must start within 6 weeks of the grant being awarded.*
 
 
 ##6. Disciplines and subdisciplines
-*Choose the main discipline and subdisciplines relevant to your application from the list at [www.nwo.nl/financiering/nwo
--disciplinecodes](www.nwo.nl/financiering/nwo-disciplinecodes). In the table below state your main discipline (e.g. music,
+*Choose the main discipline and subdisciplines relevant to your application from the list at [http://nwo.nl/financiering/nwo-disciplinecodes](http://nwo.nl/financiering/nwo-disciplinecodes). In the table below state your main discipline (e.g. music,
 theatre, performing arts and media). Then state the subdisciplines and the associated codes in order of importance (e.g. 
 media studies, code 32.80.00). You can state a maximum of 3 subdisciplines.* 
 
@@ -161,7 +160,7 @@ least â‚¬ 18,000.*
 ##12. Public summary
 *Write a public summary of your project in Dutch using no more than 50 words. This should be aimed at a wide public. 
 Give this summary a catching title in Dutch. This public summary can be used by NWO for publicity purposes. Instructions
-and examples can be found at [www.nwo.nl/publiekssamenvatting](www.nwo.nl/publiekssamenvatting).*
+and examples can be found at [http://nwo.nl/publiekssamenvatting](http://nwo.nl/publiekssamenvatting).*
 
 
 ### Integrity
