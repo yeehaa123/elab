@@ -68,7 +68,7 @@ through code. Thus technical knowledge and agency in more general terms will inc
 
 ##Research interests 
 
-- understand how technical / technological knowledge has been and is formally and informally acquired
+- understand how technical / technological knowledge has been and is formally and informally acquired (e.g. user manuals)
 - thus what is the difference between lab, workshop, classroom? 
 - the tension between online and offline learning and what is a lab? 
 - which kind of virtual and physical environments encourage the process of gaining technical / technological knowledge?
