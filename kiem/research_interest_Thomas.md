@@ -1,38 +1,45 @@
-#Collaborative Code in the Humanities / Collaboration through Code
+# Collaboration through Code
  
-**concepts: code, program, black box, lab, user, knowledge about technology, autodidactism, 'experts', DIY, 
-phenomenology of technics**
+**concepts: code, program, black box, lab, user, knowledge about
+technology, autodidactism, 'experts', DIY, phenomenology of technics**
 
-*"The only conceivable way of unveiling a black box, is to play with it"* 
+*"The only conceivable way of unveiling a black box, is to play with
+it"*  
+
 René Thom, Mathematical Models
 
 
 ## Why digital humanities is not enough
 
 The so called digital humanities often focus on automated data
-acquisition and processing, visualizations and analysis such data.
-Students of the various humanities fields get acquainted with special
-software written and designed in order to enhance their research. In
-this approach IT experts, mostly situated in classical computer science
+acquisition and processing, visualizations and analysis of such data.
+/Yeehaa: clumsy sentence rewrite /Students of the various humanities
+fields get acquainted with special software /Yeehaa: Such as? /
+written and designed in order to enhance their research. In this
+approach IT experts, mostly situated in classical computer science
 departments, create specialized (goal oriented) tools that meet the
 needs of disciplinary research. The students are then trained to use
 the software. This methodology confirms traditional teacher-student,
 laymen-expert relations, in which the students do not necessarily gain
 insights into the complex programs they apply.
 
-The structures still predominant in academic knowledge transfers,       
-however, do not take into account the successful new ways to share      
-knowledge and are increasingly adopted by the economy. These ways of    
-working and learning go back to findings made by the hacker, software   
-developer and open source movement.                                     
+The structures that are still dominant in academic exchange of
+knowledge, however, do not take into account the successful new ways
+to share knowledge and are increasingly adopted by public and private
+institutions. These ways of working and learning have their origin in
+hacker culture, software development, and the open source movement.
 
-At the same time "hacking" is driven by a curiosity towards a tool. It  
-is motivated by the urge to understand, improve or simply functionally  
-change a tool at hand. Here techne and episteme are meant to reconnect  
-by a instance in which the unconscious act of using a tool (of          
-application knowledge) is disrupted on account of a distant and closer  
-look at the tool.                                                       
+At the same time / Yeehaa: why at the same time. try specifying the     
+exact nature of this relation / jhacking" is driven by a curiosity      
+towards tools. It is motivated by the urge to understand, improve or    
+simply functionally change a tool at hand. Here techne and episteme     
+/ Yeehaa: avoind academic jargon here. it is not necesary. Introduce    
+later / are meant to reconnect by a instance in which the unconscious   
+/ Yeehaa: Why unconscious / act of using a tool (of application         
+knowledge) is disrupted on account of a distant and closer look at the  
+tool. /Yeehaa: Too fast, explain this more in detail. /                                                                   
 
+/ Yeehaa: Good paragraph, but does not cover title /
 
 ## The Black Box 
 
