@@ -9,55 +9,79 @@ René Thom, Mathematical Models
 
 ## Why digital humanities is not enough
 
-The so called digital humanities often focus on automated data acquisition and processing, visualizations and analysis 
-such data. Students of the various humanities fields get acquainted with special software written and designed in order 
-to enhance their research. In this approach IT experts, mostly situated in classical computer science departments, create 
-specialized (goal oriented) tools that meet the needs of disciplinary research. The students are then trained to use the 
-software. This methodology confirms traditional teacher-student, laymen-expert relations, in which the students do not 
-necessarily gain insights into the complex programs they apply. 
+The so called digital humanities often focus on automated data
+acquisition and processing, visualizations and analysis such data.
+Students of the various humanities fields get acquainted with special
+software written and designed in order to enhance their research. In
+this approach IT experts, mostly situated in classical computer science
+departments, create specialized (goal oriented) tools that meet the
+needs of disciplinary research. The students are then trained to use
+the software. This methodology confirms traditional teacher-student,
+laymen-expert relations, in which the students do not necessarily gain
+insights into the complex programs they apply.
 
-The structures still predominant in academic knowledge transfers, however, do not take into account the successful new 
-ways to share knowledge and are increasingly adopted by the economy. These ways of working and learning go back to 
-findings made by the hacker, software developer and open source movement. 
+The structures still predominant in academic knowledge transfers,       
+however, do not take into account the successful new ways to share      
+knowledge and are increasingly adopted by the economy. These ways of    
+working and learning go back to findings made by the hacker, software   
+developer and open source movement.                                     
 
-At the same time "hacking" is driven by a curiosity towards a tool. It is motivated by the urge to understand, improve 
-or simply functionally change a tool at hand. Here techne and episteme are meant to reconnect by a instance in which the 
-unconscious act of using a tool (of application knowledge) is disrupted on account of a distant and closer look at the 
-tool. 
+At the same time "hacking" is driven by a curiosity towards a tool. It  
+is motivated by the urge to understand, improve or simply functionally  
+change a tool at hand. Here techne and episteme are meant to reconnect  
+by a instance in which the unconscious act of using a tool (of          
+application knowledge) is disrupted on account of a distant and closer  
+look at the tool.                                                       
 
 
 ## The Black Box 
 
-Never before have the technological devices we hold in our hands been so powerful on a functional level. Likewise, never
-before have the same tools been so opaque. 
-While scrutinizing the inside of a mechanical machine might have allowed the user to understand the mechanisms at hand 
-and thus to manipulate or repair it, this approach - to understand the functionality of a tool by investigating its 
-structural architecture - is not very applicable to circuit boards and cpu's. So how can a layman, that is: no engineer 
-or computer scientist, acquire knowledge about the contemporary black boxes, the technological gadgets predominating her/
-his objective world.
-Due to their functional openness, in order to repair or manipulate these electronic devices, it has become crucial to 
-understand the rules by which these gadgets operate. Technical agency does not depend so much on the level of understanding 
-of the hardware but of the software or the code of a device. 
-However, currently the smoothly operating graphically stylized interfaces disguise the rules according to which the 
-devices are functioning. The surface is meant to work intuitively - it is the executioner of the operating manual. The 
-user engages with these tools as *user* merely. She/he cannot grasp the *zeug* that is *zuhanden* - she cannot step back 
-and transform the object in her hand into a *thing* that is *vorhanden* 
-[Still have to check out "Das Ding namens Computer"](http://www.transcript-verlag.de/978-3-8376-1951-5/das-ding-namens-computer#). *Techné* and superficial application knowledge prevent a distant scrutinizing which would disclose the vulnerability such a knowledge and motivate a deeper functional and structural understanding of the device.
+Never before have the technological devices we hold in our hands
+been so powerful on a functional level. Likewise, never before have
+the same tools been so opaque. While scrutinizing the inside of a
+mechanical machine might have allowed the user to understand the
+mechanisms at hand and thus to manipulate or repair it, this approach
+- to understand the functionality of a tool by investigating its
+structural architecture - is not very applicable to circuit boards
+and cpu's. So how can a layman, that is: no engineer or computer
+scientist, acquire knowledge about the contemporary black boxes, the
+technological gadgets predominating her/ his objective world. Due to
+their functional openness, in order to repair or manipulate these
+electronic devices, it has become crucial to understand the rules by
+which these gadgets operate. Technical agency does not depend so much on
+the level of understanding of the hardware but of the software or the
+code of a device. However, currently the smoothly operating graphically
+stylized interfaces disguise the rules according to which the devices
+are functioning. The surface is meant to work intuitively - it is the
+executioner of the operating manual. The user engages with these tools
+as *user* merely. She/he cannot grasp the *zeug* that is *zuhanden*
+- she cannot step back and transform the object in her hand into a
+*thing* that is *vorhanden* [Still have to check out "Das Ding namens
+Computer"](http://www.transcript-verlag.de/978-3-8376-1951-5/das-ding-na
+mens-computer#). *Techné* and superficial application knowledge prevent
+a distant scrutinizing which would disclose the vulnerability such a
+knowledge and motivate a deeper functional and structural understanding
+of the device.
 
-The only instant to become aware of a tool is when it is missing, broken, malfunctioning or lacking a function, e.g. not
-letting the user do what she needs to do. Thus the user needs to create a sensibility for what a device or program is 
-lacking and cannot do (yet).
+The only instant to become aware of a tool is when it is missing,
+broken, malfunctioning or lacking a function, e.g. not letting the user
+do what she needs to do. Thus the user needs to create a sensibility for
+what a device or program is lacking and cannot do (yet).
 
 
 ##Why focus on collaborative code?
 
-As in the previous paragraph indicated, the focus on code is the easiest and most flexible to manipulate the gadgets 
-surrounding us. More than ever before do technological gadgets encourage us to shape them. Since the emphasis shifted 
-from material to symbolic in-formation the new gadgets can be changed in function by programming without having to touch 
-upon their structure.
-Due to the fast development of the internet of things and smart objects, not only the function of computers, tablets, 
-phones can be altered but also the function of more and more tools and objects in our everyday life can be manipulated 
-through code. Thus technical knowledge and agency in more general terms will increasingly depend on coding skills.
+As in the previous paragraph indicated, the focus on code is the easiest
+and most flexible to manipulate the gadgets surrounding us. More than
+ever before do technological gadgets encourage us to shape them. Since
+the emphasis shifted from material to symbolic in-formation the new
+gadgets can be changed in function by programming without having to
+touch upon their structure. Due to the fast development of the internet
+of things and smart objects, not only the function of computers,
+tablets, phones can be altered but also the function of more and more
+tools and objects in our everyday life can be manipulated through
+code. Thus technical knowledge and agency in more general terms will
+increasingly depend on coding skills.
 
 - the more people tinker with code and technological devices the better the devices 
 - education through technology and technology through education (and hopefully less through DARPA & CO)!
@@ -84,14 +108,18 @@ e.g.
 - extended understanding of apparatuses (functionally and structurally, able to repair)
 - designing and constructing apparatuses (engineer mode)
 
-(As a first step one could develop an online questionaire to find out which technical devices humanities students possess,
-which kind of programs they use in general, which kind of programs for their research and which programming languages the 
-use)
+(As a first step one could develop an online questionaire to find out
+which technical devices humanities students possess, which kind of
+programs they use in general, which kind of programs for their research
+and which programming languages the use)
 
-If we look for inspiration, we come across the hacker subculture that strives to not to take the objects in their hands 
-for granted but instead tinker with it and find a new function for it.
-Often hackers are autodidacts. Maybe this circumstance lead to a particular ethos of sharing knowledge, writing manuals 
-and develop a particular mode of cooperation. How is technical knowledge acquired and organized by hackers?
+If we look for inspiration, we come across the hacker subculture that
+strives to not to take the objects in their hands for granted but
+instead tinker with it and find a new function for it. Often hackers
+are autodidacts. Maybe this circumstance lead to a particular ethos
+of sharing knowledge, writing manuals and develop a particular mode
+of cooperation. How is technical knowledge acquired and organized by
+hackers?
 
 - think of what an object should be able to do instead of following a users guide
 - if resistance is encountered, think of ways to overcome it, on an individually and a collaborative level
@@ -129,27 +157,35 @@ throw away information unless the recipient forces you to!
 17. A security system is only as secure as its secret. Beware of pseudo-secrets.
 18. To solve an interesting problem, start by finding a problem that is interesting to you. 
 19. Provided the development coordinator has a communications medium at least as good as the Internet, and knows how to 
-lead without coercion, many heads are inevitably better than one.)*
+lead without coercion, many heads are inevitably better than one.)
 
 
 ## Why humanities
 
-Pure IT-experts often only ask “How?” to solve a particular problem but do not consider the “Why?” of the bigger picture.
-We have to stop celebrating every new startup that is just providing one more e-commerce platform. 
-As technical gadgets become more intuitive to use and visual based, the underlying rules are covered up. The discrepancy 
-between superficial understanding and the functional and structural complexity of the devices increases. How fragile this 
-superficial application understanding is, becomes clear the moment a program breaks down or the stylized graphical 
-surface does not allow user to perform a particular task.
+Pure IT-experts often only ask “How?” to solve a particular problem
+but do not consider the “Why?” of the bigger picture. We have to
+stop celebrating every new startup that is just providing one more
+e-commerce platform. As technical gadgets become more intuitive to use
+and visual based, the underlying rules are covered up. The discrepancy
+between superficial understanding and the functional and structural
+complexity of the devices increases. How fragile this superficial
+application understanding is, becomes clear the moment a program breaks
+down or the stylized graphical surface does not allow user to perform a
+particular task.
 
 
 ##The Challenge
 
-To increase the level of technical / techological knowledge of students and layman. Allow them to wonder about (phenomenology 
-of technics) the black boxes they hold in their hands. Make them aware of the fact that they can peek inside those boxes, 
-understand and manipulate their function by mastering the rules the black boxes rely on. By mastering their code.  
+To increase the level of technical / techological knowledge of students 
+and layman. Allow them to wonder about (phenomenology of technics)      
+the black boxes they hold in their hands. Make them aware of the fact   
+that they can peek inside those boxes, understand and manipulate their  
+function by mastering the rules the black boxes rely on. By mastering   
+their code.                                                             
 
-Allow them to mutually develop and foster their curiosity by sharing and collaboration. Allow them to learn and invent. 
-Motivate them to document their finding and allow others to play with these findings.
+Allow them to mutually develop and foster their curiosity by sharing and
+collaboration. Allow them to learn and invent. Motivate them to document
+their finding and allow others to play with these findings.
 
 
 ##Potential Private Partners
