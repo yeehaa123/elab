@@ -43,25 +43,28 @@ tool. /Yeehaa: Too fast, explain this more in detail. /
 
 ## The Black Box 
 
-Never before have the technological devices we hold in our hands
-been so powerful on a functional level. Likewise, never before have
-the same tools been so opaque. While scrutinizing the inside of a
+Never before have the technological devices we hold in our hands been
+so powerful on a functional level. / Yeehaa: never use unfounded
+historical claims! /Likewise, never before have the same tools been
+so opaque. / Yeehaa: ditto! / While scrutinizing the inside of a
 mechanical machine might have allowed the user to understand the
 mechanisms at hand and thus to manipulate or repair it, this approach
 - to understand the functionality of a tool by investigating its
 structural architecture - is not very applicable to circuit boards
-and cpu's. So how can a layman, that is: no engineer or computer
-scientist, acquire knowledge about the contemporary black boxes, the
-technological gadgets predominating her/ his objective world. Due to
-their functional openness, in order to repair or manipulate these
+and cpu's. / Yeehaa: Why? / So how can a layman, that is: no engineer
+or computer scientist, acquire knowledge about the contemporary black
+boxes, the technological gadgets predominating her/ his objective world.
+Due to their functional openness, in order to repair or manipulate these
 electronic devices, it has become crucial to understand the rules by
-which these gadgets operate. Technical agency does not depend so much on
-the level of understanding of the hardware but of the software or the
-code of a device. However, currently the smoothly operating graphically
-stylized interfaces disguise the rules according to which the devices
-are functioning. The surface is meant to work intuitively - it is the
-executioner of the operating manual. The user engages with these tools
-as *user* merely. She/he cannot grasp the *zeug* that is *zuhanden*
+which these gadgets operate. Technical agency does not depend so much
+on the level of understanding of the hardware but of the software or
+the code of a device. / Yeehaa: why, are not both equally important?
+/ However, smoothly operating, graphically stylized interfaces hide
+the rules according to which the devices are functioning. The surface
+is meant to work intuitively - it is the executioner of the operating
+manual. /Yeehaa: is a game only the executioner of its rules too? / The
+user engages with these tools as *user* merely. /Yeehaa: What does
+merely mean here? / She/he cannot grasp the *zeug* that is *zuhanden*
 - she cannot step back and transform the object in her hand into a
 *thing* that is *vorhanden* [Still have to check out "Das Ding namens
 Computer"](http://www.transcript-verlag.de/978-3-8376-1951-5/das-ding-na
@@ -72,23 +75,27 @@ of the device.
 
 The only instant to become aware of a tool is when it is missing,
 broken, malfunctioning or lacking a function, e.g. not letting the user
-do what she needs to do. Thus the user needs to create a sensibility for
-what a device or program is lacking and cannot do (yet).
+do what she needs to do. / Yeehaa: do you *only* know that you have legs
+when they get amputated? / Thus the user needs to create a sensibility
+for what a device or program is lacking and cannot do (yet).
+
+/ Yeehaa: Try to make this analysis a lot more subtle. /
 
 
 ##Why focus on collaborative code?
 
-As in the previous paragraph indicated, the focus on code is the easiest
-and most flexible to manipulate the gadgets surrounding us. More than
-ever before do technological gadgets encourage us to shape them. Since
-the emphasis shifted from material to symbolic in-formation the new
-gadgets can be changed in function by programming without having to
-touch upon their structure. Due to the fast development of the internet
-of things and smart objects, not only the function of computers,
-tablets, phones can be altered but also the function of more and more
-tools and objects in our everyday life can be manipulated through
-code. Thus technical knowledge and agency in more general terms will
-increasingly depend on coding skills.
+As explained in the previous paragraph, the focus on code is the
+easiest /Yeehaa: Really? / and most flexible to manipulate the gadgets
+surrounding us. More than ever before do technological gadgets encourage
+us to shape them. Since the emphasis shifted from material to symbolic
+in-formation / Yeehaa: lingo and historical generalization == 2 x bad!
+/ the new gadgets can be changed in function by programming without
+having to touch upon their structure. Due to the fast development of
+the internet of things and smart objects, not only the function of
+computers, tablets, phones can be altered but also the function of more
+and more tools and objects in our everyday life can be manipulated
+through code. Thus technical knowledge and agency in more general terms
+will increasingly depend on coding skills.
 
 - the more people tinker with code and technological devices the better the devices 
 - education through technology and technology through education (and hopefully less through DARPA & CO)!
