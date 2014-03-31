@@ -36,8 +36,8 @@ responsibility for the project. He/she will be responsible for both the research
 
 drh. dr. Jan Hein Hoogstadt
 Assistant Professor Cultural Analysis
-Universiteit van Amsterdam
 
+Universiteit van Amsterdam
 Faculteit der Geesteswetenschappen
 Literatuurwetenschap
 Spuistraat 210
