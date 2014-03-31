@@ -34,16 +34,16 @@ a place for overlapping
 *State the name of the main applicant here. NWO recognises just one main applicant. This person will bear overall 
 responsibility for the project. He/she will be responsible for both the research and financial aspects of the project.*
 
-drh. dr. Jan Hein Hoogstadt
+drh. dr. Jan Hein Hoogstad   
 Assistant Professor Cultural Analysis
 
-Universiteit van Amsterdam
-Faculteit der Geesteswetenschappen
-Literatuurwetenschap
-Spuistraat 210
-1012 VT Amsterdam
-J.H.Hoogstad@uva.nl
-T: 0205253882
+Universiteit van Amsterdam  
+Faculteit der Geesteswetenschappen  
+Literatuurwetenschap  
+Spuistraat 210  
+1012 VT Amsterdam  
+J.H.Hoogstad@uva.nl  
+T: 0205253882  
 
 ##4. Co-applicants 
 *State the names of any co-applicants here. A KIEM application may have a maximum of two co-applicants.*
@@ -147,9 +147,8 @@ research, alter and develop it further.
 
 "However, because these entities represent exceptions to the principle of organizing our research programs within 
 regular academic channels, they may create unique challenges that must be addressed in order for them to succeed."
-[Establishing and Managing Independent Laboratories, Institutes and Centers http://doresearch.stanford.edu/policies
-/research-policy-handbook/establishing-and-managing-independent-laboratories-institutes-an-0]
 
+[Establishing and Managing Independent Laboratories, Institutes and Centers](http://doresearch.stanford.edu/policies/research-policy-handbook/establishing-and-managing-independent-laboratories-institutes-an-0)
 
 
 ##8. Consortium
