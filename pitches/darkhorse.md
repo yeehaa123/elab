@@ -3,13 +3,13 @@
 
 **a place for overlapping**
 
-of theory and artistic practice
-of physical and digital research
-of studio, workshop, library
-of institutions - private and public
-of scholé and ascholía
-to create an independent place outside the department structure of the university
-a room that enables, allows to experiment
+- of theory and artistic practice  
+- of physical and digital research  
+- of studio, workshop, library  
+- of institutions - private and public  
+- of scholé and ascholía  
+- to create an independent place outside the department structure of the university  
+- a room that enables, allows to experiment  
 
 
 The development towards more interdisciplinary research settings in the humanities, which span not only from one faculty research group to another or between universities but more and more towards involving private partners from the creative industries, changes the requirements of how researchers operate.
