@@ -175,7 +175,7 @@ are involved in the project.*
 |*Private partners*                 |                           |                  |
 |Name                           |Organisation and KvK-no.   |Role              |
 ||||
-|   Lisa Zoth                               |        The Dark Horse                    |   Conultant/Anthropologist               |
+|   Lisa Zoth                               |        The Dark Horse                    |   Consultant/Anthropologist               |
 ||||                                                      
 |   Patrick Kenzler                                |             The Dark Horse               |  Consultant/Interior Designer                |
 ||||
