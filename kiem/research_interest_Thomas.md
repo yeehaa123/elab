@@ -13,7 +13,7 @@ René Thom, Mathematical Models
 
 The so called digital humanities often focus on automated data
 acquisition and processing, visualizations and analysis of such data.
-/Yeehaa: clumsy sentence rewrite /Students of the various humanities
+//Yeehaa: clumsy sentence rewrite /Students of the various humanities
 fields get acquainted with special software /Yeehaa: Such as? /
 written and designed in order to enhance their research. In this
 approach IT experts, mostly situated in classical computer science
