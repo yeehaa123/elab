@@ -15,7 +15,7 @@ University of Amsterdam / Coding the Humanities
 *- Is the idea feasible (within an acceptable time limit and against realistic costs)?*
 *- Consider partnerships and show entrepreneurship to make it happen.*
 
-1. **Description of the idea**
+1.**Description of the idea**
 *(Text: max 600 words)*
 
 In the recent years we have witnessed an increasing demand in coding
@@ -26,13 +26,6 @@ archaeologists, musicians or historians more and more rely on digital
 resources for their work and need basic coding skills to enhance their
 workflow and research. But already at university level coding skills
 become an important instrument to pursue ambitious research interests.
-
-In order to face these challenges scientific foundations offer an
-increasing number of grants that aim to accelerate innovative processes
-in the creative industries and knowledge institutions, starting from
-small national grants and to large internationally oriented funding
-opportunities over extensive time spans. To boost collaborations between
-private and public partners is one of the major goals of these programs.
 
 THE CODING LAB is addressing these changing work and research
 requirements by providing humanities students with an on- and offline
@@ -47,20 +40,41 @@ THE CODING LAB aims to be an incubator for collaborations between public
 and private partners that are keen to explore new means of knowledge
 production and productively challenge conventional forms of teaching and
 scholarship by the creation of innovative information infrastructures
-and research environments.
+and research environments. It is intended to be an open space for learning, 
+exploration through collaboration.
 
-These ambitions are in line with research agenda promoted by
-institutions like the European Research Council or the Dutch NWO.
+At the same time it challenges traditional top down educational concepts 
+and instead embraces the power of peer-learning and reviewing, interest based 
+research groups, open data and licenses. 
+
+This approach, at the same time provides a powerful basis for collaborations
+with other universities, SMEs and even community based movenments and laymen.
 
 
-2. **Innovativeness: why is your idea innovative?**
+2.**Innovativeness: why is your idea innovative?**
 *(Text: max 300 words)*
 
-3. **Societal and/or commercial benefit: which specific problem can be solved with your idea?**
+- provides humanities students with the ability to create their research tools themselves
+- provides humanities students with the ability to analyse the digital tools surrounding them 
+- allows them to take on a more collaborative problem solving approach that is already in practice in companies in the creative industries sector
+- meets the demand by cultural institutions for employees with a humanities background and coding skills
+- possibly connects to the upcoming open data 
+- due to collaborative means used by open source software developers (e.g. github) the projects become sustainable, in the sense that they can be taken over if the maintainer leaves the projects. Due to open  licenses, they can be developed and improved 
+- - this openess is inclusive, as it also allows - due to documentation and tutors - people without a background in coding to participate and develope a sensibility towards the digital instruments at hand
+
+
+3.**Societal and/or commercial benefit: which specific problem can be solved with your idea?**
 *(Text: max 300 words)*
 
-4. **Application: which application do you envisage?**
+Jobs related to the humanities nowadays strongly rely on digital tools, in terms of communication, collaboration, documentation, vizualization or analysis. 
+The Coding Lab will prepare students to understand these digital instruments already during their studies, instead of having to aquire these skills on the job. Moreover the students will be aquianted with the new forms of collaboration and ITC based knowledge production that are increasingly adopted by companies in the creative industries. /no proof for that yet/ Employers in the creative industries can benefit from the synergy effects of this double skillset and do not have to rely mere on ITC experts.
+At the same time due to the use of open license like creative commons, the project provides links to integrate SMEs as well as social and civic movements. In its ideal form it enlightens a gerneral puplic and build the foundation for self-educational structures in which projects can develop according to needs and insterests of students and society.
+
+
+4.**Application: which application do you envisage?**
 *(Text: max 300 words)*
 
-5. **Feasibility: how are you going to enroll your idea and introduce it to market** 
+5.**Feasibility: how are you going to enroll your idea and introduce it to market** 
 *(Text: max 300 words)*
+
+The project will be enrolled as a pilot seminar at the UvA in which the virtual platform will be linked to a pilot of a physical space within the UvA buildings. As a start the students will rely on github as a collaborative platform. For the conception of the virtual learning environment as for the physical lab, we are coorperating with different external partners with expertise in collaborative concepts, software development and elearning. Furthermore we are going encouraging cultural institutions to cooperate on open data projects and animate the students to form their own interest and discipline related research groups which engage and work with the data already available at [http://www.opencultuurdata.nl/](http://www.opencultuurdata.nl/) and work together with the [open knowledge foundation](http://nl.okfn.org/) in order to stage events like [http://codingdavinci.de/](http://codingdavinci.de/).
