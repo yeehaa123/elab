@@ -1,3 +1,6 @@
+## Towards a map of technical topology
+### Empowering the language of business team communication
+
 ### summary
 
 They key to successfully growing modern businesses is the efficient adaptation of technology and the structuring of communication processes within the company and with external parties. Traditionally this 'new' but essential form of communication is structured around translating the needs of the business to technical needs via prestructured schema's and methodologies. These methodologies are designed to keep the non-technical personel of the business protected from the ever changing details of the technical implementation while still giving them the capabilities to update the product through stories and evaluation of the prototypes.
