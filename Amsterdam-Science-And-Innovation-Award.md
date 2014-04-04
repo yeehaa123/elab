@@ -31,11 +31,11 @@ resources for their work and need basic coding skills to enhance their
 workflow and research. But already at university level coding skills
 become an important instrument to pursue ambitious research interests.
 
-'Coding the Humanities' is addressing these changing work and research
+'Coding the Humanities' (CtH) is addressing these changing work and research
 requirements by providing humanities students with an on- and offline
 learning and research environment which allows them to develop and apply
 coding skills, so that they are empowered to produce the customized
-digital tools that fit their research and work. CTH is not only
+digital tools that fit their research and work. CtH is not only
 increasing the employability of humanities students but also connects
 external partners to students who understand to analyze and approach
 humanities questions from the perspective of coding.
@@ -78,29 +78,15 @@ etc.
 2.**Innovativeness: why is your idea innovative?**
 *(Text: max 300 words)*
 
-+ Provides humanities students with the ability to create their research
-tools themselves
+The CtH project breaks with the standard approach in digital humanities of focusing on tools that have user friendly interfaces but force researchers to fit their research to what the tools allow. It encourages experimentation with new methods instead of reproducing the same analyses on a limited set of appropriate data. It gives humanities students the ability to create their research tools themselves and to critically analyse the digital tools surrounding them.
 
-+ Provides humanities students with the ability to analyse the digital
-tools surrounding them
+Such a platform invites students to take on a more collaborative problem solving approach that is already in practice in companies in the creative industries sector. Moreover, this meets the demand from both cultural institutions and development companies for employees with a humanities background and coding skills. 
 
-+ Allows them to take on a more collaborative problem solving approach
-that is already in practice in companies in the creative industries
-sector
+The open nature of the project fits well with the larger open source community---where people acquire their coding skills in a similar collaborative way---and the growing amount of open data that is waiting to be explored by young, creative researchers.
 
-+ Meets the demand by cultural institutions for employees with a
-humanities background and coding skills
+Due to collaborative means used by open source software developers (e.g. github) research projects become sustainable, in the sense that they can be taken over if the initial researcher leaves the projects. Due to open licenses, they can be developed and improved upon.
 
-+ Possibly connects to the upcoming open data
-
-+ Due to collaborative means used by open source software developers
-(e.g. github) the projects become sustainable, in the sense that they
-can be taken over if the maintainer leaves the projects. Due to open
-licenses, they can be developed and improved
-
-+ This openess is inclusive, as it also allows - due to documentation
-and tutors - people without a background in coding to participate and
-develope a sensibility towards the digital instruments at hand
+This openess is inclusive, as it also allows - due to documentation and tutors - people without a background in coding to participate and develope a sensibility towards the digital instruments at hand.
 
 
 3.**Societal and/or commercial benefit: which specific problem can be 
