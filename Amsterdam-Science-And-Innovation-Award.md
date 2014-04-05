@@ -22,38 +22,22 @@ realistic costs)?*
 1.**Description of the idea**
 *(Text: max 600 words)*
 
-In recent years we have witnessed an increasing demand in coding
-experience in various working fields closely related to the humanities.
-Knowledge institutions require programs to archive, search, digitize
-and present their rich heritage. Media professionals, but also
-archaeologists, musicians or historians more and more rely on digital
-resources for their work and need basic coding skills to enhance their
-workflow and research. But already at university level coding skills
-become an important instrument to pursue ambitious research interests.
+Work and research fields related to the humanities are constantly challenged to integrate and profit from new digital technologies. This development not only concerns the objects of investigation of the humanities but also the instruments and methodologies by with these objects can be approached. New tools for collaboration, visualization, semantic search, data analysis or online publishing bear the potential to enhance humanities research.
 
-'Coding the Humanities' (CtH) is addressing these changing work and research
-requirements by providing humanities students with an on- and offline
-learning and research environment which allows them to develop and apply
-coding skills, so that they are empowered to produce the customized
-digital tools that fit their research and work. CtH is not only
-increasing the employability of humanities students but also connects
-external partners to students who understand to analyze and approach
-humanities questions from the perspective of coding.
+Yet, the humanities are widely reluctant the technological layer hidden in the objects of their research interests because they have to rely on and make do with pre-fabricated digital tools that do not meet their research needs. 
 
-'Coding the Humanities' aims to be an incubator for collaborations
-between public and private partners that are keen to explore new means
-of knowledge production and productively challenge conventional forms
-of teaching and scholarship by the creation of innovative information
-infrastructures and research environments. It is intended to be an open
-space for learning, exploration through collaboration.
+Coding the Humanities (CtH) provides an open online learning environment in which humanities students can collaboratively learn how to code and create and explore the application of digital research instruments. It is inspired by collaborative software development platfroms like *github* or *koding.com* and self-learning concepts successfully used by *treehouse* or *codcademy*. The platform encourages project and interest based cooperation and provides resources for follow up projects and the integration of a wider audience of users and developers. 
 
-At the same time it challenges traditional top down educational         
-concepts and instead embraces the power of peer-learning and reviewing, 
-interest based research groups, open data and licenses.                 
+CtH challenges conservative forms of academic top-down, expert-student (layman) learning and knowledge transfer in that it focuses on non-hierarchical, online first group learning in which the students educate one another. //CtH therefore follows successful examples of open, decentralized, online-supported, tutorial based learning that are applied by many companies now.//   
 
-This approach, at the same time provides a powerful basis for
-collaborations with other universities, SMEs and even community based
-movenments and laymen.
+In contrast to the classical single author approach predominant in the humanities, software developing platforms like *github* allow and ask for collaboration. The very work process is open to mutual peer reviews, interventions and suggestions. This form of collaboration helps to form and improve projects at an early stage. The student puts less emphasis on authorship but instead orients herself towards advice and help of peers. The code of the projects is well documented and due to open licenses accessible to anyone. The projects are sustainable in the sense that other students or programmers in general can join them, take over a 'finished' or abandoned project and change and improve it. 
+The learning environment thus encourages collaboration between UvA humanities students during accompanying courses but is moreover open for collaborations on a bigger scale.  
+
+The programming language the students learn first, JavaScript, allows the creation and application of a broad range of data visualization such as cartography, timelines, graphs, diagrams or animations. The students can experiment with of existing code JavaScript libraries such *Data Driven Documents* and still gain good control over the visual outcome. These tools enhance the analysis and understanding of complex relations and concepts relevant to humanities research. At the same time data sets become comprehensible and presentable to a broader audience as well. The developed tools can be related to different data sets and are particularly interesting with regard to open data sets provided by more and more cultural institutions and organizations. Also here a the possibilities for cooperations are striking.
+
+With its focus on code CtH aims to become a basis for collaborations between public and private partners that are keen to explore new means of knowledge production and productively challenge conventional forms of teaching and scholarship by the creation of innovative information infrastructures and research environments. 
+
+CtH encourages humanities students to translates their research needs into applications. At the same time the training of humanities students in coding and the creation and use of the applications can open new fields and perspectives for humanities research.
 
 // YEEHAA: This part is too general. IMO it should be focused on the
 platform, and how this will transform learning and research in general
@@ -99,8 +83,8 @@ these digital instruments already during their studies, instead of
 having to aquire these skills on the job. Moreover the students will be
 aquianted with the new forms of collaboration and ICT based knowledge
 production that are increasingly adopted by companies in the creative
-industries. /no proof for that yet/ Employers in the creative industries
-can benefit from the synergy effects of this double skillset and do
+industries. //no proof for that yet//
+Employers in the creative industries sector can benefit from the synergy effects of this double skillset and do
 not have to rely mere on ITC experts. At the same time due to the use
 of open license like creative commons, the project provides links to
 integrate SMEs as well as social and civic movements. In its ideal
@@ -111,6 +95,7 @@ needs and insterests of students and society.
 
 4.**Application: which application do you envisage?**
 *(Text: max 300 words)*
+description of the features learning platform?
 
 
 5.**Feasibility: how are you going to enroll your idea and introduce it
