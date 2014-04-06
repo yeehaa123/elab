@@ -40,7 +40,6 @@ With its focus on code CtH aims to form a basis for collaborations between publi
 CtH encourages humanities students to translate their research needs into applications. At the same time the training of humanities students in coding and the creation and use of the applications can open new fields and perspectives for humanities research.
 
 
-
 2.**Innovativeness: why is your idea innovative?**
 *(Text: max 300 words)*
 
@@ -55,29 +54,29 @@ Due to collaborative means used by open source software developers (e.g. github)
 This openness is inclusive, as it also allows - due to documentation and tutors - people without a background in coding to participate and develope a sensibility towards the digital instruments at hand.
 
 
-3.**Societal and/or commercial benefit: which specific problem can be 
-psolved with your idea?** (Text: max 300 words)      
+3.**Societal and/or commercial benefit: which specific problem can be solved with your idea?** (Text: max 300 words)      
 
-Jobs related to the humanities nowadays strongly rely on digital tools, in terms of communication, collaboration, documentation, visualization or analysis. 
-Coding the Humanities prepares students not only to understand but also to form these digital instruments already during their studies. It will therefore enable students to develop new research questions and keep pace with the rapid changes in their research environment.  
+Jobs related to the humanities nowadays strongly rely on digital tools, in terms of communication, collaboration, documentation, visualization or analysis. Coding the Humanities prepares students not only to understand but also to form these digital instruments and integrate them in their studies. CtH will therefore enable students to develop new research questions and keep pace with the rapid changes in their research environment.  
 
-Humanities students catch up with working methods already successfully applied at many companies. They learn to handle and understand the digital tools now essential to the work flow in modern SMEs. Thus CtH diminishes the knowledge gap between reseach/studies and the working world and hence makes humanities students more employable. At the same time employers in the creative industries sector can benefit from the synergy effects of this double skillset. 
+Therefore humanities students catch up on working with open source inspired methods already successfully applied companies. They learn to handle and understand the digital tools now essential to the work flow in modern SMEs. Thus CtH diminishes the knowledge gap between reseach/studies and the working world and hence makes humanities students more employable. At the same time employers in the creative industries sector can benefit from the synergy effects of this double skillset. 
 
-Private partners or companies in general terms can engage with the project on various levels. They can co-create a learning environment that meets humanities research needs, but is potentially open for the inclusion of and cooperation with a large group of programmes and amateurs who what to learn programming. They can supply data sets the programmes can experiment and work with and they can develop own projects by utilizing the code the students create.
+Private partners or companies in general terms will find various contact points to engage with the project. They can research on and co-create a learning environment that meets humanities research needs, but is potentially open for the inclusion of and cooperation with a large group of programmers and amateurs who want to learn programming. They can supply data sets programmers can experiment and work with. Open data movements formulate projects with students or a larger public that focus on these open data sets. Moreover universities, institutions or companies can benefit from the programs developed by students and partners.
 
-Finally, CtH is also a modest attempt to close the digital divide //[footnote]// that eventually attempts to empower more people, of all ages, to work with data that is increasingly made accessible by museums, archives, libraries, municipalities and governments.  In its ideal form it enlightens a general puplic and builds the foundation for self-educational structures in which projects can develop according to needs and interests of students and society.
+Finally, CtH is also a modest attempt to close the digital divide[⁸] that eventually attempts to empower more people, of all ages, to work with data that is increasingly made accessible by museums, archives, libraries, municipalities and governments.  In its ideal form it enlightens a general puplic and builds the foundation for self-educational structures in which projects can develop according to needs and interests of students and society.
 
 
 4.**Application: which application do you envisage?**
 *(Text: max 300 words)*
-description of the features learning platform?
+
+The application envisioned is an online learning environment that provides moduled tutorials which allows students to learn programming languages like JavaScript by themselves and with the help of peers and eventually an active community. For this reason the environment will include discussion boards on which the students can ask for advice, formulate interests that result in group based projects and discuss the state of running projects.
+This environment will be connected to collaborative development platform *github* as a means to store and collaboratively work on coding projects. This platform allows the students to simulatniously work on a projects, develop different versions of a project, document changes by detailed versioning and allow others at any developing stage of the project to contribute. 
 
 
-5.**Feasibility: how are you going to enroll your idea and introduce it
-to market** *(Text: max 300 words)*
+5.**Feasibility: how are you going to enroll your idea and introduce it to market** *(Text: max 300 words)*
 
 Currently, in a seminar phase, UvA students learn how to code in JavaScript, use github, firebase and other tools and produce small projects[⁷]. This phase provides a promising outlook for the next stage of the project, which foresees the development of a pilot platform. This platform relies on successful open source or free to use online collaboration platforms and tools. The website http://codingthehumanities.com/ will function as a first contact point for UvA student volunteers and will provide them basic instructions and orientation concerning the needed resources. 
 This approach allows a swift start to advance the project as soon as possible. At the same time, the analysis and evaluation of the students' work will generate valuable insights about the features that should be included in the to be developmed platform. For the design and the development of the actual online learning environment, the project seeks to collaborate with different private partners. By understanding the students' needs and combining this understanding with the expertise of our partners, we will be enabled to decide how to best make use of existing open source software and which features of the platform will have to be developed from scratch.
+
 //Cooperation: with the prototype in development and a first pool of students keen on humanities research and coding at hand, extended partnerships, e.g. with the Creative Industries Research Centre Amsterdam http://circa.uva.nl/ and the UvA Centre for Digital Humanities http://cdh.uva.nl/ as well as cultural institutions or civic organizations can be formed.   
 //mentioning Augmented Masterpieces and Embedded Researchers?//
 
@@ -89,3 +88,4 @@ This approach allows a swift start to advance the project as soon as possible. A
 [⁵]: http://d3js.org/
 [⁶]: http://www.opencultuurdata.nl/
 [⁷]: http://ast.codingthehumanities.com/
+[⁸]: The term digital divide mainly refers to the accessibility of ITC by different groups. However, it also refers to the knowledge neccessary to productively use ICT.
