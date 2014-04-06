@@ -58,32 +58,14 @@ This openess is inclusive, as it also allows - due to documentation and tutors -
 3.**Societal and/or commercial benefit: which specific problem can be 
 psolved with your idea?** (Text: max 300 words)      
 
-Jobs related to the humanities nowadays strongly rely on digital tools,
-in terms of communication, collaboration, documentation, vizualization
-or analysis. Coding the Humanities will prepare students to understand
-these digital instruments already during their studies, instead of
-having to aquire these skills on the job. Moreover the students will be
-aquianted with the new forms of collaboration and ICT based knowledge
-production that are increasingly adopted by companies in the creative
-industries. //no proof for that yet//
-Employers in the creative industries sector can benefit from the synergy effects of this double skillset and do
-not have to rely mere on ITC experts. At the same time due to the use
-of open license like creative commons, the project provides links to
-integrate SMEs as well as social and civic movements. In its ideal
-form it enlightens a gerneral puplic and build the foundation for
-self-educational structures in which projects can develop according to
-needs and insterests of students and society.
+Jobs related to the humanities nowadays strongly rely on digital tools, in terms of communication, collaboration, documentation, vizualization or analysis. 
+Coding the Humanities prepares students not only to understand but to form these digital instruments already during their studies. It will therefore enable students to develop new research questions and keep pace with the rapid change in their research environment.  
 
-students can program instruments that enable them to find new perspectives for humnanities research, comprehend and analyze the technological innovations that affect this field, can keep pace with the rapid change in their research environment 
+Humanities students catch up with working methods already successfully applied at many companies. They learn to handle and understand the digital tools now essential to the work flow in modern SMEs. Thus CtH diminishes the knowledge gap between reseach/studies and the working world and hence makes humanities students more employable. At the same time employers in the creative industries sector can benefit from the synergy effects of this double skillset. 
 
-humanities students catch up with working methods already successfully applied at many companies. They learn to handle and understand the digital tools now essential to the work flow in modern companies
-- the knowledge gap between reseach/studies and the working world
-- become more employable 
+Private partners or companies in gerneral terms can engage with the project on various levels. They can co-create a learning environment that meets humanities research needs, but is potentially open for the inclusion of and cooperation with a large group of programmes and amateurs who what to learn programming. They can supply data sets the programmes can experiment and work with and they can develop own projects by utilizing the code the students created.
 
-a modest attempt to close the digital divide [footnote] that eventually attempts to empower more people young and old
-to work with data increasingly made accessible by museums, archives, libraries, municipals or governments.  
-
-companies can engage...helping to create a learning environment that meets humanities research needs, but is potentially open for the inclusion of and cooperation with a large group of programmes and amateurs who what to learn programming. They can supply data sets the programmes can experiment and work with, they can develop own projects by utilizing the code the students created.
+Finally, CtH is also a modest attempt to close the digital divide //[footnote]// that eventually attempts to empower more people, young and old, to work with data increasingly made accessible by museums, archives, libraries, municipals or governments.  In its ideal form it enlightens a gerneral puplic and build the foundation for self-educational structures in which projects can develop according to needs and insterests of students and society.
 
 
 4.**Application: which application do you envisage?**
@@ -94,7 +76,7 @@ description of the features learning platform?
 5.**Feasibility: how are you going to enroll your idea and introduce it
 to market** *(Text: max 300 words)*
 
-In a seminar phase still ongoing UvA students learned how to code in JaveScript, use github, firebase and other tools and produced small projects[⁷] that give a promising outlook for the next stage of the project. 
+In a seminar phase still ongoing UvA students learne how to code in JaveScript, use github, firebase and other tools and produced small projects[⁷] that give a promising outlook for the next stage of the project. 
 This stage will produce pilot platform which still relies on successful open source or free to use online collaboration platforms and tools. The website http://codingthehumanities.com/ is going to function as a first contact point for the voluntary UvA students and provide them gives basic instructions and orientation to the reseources needed. 
 This approach allows to start and advance the project as soon as possible. At the same time the analysis and evaluation of the students work will generate valuable insight on the features the real platform should include. For the design and the development of the actual online learning environment we work together with different private partners. The understanding of the students needs and the expertise of our partners will allow us to decide, for which features already existing open source software can be use, for which features open source softeware has to be altered and which features have to be developed from scratch.
 //Cooperation: with the prototype in development and a first pool of students keen on humanities research and coding at hand, extended partnerships, e.g. with the Creative Industries Research Centre Amsterdam http://circa.uva.nl/ and the UvA Centre for Digital Humanities http://cdh.uva.nl/ as well as cultural institutions or civic organizations can be formed.   
