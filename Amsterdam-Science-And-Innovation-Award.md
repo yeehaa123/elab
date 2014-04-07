@@ -56,14 +56,13 @@ This openness is inclusive, as it also allows - due to documentation and tutors 
 
 3.**Societal and/or commercial benefit: which specific problem can be solved with your idea?** 
 *(Text: max 300 words //301//)*      
-
 Jobs related to the humanities now strongly rely on digital tools, in terms of communication, collaboration, documentation, visualization or analysis. Coding the Humanities prepares students not only to understand but also to form these digital instruments and integrate them in their studies. CtH will therefore enable students to develop new research questions and keep pace with the rapid changes in their research environment.  
 
-Humanities students catch up on working with open source inspired methods already successfully applied at companies. They learn to handle and understand the ICTs now essential to the work flow in modern SMEs. Thus CtH diminishes the knowledge gap between reseach/studies and the non-academic world and hence makes humanities students more employable. At the same time employers can benefit from the synergetic effects of this double skillset. 
+Humanities students catch up on working with open source inspired methods already successfully applied at companies. They learn to handle and understand the ICTs now essential to the work flow in modern SMEs. Thus CtH diminishes the knowledge gap between research/studies and the non-academic world and hence makes humanities students more employable. At the same time employers can benefit from the synergetic effects of this double skillset. 
 
 Private partners or companies in general will find various ways to engage with the project. They can perform research on and co-create a learning environment that meets humanities research needs, but is potentially open to the inclusion of and cooperation with a large group of programmers and amateurs who want to learn programming. They can supply data sets for programmers to experiment and work with. Organizations concerned with open data can formulate projects including students or a larger public that focus on these open data sets. Moreover universities, institutions or companies can benefit from the programs developed by students and partners.
 
-Finally, CtH is also a modest attempt to close the digital divide[⁸] that eventually attempts to empower more people, of all ages, to work with data that is increasingly made accessible by museums, archives, libraries, municipalities and governments.  In its ideal form it enlightens a general puplic and builds the foundation for self-educational structures in which projects can develop according to needs and interests of students and society.
+Finally, CtH is also a modest attempt to close the digital divide[⁸] and empower more people, of all ages, to work with data that is increasingly made accessible by museums, archives, libraries, municipalities and governments. In its ideal form it enlightens a general puplic and builds the foundation for self-educational structures in which projects can develop according to needs and interests of students and society.
 
 
 4.**Application: which application do you envisage?**
@@ -72,7 +71,7 @@ Finally, CtH is also a modest attempt to close the digital divide[⁸] that even
 The application envisioned is an online learning environment that provides moduled tutorials which allow students to learn programming languages like JavaScript by themselves, with the help of peers and, eventually, an active community. For this reason the environment will include discussion boards on which the students can ask for advice, formulate interests that result in group based projects and discuss the state of running projects.
 This online learning environment will be connected to the collaborative development platform *github* as a means to store and collaboratively work on coding projects. This platform allows the students to simultaneously work on a project, develop different versions of a project, document changes by detailed versioning and allow others to contribute at any developing stage of the project. 
 
-The resulting application is platform that combines:
+The resulting application is a platform that combines:
 
 + a distributed repository and version control system (GitHub) that encourages collaboration, sharing and reuse,
 + an online learning environment with exercises and modules similar to Code School and Code Academy, but oriented to humanities research,
