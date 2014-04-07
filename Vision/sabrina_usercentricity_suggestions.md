@@ -1,11 +1,6 @@
 #User inclusion in open innovation practices
 
-The importance of user-centricity is a central topic across (scientific) disciplines such as product design, business and
-marketing studies. The recent avowal that users drive innovation in the time of wikinomics, crowdsourcing and social 
-networking seems to have sparked this interest further, leading to both utopian and dystopian views about what consumers 
-can contribute to innovation practices. At times, access to ICTs is equated with increased democracy, as well as with both 
-social and business innovation. Democratizing design practices would offer technology users even more power to make 
-“a difference” while at the same time providing a way for technology producers to make a product more successful on the 
+The importance of user-centricity is a central topic across (scientific) disciplines such as product design, business and marketing studies. The recent avowal that users drive innovation in the time of wikinomics, crowdsourcing and social networking seems to have sparked this interest further, leading to both utopian and dystopian views about what consumers can contribute to innovation practices. At times, access to ICTs is equated with increased democracy, as well as with both social and business innovation. Democratizing design practices would offer technology users even more power to make “a difference” while at the same time providing a way for technology producers to make a product more successful on the 
 market. After all, doesn’t involving the expected future users in the design process of a new ICT product stimulate the 
 creation of a market for said product? At the same time, critical questions are asked about the “revolution” offered by 
 online (web 2.0) technologies. Scholars question the extent to which “the digital revolution” should be equated with a 
@@ -16,10 +11,7 @@ One approach to realize co-creation practices, specifically between public-priva
 Living Lab-approach. Living Labs situate ICT development practices in daily life settings to gain insights about 
 unexpected uses of technologies. ICT users, in turn, are not only primarily included in their role of “user”, but also 
 in guises mostly associated with those involved in the design and development process of ICTs. Coupled, the unexpected 
-knowledge ascertained by changing the site of and the people “in” the laboratory is ultimately to lead to the development 
-of more successful innovative ICT products and services. By transforming mundane environments into experimentation areas, 
-interactions – in this case between users and technologies-in-the-making in this environment - become the subject of 
-enquiry for Living Laboratories. “The unexpected” is expected to be found by investigating user-technology interactions. 
+knowledge ascertained by changing the site of and the people “in” the laboratory is ultimately to lead to the development of more successful innovative ICT products and services. By transforming mundane environments into experimentation areas, interactions – in this case between users and technologies-in-the-making in this environment - become the subject of enquiry for Living Laboratories. “The unexpected” is expected to be found by investigating user-technology interactions. 
 Living Labs can thus be said to adhere to a promise that is not unlike a tagline of a generic blockbuster film, namely 
 to “expect the unexpected”.
 But how is the uncovering of “the unexpected” achieved such co-creative (e)laboratories? Previous insights in the 
@@ -41,14 +33,9 @@ providing input during development directly. Users are characterized, for exampl
 on laboratory activities.
 
 Innovation practices are not easily dividable in clear-cut categories of top down or bottom-up innovation. For example, 
-Daft (1978) observes both processes of top down and bottom-up innovation in organizational innovation. In the same vein, 
-Enkel and colleagues (Enkel, Gassmann, & Chesbrough, 2009) articulate the importance of different flows of knowledge to 
+Daft (1978) observes both processes of top down and bottom-up innovation in organizational innovation. In the same vein, Enkel and colleagues (Enkel, Gassmann, & Chesbrough, 2009) articulate the importance of different flows of knowledge to 
 help establish (open) innovation: outside-in processes, inside-out processes and coupled processes, the latter of which 
-is specifically connected to practices of co-creation. Chesbrough argues that in order to cope with the uncertain success 
-of innovations, companies should open up their innovation processes. Likening the hitherto “traditional” innovation 
-processes of firms to a game of chess, he proposes that in practicing open innovation, companies should instead focus on 
-developing a process for playing poker. This means accepting that successful innovation is very much uncertain and dependent
-on uncontrollable contextual (in this case market) conditions (Chesbrough, 2004: 25).
+is specifically connected to practices of co-creation. Chesbrough argues that in order to cope with the uncertain success of innovations, companies should open up their innovation processes. Likening the hitherto “traditional” innovation processes of firms to a game of chess, he proposes that in practicing open innovation, companies should instead focus on developing a process for playing poker. This means accepting that successful innovation is very much uncertain and dependent on uncontrollable contextual (in this case market) conditions (Chesbrough, 2004: 25).
 
 Be it chess or poker, games start with people who are willing to play. In Living Laboratories, prospective technology 
 users are invited to join the game of open innovation. At the same time, these users are part of the gameplay itself; 
@@ -57,25 +44,20 @@ Living Lab-practices are set in a daily life setting, “the uncertain” elemen
 Living Labs. Still, their inclusion is regarded with some ambivalence exactly because of the uncertain outcomes. It is 
 not clear in advance what their contributions will bring to the innovation process. 
 
-##Six suggestions for public-private-civic partnerships geared at realizing innovative ICTs
+###Six suggestions for public-private-civic partnerships geared at realizing innovative ICTs
 
-This final section consists of six suggestions for practitioners who want to embrace this uncertainty. Broadly outlined, 
-these suggestions call for reflection about and the emancipation of end users through an involvement strategy that 
+This final section consists of six suggestions for practitioners who want to embrace this uncertainty. Broadly outlined, these suggestions call for reflection about and the emancipation of end users through an involvement strategy that 
 embraces collective improvisation as an opportunity to innovate.
 
-**1. Reflect on what the inclusion of the daily life setting and practices offer the innovation process** 
+**1. Reflect on what the inclusion of the daily life setting and practices offer the innovation process**  
 Living Labs aim to embrace the uncontrollable dynamics in daily life settings. First and foremost, this requires a 
 reflection about what these dynamics in the daily life setting offer the innovation process. In the three case studies, 
-these settings worked as sites for inspiration, exploration and as a testing ground. Yet while these settings functioned 
-as “locations” for Living Lab-practices, the settings were to – at the same time - become “transformed” through the 
-Living Lab-projects. Daily life settings and the dynamics that are part of and shape these settings are thus not only the
-site for the Living Lab, but also part of the “object” that needs to be transformed. 
+these settings worked as sites for inspiration, exploration and as a testing ground. Yet while these settings functioned as “locations” for Living Lab-practices, the settings were to – at the same time - become “transformed” through the 
+Living Lab-projects. Daily life settings and the dynamics that are part of and shape these settings are thus not only the site for the Living Lab, but also part of the “object” that needs to be transformed. 
 What makes the situating of the lab in the living environment unique is the fact that this environment is populated by 
 “ordinary people”. What case studies - as well as the challenges explicated in Living Lab-literature – suggest, is 
-however that the inclusion of these ordinary people is more often than not referred to as a challenge. “Ordinary people” 
-are – as I stated at the beginning - invited to play the game of open innovation and at the same time part of the 
-gameplay. Similar to how daily life settings are positioned, the people who populate daily life settings that are framed 
-as the Living Lab are to contribute to innovation practices while they also need to transform in roles ranging from 
+however that the inclusion of these ordinary people is more often than not referred to as a challenge. “Ordinary people” are – as I stated at the beginning - invited to play the game of open innovation and at the same time part of the 
+gameplay. Similar to how daily life settings are positioned, the people who populate daily life settings that are framed as the Living Lab are to contribute to innovation practices while they also need to transform in roles ranging from 
 “users”, “designers” to “smart citizens”. 
 By reflecting on the configuration of the daily life setting as a “laboratory setting” it becomes clear what this 
 environment is to offer also in terms of how this configuration frames “the user” in this setting. From the point of 
@@ -85,21 +67,17 @@ allows reflecting on what is expected of the people in this setting. Making the 
 setting more explicit in turn allows a review of the goals of user involvement. Are users in this daily life setting 
 positioned as innovators, is there space for uncertainty, or are users “locked in” another role?
 
-**2. Reflect on the role of ordinary people as “ICT users”** 
+**2. Reflect on the role of ordinary people as “ICT users”**  
 The diversity or multiplicity of Living Lab-goals, practices and user configurations within and across Living 
 Lab-practices is not somewhat unfortunate, as some argue, but instead calls for more reflection about the role of 
 ordinary people in Living Labs. I suggest that in practice, more attention should first of all be paid to how 
 practitioners position the people who are to be included in ICT development practices as users of technologies – let 
 alone designers, testers or co-creators - in project proposals, in discussions and in practices of user inclusion. 
 Configuring people as “users” creates certain representations: people become framed in terms of their technology use. 
-This leads to certain expectations about what their inclusion in Living Lab-practices will grant insights in. Are people 
-included because they are (prospective) users of a technological artefact, or because they might have insightful ideas 
-about their daily life surroundings? Second of all, by reflecting on how in practice users are furthermore configured in 
-certain roles (designers, testers, co-creators) and what this configuration means in terms of expectations (what are they 
-expected to contribute) and in practices (methods of user inclusion) will help elicit how expectations and methods meet 
-in practice and what this means for the innovation process.
+This leads to certain expectations about what their inclusion in Living Lab-practices will grant insights in. Are people included because they are (prospective) users of a technological artefact, or because they might have insightful ideas 
+about their daily life surroundings? Second of all, by reflecting on how in practice users are furthermore configured in certain roles (designers, testers, co-creators) and what this configuration means in terms of expectations (what are they expected to contribute) and in practices (methods of user inclusion) will help elicit how expectations and methods meet in practice and what this means for the innovation process.
 
-**3. Enrol users as partners in the public-private-civic partnership** 
+**3. Enrol users as partners in the public-private-civic partnership**  
 The innovation practices that characterise Living Labs seek discoveries that are local and universal, social and 
 technological. These innovation practices require transformations of firstly daily life into a laboratory that is 
 somewhat controlled in order to be able to generate insights and secondly of people into “users”. Especially the latter 
@@ -108,25 +86,17 @@ Positioning users as partners grants more agency to user innovativeness in Livin
 Without “users” there is no Living Lab-consortium. Naturally, the same holds true for a conception of “the living lab” 
 in a daily life setting; without framing a certain setting as “a lab”, there is no laboratory. Currently user inclusion 
 is noted as a challenge. One of the reasons for this is that while users are expected to act as innovators or to be 
-innovative (on paper) they are often configured – in practice – as passive users. Although they are to become enrolled in
-projects as partners, they are thus often strictly entrenched in their primary role as “users”. Drawing in users by 
+innovative (on paper) they are often configured – in practice – as passive users. Although they are to become enrolled in projects as partners, they are thus often strictly entrenched in their primary role as “users”. Drawing in users by 
 positioning them as partners – and ensuring that they are included as partners who can influence design decisions 
 throughout the Living Lab-project – is an important step in this process.
 
-**4. Open up innovation practices to improvisation** 
+**4. Open up innovation practices to improvisation**  
 Apart from a careful reflection about the configuration of “the user” in Living Lab-practices and the realization that 
-these users should be involved as partners, I suggest to further embrace user practices in daily life dynamics by opening
-up innovation practices to improvisation. In my analyses I drew attention to improvisations in Living Lab-practices to 
-focus on unexpected or unforeseen interactions in these practices. I have argued that improvisation offers a conceptual 
-tool to analyse the connection between creativity and innovation.
+these users should be involved as partners, I suggest to further embrace user practices in daily life dynamics by opening up innovation practices to improvisation. In my analyses I drew attention to improvisations in Living Lab-practices to focus on unexpected or unforeseen interactions in these practices. I have argued that improvisation offers a conceptual tool to analyse the connection between creativity and innovation.
 These improvisations took the shape of user attributions of meanings and uses to Living Lab-projects as such and to the 
-involved technological artefacts, that were based on users’ situated knowledge. These improvisations were both makeshift 
-and virtuose. This means that improvisations were based on users’ limited knowledge of the technological artefacts 
-coupled with an intimate knowledge of the daily life setting that formed the context of the Living Lab. Or alternatively,
-that knowledge about for instance materials was applied in a setting that was less known.
+involved technological artefacts, that were based on users’ situated knowledge. These improvisations were both makeshift and virtuose. This means that improvisations were based on users’ limited knowledge of the technological artefacts  coupled with an intimate knowledge of the daily life setting that formed the context of the Living Lab. Or alternatively, that knowledge about for instance materials was applied in a setting that was less known.
 Improvising implies doing something unforeseen, something that is uncertain. Becoming sensitive to user improvisations 
-is, as I have argued, essential to start to recognise user innovativeness. Stimulating user inclusion by enrolling users 
-as partners in Living Labs is therefore a first step. Subsequently allowing agency for improvisation practices of users 
+is, as I have argued, essential to start to recognise user innovativeness. Stimulating user inclusion by enrolling users as partners in Living Labs is therefore a first step. Subsequently allowing agency for improvisation practices of users 
 in the Living Lab is a second step. 
 In order to “catch” innovative ideas and practices it is important to not only concentrate on (pre-established) 
 deliverables, but also focus on “unexpected” and “unforeseen” ideas and practices. The challenge then becomes 
@@ -134,22 +104,16 @@ integrating pre-set goals with improvised ideas and practices in innovative prod
 reflecting on user-technology practices in the Living Lab-setting in terms of improvisation, it becomes possible to 
 articulate where accommodations and resistances occur. These may then inform adaptations of ideas, processes and products.
  
-**5. Recognise improvisations in the daily life context as situated expertise** 
+**5. Recognise improvisations in the daily life context as situated expertise**  
 Furthermore, by framing improvisations as situated expertise these improvisations are granted agency to influence 
 innovation practices. Enrolling users as partners in the Living Lab-consortium in practice allows users the agency to 
 contribute their ideas, insights and practices. Partially bound to the daily life setting that facilitates and informs 
-their experiences and actions, these users can contribute their situated knowledge about e.g. technology use in a certain
-setting. However, without treating this knowledge as a kind of expertise, the sharing of this knowledge becomes more of a
-promissory practice rather than one that can inform actual new insights. By treating the shared knowledge as a kind of 
-expertise, the Living Lab-consortium can benefit from these insights and translate these into new practices or new ICTs. 
+their experiences and actions, these users can contribute their situated knowledge about e.g. technology use in a certain setting. However, without treating this knowledge as a kind of expertise, the sharing of this knowledge becomes more of a promissory practice rather than one that can inform actual new insights. By treating the shared knowledge as a kind of expertise, the Living Lab-consortium can benefit from these insights and translate these into new practices or new ICTs. 
 Recognising the situated expertise of users allows embracing the richness of daily life dynamics, which is one of the 
 promises of Living Labs. In practice, however, it is clear that only by limiting the influence of these daily life 
 dynamics, “a” Living Lab can be realized. Living Labs have clear (project) goals, be these to educate and “smarten up” 
 people or to develop new technological artefact. To achieve these goals, measures are taken to “mangle out” the 
-unforeseen. And whereas goals may themselves change as daily life dynamics and user involvement unfold, these still steer
-innovation practices. By granting agency to the unforeseen in the shape of situated expertise of users, innovation 
-practices are kept open to improvisation, and open to daily life dynamics. 
+unforeseen. And whereas goals may themselves change as daily life dynamics and user involvement unfold, these still steer innovation practices. By granting agency to the unforeseen in the shape of situated expertise of users, innovation practices are kept open to improvisation, and open to daily life dynamics. 
 
-**6. Perceive Living Lab-practices as practices that facilitate and govern open innovation through collective improvisation**
-
+**6. Perceive Living Lab-practices as practices that facilitate and govern open innovation through collective improvisation**  
 Finally I suggest that opening up innovation processes to daily life dynamics and the innovativeness of users in this innovation space requires rethinking “openness”; to perceive openness not as a challenge, but as an opportunity. I fully realize that Living Lab-literature already argues for this openness and that this suggestion may therefore seem redundant. However, there is a difference between proposing practices of open innovation, and actual open innovation in practice (as the literature readily suggests as well). In this dissertation, I have argued that the concept of improvisation helps to catch and articulate the “generative dance of agency” that I have observed in the three cases. By embracing “the unforeseen” and continuously working to recognise how users, technological artefacts and daily life settings interact by drawing attention to how these engage in a dance of agency, Living Lab-practitioners and projects can more fully benefit from opening up innovation practices. When, instead, improvisations are only characterised as obstacles to innovation, Living Lab-practitioners and practices counter their own adage. Recognizing the opportunities of improvisation requires all Living Lab-partners to collaborate in governing open innovation through collective improvisation. This can be realized by explicitly drawing out how people “make do” and “let go” and perceiving the observation and analysis of these dynamics as one of the innovative products of the Living Lab-endeavour as well, instead of focusing “only” on developing new ICT products and services.
