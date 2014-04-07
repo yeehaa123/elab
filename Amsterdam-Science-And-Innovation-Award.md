@@ -22,7 +22,7 @@ realistic costs)?*
 1.**Description of the idea**
 *(Text: max 600 words //595//)*
 
-Work and research fields related to the humanities are constantly challenged to integrate and profit from new digital technologies. This development not only concerns the objects of investigation in the humanities but also the instruments and methodologies by with these objects can be approached. New tools for collaboration, visualization, semantic search, data analysis or online publishing bear the potential to enhance humanities research.
+Work and research fields related to the humanities are constantly challenged to integrate and profit from new digital technologies. This development not only concerns the objects of investigation in the humanities but also the instruments and methodologies by which these objects can be approached. New tools for collaboration, visualization, semantic search, data analysis or online publishing bear the potential to enhance humanities research.
 
 Yet, the humanities are widely reluctant to approach the technological layer hidden in the objects of their research interests because they have to rely on and make do with pre-fabricated digital tools that do not meet their research needs. 
 
@@ -31,9 +31,9 @@ Coding the Humanities (CtH) provides an open online learning environment in whic
 CtH challenges conservative forms of academic top-down, expert-student (layman) learning and knowledge transfer in that it focuses on non-hierarchical, online first group learning in which the students educate one another. CtH therefore follows successful examples of open, decentralized, online-supported, tutorial based learning that are increasingly applied by successful companies.   
 
 In contrast to the classical single author approach predominant in the humanities, software developing platforms like *github* allow and ask for collaboration. The very work process is open to mutual peer reviews, interventions and suggestions. This form of collaboration helps to form and improve projects at an early stage. The student puts less emphasis on authorship but instead orients herself towards advice and help of peers. The code of the projects is well documented and due to open licenses accessible to anyone. The projects are sustainable in the sense that other students or programmers in general can join them, take over a 'finished' or abandoned project, change and improve it. 
-The learning environment thus not only encourages collaboration between UvA humanities students during accompanying courses but is moreover open for collaborations on a bigger scale, e.g. with other universities, labs, SMEs or civic movements.  
+The learning environment thus not only encourages collaboration between UvA humanities students during associated courses but is moreover open for collaborations on a bigger scale, e.g. with other universities, labs, SMEs or civic movements.  
 
-The programming language the students learn first, JavaScript, allows the creation and application of a broad range of data visualization such as cartography, timelines, graphs, diagrams or animations. The students can experiment with existing JavaScript libraries such as *Data Driven Documents*[⁵] and still gain good control over the visual outcome. These tools enhance the analysis and understanding of complex relations and concepts relevant to humanities research. At the same time data sets become comprehensible and presentable to a broader audience. The developed tools can be applied to different data sets. Especially with regard to open data sets provided by more and more cultural institutions and organizations[⁶], data visualization tools provide a great foundation for collaborative activities between universities and other institutions.
+The programming language the students learn first, JavaScript, allows the creation and application of a broad range of data visualizations such as cartography, timelines, graphs, diagrams or animations. The students can experiment with existing JavaScript libraries such as *Data Driven Documents*[⁵] and still gain good control over the visual outcome. These tools enhance the analysis and understanding of complex relations and concepts relevant to humanities research. At the same time data sets become comprehensible and presentable to a broader audience. The developed tools can be applied to different data sets. Especially with regard to open data sets provided by more and more cultural institutions and organizations[⁶], data visualization tools provide a great foundation for collaborative activities between universities and other institutions.
 
 With its focus on code CtH aims to form a basis for collaborations between public and private partners that are keen to explore new means of knowledge production and productively challenge conventional forms of teaching and scholarship by the creation of innovative information infrastructures and research environments. 
 
@@ -49,7 +49,7 @@ Such a platform invites students to take on a more collaborative problem solving
 
 The open nature of the project fits well with the larger open source community---where people acquire their coding skills in a similar collaborative way---and the growing amount of open data that is waiting to be explored by young, creative researchers.
 
-Due to the collaborative means used by open source software developers (e.g. github) research projects limited in duration and resources also become sustainable, in the sense that these can be continued even when the initial researcher leaves the projects. Due to open licenses, the projects can be further developed and improved.
+Due to the collaborative means used by open source software developers (e.g. github) research projects limited in duration and resources also become sustainable, in the sense that these can be continued even when the initial researcher leaves the project. Due to open licenses, the projects can be further developed and improved.
 
 This openness is inclusive, as it also allows - due to documentation and tutors - people without a background in coding to participate and develop a sensibility towards the digital instruments at hand.
 
@@ -59,7 +59,7 @@ This openness is inclusive, as it also allows - due to documentation and tutors 
 
 Jobs related to the humanities now strongly rely on digital tools, in terms of communication, collaboration, documentation, visualization or analysis. Coding the Humanities prepares students not only to understand but also to form these digital instruments and integrate them in their studies. CtH will therefore enable students to develop new research questions and keep pace with the rapid changes in their research environment.  
 
-Humanities students catch up on working with open source inspired methods already successfully applied at companies. They learn to handle and understand the ICTs now essential to the work flow in modern SMEs. Thus CtH diminishes the knowledge gap between reseach/studies and the working world and hence makes humanities students more employable. At the same time employers can benefit from the synergy effects of this double skillset. 
+Humanities students catch up on working with open source inspired methods already successfully applied at companies. They learn to handle and understand the ICTs now essential to the work flow in modern SMEs. Thus CtH diminishes the knowledge gap between reseach/studies and the non-academic world and hence makes humanities students more employable. At the same time employers can benefit from the synergetic effects of this double skillset. 
 
 Private partners or companies in general will find various ways to engage with the project. They can perform research on and co-create a learning environment that meets humanities research needs, but is potentially open to the inclusion of and cooperation with a large group of programmers and amateurs who want to learn programming. They can supply data sets for programmers to experiment and work with. Organizations concerned with open data can formulate projects including students or a larger public that focus on these open data sets. Moreover universities, institutions or companies can benefit from the programs developed by students and partners.
 
@@ -71,6 +71,14 @@ Finally, CtH is also a modest attempt to close the digital divide[⁸] that even
 
 The application envisioned is an online learning environment that provides moduled tutorials which allow students to learn programming languages like JavaScript by themselves, with the help of peers and, eventually, an active community. For this reason the environment will include discussion boards on which the students can ask for advice, formulate interests that result in group based projects and discuss the state of running projects.
 This online learning environment will be connected to the collaborative development platform *github* as a means to store and collaboratively work on coding projects. This platform allows the students to simultaneously work on a project, develop different versions of a project, document changes by detailed versioning and allow others to contribute at any developing stage of the project. 
+
+The resulting application is platform that combines:
+
++ a distributed repository and version control system (GitHub) that encourages collaboration, sharing and reuse,
++ an online learning environment with exercises and modules similar to Code School and Code Academy, but oriented to humanities research,
++ an online coding environment with direct, visual feedback like Processing.org, and the ability to collaboratively contribute bits of code and copy and comment on each others work in real-time,
+
+The application is set up such that universities can integrate learning modules from CtH in their curriculums, while students can build up their portfolios through research projects, with which they can show both their progress to teachers and their skills and achievements to employers. Furthermore, the application integrates naturally with Github and other open source environments, lowering the threshold for a diverse audience to reuse, copy and extend the prototypes, products and results of interest to society, including the general public, other academics and companies.
 
 
 5.**Feasibility: how are you going to enroll your idea and introduce it to market** *(Text: max 300 words //274//)*
