@@ -131,11 +131,11 @@ Describe the proposed communication measures for promoting the project and its f
 
 **Definitions:**
 
-*‘Work package’ means a major sub-division of the proposed project*
+**Work package** *means a major sub-division of the proposed project*
 
-*‘Deliverable’ means a distinct output of the project, meaningful in terms of the project’s  overall objectives, and constituted by a report, a document, a technical diagram, a software etc.*
+**Deliverable** *means a distinct output of the project, meaningful in terms of the project’s  overall objectives, and constituted by a report, a document, a technical diagram, a software etc.*
 
-*‘Milestones’ means control points in the project that help to chart progress. Milestones may correspond to the completion of a key deliverable, allowing the next phase of the work to begin. They may also be needed at intermediary points so that, if problems have arisen, corrective measures can be taken. A milestone may be a critical decision point in the project where, for example, the consortium must decide which of several technologies to adopt for further development.*
+**‘Milestones’** *means control points in the project that help to chart progress. Milestones may correspond to the completion of a key deliverable, allowing the next phase of the work to begin. They may also be needed at intermediary points so that, if problems have arisen, corrective measures can be taken. A milestone may be a critical decision point in the project where, for example, the consortium must decide which of several technologies to adopt for further development.*
 
 
 
@@ -177,16 +177,15 @@ Please provide the following:*
 
 **For each work package:** 
 
-|**Work package number** | **Start Date or Starting Event** ||
-------------------------------------------------------------
-|**Work package title** |||
------------------------------------------------------------
-|**Participant number**||||||
------------------------------------------------------------
-|**Short name of participant**||||||
------------------------------------------------------------
-|**Person/months per participant**:||||||
---------------------------------------------------------------
+
+
+|Work package number | Start Date or Starting Event |        |     |    |    |
+|--------------------|------------------------------|--------|-----|----|----|
+|Work package title  |                              |        |     |    |    |
+|Participant number  |                              |        |     |    |    |
+|Short name of participant|                         |        |     |    |    |
+|Person/months per participant|                     |        |     |    |    |
+
 
 **Objectives** 
 
@@ -198,7 +197,7 @@ Please provide the following:*
 **Table 3.1 b: 	List of work packages**
 
 |Work package No|Work Package Title|Lead Participant No|Lead Participant Short Name|Person-Months|Start Month|End month|
-------------------------------------------------------------------------------------------------------------------------
+|---------------|------------------|-------------------|---------------------------|-------------|-----------|---------|
 ||||||||
 ||||||||
 ||||||||
@@ -206,14 +205,18 @@ Please provide the following:*
 |||||Total months|||
 
 
+
 **Table 3.1 c:	List of Deliverables5**   
 
-|Deliverable (number)|Deliverable name|Work package number|Short name of lead participant|Type|Dissemination level|Delivery date|
+
+|D. (number) |D. name|Work package number |Short name of lead participant |Type |Dissemination level |Delivery date|
+|--------------------|---------------------------|------------------------------|----|-------------------|-------------|
 |||||||
 |||||||
 |||||||
 |||||||
 |||||||
+
 
 
 **KEY** 
@@ -242,7 +245,9 @@ Measured in months from the project start date (month 1)
 
 **Table 3.2 a:	List of milestones** 
 
+
 |Milestone number|Milestone name|Related work package(s)|Estimated date|Means of verification|
+|----------------|--------------|-----------------------|--------------|---------------------|
 |||||
 |||||
 |||||
@@ -261,7 +266,9 @@ Show how you will confirm that the milestone has been attained. Refer to indicat
 
 **Table 3.2b: Critical risks for implementation** 
 
+
 |Description of risk|Work package(s) involved|Proposed risk-mitigation measures|
+|-------------------|------------------------|---------------------------------|
 ||||
 ||||
 ||||
@@ -274,7 +281,8 @@ Show how you will confirm that the milestone has been attained. Refer to indicat
 *Please indicate the number of person/months over the whole duration of the planned work, for each work package, for each participant. Identify the work-package leader for each WP by showing the relevant person-month figure in bold.*
 
 
-||WPn|WPn+1|WPn+2|Total Person/Months per Participant|
+|        |WPn     |WPn+1   |WPn+2    |Total Person/Months per Participant|
+|--------|--------|--------|---------|-----------------------------------|
 |Participant Number/Short Name||||| 
 |Participant Number/Short Name||||| 
 |Participant Number/Short Name||||| 
@@ -285,15 +293,20 @@ Show how you will confirm that the milestone has been attained. Refer to indicat
 
 *Please complete the table below for each participant if the sum of the costs for’ travel’, ‘equipment’, and  ‘goods and services’ exceeds 15% of the personnel costs for that participant (according to the budget  table in section 3 of the proposal administrative forms).* 
 
+
 |Participant Number/Short Name|Cost (€)|Justification|
+|-----------------------------|--------|-------------|
 |Travel||| 
 |Equipment||| 
 |Other goods and services|||
 |Total|||
 
 
+
 *Please complete the table below for all participants that would like to declared costs of large research infrastructure under Article 6.2 of the General Model Agreement6, irrespective of the percentage of personnel costs. Please indicate (in the justification) if the beneficiary’s methodology for declaring the costs for large research infrastructure has already been positively assessed by the Commission.* 
 
 
 |Participant Number/Short Name|Cost (€)|Justification|
+|-----------------------------|--------|-------------|
 |Large research infrastructure|||
+
