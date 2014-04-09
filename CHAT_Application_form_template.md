@@ -2,7 +2,7 @@
 
 (5 projects; up to 5 years; 150.000-800.000€ per project)
 
-##Provide the following information (maximum four pages per project):
+**Provide the following information (maximum four pages per project):**
 
 ###Title of project
 
@@ -40,6 +40,6 @@ Valorization (1/2 page)
 
 **Deadline: 1 May 2014**
 
-Material to be sent to: Sally Wyatt, [sally.wyatt@ehumanities.knaw.nl](sally.wyatt@ehumanities.knaw.nl)
+Material to be sent to: Sally Wyatt, [sally.wyatt@ehumanities.knaw.nl](sally.wyatt@ehumanities.knaw.nl)  
 In case of questions, contact: Sally Wyatt, [sally.wyatt@ehumanities.knaw.nl](sally.wyatt@ehumanities.knaw.nl)
 
