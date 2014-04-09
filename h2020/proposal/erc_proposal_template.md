@@ -206,17 +206,15 @@ Please provide the following:*
 
 
 
-**Table 3.1 c:	List of Deliverables5**   
+**Table 3.1 c:	List of Deliverables**   
 
-
-|D. (number) |D. name|Work package number |Short name of lead participant |Type |Dissemination level |Delivery date|
-|--------------------|---------------------------|------------------------------|----|-------------------|-------------|
-|||||||
-|||||||
-|||||||
-|||||||
-|||||||
-
+| d. number| d. name| work package number | short name of lead participant | Type | Dissemination level| Delivery date| 
+|----------|--------|---------------------|--------------------------------|------|--------------------|--------------| 
+||||||
+||||||
+||||||
+||||||
+||||||
 
 
 **KEY** 
@@ -309,3 +307,69 @@ Show how you will confirm that the milestone has been attained. Refer to indicat
 |Participant Number/Short Name|Cost (€)|Justification|
 |-----------------------------|--------|-------------|
 |Large research infrastructure|||
+
+
+
+###4: 	Members of the consortium
+
+ *This section is not covered by the page limit.*	
+ *The information provided here will be used to judge the operational capacity.*
+
+####4.1. 	Participants (applicants)
+
+*Please provide, for each participant, the following (if available):* 
+
+- *a description of the legal entity and its main tasks, with an explanation of how its profile matches the tasks in the proposal.*
+- *a  curriculum vitae or description of the profile of the persons, including their gender, who will be primarily responsible for carrying out the proposed research and/or innovation activities;*
+- *a  list of up to 5 relevant publications, and/or products, services (including widely-used datasets or software), or other achievements relevant to the  call content;* 
+- *a  list of up to 5 relevant previous projects or activities, connected to the subject of this proposal;*
+- *a  description of any significant infrastructure and/or any major items of technical equipment, relevant to the proposed work;*
+(*any other supporting documents specified in the work programme for this call*)
+
+####4.2.	Third parties involved in the project (including use of third party resources)
+*Please complete, for each participant, the following table (or simply state “No third parties involved”, if applicable):*
+
+Does the participant plan to subcontract certain tasks  (please note that core tasks of the action should not be sub-contracted) **Y/N**
+
+If yes, please describe and justify the tasks to be subcontracted
+
+Does the participant envisage that part of its work is performed by linked third parties **Y/N**
+
+If yes, please describe the third party, the link of the participant to the third party, and describe and justify the foreseen tasks to be performed by the third party
+
+Does the participant envisage the use of contributions in kind provided by third parties (Articles 11 and 12 of the General Model Grant Agreement) **Y/N**
+
+If yes, please describe the third party and their contributions
+ 
+###5: 	Ethics and security 
+ **This section is not covered by the page limit.**
+
+####5.1 	Ethics
+
+If you have entered any ethics issues in the ethical issue table in the administrative proposal forms, you must:
+submit an ethics self-assessment, which:
+
+- describes how the proposal meets the national legal and ethical requirements of the country or countries where the tasks raising ethical issues are to be carried out; 
+
+- explains in detail how you intend to address the issues in the ethical issues table, in particular as regards:
+
+- research objectives (e.g. study of vulnerable populations, dual use, etc.);
+
+- research methodology (e.g. clinical trials, involvement of children and related consent procedures, protection of any data collected, etc.);
+
+- the potential impact of the research (e.g. dual use issues, environmental damage, stigmatisation of particular social groups, political or financial retaliation, benefit-sharing,  malevolent use, etc.).
+
+- provide the documents that you need under national law (if you already have them), e.g.:
+an ethics committee opinion;
+
+- the document notifying activities raising ethical issues or authorising such activities.
+
+- If these documents are not in English, you must also submit an English summary of them (containing, if available, the conclusions of the committee or authority concerned).
+
+- If you plan to request these documents specifically for the action you are proposing, your request must contain an explicit reference to the action title.
+
+#####5.2 	Security
+
+Please indicate if your project will involve:  
+activities or results raising security issues: **(YES/NO)**  
+‘EU-classified information’ as background or results: **(YES/NO)**
