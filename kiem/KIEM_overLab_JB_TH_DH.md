@@ -46,7 +46,7 @@ a place for overlapping
 *State the name of the main applicant here. NWO recognises just one main applicant. This person will bear overall 
 responsibility for the project. He/she will be responsible for both the research and financial aspects of the project.*
 
-drh. dr. Jan Hein Hoogstad   
+drh. dr. Jan Hein Hoogstad   
 =======
 
 *State the name of the main applicant here. NWO recognises just one main
@@ -54,17 +54,17 @@ applicant. This person will bear overall responsibility for the project.
 He/she will be responsible for both the research and financial aspects
 of the project.*
 
-dhr. dr. Jan Hein Hoogstad   
+dhr. dr. Jan Hein Hoogstad   
 >>>>>>> d59da83d16750f4f7606e2b661d4ac454c9d8246
-Assistant Professor Cultural Analysis
+Assistant Professor Cultural Analysis
 
-Universiteit van Amsterdam  
-Faculteit der Geesteswetenschappen  
+Universiteit van Amsterdam  
+Faculteit der Geesteswetenschappen  
 Literatuurwetenschap  
-Spuistraat 210  
-1012 VT Amsterdam  
+Spuistraat 210  
+1012 VT Amsterdam  
 J.H.Hoogstad@uva.nl  
-T: 0205253882  
+T: 0205253882  
 
 ##4. Co-applicants 
 <<<<<<< HEAD

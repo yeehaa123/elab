@@ -14,19 +14,11 @@ literature references for which 9 pt is permitted).*
 
 
 ##1. Project title 
-<<<<<<< HEAD
-*State a title for the application.*
-=======
 Code Collaboration
->>>>>>> d59da83d16750f4f7606e2b661d4ac454c9d8246
 
 
 ##2. Summary 
 *Give a short summary of the project (maximum 250 words).*
-
-<<<<<<< HEAD
-=======
-//maybe more as a general into in the proposal part/
 
 The project seeks to explore the structures a platform/lab that works as a link between universities, cultural institutions and creative industries companies has to provide in order to trigger and foster long term collaborations between these parties. It considers platforms and methodologies used in software development, hacker, open data and open source culture.  
 
@@ -40,7 +32,6 @@ Nevertheless, competitive funding calls now often encourage cooperation between 
 
 As the underlying connection between the different partners is software, providing humanities students with coding skills and allow them to form and foster online peer learning structures bears a great potential for cooperation with creative industries SMEs and the open data policies of humanities related institutions. (279 words)
 
->>>>>>> d59da83d16750f4f7606e2b661d4ac454c9d8246
 
 ##3. Main applicant 
 *State the name of the main applicant here. NWO recognises just one main applicant. This person will bear overall 
@@ -53,8 +44,6 @@ responsibility for the project. He/she will be responsible for both the research
 
 #Project proposal 
 
-<<<<<<< HEAD
-=======
 >**"Any tool should be useful in the expected way, but a truly great tool lends itself to uses you never expected."** (Eric Steven Raymond *The Cathedral and the Bazaar*, p.18)
 
 
@@ -129,12 +118,13 @@ In order to make the humanities students more employable
 
 ##approach
 
-**Research phase**
+1. **Research phase**
+
 - research on MOOCs and elearning, open source and hacker culture, community informatics
 	- what are useful components for coding the humanities?
 	- which components that are useful for coding the humanities do other platforms lack?
 
-**conceptual phase**
+2. **conceptual phase**
 - from results form phasis one, develop a concept of the coding the humanities learning platform 
 - develop a concept of the integration in a physical lab 
 	- with focus on community building strategies
@@ -142,7 +132,7 @@ In order to make the humanities students more employable
 - develop a concept for the kick-off and fostering of projects
 - develop a concept of potential cooperations (open data projects, SMEs, other universities), e.g. through a forum in which civics 
 
-**roll out**
+3. **roll out**
 - open pilot to coding the humanities students
 - initiate collaborations with other public and private partners
 -  
@@ -151,17 +141,13 @@ In order to make the humanities students more employable
 ##potential long term partners
 [https://cordis.europa.eu/partners/web/milmar](https://cordis.europa.eu/partners/web/milmar)
 kennisland
->>>>>>> d59da83d16750f4f7606e2b661d4ac454c9d8246
 
 ##5. Project duration
 *State the total duration of the project and the intended starting date here. 
 N.B. The project has a minimum duration of 6 months and a maximum duration of 1 year. As stated in the call, the project
 must start within 6 weeks of the grant being awarded.*
 
-<<<<<<< HEAD
-=======
 The project will start 1. May and be rolled out over the period of six month, devided into project phases fo two month each.
->>>>>>> d59da83d16750f4f7606e2b661d4ac454c9d8246
 
 ##6. Disciplines and subdisciplines
 *Choose the main discipline and subdisciplines relevant to your application from the list at [http://nwo.nl/financiering/nwo-disciplinecodes](http://nwo.nl/financiering/nwo-disciplinecodes). In the table below state your main discipline (e.g. music,
@@ -169,20 +155,6 @@ theatre, performing arts and media). Then state the subdisciplines and the assoc
 media studies, code 32.80.00). You can state a maximum of 3 subdisciplines.* 
 
 
-<<<<<<< HEAD
-|Main discipline:    | *Enter your main discipline here*   |                         |
-|--------------------|-------------------------------------|-------------------------|
-|*Subdiscipline*     | *Discipline code*                   |  *Description*          |
-||||
-|Subdiscipline 1     |                                     |                         |
-||||
-|Subdiscipline 2     |                                         |                         |  
-||||
-|Subdiscipline 3     |                                     |                         |  
-||||
-
-
-=======
 |Main discipline:    | Music theater, performing arts and media|                         |
 |--------------------|-------------------------------------|-------------------------|
 |Media Studies	     | 32.80.00                  |  *Description*          |
@@ -194,15 +166,12 @@ media studies, code 32.80.00). You can state a maximum of 3 subdisciplines.*
 
 
 
->>>>>>> d59da83d16750f4f7606e2b661d4ac454c9d8246
 ##7. Fit within Strategic Research and Innovation Agenda
 *State within which of the seven CLICKNL networks your project proposal fits (see Chapter 2). Give reasons why your KIEM
 application fits in this part of the Creative Industry's Strategic Research and Innovation Agenda. You may use a maximum
 of 400 words in this part. Please state the number of words used.*
 
 
-<<<<<<< HEAD
-=======
 The project proposal fits the CLICKNL network Media & ICT as it seeks to enable community processes based on ICT and explores how these
 technologies can be made accessible and integrative.
 
@@ -215,7 +184,6 @@ access projects which can be applied, adapopted and developed further, e.g. work
 platforms such as github will allow to extend these groups beyond the circle of UvA humanities students, to engaged citizens, to other Universities, knowledge institutes and SMEs. 
  
 
->>>>>>> d59da83d16750f4f7606e2b661d4ac454c9d8246
 ##8. Consortium
 
 
@@ -260,22 +228,17 @@ are involved in the project.*
 or methodological experience or of the application possibilities. Explain how the partners involved can benefit from 
 each other. You may use a maximum of 700 words in this part. Please state the number of words used.*
 
-<<<<<<< HEAD
-=======
 The /[company X]/ is experienced in structuring and encouraging group processes via online and offline platforms. Their expertise in the field of software development is supplemented by their insights in community building for open data projects. [company X] provides the experience necessary to design the intend online learning platform in a way that understands (student) group processes and creates a frame works to open their projects for third parties and other students. 
 
 [main applicant]
 
 
->>>>>>> d59da83d16750f4f7606e2b661d4ac454c9d8246
 
 ##9. Reasons for public-private partnership
 *Explain here which question or need from the private partners and/or the knowledge institution makes the formation of a
 PPP worthwhile in light of the main objective of KIEM (see Chapter 2 of the call for proposals). You may use a maximum of
 700 words in this part. Please state the number of words used.*
 
-<<<<<<< HEAD
-=======
 The private partner has an expertise in modes of learning, knowledge tranfers and supporting and fostering resulting project groups.
 The company can probe their expertise in an open environment that challenges the divide between academic, laymen and economic practice.
 It gains insight into the character of digital tools that humanities students in prarticular and knowledge instutions in general need. 
@@ -285,7 +248,6 @@ public and private players. In order to encourage these cooperations, they have 
 
 In the long run the pool of humanities students could be approach by museums and other cultural institutions in order to allow them to work with their data. Moreover students become more employable already get in touch with companies in form of private partners.
 
->>>>>>> d59da83d16750f4f7606e2b661d4ac454c9d8246
 
 ##10. Results
 
@@ -298,11 +260,7 @@ meetings, etc. Please also state when you expect these results to be realised an
 
 | Intended results |  Realised by |Realisation (MM-YYYY)  | 
 |------------------|--------------|-----------------------|
-<<<<<<< HEAD
-|                   |              |                       |
-=======
 |HORIZON 2020 grant| 29. April    |                       |
->>>>>>> d59da83d16750f4f7606e2b661d4ac454c9d8246
 ||||
 |                    |              |                       |
 ||||
@@ -314,15 +272,12 @@ meetings, etc. Please also state when you expect these results to be realised an
 up, consolidating or strengthening of a PPP collaboration within the Creative Industry. You may use a maximum of 700 
 words in this part. Please state the number of words used.*
 
-<<<<<<< HEAD
-=======
 The seminar *Coding the Humanities* already provides humanities students with basic coding skills, teaches them how to use collaborative platforms like github, peer review their work and pursue little coding projects on their own. A pilot of the online learning environment is going to be tested in the summer semester 2014. Apart from that the project *Augmented Masterpieces* explores new forms of interaction with artworks in the museum context in collaboration with the Rijksmuseum Amsterdam. **Center For Creative Industries**  **Center for Digital Humanities** 
 
 These different projects are meant to inform the large scale ambition to create the digital learning environment which will be accompanied by a physical lab. 
 
 This learning environment will produce students with the unique but increasingly necessary skill combination of humanties and coding background. These students therefore are well prepared, e.g. for open data projects in which cultural institutions make their data accessible and benefit from diverse approaches of how to work with this data.
 
->>>>>>> d59da83d16750f4f7606e2b661d4ac454c9d8246
 
 ##11. Project budget
 *Use the table on the grant page to draw up the project budget. Save the table as a PDF file and upload this as a 
