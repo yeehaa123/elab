@@ -1,9 +1,8 @@
-#Creative industry – KIEM Application form 2014
+#Creative industry – KIEM Application form 2015
 
 
 General
 
-<<<<<<< HEAD
 *For the submission of a KIEM project proposal, please use this application form. Fill in this Word document 
 using the information and guidelines from the call for proposals and then upload it as a PDF file in Iris together 
 with the factsheet. Please do not password protect the PDF file as this will hinder the processing of your application. 
@@ -18,7 +17,6 @@ the PDF file as this will hinder the processing of your application.
 Applications should be written in Dutch or English in a standard font
 (minimum 11 pt, with the exception of the literature references for
 which 9 pt is permitted).*
->>>>>>> d59da83d16750f4f7606e2b661d4ac454c9d8246
 
 
 #Factsheet (Iris)
@@ -42,7 +40,7 @@ a place for overlapping
 
 
 ##3. Main applicant 
-<<<<<<< HEAD
+
 *State the name of the main applicant here. NWO recognises just one main applicant. This person will bear overall 
 responsibility for the project. He/she will be responsible for both the research and financial aspects of the project.*
 
@@ -55,7 +53,6 @@ He/she will be responsible for both the research and financial aspects
 of the project.*
 
 dhr. dr. Jan Hein Hoogstad   
->>>>>>> d59da83d16750f4f7606e2b661d4ac454c9d8246
 Assistant Professor Cultural Analysis
 
 Universiteit van Amsterdam  
@@ -67,19 +64,15 @@ J.H.Hoogstad@uva.nl
 T: 0205253882  
 
 ##4. Co-applicants 
-<<<<<<< HEAD
 *State the names of any co-applicants here. A KIEM application may have a maximum of two co-applicants.*
-=======
 
 *State the names of any co-applicants here. A KIEM application may have
 a maximum of two co-applicants.*
->>>>>>> d59da83d16750f4f7606e2b661d4ac454c9d8246
 
 Marijn Koolen / ...
 
 #Project proposal 
 
-<<<<<<< HEAD
 >Wir haben daher bei der Fabrik der Zukunft eher an wissenschaftliche Laboratorien, 
 >Kunstakademien und an Bibliotheken und Diskotheken zu denken als an die gegenwärtigen
 >Fabriken. Und den Apparatmenschen der Zukunft haben wir uns eher als einen Akademiker
@@ -127,7 +120,7 @@ user-centered approach Design Thinking
 *State the total duration of the project and the intended starting date here. 
 N.B. The project has a minimum duration of 6 months and a maximum duration of 1 year. As stated in the call, the project
 must start within 6 weeks of the grant being awarded.*
-=======
+
 >Wir haben daher bei der Fabrik der Zukunft eher an wissenschaftliche
 >Laboratorien, Kunstakademien und an Bibliotheken und Diskotheken zu
 >denken als an die gegenwärtigen Fabriken. Und den Apparatmenschen
@@ -199,7 +192,6 @@ development
 here. N.B. The project has a minimum duration of 6 months and a maximum
 duration of 1 year. As stated in the call, the project must start within
 6 weeks of the grant being awarded.*
->>>>>>> d59da83d16750f4f7606e2b661d4ac454c9d8246
 
 Intended Starting date: May 1st, 2014.
 
@@ -215,11 +207,9 @@ Project runs from May 2014 – February 2015.
 
 
 ##6. Disciplines and subdisciplines
-<<<<<<< HEAD
 *Choose the main discipline and subdisciplines relevant to your application from the list at [http://nwo.nl/financiering/nwo-disciplinecodes](http://nwo.nl/financiering/nwo-disciplinecodes). In the table below state your main discipline (e.g. music,
 theatre, performing arts and media). Then state the subdisciplines and the associated codes in order of importance (e.g. 
 media studies, code 32.80.00). You can state a maximum of 3 subdisciplines.* 
-=======
 
 *Choose the main discipline and subdisciplines
 relevant to your application from the list at
@@ -229,7 +219,6 @@ ing/nwo-disciplinecodes). In the table below state your main discipline
 subdisciplines and the associated codes in order of importance
 (e.g. media studies, code 32.80.00). You can state a maximum of 3
 subdisciplines.*
->>>>>>> d59da83d16750f4f7606e2b661d4ac454c9d8246
 
 
 |Main discipline:    | Music theater, performing arts and media   |                         |
@@ -245,7 +234,6 @@ subdisciplines.*
 
 
 ##7. Fit within Strategic Research and Innovation Agenda
-<<<<<<< HEAD
 *State within which of the seven CLICKNL networks your project proposal fits (see Chapter 2). Give reasons why your KIEM
 application fits in this part of the Creative Industry's Strategic Research and Innovation Agenda. You may use a maximum
 of 400 words in this part. Please state the number of words used.*
@@ -263,7 +251,6 @@ research, alter and develop it further.
 regular academic channels, they may create unique challenges that must be addressed in order for them to succeed."
 
 [Establishing and Managing Independent Laboratories, Institutes and Centers](http://doresearch.stanford.edu/policies/research-policy-handbook/establishing-and-managing-independent-laboratories-institutes-an-0)
-=======
 
 *State within which of the seven CLICKNL networks your project proposal
 fits (see Chapter 2). Give reasons why your KIEM application fits in
@@ -291,8 +278,6 @@ them to succeed."
 [Establishing and Managing Independent Laboratories, Institutes and
 Centers](http://doresearch.stanford.edu/policies/research-policy-handboo
 k/establishing-and-managing-independent-laboratories-institutes-an-0)
->>>>>>> d59da83d16750f4f7606e2b661d4ac454c9d8246
-
 
 ##8. Consortium
 
@@ -343,7 +328,6 @@ are involved in the project.*
 
 
 ###b) Expertise
-<<<<<<< HEAD
 *Describe the expertise of the different partners involved. Think, for example, of the relevant specialised, practical 
 or methodological experience or of the application possibilities. Explain how the partners involved can benefit from 
 each other. You may use a maximum of 700 words in this part. Please state the number of words used.*
@@ -369,7 +353,6 @@ the ethnographic 	tools to ﬁnd out about users’ needs as well as the impleme
 *Explain here which question or need from the private partners and/or the knowledge institution makes the formation of a
 PPP worthwhile in light of the main objective of KIEM (see Chapter 2 of the call for proposals). You may use a maximum of
 700 words in this part. Please state the number of words used.*
-=======
 
 *Describe the expertise of the different partners involved. Think,
 for example, of the relevant specialised, practical or methodological
@@ -408,18 +391,16 @@ the knowledge institution makes the formation of a PPP worthwhile in
 light of the main objective of KIEM (see Chapter 2 of the call for
 proposals). You may use a maximum of 700 words in this part. Please
 state the number of words used.*
->>>>>>> d59da83d16750f4f7606e2b661d4ac454c9d8246
 
 
 ##10. Results
 
 
 ###a) Overview of the result
-<<<<<<< HEAD
+
 *In the table below, please provide an overview of the intended results, such as: concrete plans for a funding 
 application in the framework of one of the larger NWO/TNO/CLICKNL funding rounds, joint project proposals, series of 
 meetings, etc. Please also state when you expect these results to be realised and who will realise the results concerned.*
-=======
 
 *In the table below, please provide an overview of the intended
 results, such as: concrete plans for a funding application in the
@@ -427,8 +408,6 @@ framework of one of the larger NWO/TNO/CLICKNL funding rounds, joint
 project proposals, series of meetings, etc. Please also state when you
 expect these results to be realised and who will realise the results
 concerned.*
->>>>>>> d59da83d16750f4f7606e2b661d4ac454c9d8246
-
 
 | Intended results |  Realised by |Realisation (MM-YYYY)  | 
 |------------------|--------------|-----------------------|
@@ -439,7 +418,6 @@ concerned.*
 |                  |              |                         |
 
 
-<<<<<<< HEAD
 Intended results: The outcome of this project will consist of a written concept that describes the spatial requirements 
 as well as a 3D-model of the future space. For the realization of this concept another funding will be needed.
 
@@ -471,12 +449,9 @@ unit, and how will those resources be obtained and managed? To what
 extent will establishment of the new entity help to attract external
 support? Does the UvA have the expertise and resources for the new
 program to become one of the top centers in the country in its field?
->>>>>>> d59da83d16750f4f7606e2b661d4ac454c9d8246
-
 
 
 ###b) Action plan
-<<<<<<< HEAD
 *Describe how the results will be realised. You should also explain specifically how the results will lead to the setting
 up, consolidating or strengthening of a PPP collaboration within the Creative Industry. You may use a maximum of 700 
 words in this part. Please state the number of words used.*
@@ -485,7 +460,6 @@ words in this part. Please state the number of words used.*
 ##11. Project budget
 *Use the table on the grant page to draw up the project budget. Save the table as a PDF file and upload this as a 
 separate attachment with your application.* 
-=======
 
 *Describe how the results will be realised. You should also explain
 specifically how the results will lead to the setting up, consolidating
@@ -499,7 +473,6 @@ of words used.*
 *Use the table on the grant page to draw up the project budget. Save    
 the table as a PDF file and upload this as a separate attachment with   
 your application.*                                                      
->>>>>>> d59da83d16750f4f7606e2b661d4ac454c9d8246
 
 *In the budget you should state:
 - the human resources requested from NWO for the entire duration of the grant (at least one replacement grant of at least
@@ -516,10 +489,6 @@ remunerates € 15,000 of the total budget per project proposal. The compulsory 
 partner(s) is at least € 3000 and at least € 1500 of this must be in cash. The total project budget is therefore at 
 least € 18,000.*
 
-<<<<<<< HEAD
-=======
-
->>>>>>> d59da83d16750f4f7606e2b661d4ac454c9d8246
 ##12. Public summary
 *Write a public summary of your project in Dutch using no more than 50 words. This should be aimed at a wide public. 
 Give this summary a catching title in Dutch. This public summary can be used by NWO for publicity purposes. Instructions
@@ -527,7 +496,6 @@ and examples can be found at [http://nwo.nl/publiekssamenvatting](http://nwo.nl/
 
 
 ### Integrity
-<<<<<<< HEAD
 By submitting this document the applicant declares that he/she satisfies the nationally and internationally accepted 
 standards for scientific conduct as stated in the Dutch Code of Conduct for Scientific Practice 2012 (Association of 
 Universities in the Netherlands).
@@ -537,4 +505,3 @@ By submitting this document the applicant declares that he/she satisfies
 the nationally and internationally accepted standards for scientific
 conduct as stated in the Dutch Code of Conduct for Scientific Practice
 2012 (Association of Universities in the Netherlands).
->>>>>>> d59da83d16750f4f7606e2b661d4ac454c9d8246
