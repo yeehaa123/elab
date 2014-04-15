@@ -6,11 +6,11 @@
 
 *Please follow the structure of this template when preparing your proposal. It has been designed to ensure that the 
 important aspects of your planned work are presented in a way that will enable the experts to make an effective 
-assessment against the evaluation  criteria. Sections 1, 2 and 3 each correspond to an evaluation criterion for a full 
+assessment against the evaluation criteria. Sections 1, 2 and 3 each correspond to an evaluation criterion for a full 
 proposal.* 
 
 *Page limit: For full proposals, the cover page, and sections 1, 2 and 3, together should not be longer than 50 pages. 
-All tables in these sections must be included within this limit. The minimum font size allowed is 11 points.  The page 
+All tables in these sections must be included within this limit. The minimum font size allowed is 11 points. The page 
 size is A4, and all margins (top, bottom, left, right) should be at least 15 mm (not including any footers or headers).* 
 *If you attempt to upload a proposal longer than the specified limit, before the deadline you will receive an automatic warning, and will be advised to shorten and re-upload the proposal. After the deadline, any excess pages will be overprinted with a ‘watermark’, indicating to evaluators that these pages must be disregarded.*
 
@@ -19,14 +19,14 @@ size is A4, and all margins (top, bottom, left, right) should be at least 15 mm 
 
 #COVER PAGE
 
-**Title of Proposal**
+Title of Proposal: Coding the Humanities (CtH)
 
-**List of participants**
+List of participants: Jan Hein Hoogstad, Marijn Koolen, Sabrina Sauer, Johanna Barnbeck, Thomas Harders
 
 **Participant No** (*Please use the same participant numbering as that used in the administrative proposal forms.*)
-**Participant organisation name**
-**Country**
-**(Coordinator)**
+Participant organisation name: UNiversiteit van Amsterdam
+Country: Netherlands
+Coordinator: Jan Hein Hoogstad
 
 
 ##Table of Contents
@@ -38,18 +38,47 @@ size is A4, and all margins (top, bottom, left, right) should be at least 15 mm 
 
 
 ####1.1 Objectives 
-*Describe the specific objectives for the project1, which should be clear, measurable, realistic and achievable within the duration of the project. Objectives should be consistent with the expected exploitation and impact of the project (see section 2).* 
+*Describe the specific objectives for the project, which should be clear, measurable, realistic and achievable within the duration of the project. Objectives should be consistent with the expected exploitation and impact of the project (see section 2).* 
 
+The project Coding the Humanities seeks to increase the number of humanities students that have programming skills and make them aware of the challenges and opportunities ITC offers for humanities research 
+
+It does so via an online platform that provides the students with the technological foundation to acquire and foster these these skills by themselves and collectively. 
+
+The platform is values openess. The students share their code projects on a distributed repository which encourages re-use, altering and further development. Whereas the premier focus is based on triggering 
+
+CtH collaborates with private and public partners, like universities and museums, that help to explore new forms ot academic teaching and self-learning on the one hand and provide a prcatical demand on the other hand. 
 
 ####1.2 Relation to the work programme 
-
 *Indicate the work programme topic to which your proposal relates, and explain how your proposal addresses the specific challenge and scope of that topic, as set out in the work programme.* 
 
-####1.3 Concept and approach, quality of the coordination and support measures
+In the first place the platform envisioned will address those poeple directely affected by emerging developments of ITC, namely humanities students that will work in fields not only concerned with the interpretation, conservation and collection of cultural heritage, but also in fields to form the understanding of the society we live in: like the media. 
 
+The plat form reaches out to other universities, knowledge institutions and private partners in order to foster a dialoge about new forms of education that not only include ICT but empower a large number of people to shape these technologies. Due to the open licenses used the digital tools developed by the students can be applied and altered also by social institutions, civic movements or the general public. The tutorial and assignents provided on the platform invite  
+
+//Develop and maintain a sustainable platform engaging a large number of key actors,
+stakeholders and communities of practices on how to improve co-creation and delivery of
+digital tools, solutions and services for the modernization of education and training and for the
+employability of young people, as well as for tackling the risk of digital exclusion, and
+thereby socio-economic exclusion.
+The platform should engage - and be open to all - practitioners and stakeholders wishing to
+contribute to decision making processes, agree on objectives and priorities, share experiences,
+policies and practices on the role ICT for better education and training, e-Inclusion and e-
+Accessibility.
+The Commission considers that proposals requesting a contribution from the EU of EUR 1
+million would allow this specific challenge to be addressed appropriately. Nonetheless, this
+does not preclude submission and selection of proposals requesting other amounts.
+Expected impact: The action will generate awareness and impact on a wider participation in
+decision making processes related to the uptake of technologies involved in education,
+training and inclusion.//
+
+
+
+
+####1.3 Concept and approach, quality of the coordination and support measures
 *Describe and explain the overall concept underpinning the project. Describe the main ideas, models or assumptions involved;* 
- 
+
 *Describe any national or international research and innovation activities which will be linked with the project, especially where the outputs from these will feed into the project;*
+//CIRCA// //ADH// //http://www.lifeparticipation.org//
 
 *Describe and explain the overall approach, distinguishing, as appropriate, coordination and support activities;* 
 
@@ -75,13 +104,17 @@ size is A4, and all margins (top, bottom, left, right) should be at least 15 mm 
 
 *Provide a draft ‘plan for disseminating and exploiting the project’s results’ (unless the work programme topic explicitly states that such a plan is not required). The plan, which should be proportionate to the scale of the project, should contain measures to be implemented both during and after the project;*  
 
+//The result will be an increased learning from experience, a boosted transferability of results and, as a consequence, an increased lasting effect of the supported activities//
+//Horizon 2020 plays a central role in the delivery of the Europe 2020 strategy for smart, sustainable and inclusive growth and acts as a vehicle for leveraging private investment, creating new job opportunities//
+//The result will be an increased learning from experience, a boosted transferability of results and, as a consequence, an increased lasting effect of the supported activities.//
+
 *Dissemination and exploitation measures should address the full range of potential users and uses including research, commercial, investment, social, environmental, policy making, setting standards, skills and educational training.* 
 
 *The approach to innovation should be as comprehensive as possible, and must be tailored to the specific technical, market and organisational issues to be addressed.* 
  
 *Explain how the proposed measures will help to achieve the expected impact of the project. Include a business plan where relevant;*
 
-*Where relevant, include information on how the participants will manage the research data generated and/or collected during the project, in particular addressing the following issues2:*
+*Where relevant, include information on how the participants will manage the research data generated and/or collected during the project, in particular addressing the following issues:*
 
 *What types of data will the project generate/collect?*
 
@@ -93,7 +126,7 @@ size is A4, and all margins (top, bottom, left, right) should be at least 15 mm 
 
 *You will need an appropriate consortium agreement to manage (amongst other things) the ownership and access to key knowledge (IPR, data etc.). These will allow you, collectively and individually, to pursue market opportunities arising from the project's results.*  
 
-*Outline the strategy for knowledge management and protection. Include measures to provide open access (free on-line access such as the ‘green’ or ‘gold’ model) to peer-reviewed scientific publications which might result from the project3.*
+*Outline the strategy for knowledge management and protection. Include measures to provide open access (free on-line access such as the ‘green’ or ‘gold’ model) to peer-reviewed scientific publications which might result from the project.*
 
 *Open access publishing (also called 'gold' open access) means that an article is immediately provided in open access mode by the scientific publisher. The associated costs are usually shifted away from readers, and instead (for example) to the university or research institute to which the researcher is affiliated, or to the funding agency supporting the research.* 
 
@@ -127,7 +160,7 @@ Describe the proposed communication measures for promoting the project and its f
 
 *You will be required to include an updated (or confirmed) plan for ‘dissemination and exploitation’ in both the mid-term and final reports. (This does not apply to topics where a draft plan was not required.) This should include a record of activities related to dissemination and exploitation that have been undertaken, and those still planned. A report of completed and planned communication activities will also be required.* 
 
-*If your project is taking part in the Pilot on Open Research Data4, you must include a 'data management plan' as a distinct deliverable within the first 6 months of the project. A template for such a plan is given in the guidelines on data management in the H2020 Online Manual. This deliverable will evolve during the lifetime of the project in order to present the status of the project's reflections on data management.*
+*If your project is taking part in the Pilot on Open Research Data, you must include a 'data management plan' as a distinct deliverable within the first 6 months of the project. A template for such a plan is given in the guidelines on data management in the H2020 Online Manual. This deliverable will evolve during the lifetime of the project in order to present the status of the project's reflections on data management.*
 
 **Definitions:**
 
@@ -136,6 +169,25 @@ Describe the proposed communication measures for promoting the project and its f
 **Deliverable** *means a distinct output of the project, meaningful in terms of the project’s  overall objectives, and constituted by a report, a document, a technical diagram, a software etc.*
 
 **‘Milestones’** *means control points in the project that help to chart progress. Milestones may correspond to the completion of a key deliverable, allowing the next phase of the work to begin. They may also be needed at intermediary points so that, if problems have arisen, corrective measures can be taken. A milestone may be a critical decision point in the project where, for example, the consortium must decide which of several technologies to adopt for further development.*
+
+//Milestones//
+//research about conceptualization of online learning environment **paper** "Requirements to online learning environment for humanities research", "The merits of open source development platforms and methodologies for Humanities Research" 
+-'back end'
+-- which features should be involved?
+-- which features do exists as open (source) programs and platforms (how to integrate them)?
+-- which features have to be developed from scratch or adjusted?
+
+-'interface'
+-- how should the interface be designed to integrate the needed features and platforms? (work with a media designer and UX-experts) 
+
+//development and design of the platform// 
+
+//enrollment to students// **paper** experience and evaluation of the students practical use of the platfrom
+//further development of the platform, integration of the evaluation of student's experience//
+
+//research on on- and offline cooperation// **paper** "The merit of collaboration via github for humanities research" 
+//integartion of a physical space//    
+//communication campaign: events, hackathons, presentations to trigger collaborations with other institutions, SMEs, integrate more students//
 
 
 

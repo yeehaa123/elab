@@ -20,9 +20,9 @@ Code Collaboration
 ##2. Summary 
 *Give a short summary of the project (maximum 250 words).*
 
-The project seeks to explore the structures a platform/lab that works as a link between universities, cultural institutions and creative industries companies has to provide in order to trigger and foster long term collaborations between these parties. It considers platforms and methodologies used in software development, hacker, open data and open source culture.  
+The project seeks to explore the structures of a online platform that functions as a link between universities, cultural institutions and creative industries companies has to provide in order to trigger and foster long term collaborations between these parties. It considers platforms and methodologies used in software development, hacker, open data and open source culture.  
 
-The creative industries, just as other industries, are facing far reaching changes of working processes. Work moves across borders, time zones and out of the office, becomes open, collaborative and flexible. In this development ICT play a crucial role. 
+The creative industries, just as other industries, are facing the challenges and opportunities that accompany the integration of digital technologies into more and more fields and work processes.  
 
 Governments and cultural institutions start to make their data accessible in order to allow third parties to develop tools which provide the basis to analyze, visualize and understand hidden structures. [(cf. opencultuurdata.nl)](http://www.opencultuurdata.nl/) 
 
@@ -49,9 +49,9 @@ responsibility for the project. He/she will be responsible for both the research
 
 **objectives**
 
-The intention of the proposed project is to, together with a private partner, research and conceptualize the parameters for an online learning environment for humanities students that want to learn coding. The design of the platform has to concider the integration of the learning environment into a physical lab. In its very structure it also has to integrate instruments that ease collaboration and engagenent of external parties. 
+The intention of the proposed project is to, together with a private partner, research and conceptualize the parameters for an online learning environment for humanities students that want to learn coding. In its very structure it also has to integrate instruments that ease collaboration and engagenent of external parties. 
 
-The project will proceed in three stages. Stage one is research phase in which the pitfalls and potentials of MOOCS, blended learning, open source collaborations are scrutinized. The second stages focuses on the conceptual design of an online platform that can be linked to a physical lab (cf. KIEM proposal XXX) and due to its open character encourages collaboration with public and private parties. In this phasis also a prototype is created. In the last phases the prototype is made accessible to coding the humanities students and cooperations with other public and private partners are initiated. 
+The project will proceed in three stages. Stage one is research phase in which the pitfalls and potentials of MOOCS, blended learning, open source collaborations are scrutinized. The second stage focuses on the conceptual design of an online platform and due to its open character encourages collaboration with public and private parties. In this phasis also a prototype is created. In the last phases the prototype is made accessible to coding the humanities students and cooperations with other public and private partners are initiated. 
 
 These differt stages serve to prepare for a joint application to the HORIZON 2020 grant *New Froms of Innovation - Platform for ICT for Learning and Inclusion*. 
 
@@ -66,7 +66,7 @@ At the same time universities widely rely on traditional structures of knowledge
 
 Communal organized activist networks take munipilalitys open data and work with it in order to strenghten civic society and to improve local political stuctures and processes. 
 
-Todays digital devices provide great tools in terms of communication, connecting, collaborating, searching, visualizing. Yet, in humanities departments these tools are hardly used. Even digital humanities mainly focus on the development of ITC *for* humanities students not on educating these students in developing those tools themselves.
+Todays digital devices provide great tools in terms of communication, connecting, collaborating, searching, visualizing. Yet, in humanities departments these tools are hardly used. Even digital humanities mainly focus on the development of ICT *for* humanities students not on educating these students in developing those tools themselves.
 Thus our appoach is user centred and focuses on agency. The students learn to alter the digital instruments in their function. The application of open source strategies, like openess, thourough documentation and group learning encourages social integration and aim to provide a better understanding of the degital tools we hold in our hands - not only for humanities students.
 
 At the same time the university has the chance to reconsider its classical form of top down education and open up to new forms of knowledge creating and transfer that is in line with workprocesses in creative industries companies, open data movements.
@@ -108,7 +108,7 @@ hich refers to the use of legal tools (open licenses) that give everyone permiss
 
 you are not aware of the better models developed outside of your organisation
 
-This experimental learning environments that seeks to combine online learing and livng lab challenges the structuresare still dominant in academic exchange of knowledge, however, do not take into account the successful new ways
+This experimental learning environments that seeks to combine online learing challenges the structures that are still dominant in academic exchange of knowledge, however, do not take into account the successful new ways
 to share knowledge and are increasingly adopted by public and private institutions. These ways of working and learning have their origin in
 hacker culture, software development, and the open source movement.
 
@@ -172,8 +172,7 @@ application fits in this part of the Creative Industry's Strategic Research and 
 of 400 words in this part. Please state the number of words used.*
 
 
-The project proposal fits the CLICKNL network Media & ICT as it seeks to enable community processes based on ICT and explores how these
-technologies can be made accessible and integrative.
+The project proposal fits the CLICKNL network Media & ICT as it seeks to enable community processes based on ICT and explores how these technologies can be made accessible and integrative.
 
 On the basis of the online environment developed together with the private partners students become educated in the crossover of humanities and ICT and therefore meet the growing market demand for humanities students with insights in programming. These students will have a good understanding for technical and media developments and their possible translation into humanities research and their integration as according tools in that field.
 

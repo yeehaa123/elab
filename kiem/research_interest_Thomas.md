@@ -132,8 +132,8 @@ strives to not to take the objects in their hands for granted but
 instead tinker with it and find a new function for it. Often hackers
 are autodidacts. Maybe this circumstance lead to a particular ethos
 of sharing knowledge, writing manuals and develop a particular mode
-of cooperation. How is technical knowledge acquired and organized by
-hackers?
+of cooperation. **How is technical knowledge acquired and organized by
+hackers?**
 
 - think of what an object should be able to do instead of following a users guide
 - if resistance is encountered, think of ways to overcome it, on an individually and a collaborative level
