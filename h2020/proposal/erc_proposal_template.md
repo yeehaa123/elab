@@ -378,10 +378,10 @@ Show how you will confirm that the milestone has been attained. Refer to indicat
 - *a  description of any significant infrastructure and/or any major items of technical equipment, relevant to the proposed work;*
 (*any other supporting documents specified in the work programme for this call*)
 
-Dark Horse GmbH & Co KG
-Ritterstraße 12 - 14
-Aufgang 4, Etage 3
-10969 Berlin
+#####Dark Horse GmbH & Co KG  
+Ritterstraße 12 - 14  
+Aufgang 4, Etage 3  
+10969 Berlin  
 
 Lisa Zoth *(add CV or description of the profile and responsibilities in the project)*
 Patrick Kenzler *(add CV or description of the profile and responsibilities in the project)*
@@ -394,11 +394,10 @@ Within the proposed project Dark Horse is going to conduct research on and devel
 
 *a  list of up to 5 relevant publications, and/or products, services (including widely-used datasets or software), or other achievements relevant to the  call content;* 
 *a  list of up to 5 relevant previous projects or activities, connected to the subject of this proposal;*
+projects with big corporation such as Deutsche Bahn, Lufthansa, Telekom and Volkswagen  
+**DH > please provide a description some of your projects (eg moving ideas) in more detail**  
 
--  projects with big corporation such as Deutsche Bahn, Lufthansa, Telekom and Volkswagen 
-**DH > please describe the projects (eg moving ideas) in more detail**  
-
-*a  description of any significant infrastructure and/or any major items of technical equipment, relevant to the proposed work;*
+*a  description of any significant infrastructure and/or any major items of technical equipment, relevant to the proposed work;*  
 **DH > what do you need for your work? white boards etc.**
 
 
