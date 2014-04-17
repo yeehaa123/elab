@@ -40,20 +40,24 @@ Coordinator: Jan Hein Hoogstad
 ####1.1 Objectives 
 *Describe the specific objectives for the project, which should be clear, measurable, realistic and achievable within the duration of the project. Objectives should be consistent with the expected exploitation and impact of the project (see section 2).* 
 
-The project Coding the Humanities seeks to increase the number of humanities students that have programming skills and make them aware of the challenges and opportunities ITC offers for humanities research 
+arguments> numbers, inclusion, universities lose authority over education
 
-It does so via an online platform that provides the students with the technological foundation to acquire and foster these these skills by themselves and collectively. 
+The project Coding the Humanities seeks to increase the number of humanities students that have programming skills which allow them to shape and create digital tools that meet their research needs and encourages new forms of learning. teachning and knowledge production. This skillset will sensitize the students to their technological environment and make them aware of the challenges and opportunities ITC offers for humanities research. 
+   
+This goal is pursued by the conception and development of an online learning platform which is complemented by an according offline space. This approach avoids the mere transfer of offline teaching methods into the online world, like typicall for many MOOCs, but explores what offline collaboration can be informed by startegies applied with online tools and how innovative offline practices can initiate and foster online cooperation.   
 
-The platform is values openess. The students share their code projects on a distributed repository which encourages re-use, altering and further development. Whereas the premier focus is based on triggering 
+The online platform seeks to provide the students with the technological foundations to acquire and foster these skills by themselves and in peer learning based processes, based on tutorials and assigments. 
+
+The platform will embrace open source culture and open licenses. The students share their code projects on a distributed repository which encourages re-use, altering and further development. This platform is therefore open, inclusive and sustainable.
 
 CtH collaborates with private and public partners, like universities and museums, that help to explore new forms ot academic teaching and self-learning on the one hand and provide a prcatical demand on the other hand. 
 
 ####1.2 Relation to the work programme 
 *Indicate the work programme topic to which your proposal relates, and explain how your proposal addresses the specific challenge and scope of that topic, as set out in the work programme.* 
 
-In the first place the platform envisioned will address those poeple directely affected by emerging developments of ITC, namely humanities students that will work in fields not only concerned with the interpretation, conservation and collection of cultural heritage, but also in fields to form the understanding of the society we live in: like the media. 
+In the first place the platform envisioned will enable humanities students to understand and shape ICT. However, CtH intents to train humanities students instead of providing them with guidance and support in the use of prefabricated tools. The knowledge generated will therefore be passed on and distributed via the online platform but also in form of offline workshops. CtH therefore wishes to exceed the boundaries of the humanities and the academic realm by addressing and including also other groups.   
 
-The plat form reaches out to other universities, knowledge institutions and private partners in order to foster a dialoge about new forms of education that not only include ICT but empower a large number of people to shape these technologies. Due to the open licenses used the digital tools developed by the students can be applied and altered also by social institutions, civic movements or the general public. The tutorial and assignents provided on the platform invite  
+The platform hence reaches out to other universities, knowledge institutions and private partners alike in order to initiate a dialoge about new forms of education that not only integrate ICT but empower a large number of people to use and shape these technologies to their specific needs. Due to the open licenses used the digital tools developed by the students can be applied and altered also by social institutions, civic movements or the general public.   
 
 //Develop and maintain a sustainable platform engaging a large number of key actors,
 stakeholders and communities of practices on how to improve co-creation and delivery of
@@ -362,7 +366,7 @@ Show how you will confirm that the milestone has been attained. Refer to indicat
 
 
 
-###4. 	Members of the consortium
+###4: 	Members of the consortium
 
  *This section is not covered by the page limit.*	
  *The information provided here will be used to judge the operational capacity.*
@@ -390,7 +394,7 @@ Dark Horse is an innovation agency based in Berlin which creates user-centered p
 to change their structures, processes and minds. Their work is based on Design Thinking principles and their own unusual working culture that simultaneously stresses ﬂexibility and connections. They design spatial, procedural and social 
 conditions of collaboration in on and offline settings. Guided by their participative design approach, they created spaces and working culture for collaboration in science and creative industry. 		
 
-Within the proposed project Dark Horse is going to conduct research on and advance the development of a conceptual framework and design of a physical space that accompanies and complements the online learning platform. Their user centered approach and the background in anthropology and interior design allows Lisa Zoth and Patrick Kenzler to understand and translate the requirements of such a space into a practical design concept and the acording user culture. They will provide an answer to the crucial question of how online collaboration and innovative pratice can be initiated, accelerated and fostered through an offline setting. Moreover their research will give insights to the students needs that cannot be satisfied merely by the application of ICT but are better addressed with a combination of digital instruments and offline collaboration and training methods.
+Within the proposed project Dark Horse is going to conduct research on and develop of a conceptual framework and design of a physical space that accompanies and complements the online learning platform. Their user centered approach and the background in anthropology and interior designe allows Lisa Zoth and Patrick Kenzler to understand and translate the requirements of such a space into a practical design concept and the according user culture. They will provide an answer to the crucial question of how online collaboration and innovative pratice can be initiated, accelerated and fostered through an offline setting. Moreover their research will give insights to the students needs that cannot be satisfied merely by the application of ICT but are better addressed with a combination of digital instruments and offline collaboration and training methods.
 
 *a  list of up to 5 relevant publications, and/or products, services (including widely-used datasets or software), or other achievements relevant to the  call content;* 
 *a  list of up to 5 relevant previous projects or activities, connected to the subject of this proposal;*
@@ -400,11 +404,6 @@ projects with big corporation such as Deutsche Bahn, Lufthansa, Telekom and Volk
 *a  description of any significant infrastructure and/or any major items of technical equipment, relevant to the proposed work;*  
 **DH > what do you need for your work? white boards etc.**
 
-#####Weyeser
-
-Weyeser is a company specialized in supporting organizations to translate big amounts of data into knowledge by means of data mining, text mining and visualization. Their solutions offer Governments, Governmental Institutions, Universities, Think Tanks and Corporations ways of objectively assessing their knowledge portfolio and that of their peers.
-
-Within this proposed project weyeser will provide expertise concerning the questions of how mere data processing can be transformed into a process of knowledge production. Not only cultural institutions, but organizations, institutions and companies of all fields produce and provide increasing sets of digital data. Weyeser will develop apllications that allows humanities students to compile new perspectives and knowledge from the analysis, correlation and visualization of these data sets. At the same time these tools will make humanities research and concepts more tangible and accessible to an larger audience.  
 
 
 ####4.2.	Third parties involved in the project (including use of third party resources)
