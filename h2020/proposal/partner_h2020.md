@@ -1,4 +1,3 @@
-
 #Partner HORIZON2o2o
 
 ##The Dark Horse (Germany)
@@ -43,17 +42,17 @@ respect but also needs to discuss with Jan Hein if they should be approach for t
 - status: very keen to work with us, however, were mostly focused on expansion through KIEM and erc but not the most 
 natural fit
 
-##3d hubs
+##3d hubs (NL)
 CtH contact: ? (before Filip)
 CtH contact: ?
 status: ?
 notes: pursue further?
 
-##LUSTLAB
+##LUSTLAB (NL)
 - contact CtH: Jan Hein
 - contact LUSTLAB: ?
 - web: http://lustlab.net/
-- status: ?
+- status: willing to work with us (only on the KIEM?)
 
 ##Tropenmuseum Amstedam (NL)
 - contact CtH: Robin
