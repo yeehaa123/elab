@@ -362,7 +362,7 @@ Show how you will confirm that the milestone has been attained. Refer to indicat
 
 
 
-###4: 	Members of the consortium
+###4. 	Members of the consortium
 
  *This section is not covered by the page limit.*	
  *The information provided here will be used to judge the operational capacity.*
@@ -390,7 +390,7 @@ Dark Horse is an innovation agency based in Berlin which creates user-centered p
 to change their structures, processes and minds. Their work is based on Design Thinking principles and their own unusual working culture that simultaneously stresses ﬂexibility and connections. They design spatial, procedural and social 
 conditions of collaboration in on and offline settings. Guided by their participative design approach, they created spaces and working culture for collaboration in science and creative industry. 		
 
-Within the proposed project Dark Horse is going to conduct research on and develop of a conceptual framework and design of a physical space that accompanies and complements the online learning platform. Their user centered approach and the background in anthropology and interior designe allows Lisa Zoth and Patrick Kenzler to understand and translate the requirements of such a space into a practical design concept and the according user culture. They will provide an answer to the crucial question of how online collaboration and innovative pratice can be initiated, accelerated and fostered through an offline setting. Moreover their research will give insights to the students needs that cannot be satisfied merely by the application of ICT but are better addressed with a combination of digital instruments and offline collaboration and training methods.
+Within the proposed project Dark Horse is going to conduct research on and advance the development of a conceptual framework and design of a physical space that accompanies and complements the online learning platform. Their user centered approach and the background in anthropology and interior design allows Lisa Zoth and Patrick Kenzler to understand and translate the requirements of such a space into a practical design concept and the acording user culture. They will provide an answer to the crucial question of how online collaboration and innovative pratice can be initiated, accelerated and fostered through an offline setting. Moreover their research will give insights to the students needs that cannot be satisfied merely by the application of ICT but are better addressed with a combination of digital instruments and offline collaboration and training methods.
 
 *a  list of up to 5 relevant publications, and/or products, services (including widely-used datasets or software), or other achievements relevant to the  call content;* 
 *a  list of up to 5 relevant previous projects or activities, connected to the subject of this proposal;*
@@ -400,6 +400,11 @@ projects with big corporation such as Deutsche Bahn, Lufthansa, Telekom and Volk
 *a  description of any significant infrastructure and/or any major items of technical equipment, relevant to the proposed work;*  
 **DH > what do you need for your work? white boards etc.**
 
+#####Weyeser
+
+Weyeser is a company specialized in supporting organizations to translate big amounts of data into knowledge by means of data mining, text mining and visualization. Their solutions offer Governments, Governmental Institutions, Universities, Think Tanks and Corporations ways of objectively assessing their knowledge portfolio and that of their peers.
+
+Within this proposed project weyeser will provide expertise concerning the questions of how mere data processing can be transformed into a process of knowledge production. Not only cultural institutions, but organizations, institutions and companies of all fields produce and provide increasing sets of digital data. Weyeser will develop apllications that allows humanities students to compile new perspectives and knowledge from the analysis, correlation and visualization of these data sets. At the same time these tools will make humanities research and concepts more tangible and accessible to an larger audience.  
 
 
 ####4.2.	Third parties involved in the project (including use of third party resources)
