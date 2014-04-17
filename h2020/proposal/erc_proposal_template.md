@@ -21,7 +21,7 @@ size is A4, and all margins (top, bottom, left, right) should be at least 15 mm 
 
 Title of Proposal: Coding the Humanities (CtH)
 
-List of participants: Jan Hein Hoogstad, Marijn Koolen, Sabrina Sauer, Johanna Barnbeck, Thomas Harders
+List of participants: Jan Hein Hoogstad, Marijn Koolen, Sabrina Sauer, Robin Boast, Johanna Barnbeck, Thomas Harders
 
 **Participant No** (*Please use the same participant numbering as that used in the administrative proposal forms.*)
 Participant organisation name: UNiversiteit van Amsterdam
@@ -377,6 +377,31 @@ Show how you will confirm that the milestone has been attained. Refer to indicat
 - *a  list of up to 5 relevant previous projects or activities, connected to the subject of this proposal;*
 - *a  description of any significant infrastructure and/or any major items of technical equipment, relevant to the proposed work;*
 (*any other supporting documents specified in the work programme for this call*)
+
+Dark Horse GmbH & Co KG
+Ritterstraße 12 - 14
+Aufgang 4, Etage 3
+10969 Berlin
+
+Lisa Zoth *(add CV or description of the profile and responsibilities in the project)*
+Patrick Kenzler *(add CV or description of the profile and responsibilities in the project)*
+
+Dark Horse is an innovation agency based in Berlin which creates user-centered products and services and helps clients 
+to change their structures, processes and minds. Their work is based on Design Thinking principles and their own unusual working culture that simultaneously stresses ﬂexibility and connections. They design spatial, procedural and social 
+conditions of collaboration in on and offline settings. Guided by their participative design approach, they created spaces and working culture for collaboration in science and creative industry. 		
+
+Within the proposed project Dark Horse is going to conduct research on and develop of a conceptual framework and design of a physical space that accompanies and complements the online learning platform. Their user centered approach and the background in anthropology and interior designe allows Lisa Zoth and Patrick Kenzler to understand and translate the requirements of such a space into a practical design concept and the according user culture. They will provide an answer to the crucial question of how online collaboration and innovative pratice can be initiated, accelerated and fostered through an offline setting. Moreover their research will give insights to the students needs that cannot be satisfied merely by the application of ICT but are better addressed with a combination of digital instruments and offline collaboration and training methods.
+
+*a  list of up to 5 relevant publications, and/or products, services (including widely-used datasets or software), or other achievements relevant to the  call content;* 
+*a  list of up to 5 relevant previous projects or activities, connected to the subject of this proposal;*
+
+-  projects with big corporation such as Deutsche Bahn, Lufthansa, Telekom and Volkswagen 
+**DH > please describe the projects (eg moving ideas) in more detail**  
+
+*a  description of any significant infrastructure and/or any major items of technical equipment, relevant to the proposed work;*
+**DH > what do you need for your work? white boards etc.**
+
+
 
 ####4.2.	Third parties involved in the project (including use of third party resources)
 *Please complete, for each participant, the following table (or simply state “No third parties involved”, if applicable):*
