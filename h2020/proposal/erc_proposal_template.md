@@ -42,7 +42,7 @@ Coordinator: Jan Hein Hoogstad
 
 arguments> numbers, inclusion, universities lose authority over education
 
-The project Coding the Humanities seeks to increase the number of humanities students that have programming skills which allow them to shape and create digital tools that meet their research needs and encourages new forms of learning. teachning and knowledge production. This skillset will sensitize the students to their technological environment and make them aware of the challenges and opportunities ITC offers for humanities research. 
+The project Coding the Humanities seeks to increase the number of humanities students that have programming skills which allow them to shape and create digital tools that meet their particular research needs and encourage new forms of learning. teachning and knowledge production. This skillset will sensitize the students to their technological environment and make them aware of the challenges and opportunities ITC offers for humanities research. The goal is to elevate the processes of tool building to the status of research in the humanities; engaging humanities students and scholars with technology in order to empower them to proactively develop the tools they use and to collaborate with others within and outside academia will stimulate mutually beneficial cooperation between the humanities and other fields, and between academia and non-academia. 
    
 This goal is pursued by the conception and development of an online learning platform which is complemented by an according offline space. This approach avoids the mere transfer of offline teaching methods into the online world, like typicall for many MOOCs, but explores what offline collaboration can be informed by startegies applied with online tools and how innovative offline practices can initiate and foster online cooperation.   
 
@@ -50,7 +50,7 @@ The online platform seeks to provide the students with the technological foundat
 
 The platform will embrace open source culture and open licenses. The students share their code projects on a distributed repository which encourages re-use, altering and further development. This platform is therefore open, inclusive and sustainable.
 
-CtH collaborates with private and public partners, like universities and museums, that help to explore new forms ot academic teaching and self-learning on the one hand and provide a prcatical demand on the other hand. 
+CtH collaborates with private and public partners, like universities and museums, that help to explore new forms of academic teaching and self-learning on the one hand and provide a prcatical demand on the other hand. 
 
 ####1.2 Relation to the work programme 
 *Indicate the work programme topic to which your proposal relates, and explain how your proposal addresses the specific challenge and scope of that topic, as set out in the work programme.* 
@@ -80,13 +80,20 @@ training and inclusion.//
 
 ####1.3 Concept and approach, quality of the coordination and support measures
 *Describe and explain the overall concept underpinning the project. Describe the main ideas, models or assumptions involved;* 
+Most humanities students and scholars know how to use some technologies, but are reluctant to learn new technologies. Not being able to take charge and tweak the technology to one’s own particular needs is similar to being able only to read a language but not write. For full use of the language, and to have it fit your own needs, you must also be able to write. To make full use of technologies, we must be able not just to use them passively, but to create and modify them.
+Main ideas, models / assumptions involved: 
+* assumption that academia and the rest of the world are separate and cannot interact, and the idea that they can work together. More specifically, the idea that humanities students and scholars are separated from technology, and the goal of engaging them with it.
+* models of traditional education being replicated in online formats, and the goal of creating new tools in the context of today’s increasingly interdependent world
+
 
 *Describe any national or international research and innovation activities which will be linked with the project, especially where the outputs from these will feed into the project;*
 //CIRCA// //ADH// //http://www.lifeparticipation.org//
 
 *Describe and explain the overall approach, distinguishing, as appropriate, coordination and support activities;* 
+* The overall approach to this project is to stimulate both self-empowerment and at the same time, collaboration, between those working in the humanities those outside academia. This will be done by offering PhD positions, encouraging embedded research activities, and working together with Human Design companies for fruitful interaction.
 
 *Where relevant, describe how sex and/or gender analysis is taken into account in the project’s content.*
+* Empowering people to use technology, including those who are hesitant or face obstacles to do so, means that we have a specific focus on girls and women, as they often face greater obstacles to accessing technology and education in general.
 
 *Sex and gender refer to biological characteristics and social/cultural factors respectively. For guidance on methods of sex / gender analysis and the issues to be taken into account, please refer to [http://ec.europa.eu/research/science-society/gendered-innovations/index_en.cfm](http://ec.europa.eu/research/science-society/gendered-innovations/index_en.cfm)*
 
