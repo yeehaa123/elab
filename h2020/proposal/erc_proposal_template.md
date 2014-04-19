@@ -1,26 +1,3 @@
-#Proposal template 
-(technical annex)
-
-##Coordination and support actions
-
-
-*Please follow the structure of this template when preparing your proposal. It has been designed to ensure that the 
-important aspects of your planned work are presented in a way that will enable the experts to make an effective 
-assessment against the evaluation criteria. Sections 1, 2 and 3 each correspond to an evaluation criterion for a full 
-proposal.* 
-
-*Page limit: For full proposals, the cover page, and sections 1, 2 and 3, together should not be longer than 50 pages. 
-All tables in these sections must be included within this limit. The minimum font size allowed is 11 points. The page 
-size is A4, and all margins (top, bottom, left, right) should be at least 15 mm (not including any footers or headers).* 
-*If you attempt to upload a proposal longer than the specified limit, before the deadline you will receive an automatic warning, and will be advised to shorten and re-upload the proposal. After the deadline, any excess pages will be overprinted with a ‘watermark’, indicating to evaluators that these pages must be disregarded.*
-
-*Please do not consider the page limit as a target! It is in your interest to keep your text as concise as possible, since experts rarely view unnecessarily long proposals in a positive light.*
-
-
-#COVER PAGE
-
-Title of Proposal: Coding the Humanities (CtH)
-
 List of participants: Jan Hein Hoogstad, Marijn Koolen, Sabrina Sauer, Robin Boast, Johanna Barnbeck, Thomas Harders
 
 **Participant No** (*Please use the same participant numbering as that used in the administrative proposal forms.*)
@@ -42,9 +19,9 @@ Coordinator: Jan Hein Hoogstad
 
 arguments> numbers, inclusion, universities lose authority over education
 
-The project Coding the Humanities seeks to increase the number of humanities students that have programming skills which allow them to shape and create digital tools that meet their particular research needs and encourage new forms of learning. teachning and knowledge production. This skillset will sensitize the students to their technological environment and make them aware of the challenges and opportunities ITC offers for humanities research. The goal is to elevate the processes of tool building to the status of research in the humanities; engaging humanities students and scholars with technology in order to empower them to proactively develop the tools they use and to collaborate with others within and outside academia will stimulate mutually beneficial cooperation between the humanities and other fields, and between academia and non-academia. 
+The project Coding the Humanities seeks to increase the number of humanities students that have programming skills which allow them to shape and create digital tools that meet their particular research needs and encourage new forms of learning, teachning and knowledge production. This skillset will sensitize the students to their technological environment and make them aware of the challenges and opportunities ITC offers for humanities research. The goal is to elevate the processes of tool building to the status of research in the humanities; engaging humanities students and scholars with technology in order to empower them to proactively develop the tools they use and to collaborate with others within and outside academia will stimulate mutually beneficial cooperation between the humanities and other fields, and between academia and non-academia. 
    
-This goal is pursued by the conception and development of an online learning platform which is complemented by an according offline space. This approach avoids the mere transfer of offline teaching methods into the online world, like typicall for many MOOCs, but explores what offline collaboration can be informed by startegies applied with online tools and how innovative offline practices can initiate and foster online cooperation.   
+This goal is pursued by the conception and development of an online learning platform which is complemented by an according offline space. This approach avoids the mere transfer of offline teaching methods into the online world, which is a typical weakness of many MOOCs, but explores what offline collaboration can be informed by startegies applied with online tools and how innovative offline practices can initiate and foster online cooperation.   
 
 The online platform seeks to provide the students with the technological foundations to acquire and foster these skills by themselves and in peer learning based processes, based on tutorials and assigments. 
 
@@ -52,10 +29,15 @@ The platform will embrace open source culture and open licenses. The students sh
 
 CtH collaborates with private and public partners, like universities and museums, that help to explore new forms of academic teaching and self-learning on the one hand and provide a prcatical demand on the other hand. 
 
+Students’ improved skillsets can be measured by what they create with coding, and successes from collaborations with human design companies can be measured by innovations that result from working together.
+
+This is realistic and achievable because …
+
+
 ####1.2 Relation to the work programme 
 *Indicate the work programme topic to which your proposal relates, and explain how your proposal addresses the specific challenge and scope of that topic, as set out in the work programme.* 
 
-In the first place the platform envisioned will enable humanities students to understand and shape ICT. However, CtH intents to train humanities students instead of providing them with guidance and support in the use of prefabricated tools. The knowledge generated will therefore be passed on and distributed via the online platform but also in form of offline workshops. CtH therefore wishes to exceed the boundaries of the humanities and the academic realm by addressing and including also other groups.   
+In the first place the platform envisioned will enable humanities students to understand and shape ICT. However, CtH intends to train humanities students instead of providing them with guidance and support in the use of prefabricated tools. The knowledge generated will therefore be passed on and distributed via the online platform but also in the form of offline workshops. CtH therefore wishes to exceed the boundaries of the humanities and the academic realm by also addressing and including other groups.   
 
 The platform hence reaches out to other universities, knowledge institutions and private partners alike in order to initiate a dialoge about new forms of education that not only integrate ICT but empower a large number of people to use and shape these technologies to their specific needs. Due to the open licenses used the digital tools developed by the students can be applied and altered also by social institutions, civic movements or the general public.   
 
