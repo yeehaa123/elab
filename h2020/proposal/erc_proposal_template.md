@@ -29,7 +29,7 @@ The platform will embrace open source culture and open licenses. The students sh
 
 CtH collaborates with private and public partners, like universities and museums, that help to explore new forms of academic teaching and self-learning on the one hand and provide a prcatical demand on the other hand. 
 
-Students’ improved skillsets can be measured by what they create with coding, and successes from collaborations with human design companies can be measured by innovations that result from working together.
+Students’ improved skillsets can be measured by what they create with coding, and successes from collaborations with human design companies can be measured by innovations that result from working together. We will encourage peer organization and evaluation; students will create methods of evaluating their work.
 
 This is realistic and achievable because …
 
