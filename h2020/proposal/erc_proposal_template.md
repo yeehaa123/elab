@@ -33,7 +33,8 @@ Students’ improved skillsets can be measured by what they create with coding, 
 
 This is realistic and achievable because …
 
-
+very rough notes: adding the missing link that will empower those in the humanities fields to develop technology katered to their research purposes, and understand and shape the technology they use in their research. 
+Funding this venture would be an investment that will reap exponential benefits for individual students, researchers, and business, as well as for the economy as a whole by elevating the level of employability of humanities people, by breaking through the imagined wall between academia and practice to increase the actionability of academics, making academic research directly applicable to business and shifting academics from behind desks to participating in the world of creating new products and services. With their solid education in the humanities, if equipped with these tools, they will become tremendously innovative and productive members of the world outside academia. Finding real links between philosophical thinking and technology is needed at this time in the humanities field. 
 ####1.2 Relation to the work programme 
 *Indicate the work programme topic to which your proposal relates, and explain how your proposal addresses the specific challenge and scope of that topic, as set out in the work programme.* 
 
