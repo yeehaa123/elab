@@ -63,7 +63,10 @@ training and inclusion.//
 
 ####1.3 Concept and approach, quality of the coordination and support measures
 *Describe and explain the overall concept underpinning the project. Describe the main ideas, models or assumptions involved;* 
-Most humanities students and scholars know how to use some technologies, but are reluctant to learn new technologies. Not being able to take charge and tweak the technology to one’s own particular needs is similar to being able only to read a language but not write. For full use of the language, and to have it fit your own needs, you must also be able to write. To make full use of technologies, we must be able not just to use them passively, but to create and modify them.
+Most humanities students and scholars know how to use some technologies, but are reluctant to learn new technologies. As Mitch Resnick has said, not being able to take charge of the technological tools we use to meet our own particular needs is similar to being able only to read a language but not write. For full use of the language, we must also be able to use it to create new structures. To make full use of technologies, we must be able not just to use them passively, but to create and modify them. 
+
+This venture will empower humanities students and scholars to proactively drive their own learning and research. When they engage with technology through coding, they open the doors to master and innovate their own tools.
+
 Main ideas, models / assumptions involved: 
 * assumption that academia and the rest of the world are separate and cannot interact, and the idea that they can work together. More specifically, the idea that humanities students and scholars are separated from technology, and the goal of engaging them with it.
 * models of traditional education being replicated in online formats, and the goal of creating new tools in the context of today’s increasingly interdependent world
