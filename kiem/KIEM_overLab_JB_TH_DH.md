@@ -73,60 +73,12 @@ Marijn Koolen / ...
 
 #Project proposal 
 
->Wir haben daher bei der Fabrik der Zukunft eher an wissenschaftliche Laboratorien, 
->Kunstakademien und an Bibliotheken und Diskotheken zu denken als an die gegenwärtigen
->Fabriken. Und den Apparatmenschen der Zukunft haben wir uns eher als einen Akademiker
->denn als einen Handwerker, Arbeiter oder Ingenieur vorzustellen. 83 (Flusser 2002b: 170)
-
-The recent development towards more interdisciplinary research settings in the humanities, 
-which span not only from one faculty research group to another or between universities but 
-more and more towards involving private partners from the creative industries, changes the 
-requirements of how researchers operate.
-
-The embedded researcher's profile is a short-term research project which seeks to establish 
-sustainable collaborations between the creative industries and universities. 
-
-The work space of the embedded researchers are regular office spaces at the university, 
-supplied with a desk and a computer. The scope of most projects however require a variety 
-of work settings.
-
-When working from a human-centered approach it is crucial to not think of the form of the 
-outcome right away or to be limited to just one medium or technology. But in order to 
-experiment and innovate, a flexible workspace is needed. Artistic expression and creativity 
-do not obey closing hours and bureaucratic sterility of university buildings. 	
-
-Need
-- increasing need of knowledge workers to combine theoretical as well as hands-on approaches 
-in their research
-- current workspaces do not provide enough space and the right material to experiment
-
-Challenge
-How could the ideal workspace for knowledge workers within the faculty of the humanities at 
-the UvA look like?
-How could the working environment be adapted to meet the changed research requirements of 
-knowledge workers at the Departments for Digital Humanities, Media Studies, Cultural Analysis 
-and Artistic Research?
-
-How to
-user-centered approach Design Thinking
-- aims at ﬁnding out about users’s needs via an ethnographic research tools
-- synthesizes, narrows insights down to hit the core of a problem
-- condensed synthesis enables to start into an ideation part
-- generates a broad variety of ideas
-- makes ideas tangible in rapid and rough prototypes, cost-efﬁcient development
-
-
-##5. Project duration
-*State the total duration of the project and the intended starting date here. 
-N.B. The project has a minimum duration of 6 months and a maximum duration of 1 year. As stated in the call, the project
-must start within 6 weeks of the grant being awarded.*
-
->Wir haben daher bei der Fabrik der Zukunft eher an wissenschaftliche
->Laboratorien, Kunstakademien und an Bibliotheken und Diskotheken zu
->denken als an die gegenwärtigen Fabriken. Und den Apparatmenschen
->der Zukunft haben wir uns eher als einen Akademiker denn als einen
->Handwerker, Arbeiter oder Ingenieur vorzustellen. 83 (Flusser 2002b:
->170)
+> Wir haben daher bei der Fabrik der Zukunft eher an wissenschaftliche
+> Laboratorien, Kunstakademien und an Bibliotheken und Diskotheken zu
+> denken als an die gegenwärtigen Fabriken. Und den Apparatmenschen
+> der Zukunft haben wir uns eher als einen Akademiker denn als einen
+> Handwerker, Arbeiter oder Ingenieur vorzustellen. 83 (Flusser 2002b:
+> 170)
 
 
 // Yeehaa: Translate to English Don't start things with generic
