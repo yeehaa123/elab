@@ -75,16 +75,20 @@ This venture will empower humanities students and scholars to proactively drive 
 Main ideas, models / assumptions involved: 
 * assumption that academia and the rest of the world are separate and cannot interact, and the idea that they can work together. More specifically, the idea that humanities students and scholars are separated from technology, and the goal of engaging them with it.
 * models of traditional education being replicated in online formats, and the goal of creating new tools in the context of today’s increasingly interdependent world
+* 
+* We work from a model that favors collaboration over ownership. Rather than competing against one another, we seek to create environments and promote tools that encourage equality in teamwork.
+* Our model favors training rather than support, with the perspective that empowering people to take charge of the tools they use is better than simply assisting them. Also related to the goal of increasing the number of people who know how their tools function, our model emphasises accessible tools over state of the art tools. Accessibility is condusive to a wider group of users and makers, while state of the art tools discourage those who do not consider themselves to be tech-savy.
+* We also favor knowledge production over data processing...
 
 
 *Describe any national or international research and innovation activities which will be linked with the project, especially where the outputs from these will feed into the project;*
 //CIRCA// //ADH// //http://www.lifeparticipation.org//
 
 *Describe and explain the overall approach, distinguishing, as appropriate, coordination and support activities;* 
-* The overall approach to this project is to stimulate both self-empowerment and at the same time, collaboration, between those working in the humanities those outside academia. This will be done by offering PhD positions, encouraging embedded research activities, and working together with Human Design companies for fruitful interaction.
+* The overall approach to this project is to stimulate both self-empowerment and at the same time, collaboration, between those working in the humanities those outside academia. This will be done by offering PhD positions, encouraging embedded research activities, and working together with Human Design companies for fruitful interaction in the physical lab. There is already an extensive amount of coordination between the University of Amsterdam and outside institutions for this project. Productive meetings with several companies have taken place, including Dark Horse.  
 
 *Where relevant, describe how sex and/or gender analysis is taken into account in the project’s content.*
-* Empowering people to use technology, including those who are hesitant or face obstacles to do so, means that we have a specific focus on girls and women, as they often face greater obstacles to accessing technology and education in general.
+* Empowering people to use technology, including those who are hesitant or face obstacles to do so, means that we have a specific focus on girls and women, as they often face greater obstacles to accessing technology and education in general. Raising awareness of this issue, fostering discussion on feminism and coding, and working to create new ways of increasing the participation of girls and women in coding are all essential elements to our project.
 
 *Sex and gender refer to biological characteristics and social/cultural factors respectively. For guidance on methods of sex / gender analysis and the issues to be taken into account, please refer to [http://ec.europa.eu/research/science-society/gendered-innovations/index_en.cfm](http://ec.europa.eu/research/science-society/gendered-innovations/index_en.cfm)*
 
@@ -96,6 +100,8 @@ Main ideas, models / assumptions involved:
 *Please be specific, and provide only information that applies to the proposal and its objectives. Wherever possible, use quantified indicators and targets.*
 
 *Describe how your project will contribute to the expected impacts set out in the work programme, under the relevant topic;*
+
+This project will directly contribute to the expected impacts set out in the work programme.
 
 *Describe any barriers/obstacles, and any framework conditions (such as regulation and standards), that may determine whether and to what extent the expected impacts will be achieved. (This should not include any risk factors concerning implementation, as covered in section 3.2.)* 
 
