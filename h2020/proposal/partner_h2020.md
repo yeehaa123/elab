@@ -24,10 +24,9 @@ institutions from three different EU countries)
 
 ##Weyeser (NL)
 - contact CtH: Sabrina
-- contact W: ?
+- contact W: 
 - web: http://weyeser.com
-- status: are very wiling to work with us, meeting was postponed several times but Sabrina is going to meet them next 
-week?
+- status: JH and Sabrina met and they are on board 
 
 ##UNCINC (NL)
 - contact CtH: Johanna (first contact via Filip)
