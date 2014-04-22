@@ -79,7 +79,7 @@ Main ideas, models / assumptions involved:
 
 
 *Describe any national or international research and innovation activities which will be linked with the project, especially where the outputs from these will feed into the project;*
-//CIRCA// //ADH// //http://www.lifeparticipation.org//
+//YEEHAA: DATA DRIVE // CIRCA// //ADH// //http://www.lifeparticipation.org//
 
 *Describe and explain the overall approach, distinguishing, as appropriate, coordination and support activities;* 
 * The overall approach to this project is to stimulate both self-empowerment and at the same time, collaboration, between those working in the humanities those outside academia. This will be done by offering PhD positions, encouraging embedded research activities, and working together with Human Design companies for fruitful interaction in the physical lab. There is already an extensive amount of coordination between the University of Amsterdam and outside institutions for this project. Productive meetings with several companies have taken place, including Dark Horse.  
