@@ -41,27 +41,18 @@ One element of the project is the physical lab, which creates space for creative
 
 *Indicate the work programme topic to which your proposal relates, and explain how your proposal addresses the specific challenge and scope of that topic, as set out in the work programme.* 
 
-In the first place the platform envisioned will enable humanities students to understand and shape ICT. However, CtH intends to train humanities students instead of providing them with guidance and support in the use of prefabricated tools. The knowledge generated will therefore be passed on and distributed via the online platform but also in the form of offline workshops. CtH therefore wishes to exceed the boundaries of the humanities and the academic realm by also addressing and including other groups.   
 
-The platform hence reaches out to other universities, knowledge institutions and private partners alike in order to initiate a dialoge about new forms of education that not only integrate ICT but empower a large number of people to use and shape these technologies to their specific needs. Due to the open licenses used the digital tools developed by the students can be applied and altered also by social institutions, civic movements or the general public.   
+The project proposed fits the work programm  "Platform for ICT for Learning and Inclusion" as it seeks to initiate a dialoge between university scholars and students, knowledge institutions and private companies about the potential merits of ICT for new forms of teaching, learning, knowledge production and transfer. 
 
-//Develop and maintain a sustainable platform engaging a large number of key actors,
-stakeholders and communities of practices on how to improve co-creation and delivery of
-digital tools, solutions and services for the modernization of education and training and for the
-employability of young people, as well as for tackling the risk of digital exclusion, and
-thereby socio-economic exclusion.
-The platform should engage - and be open to all - practitioners and stakeholders wishing to
-contribute to decision making processes, agree on objectives and priorities, share experiences,
-policies and practices on the role ICT for better education and training, e-Inclusion and e-
-Accessibility.
-The Commission considers that proposals requesting a contribution from the EU of EUR 1
-million would allow this specific challenge to be addressed appropriately. Nonetheless, this
-does not preclude submission and selection of proposals requesting other amounts.
-Expected impact: The action will generate awareness and impact on a wider participation in
-decision making processes related to the uptake of technologies involved in education,
-training and inclusion.//
+For this reason the consortium will conceptualize and develop an online platorm accompanied by an offline space that allow humanities students to acquire coding skills by learning by themselves and in peer groups or in offline workshops and events. This training will empower the students to understand, use and shape their digital tools. 
 
+The members of the consortium combine a broad expertise that allows to explore how ICT can enhance humanities research and education, how these insights can help knowledge institutions to make their heritage more accessible and understandable for a larger public and how these knowledge can inspire SMEs for the development of new products.
 
+While the focus lies on humanities stundents in the first place, the students are trained to train each other instead of merely providing them with guidance abd support in the use of prefabricated tools. The emphasis on openess and accessibility in the choice of the platforms architecture adds to this approach as it encourages the students to pass on their knowledge to peers and share the outcome of their projects. Open licenses allow other students, universities or knowledge institutions to benefit from the knowledge, code and tools accumulated on the platform. These rescources invite others to share, re-use, adapt and to form collaborations based on code.  
+
+The platform hence reaches out to other universities, knowledge institutions and private partners alike in order to initiate a dialoge about new forms of education that not only integrate ICT but empower a large number of people to use and shape these technologies to their specific needs. Due to the open licenses used the digital tools developed by the students can be applied and altered also by social institutions, civic movements or the general public.  
+
+CtH therefore aims to sensitize humanities students and others for the importance of an understanding of ICT that goes beyond a mere users knowledge. Students, institutions, companies and civic organizations should discuss and grasp the opportunities these technologies provide and the impact they have on their everyday life, in order to form an informed community with an sustainable interested in altering and shaping these tools. An educational platfrom dealing with coding is a first effort in that respect.  
 
 
 ####1.3 Concept and approach, quality of the coordination and support measures
@@ -70,23 +61,31 @@ Many humanities students and scholars are reluctant to learn new technologies. A
 
 This venture will empower humanities students and scholars to proactively drive their own learning and research. When they engage with technology through coding, they open the doors to master and innovate their own tools.
 
+ 
 Main ideas, models / assumptions involved: 
-* assumption that academia and the rest of the world are separate and cannot interact, and the idea that they can work together. More specifically, the idea that humanities students and scholars are separated from technology, and the goal of engaging them with it.
-* models of traditional education being replicated in online formats, and the goal of creating new tools in the context of today’s increasingly interdependent world
-* 
-* We work from a model that favors collaboration over ownership. Rather than competing against one another, we seek to create environments and promote tools that encourage equality in teamwork.
-* Our model favors training rather than support, with the perspective that empowering people to take charge of the tools they use is better than simply assisting them. Also related to the goal of increasing the number of people who know how their tools function, our model emphasises accessible tools over state of the art tools. Accessibility is condusive to a wider group of users and makers, while state of the art tools discourage those who do not consider themselves to be tech-savy.
-* We also favor knowledge production over data processing...
+- assumption that academia and the rest of the world are separate and cannot interact, and the idea that they can work together. More specifically, the idea that humanities students and scholars are separated from technology, and the goal of engaging them with it.
+- universities face a loss of authority as models of traditional education being replicated in online formats, and the goal of creating new tools in the context of today’s increasingly interdependent world
+- transfering the classroom into online formats does no justice to the possibilities provided by online tools in terms of peer learning, collaboration, exchange that abandons the dichotomy of experts and layman
+- We thus work from a model that favors collaboration over ownership. Rather than competing against one another, we seek to create environments and promote tools that encourage equality in teamwork.
+- Our model favors training rather than support, with the perspective that empowering people to take charge of the tools they use is better than simply assisting them. Also related to the goal of increasing the number of people who know how their tools function, our model emphasises accessible tools over state of the art tools. Accessibility is condusive to a wider group of users and makers, while state of the art tools discourage those who do not consider themselves to be tech-savy.
+- We also favor knowledge production over data processing...
 
 
 *Describe any national or international research and innovation activities which will be linked with the project, especially where the outputs from these will feed into the project;*
-//YEEHAA: DATA DRIVE // CIRCA// //ADH// //http://www.lifeparticipation.org//
+
+//CIRCA// //ADH// //http://www.lifeparticipation.org// Action 60: Increase participation of women in the ICT workforce
+[https://ec.europa.eu/digital-agenda/en/pillar-vi-enhancing-digital-literacy-skills-and-inclusion/action-60-increase-participation-women-ict](https://ec.europa.eu/digital-agenda/en/pillar-vi-enhancing-digital-literacy-skills-and-inclusion/action-60-increase-participation-women-ict)
+
 
 *Describe and explain the overall approach, distinguishing, as appropriate, coordination and support activities;* 
 * The overall approach to this project is to stimulate both self-empowerment and at the same time, collaboration, between those working in the humanities those outside academia. This will be done by offering PhD positions, encouraging embedded research activities, and working together with Human Design companies for fruitful interaction in the physical lab. There is already an extensive amount of coordination between the University of Amsterdam and outside institutions for this project. Productive meetings with several companies have taken place, including Dark Horse.  
 
 *Where relevant, describe how sex and/or gender analysis is taken into account in the project’s content.*
-* Empowering people to use technology, including those who are hesitant or face obstacles to do so, means that we have a specific focus on girls and women, as they often face greater obstacles to accessing technology and education in general. Raising awareness of this issue, fostering discussion on feminism and coding, and working to create new ways of increasing the participation of girls and women in coding are all essential elements to our project.
+- Empowering people to use technology, including those who are hesitant or face obstacles to do so, means that we have a specific focus on girls and women, as they often face greater obstacles to accessing technology and education in general. Raising awareness of this issue, fostering discussion on feminism and coding, and working to create new ways of increasing the participation of girls and women in coding are all essential elements to our project.
+
+- The number of woman attracted by coding within CtH could be increased by collaborations with initiatives that seek to do the same - increase the number of female coders, like Railsgirls [http://railsgirls.com/](http://railsgirls.com/) or geekettes [http://www.geekettes.io/](http://www.geekettes.io/) in forms of workshops, information evenings in the lab.
+
+A recent EU study shows that only 30% of the people in the ICT sector in Europe are woman, a number that mirrors the low number of woman with a degree in that field. [Digital Agenda: Bringing more women into EU digital sector would bring €9 billion annual GDP boost, EU study shows](http://europa.eu/rapid/press-release_IP-13-905_en.htm) While the same study shows the potential of having more woman working in that field traditional ICT programs fail to attract female students. At the same time female students in the humanities outnumber male students. Thus an approach like CtH holds enormous potential to engage more women in ICT via their research interests. The seminar *Coding the Humanities* at the university of amsterdam has shown that, in combination with tools relevant to their research, woman are as keen as men to engage with coding. 
 
 *Sex and gender refer to biological characteristics and social/cultural factors respectively. For guidance on methods of sex / gender analysis and the issues to be taken into account, please refer to [http://ec.europa.eu/research/science-society/gendered-innovations/index_en.cfm](http://ec.europa.eu/research/science-society/gendered-innovations/index_en.cfm)*
 
@@ -406,6 +405,17 @@ projects with big corporation such as Deutsche Bahn, Lufthansa, Telekom and Volk
 *a  description of any significant infrastructure and/or any major items of technical equipment, relevant to the proposed work;*  
 **DH > what do you need for your work? white boards etc.**
 
+#####Weyeser
+
+Alexandro Mancusi *(add CV or description of the profile and responsibilities in the project)*
+
+Weyeser is a company specialized in supporting organizations to translate big amounts of data into knowledge by means of data mining, text mining and visualization. Their solutions offer Governments, Governmental Institutions, Universities, Think Tanks and Corporations ways of objectively assessing their knowledge portfolio and that of their peers.
+
+Within this proposed project weyeser will provide expertise concerning the questions of how mere data processing can be transformed into a process of knowledge production. Not only cultural institutions, but organizations, institutions and companies of all fields produce and provide increasing sets of digital data. Weyeser will develop applications that allows humanities students to compile new perspectives and knowledge from the analysis, correlation and visualization of these data sets. At the same time these tools will make humanities research and concepts more tangible and accessible to an larger audience. 
+
+*a  list of up to 5 relevant publications, and/or products, services (including widely-used datasets or software), or other achievements relevant to the  call content;* 
+*a  list of up to 5 relevant previous projects or activities, connected to the subject of this proposal;*
+*a  description of any significant infrastructure and/or any major items of technical equipment, relevant to the proposed work;* 
 
 
 ####4.2.	Third parties involved in the project (including use of third party resources)
