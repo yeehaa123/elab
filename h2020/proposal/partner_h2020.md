@@ -1,11 +1,12 @@
 #Partner HORIZON2o2o
 
 ##The Dark Horse (Germany)
-- contact CtH: Jan Hein and Johanna
+- contact CtH: Johanna
 - contact DH: Lisa Zoth
 - web: www.thedarkhorse.de
 - status: confirmed
-- notes: are going to send a min/max budged and a roadmap / agenda (deadline?)
+- notes: are going to send a min/max budget and a roadmap / agenda 
+- deadline 23.04.2014 / Johanna updates proposal when receiving their numbers/planning
 
 ##lifeparticipation (Italy)
 - contact CtH: Jan Hein (via Robin)
@@ -34,6 +35,8 @@ week?
 - web: http://uncinc.nl
 - status: they were very interested in collaborating for a KIEM proposal, Johanna is in contact with them in that 
 respect but also needs to discuss with Jan Hein if they should be approach for the H2020 as well
+
+- Johanna: I have been trying to meet up with them, but it turns out to be difficult. Not sure if we can make this work for H2020. 
 
 ##LIFELY (NL)
 - contact CtH: Jan Hein (before Filip)
