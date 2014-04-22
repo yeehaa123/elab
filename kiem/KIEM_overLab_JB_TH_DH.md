@@ -3,20 +3,7 @@
 
 General
 
-*For the submission of a KIEM project proposal, please use this application form. Fill in this Word document 
-using the information and guidelines from the call for proposals and then upload it as a PDF file in Iris together 
-with the factsheet. Please do not password protect the PDF file as this will hinder the processing of your application. 
-Applications should be written in Dutch or English in a standard font (minimum 11 pt, with the exception of the 
-literature references for which 9 pt is permitted).*
-=======
-*For the submission of a KIEM project proposal, please use this
-application form. Fill in this Word document using the information and
-guidelines from the call for proposals and then upload it as a PDF file
-in Iris together with the factsheet. Please do not password protect
-the PDF file as this will hinder the processing of your application.
-Applications should be written in Dutch or English in a standard font
-(minimum 11 pt, with the exception of the literature references for
-which 9 pt is permitted).*
+*For the submission of a KIEM project proposal, please use this application form. Fill in this Word document using the information and guidelines from the call for proposals and then upload it as a PDF file in Iris together with the factsheet. Please do not password protect the PDF file as this will hinder the processing of your application. Applications should be written in Dutch or English in a standard font (minimum 11 pt, with the exception of the literature references for which 9 pt is permitted).*
 
 
 #Factsheet (Iris)
@@ -92,11 +79,13 @@ problematic, since the role and position of this kind of researcher is
 peripheral by definition. The embedded research usual works on short
 term projects and inbetween the academy and a company.
 
-We believe that a virtual and physical lab is essential to compensate
+<!--- Marijn: leave out "we believe", and explain immediately such a lab is essential and why it needs to be there before and after. --->
+
+A virtual and physical lab is essential to compensate
 for the abovementioned problems. An online and offline platform - that
 already exists before they start, and will start after their contracts
 end - a is a necessary precondition for ER project that are actually
-sustainable. In this project we want to explore how such a lab should
+sustainable. In this project we want to explore what such a lab should
 look like. 
 
 The work space of the embedded researchers are regular office
@@ -109,6 +98,8 @@ one medium or technology. But in order to experiment and innovate, a
 flexible workspace is needed. Artistic expression and creativity do not 
 obey closing hours and bureaucratic sterility of university buildings.  
 
+<!--- Marijn: State why the above is crucial for human-centered work --->
+
 Need
 
 - increasing need of knowledge workers to combine theoretical as well as
@@ -119,11 +110,13 @@ to experiment
 
 Challenge
 
-How could the ideal workspace for knowledge workers within the
+What could the ideal workspace for knowledge workers within the
 faculty of the humanities at the UvA look like? How could the working
 environment be adapted to meet the changed research requirements of
 knowledge workers at the Departments for Digital Humanities, Media
 Studies, Cultural Analysis and Artistic Research?
+
+<!--- Marijn: What are the changed requirements of these workers? Why would a lab meet those needs? --->
 
 How to
 
@@ -137,6 +130,7 @@ research tools
 - makes ideas tangible in rapid and rough prototypes, cost-efﬁcient
 development
 
+<!--- Marijn: explain what Design Thinking is, how it differs from current practices and what experimentation and analysis is needed to find out whether it solves the problem. --->
 
 ##5. Project duration
 
@@ -198,6 +192,8 @@ further development (unless some additional funding allows to proceed)
 Truely sustainable research is OPEN and would mean that a project has releases - at some point (after the official end 
 of the research period) other students, embedded researchers are allowed and encouraged to take the outcome of the 
 research, alter and develop it further. 
+
+<!--- Marijn: this point about opening up projects can be used as argument for an enduring virtual and physical lab --->
 
 "However, because these entities represent exceptions to the principle of organizing our research programs within 
 regular academic channels, they may create unique challenges that must be addressed in order for them to succeed."
