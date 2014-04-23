@@ -172,20 +172,43 @@ Aufgang 4, Etage 3
 
 10969 Berlin
 
-Lisa Zoth **(add CV or description of the profile and responsibilities in the project)**
 
-Patrick Kenzler **(add CV or description of the profile and responsibilities in the project)**
+**Dark Horse** is an innovation agency based in Berlin which creates user-centered products and services and helps clients to change their structures, processes and minds. Their work is based on Design Thinking principles and their own unusual working culture that simultaneously stresses ﬂexibility and connections. They design spatial, procedural and social conditions of collaboration in on- and offline settings. Guided by their participative design approach, they created spaces and working culture for collaboration in science and creative industry.
 
-Dark Horse is an innovation agency based in Berlin which creates user-centered products and services and helps clients to change their structures, processes and minds. Their work is based on Design Thinking principles and their own unusual working culture that simultaneously stresses ﬂexibility and connections. They design spatial, procedural and social conditions of collaboration in on and offline settings. Guided by their participative design approach, they created spaces and working culture for collaboration in science and creative industry.
+Within the proposed project Dark Horse is going to conduct research on and develop a conceptual framework and design for a physical space that accompanies and complements the online learning platform. Their user centered approach and the background in anthropology and interior design allows Lisa Zoth and Patrick Kenzler to understand and translate the requirements of such a space into a practical design concept and the according user culture. They will provide an answer to the crucial question of how online collaboration and innovative practice can be initiated, accelerated and fostered through an offline setting. Moreover their research will provide insights to the students’ needs that cannot be satisfied merely by the application of ICT but are better addressed with a combination of digital instruments and offline collaboration and training methods.
 
-Within the proposed project Dark Horse is going to conduct research on and develop of a conceptual framework and design of a physical space that accompanies and complements the online learning platform. Their user centered approach and the background in anthropology and interior design allows Lisa Zoth and Patrick Kenzler to understand and translate the requirements of such a space into a practical design concept and the according user culture. They will provide an answer to the crucial question of how online collaboration and innovative practice can be initiated, accelerated and fostered through an offline setting. Moreover their research will give insights to the students needs that cannot be satisfied merely by the application of ICT but are better addressed with a combination of digital instruments and offline collaboration and training methods.
+**Lisa Zoth** has a background in political science and anthropology. She has conducted several projects in regard to the implementation of the Design Thinking Methodology and Culture into companies such as SAP or Deutsche Bahn. Her research focus lies on the design of organizational collaboration and implementing innovation processes into traditional structures. Lisa Zoth will in this project be mainly involved in the need finding, synthesis and ideation phase of the project and evaluating the collaboration processes among the embedded researchers. 
 
-- a list of up to 5 relevant publications, and/or products, services (including widely-used datasets or software), or other achievements relevant to the  call content; 
+**Patrick Kenzler** is an architect and interior designer. In his research he focusses on the design of spatial concepts for collaboration. Patrick Kenzler has conceptualized and designed several collaboration spaces such as for the HPI School of Design Thinking or the Humboldt Lab. In this project he will be involved in the needfinding, synthesis and ideation phase and is mainly responsible for the 3D-modeling of the first prototype as well as the furnishing and the fitting-out of the Living Lab.
 
-- a list of up to 5 relevant previous projects or activities, connected to the subject of this proposal; 
 
-- projects with big corporation such as Deutsche Bahn, Lufthansa, Telekom and Volkswagen
-**DH > please provide a description of some of your projects (eg moving ideas) in more detail**
+#### A list of up to 5 relevant publications, and/or products, services (including widely-used datasets or software), or other achievements relevant to the  call content; 
+
+
+
+#### A list of up to 5 relevant previous projects or activities, connected to the subject of this proposal 
+**Note that there are pictures visualising the projects and tools used available**
+
+1. Lufthansa Technik AG: Spaces for collaboration
+Lufthansa Technik AG asked Dark Horse to research the existing working culture at Lufthansa Technik and to develop a spatial concept for collaboration based on these findings.
+Through observation, interviews and participatory workshops all 400 employees were involved in the analysis and conceptual phase. The main focus lied in identifying the opportunities for change whilst preserving other spatial concepts and processes that already worked well in the existing structure.
+Due to the research findings and developed concepts Dark Horse will be further involved in the planning of two new office floors. The interior design of these spaces will offer spatial qualities that enable the collaboration among the employees while at the same time giving space and infrastructure for individual work.
+Dark Horse will undertake a moderating and consulting role towards the employees in enabling them to use the new spaces and implementing a successful working culture.
+
+2. Deutsche Bahn AG: Moving Ideas
+Deutsche Bahn AG is one of the largest transport companies in the world. All suppliers and industrial partners form part of a huge network. The idea was to benefit from this hub of expertise and to turn it into a driver for innovation. Dark Horse got engaged to develop a virtual platform that facilitates the collaboration across all branches.
+Dark Horse developed a browser based platform on which projects can be launched, discussed and worked on. The platform offers users the possibility to get instant and multi-perspective feedback on the current stages of their project. In addition to that the platform serves as the link between the digital and analog world of each project.
+
+3. Out of the Box: Whiteboard
+Working mainly in a physical space with post-it notes and whiteboards Dark Horse itself is in need for specific creativity tools. While existing whiteboards lacked flexibility and usability Dark Horse together with Room in a Box, a company specialized on cardboard furniture, developed a lightweight and user-friendly whiteboard. 
+The board is built out of cardboard and is supplied with four movable disks. By analogy to the first digital data discs, these discs are writeable from both sides and serve as a digital store that can be carried around and taken to the next meeting.
+
+4. SAP AG: Design Thinking & Scrum for innovative projects
+In 2012 the SAP AG started the initiative to implement the Design Thinking Methodology in their company. Dark Horse accompanied SAP Germany and SAP India for more than a year in applying the Design Thinking Methodology to the product development and to create innovative products. Different Scrum-Teams got trained and consulted by Dark Horse in Design Thinking and user-centered design throughout the conceptual and designing phase of their products. The awareness for the users’ need and the implementation of collaborative elements had a noticeable impact on the „innovativeness“ of the products.
+
+5. Audi AG: Ideas Virus
+The Audi AG hired Dark Horse in order to find out about existing innovation hubs within their company. Through interviews and observation Dark Horse identified persons and departments that are key to the innovation processes and product development at Audi. Based on these findings the Audi AG launched a process that aims at designing a concept for collaboration among the employees and thus foster innovation.
+
 
 - a description of any significant infrastructure and/or any major items of technical equipment, relevant to the proposed work;
 **DH > what do you need for your work? white boards etc.**
