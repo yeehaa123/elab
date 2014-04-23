@@ -23,11 +23,11 @@ We seek to do this in two ways. First, by fostering interplay between humanities
 
 PhD projects:
   * Johanna's project with Darkhorse : 2) one (PhD/embedded researcher) that investigates sustainable forms of knowledge transfer and creative and collaborative work practices in combined digital and physical learning environments
-  * research related to the core project, the coding platform -- how to reflect on tools through coding
+  * research related to the core project, the coding platform -- how to reflect on tools through coding, monitoring, conceptualizing, planning, programming the platform
   * Part of the PhDs will be embedded researchers within companies / instutitions
   * 
   
-  
+ 
 1 PhD will be charged with reflecting on tools will evaluate the coding platform over four years, measuring the success and development of the platform.
   
 Work packages: overall structure for projects
@@ -71,12 +71,11 @@ CtH therefore aims to sensitize humanities students and others for the importanc
 
 ####1.3 Concept and approach, quality of the coordination and support measures
 *Describe and explain the overall concept underpinning the project. Describe the main ideas, models or assumptions involved;* 
-Many humanities students and scholars are reluctant to learn new technologies. As Mitch Resnick has said, not being able to take charge of the technological tools we use to meet our own particular needs is similar to being able only to read a language but not write. For full use of the language and to use it to express ourselves, we must also be able to use it to create new structures. To make full use of technologies, we must be able not just to use them passively, but to modify them. 
+Many humanities students and scholars are reluctant to learn new technologies. As Mitch Resnick has said, not being able to take charge of the technological tools we use to meet our own particular needs is similar to being able only to read a language but not write. For full use of the language and to use it to express ourselves, we must also be able to use it to create new structures. To make full use of technologies, we must be able not just to use them passively, but to modify them. This venture will empower humanities students and scholars to proactively drive their own learning and research. When they engage with technology through coding, they open the doors to master and innovate their own tools.
 
-This venture will empower humanities students and scholars to proactively drive their own learning and research. When they engage with technology through coding, they open the doors to master and innovate their own tools.
+models:
 
- 
-Main ideas, models / assumptions involved: 
+assumptions involved: 
 - assumption that academia and the rest of the world are separate and cannot interact, and the idea that they can work together. More specifically, the idea that humanities students and scholars are separated from technology, and the goal of engaging them with it.
 - universities face a loss of authority as models of traditional education being replicated in online formats, and the goal of creating new tools in the context of today’s increasingly interdependent world
 - transfering the classroom into online formats does no justice to the possibilities provided by online tools in terms of peer learning, collaboration, exchange that abandons the dichotomy of experts and layman
@@ -84,6 +83,19 @@ Main ideas, models / assumptions involved:
 - Our model favors training rather than support, with the perspective that empowering people to take charge of the tools they use is better than simply assisting them. Also related to the goal of increasing the number of people who know how their tools function, our model emphasises accessible tools over state of the art tools. Accessibility is condusive to a wider group of users and makers, while state of the art tools discourage those who do not consider themselves to be tech-savy.
 - We also favor knowledge production over data processing...
 
+Troppenmuseum, Europeana: threshhold is too high to learn how to manipulate the technology. They have these amazing collections but need a way to engage more with a concrete audience, make their collection more accessible - inclusion
+
+1) Inclusion: how institutions can gain from this new approach
+   * 1 PhD
+   * coursework on coding
+   * 
+   
+2) Physical Lab
+  * Dark Horse
+  * one PhD (Johanna)
+  
+3) Visualization
+   * Sabrina -- the postdoc
 
 *Describe any national or international research and innovation activities which will be linked with the project, especially where the outputs from these will feed into the project;*
 
