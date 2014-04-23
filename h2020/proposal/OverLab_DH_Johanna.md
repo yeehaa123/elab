@@ -2,8 +2,6 @@
 
 ###Prototyping a physically flexible, interdisciplinary research environment 
 
-tags: design thinking, self-reflexivity, sustainable environment, collaboration, inclusion, amateurism, learning culture, motivation and integreation
-
 ####		OverLab - a place for overlapping
 
 - of theory and artistic practice
@@ -14,10 +12,17 @@ tags: design thinking, self-reflexivity, sustainable environment, collaboration,
 - to create an independent place outside the department structure of the university
 - a room that enables, allows to experiment
 
+*tags: design thinking, self-reflexivity, sustainable environment, collaboration, inclusion, amateurism, learning culture, motivation and integreation*
 
-> Thus, when we think of the factory of the future we should rather think of it as scientific laboratoria, art academies and libraries and discotheques instead of our contemporary factories. And the apparatushuman (Apparatmenschen) of the future we have to imagine as an academic rather than a craftsmen, worker or engineer. (Flusser 2002b: 170)
+
+> Thus, when we think of the factory of the future we should rather think of it as scientific laboratoria, art academies and libraries and discotheques instead of our contemporary factories. And the apparatushuman (Apparatmenschen) of the future we have to imagine as an academic rather than a craftsmen, worker or engineer. *Flusser 2002b: 170*
+
+>However, because these entities represent exceptions to the principle of organizing our research programs within regular academic channels, they may create unique challenges that must be addressed in order for them to succeed.
+*Establishing and Managing Independent Laboratories, Institutes and Centers*
+
 
 Summary of the project
+
 The future of research lies more and more in collaborations between disciplines and fields, between public and private partnerships, practice and theory, between classic methodology and flexible theory, co-creation and collaborations. 
 However, the interdisciplinary researcher enters work spaces which are not built by or for them. Where artists use their atelier, designers their studio and scientists their lab for experimentation, testing and collaboration, the embedded researcher enters a traditional, disciplinary university environment.
 
@@ -26,11 +31,19 @@ The embedded researcher's profile is a short-term research project which seeks t
 
 The interdisciplinary research setting of an embedded researcher in the humanities span not only from one faculty research group to another or between universities but more and more towards involving private partners from the creative industries, thus changes the requirements of how researchers operate.
 
+The work space of the embedded researchers are regular office spaces at the university, supplied with a desk and a computer. The scope of most projects however require a variety of work settings.
+When working from a human-centered approach it is crucial to not think of the form of the outcome right away or to be limited to just one medium or technology. But in order to experiment and innovate, a flexible workspace is needed. Artistic expression and creativity do not obey closing hours and bureaucratic sterility of university buildings.
+
 The first result will be a prototype for a research environment for interdisciplinary short term projects. As a test case functions the embedded research track and their participants at the Center for Digitial Humanities and Creative Industries Research Center at the University of Amsterdam, who describe the challenging, but enabling situation and the potentials of the room for experimentation in order to transfer this knowledge onto other interdisciplinary reserach projects. 
 
+Need
+
+- increasing need of knowledge workers to combine theoretical as well as hands-on approaches in their research
+- current workspaces do not provide enough space and the right material to experiment
 
 
 Challenge
+
 The work space of the embedded researchers are regular office spaces at the university, supplied with a desk and a computer. The scope of most projects however require a variety of work settings.
 When working from a human-centered approach it is crucial to not think of the form of the outcome right away or to be limited to just one medium or technology. But in order to experiment and innovate, a flexible workspace is needed. Artistic expression and creativity do not obey closing hours and bureaucratic sterility of university buildings.
 
@@ -38,28 +51,21 @@ Embedded researcher is a new and exiting role within the university. Its goal is
 
 We believe that a virtual and physical lab is essential to compensate for the abovementioned problems. An online and offline platform - that already exists before they start, and will start after their contracts end - a space is a necessary precondition for ER project that are actually sustainable. In this project we want to explore how such a lab should look like.
 
-Need
-increasing need of knowledge workers to combine theoretical as well as hands-on approaches in their research
-current workspaces do not provide enough space and the right material to experiment
-
-Challenge 
 How could the ideal workspace for knowledge workers within the faculty of the humanities at the UvA look like? How could the working environment be adapted to meet the changed research requirements of knowledge workers at the Departments for Digital Humanities, Media Studies, Cultural Analysis and Artistic Research?
 
-How to user-centered approach Design Thinking
-aims at ﬁnding out about users’s needs via an ethnographic research tools
-synthesizes, narrows insights down to hit the core of a problem
-condensed synthesis enables to start into an ideation part
-generates a broad variety of ideas
-makes ideas tangible in rapid and rough prototypes, cost-efﬁcient development
 
-The work space of the embedded researchers are regular office spaces at the university, supplied with a desk and a computer. The scope of most projects however require a variety of work settings.
-When working from a human-centered approach it is crucial to not think of the form of the outcome right away or to be limited to just one medium or technology. But in order to experiment and innovate, a flexible workspace is needed. Artistic expression and creativity do not obey closing hours and bureaucratic sterility of university buildings.
+How to: user-centered approach Design Thinking
+
+- aims at ﬁnding out about users’s needs via an ethnographic research tools
+- synthesizes, narrows insights down to hit the core of a problem
+- condensed synthesis enables to start into an ideation part
+- generates a broad variety of ideas
+- makes ideas tangible in rapid and rough prototypes, cost-efﬁcient development
+
 
 Future University related research has to be informed by open methodologies. Increasingly funding is spread competitively for small research periods, also in order to foster the collaboration between the public and the private sector, for example in the form of embedded researchers. Even though the emphasis here is on sustainable research, the projects are often closed and presented and not open for further development (unless some additional funding allows to proceed) 
 Truely sustainable research is OPEN and would mean that a project has releases - at some point (after the official end of the research period) other students, embedded researchers are allowed and encouraged to take the outcome of the research, alter and develop it further. At some point (after the official end of the research period) other students, embedded researchers are allowed and encouraged to take the outcome of the research, alter and develop it further.
 
->However, because these entities represent exceptions to the principle of organizing our research programs within regular academic channels, they may create unique challenges that must be addressed in order for them to succeed."
-*Establishing and Managing Independent Laboratories, Institutes and Centers*
 
 Research questions that are being adressed / critical questions to be answered in the proposal:
 
