@@ -1,10 +1,10 @@
-#OverLab – From Living Lab to eLab.
+##OverLab – From Living Lab to eLab.
 
-##Prototyping a physically flexible, interdisciplinary research environment 
+###Prototyping a physically flexible, interdisciplinary research environment 
 
 tags: design thinking, self-reflexivity, sustainable environment, collaboration, inclusion, amateurism, learning culture, motivation and integreation
 
-###		OverLab - a place for overlapping
+####		OverLab - a place for overlapping
 
 - of theory and artistic practice
 - of physical and digital research
