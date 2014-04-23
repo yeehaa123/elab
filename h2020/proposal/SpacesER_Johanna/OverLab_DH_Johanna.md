@@ -35,17 +35,23 @@
 >However, because these entities represent exceptions to the principle of organizing our research programs within regular academic channels, they may create unique challenges that must be addressed in order for them to succeed.
 *Establishing and Managing Independent Laboratories, Institutes and Centers*
 
-Embedded researcher is a new and exiting role within the university. Its goal is to establish sustainable partnerships between private partners and universities. In practice, however, this turns out to be problematic, since the role and position of this kind of researcher is peripheral by definition. The embedded research usual works on short term projects and inbetween the academy and a company.
+Embedded researcher is a new and exiting role within the university. Its goal is to establish sustainable partnerships between private partners and universities. In practice, however, this turns out to be problematic, since the role and position of this kind of researcher is peripheral by definition. The embedded research usual works on short term projects and inbetween the academy and a company which seeks to establish sustainable collaborations between the creative industries and universities.
 Though the future of research lies more and more in collaborations between disciplines and fields, between public and private partnerships, practice and theory, between classic methodology and flexible theory, co-creation and collaborations the interdisciplinary researcher enters work spaces which are not built by or for them and uses methodology and means of exposure which remain in the respective fields. 
 
-Where artists use their atelier, designers their studio and scientists their lab for experimentation, testing and collaboration, the embedded researcher enters a traditional, disciplinary university environment even though they are often expected to address research questions with a strong practical aspect.
+Where artists use their atelier, designers their studio and scientists their lab for experimentation, testing and collaboration, the embedded researcher enters a traditional, disciplinary university environment even though they are often expected to address research questions with a practical and creative research aspect. But artistic expression and creativity do not obey closing hours and bureaucratic sterility of university buildings.
+
 A virtual and physical lab is essential to compensate for the abovementioned problems. An online and offline platform - that already exists before they start, and will start after their contracts end - a space is a necessary precondition for Embedded Research projects that are actually sustainable. In this project we want to explore how such a lab should look like.
 
-Therefore this project seeks to investigate and built upon the combined needs for newly established forms of researchs by means of self-reflective research by the combined skills and expertise of the public and private partner. 
-The embedded researcher's profile is a short-term research project which seeks to establish sustainable collaborations between the creative industries and universities.
+Therefore this project seeks to investigate and built upon the combined needs for newly established forms of researchs by means of self-reflective research by the combined skills and expertise of the public and private partner using design thinking. 
+When working from a human-centered approach it is crucial to not think of the form of the outcome right away or to be limited to just one medium or technology. But in order to experiment and innovate, a flexible workspace is as much needed as a flexible methodological framework which stimulates creating research designs with specific tools. 
 
 
 
+Need
+- increasing need of knowledge workers to combine theoretical as well as hands-on approaches in their research
+- current workspaces do not provide enough space, the right material and technology to experiment
+- methodological framework for researching interdisciplinary methodology
+- best practice for building sustainable public-private-partnerships
 
 
 ###   Introduction
@@ -63,17 +69,8 @@ Innovation practices are not easily dividable in clear-cut categories of top dow
 
 
 
-The interdisciplinary research setting of an embedded researcher in the humanities span not only from one faculty research group to another or between universities but more and more towards involving private partners from the creative industries, thus changes the requirements of how researchers operate.
 
-The work space of the embedded researchers are regular office spaces at the university, supplied with a desk and a computer. The scope of most projects however require a variety of work settings.
-When working from a human-centered approach it is crucial to not think of the form of the outcome right away or to be limited to just one medium or technology. But in order to experiment and innovate, a flexible workspace is needed. Artistic expression and creativity do not obey closing hours and bureaucratic sterility of university buildings.
 
-The first result will be a prototype for a research environment for interdisciplinary short term projects. As a test case functions the embedded research track and their participants at the Center for Digitial Humanities and Creative Industries Research Center at the University of Amsterdam, who describe the challenging, but enabling situation and the potentials of the room for experimentation in order to transfer this knowledge onto other interdisciplinary reserach projects. 
-
-Need
-
-- increasing need of knowledge workers to combine theoretical as well as hands-on approaches in their research
-- current workspaces do not provide enough space and the right material to experiment
 
 
 Challenge
@@ -81,9 +78,8 @@ Challenge
 The work space of the embedded researchers are regular office spaces at the university, supplied with a desk and a computer. The scope of most projects however require a variety of work settings.
 When working from a human-centered approach it is crucial to not think of the form of the outcome right away or to be limited to just one medium or technology. But in order to experiment and innovate, a flexible workspace is needed. Artistic expression and creativity do not obey closing hours and bureaucratic sterility of university buildings.
 
-
-
 How could the ideal workspace for knowledge workers within the faculty of the humanities at the UvA look like? How could the working environment be adapted to meet the changed research requirements of knowledge workers at the Departments for Digital Humanities, Media Studies, Cultural Analysis and Artistic Research?
+How can these physical structures create a sustainable link with an online learning environment? And how can the analogue and digital workspaces best be linked to each other?
 
 
 #### How to: user-centered approach Design Thinking 
@@ -108,9 +104,10 @@ How could the ideal workspace for knowledge workers within the faculty of the hu
 
 ### 3.1 Workplan - 
 #### Workpackage 
-(see pdf Roadmap Dark Horse)
+(see pdf Roadmap Dark Horse on Trello)
 
 #### Deliverables
+
 
 #### Milestones
 
