@@ -24,18 +24,16 @@
 
 
 
-
-
-
 *tags: design thinking, self-reflexivity, sustainable environment, collaboration, inclusion, amateurism, learning culture, motivation and integreation*
+
+
+
+###  Project Overview
 
 > Thus, when we think of the factory of the future we should rather think of it as scientific laboratoria, art academies and libraries and discotheques instead of our contemporary factories. And the apparatushuman (Apparatmenschen) of the future we have to imagine as an academic rather than a craftsmen, worker or engineer. *Flusser 2002b: 170*
 
 >However, because these entities represent exceptions to the principle of organizing our research programs within regular academic channels, they may create unique challenges that must be addressed in order for them to succeed.
 *Establishing and Managing Independent Laboratories, Institutes and Centers*
-
-
-###  Project Overview
 
 Embedded researcher is a new and exiting role within the university. Its goal is to establish sustainable partnerships between private partners and universities. In practice, however, this turns out to be problematic, since the role and position of this kind of researcher is peripheral by definition. The embedded research usual works on short term projects and inbetween the academy and a company.
 Though the future of research lies more and more in collaborations between disciplines and fields, between public and private partnerships, practice and theory, between classic methodology and flexible theory, co-creation and collaborations the interdisciplinary researcher enters work spaces which are not built by or for them and uses methodology and means of exposure which remain in the respective fields. 
