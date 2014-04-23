@@ -1,9 +1,9 @@
-##OverLab – From Living Lab to eLab.
+# Spaces for Embedded Research
 
+## OverLab – From Living Lab to eLab.
 ###Prototyping a physically flexible, interdisciplinary research environment 
 
 ####		OverLab - a place for overlapping
-
 - of theory and artistic practice
 - of physical and digital research
 - of studio, workshop, library
@@ -11,6 +11,16 @@
 - of scholé and ascholía
 - to create an independent place outside the department structure of the university
 - a room that enables, allows to experiment
+
+
+## OverTools - Towards open Methodolgy through refining models of Self-Reflexivity and Self-Analysis. 
+### Analyzing open innovation dynamics in public-private-civic partnerships.
+
+#### OverTools - tools for interdisciplinary research methodology
+- Self-Analysis as a mode of reflection
+- Tools for public-private-civic partnerships geared at realizing innovative ICTs
+- 
+
 
 *tags: design thinking, self-reflexivity, sustainable environment, collaboration, inclusion, amateurism, learning culture, motivation and integreation*
 
@@ -27,6 +37,15 @@ However, the interdisciplinary researcher enters work spaces which are not built
 
 Therefore this project seeks to investigate and built upon the combined needs for newly established forms of researchs by means of self-reflective research by the combined skills and expertise of the public and private partner. 
 The embedded researcher's profile is a short-term research project which seeks to establish sustainable collaborations between the creative industries and universities.
+
+One approach to realize co-creation practices, specifically between public-private-civic partners, is the so-called Living Lab-approach. Living Labs situate ICT development practices in daily life settings to gain insights about unexpected uses of technologies. ICT users, in turn, are not only primarily included in their role of “user”, but also in guises mostly associated with those involved in the design and development process of ICTs. Coupled, the unexpected knowledge ascertained by changing the site of and the people “in” the laboratory is ultimately to lead to the development of more successful innovative ICT products and services. By transforming mundane environments into experimentation areas, interactions – in this case between users and technologies-in-the-making in this environment - become the subject of enquiry for Living Laboratories. “The unexpected” is expected to be found by investigating user-technology interactions. Living Labs can thus be said to adhere to a promise that is not unlike a tagline of a generic blockbuster film, namely to “expect the unexpected”.
+
+But how is the uncovering of the unexpected achieved such co-creative (e)laboratories? Previous insights in the discovery of knowledge in scientific laboratories show how in these controlled environments messy relationships and processes become stabilised and “purified” into “a textual account of nature, and a set of more of less formulaic statements about method” (Law, 2007: 4). Facts are shown to be constructed; Science and Technology Studies scholars such as Latour and Woolgar (1979) trace how sociomaterial interactions in the laboratory become stabilised in accepted facts. Attempting to find unexpected insights in environments that are expressly less controlled and situated in “the living”, suggests that these labs actively seek out open and messy sociomaterial practices in order to find a kind of knowledge “in the wild” (Hutchins, 1995).
+
+While the research area of Living Labs and public-private-civic partnerships is still in its early development, research into open innovation practices in labs that are formed out of public-private-civic partnerships show certain trends pertaining to the inclusion of end users in open innovation practices. For example while these labs may seek to democratize design and development of new ICT products and services, the end user as such is more often than not mainly included as part of the user-centric methodology, not as part of the partnership consortium. This has implications; whereas the promise of democratization and of uncovering unexpected and innovative ideas and practices of end users, locking “the user” into their role of “user” seems to preclude precisely the treatment of this user as an “equal”, providing input during development directly. Users are characterized, for example, as in need of motivation to join in on laboratory activities.
+
+Innovation practices are not easily dividable in clear-cut categories of top down or bottom-up innovation. For example, Daft (1978) observes both processes of top down and bottom-up innovation in organizational innovation. In the same vein, Enkel and colleagues (Enkel, Gassmann, & Chesbrough, 2009) articulate the importance of different flows of knowledge to help establish (open) innovation: outside-in processes, inside-out processes and coupled processes, the latter of which is specifically connected to practices of co-creation. Chesbrough argues that in order to cope with the uncertain success of innovations, companies should open up their innovation processes. Likening the hitherto “traditional” innovation processes of firms to a game of chess, he proposes that in practicing open innovation, companies should instead focus on developing a process for playing poker. This means accepting that successful innovation is very much uncertain and dependent on uncontrollable contextual (in this case market) conditions (Chesbrough, 2004: 25). Be it chess or poker, games start with people who are willing to play. In Living Laboratories, prospective technology users are invited to join the game of open innovation. At the same time, these users are part of the gameplay itself; their inclusion is part of the rulebook. Their actions, ideas and contributions may well be, coupled with the fact that Living Lab-practices are set in a daily life setting, “the uncertain” elements that characterise open innovation in Living Labs. Still, their inclusion is regarded with some ambivalence exactly because of the uncertain outcomes. It is not clear in advance what their contributions will bring to the innovation process.
+
 
 The interdisciplinary research setting of an embedded researcher in the humanities span not only from one faculty research group to another or between universities but more and more towards involving private partners from the creative industries, thus changes the requirements of how researchers operate.
 
@@ -121,8 +140,11 @@ critical questions to be answered in the proposal:
 ### 4.1 Self-Description
 
 Dark Horse GmbH & Co KG
+
 Ritterstraße 12 - 14
+
 Aufgang 4, Etage 3
+
 10969 Berlin
 
 Lisa Zoth (add CV or description of the profile and responsibilities in the project) 
