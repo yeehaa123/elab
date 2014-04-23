@@ -35,7 +35,7 @@
 *Establishing and Managing Independent Laboratories, Institutes and Centers*
 
 
-Project Overview
+###  Project Overview
 
 Embedded researcher is a new and exiting role within the university. Its goal is to establish sustainable partnerships between private partners and universities. In practice, however, this turns out to be problematic, since the role and position of this kind of researcher is peripheral by definition. The embedded research usual works on short term projects and inbetween the academy and a company.
 Though the future of research lies more and more in collaborations between disciplines and fields, between public and private partnerships, practice and theory, between classic methodology and flexible theory, co-creation and collaborations the interdisciplinary researcher enters work spaces which are not built by or for them and uses methodology and means of exposure which remain in the respective fields. 
@@ -50,7 +50,7 @@ The embedded researcher's profile is a short-term research project which seeks t
 
 
 
-Introduction
+###   Introduction
 The importance of user-centricity is a central topic across (scientific) disciplines such as product design, business and marketing studies. The recent avowal that users drive innovation in the time of wikinomics, crowdsourcing and social networking seems to have sparked this interest further, leading to both utopian and dystopian views about what consumers can contribute to innovation practices. At times, access to ICTs is equated with increased democracy, as well as with both social and business innovation. Democratizing design practices would offer technology users even more power to make “a difference” while at the same time providing a way for technology producers to make a product more successful on the market. After all, doesn’t involving the expected future users in the design process of a new ICT product stimulate the creation of a market for said product? At the same time, critical questions are asked about the “revolution” offered by online (web 2.0) technologies. Scholars question the extent to which “the digital revolution” should be equated with a social revolution and call for critical awareness of the socioeconomic implications of trends such as “co-creation” (Van Dijck & Nieborg, 2009); what interests are at play in these practices and how can these be deconstructed?
 
 One approach to realize co-creation practices, specifically between public-private-civic partners, is the so-called Living Lab-approach. Living Labs situate ICT development practices in daily life settings to gain insights about unexpected uses of technologies. ICT users, in turn, are not only primarily included in their role of “user”, but also in guises mostly associated with those involved in the design and development process of ICTs. Coupled, the unexpected knowledge ascertained by changing the site of and the people “in” the laboratory is ultimately to lead to the development of more successful innovative ICT products and services. By transforming mundane environments into experimentation areas, interactions – in this case between users and technologies-in-the-making in this environment - become the subject of enquiry for Living Laboratories. “The unexpected” is expected to be found by investigating user-technology interactions. Living Labs can thus be said to adhere to a promise that is not unlike a tagline of a generic blockbuster film, namely to “expect the unexpected”.
@@ -100,8 +100,9 @@ How could the ideal workspace for knowledge workers within the faculty of the hu
 - makes ideas tangible in rapid and rough prototypes, cost-efﬁcient development
 
 
-Future University related research has to be informed by open methodologies. Increasingly funding is spread competitively for small research periods, also in order to foster the collaboration between the public and the private sector, for example in the form of embedded researchers. Even though the emphasis here is on sustainable research, the projects are often closed and presented and not open for further development (unless some additional funding allows to proceed) 
-Truely sustainable research is OPEN and would mean that a project has releases - at some point (after the official end of the research period) other students, embedded researchers are allowed and encouraged to take the outcome of the research, alter and develop it further. At some point (after the official end of the research period) other students, embedded researchers are allowed and encouraged to take the outcome of the research, alter and develop it further.
+
+
+
 
 
 
@@ -142,9 +143,19 @@ Anpassungen untersucht.
 critical questions to be answered in the proposal:
 
 - How can embedded research projects most effectively be realized when conducted and managed outside of existing organizational units? 
+
+
+
 - What is the likelihood of long-term and active participation in the OverLab structure by faculty and (graduate) students? 
+
+Future University related research has to be informed by open methodologies. Increasingly funding is spread competitively for small research periods, also in order to foster the collaboration between the public and the private sector, for example in the form of embedded researchers. Even though the emphasis here is on sustainable research, the projects are often closed and presented and not open for further development (unless some additional funding allows to proceed) 
+Truely sustainable research is OPEN and would mean that a project has releases - at some point (after the official end of the research period) other students, embedded researchers are allowed and encouraged to take the outcome of the research, alter and develop it further. At some point (after the official end of the research period) other students, embedded researchers are allowed and encouraged to take the outcome of the research, alter and develop it further.
+
 - What impact (positive or negative) will the OverLab have on the participating faculties' home academic department? 
+The impact of OverLab and OverTools on the participating faculties will depend strongly on the attitude towards new forms of research. The potential of the research and learning environment has 
+
 - What resources will be required to support the unit, and how will those resources be obtained and managed? 
+
 - To what extent will establishment of the new entity help to attract external support? 
 
 *Questions adjusted from “Rationale and Impact” for Establishing and Managing Independent Laboratories, Institutes and Centers at the Stanford University.* 
