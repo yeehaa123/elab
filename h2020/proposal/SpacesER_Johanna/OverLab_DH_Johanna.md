@@ -104,7 +104,7 @@ How can these physical structures create a sustainable link with an online learn
 
 ### 3.1 Workplan - 
 #### Workpackage 
-(see pdf Roadmap Dark Horse on Trello)
+(see aditionally: pdf's Roadmap, overview budget and requirements and pictures from testcases from Dark Horse on Trello)
 
 #### Deliverables
 
@@ -159,7 +159,9 @@ The impact of OverLab and OverTools on the participating faculties will depend s
 #####*Describe, where relevant, how effective innovation management will be addressed  in the management structure and work plan; Innovation management is a process which requires an understanding of both market and technical problems, with a goal of successfully implementing appropriate creative ideas. A new or improved product, service or process is its typical output. It also allows a consortium to respond to an external or internal opportunity.*
 
 
-### 4.1 Self-Description
+### 4.1 Self-Description 
+(see aditionally: pdf's Roadmap, overview budget and requirements and pictures from testcases on Trello)
+
 
 Dark Horse GmbH & Co KG
 
@@ -181,7 +183,7 @@ Within the proposed project Dark Horse is going to conduct research on and devel
 
 #### A list of up to 5 relevant publications, and/or products, services (including widely-used datasets or software), or other achievements relevant to the  call content; 
 
-
+//I think that the list below can be split in both relevant products/services and previous projects, but I also asked for additional info on publications and talks, as I know that they were involved in a few incubators at Leuphana University, which is reknown for their innovative research approaches and study programmes//
 
 #### A list of up to 5 relevant previous projects or activities, connected to the subject of this proposal 
 **Note that there are pictures visualising the projects and tools used available**
