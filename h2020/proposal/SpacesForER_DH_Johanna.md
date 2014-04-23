@@ -172,9 +172,9 @@ Aufgang 4, Etage 3
 
 10969 Berlin
 
-Lisa Zoth (add CV or description of the profile and responsibilities in the project) 
+Lisa Zoth **(add CV or description of the profile and responsibilities in the project)**
 
-Patrick Kenzler (add CV or description of the profile and responsibilities in the project)
+Patrick Kenzler **(add CV or description of the profile and responsibilities in the project)**
 
 Dark Horse is an innovation agency based in Berlin which creates user-centered products and services and helps clients to change their structures, processes and minds. Their work is based on Design Thinking principles and their own unusual working culture that simultaneously stresses ﬂexibility and connections. They design spatial, procedural and social conditions of collaboration in on and offline settings. Guided by their participative design approach, they created spaces and working culture for collaboration in science and creative industry.
 
