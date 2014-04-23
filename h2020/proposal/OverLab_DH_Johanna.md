@@ -13,11 +13,11 @@
 - a room that enables, allows to experiment
 
 
-## OverTools - Towards open Methodolgy through refining models of Self-Reflexivity and Self-Analysis. 
+## OverTools - Towards open Methodolgy through refined models of Self-Reflexivity. 
 ### Analyzing open innovation dynamics in public-private-civic partnerships.
 
 #### OverTools - tools for interdisciplinary research methodology
-- Self-Analysis as a mode of reflection
+- Interdisciplinary and social Self-Analysis as a mode of reflection
 - Tools for public-private-civic partnerships geared at realizing innovative ICTs
 - 
 
