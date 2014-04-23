@@ -1,4 +1,4 @@
-## Idead for learning page Coding Humanities
+## Ideas for learning page Coding Humanities
 
 ### Users & Login
 
