@@ -96,6 +96,119 @@ Troppenmuseum, Europeana: threshhold is too high to learn how to manipulate the 
   
 3) Visualization
    * Sabrina -- the postdoc
+   * 
+   
+Approach
+
+This research proposal consists of four integrated research areas in which public-private-civic partnerships (quad-helix) lead to a sharing of expertise and collaborative practices geared at the development of a cutting-edge innovative educational ecosystem that is specific to the (digital) humanities. These research areas are socio-technical in their approach; apart from combining insights from different partners to develop technological solutions (such as an online educational platform), valorize existing and new R&D methodologies (such as design thinking methodologies and embedded research practices) and the translation of data streams and information in intuitive interfaces that make use of visualization, this research proposal seeks to specially gear technological developments and efforts to enhance society by closing the digital divide. By collaborating throughout the project with public, private and civic partners, the project foresees the accumulation of knowledge and a digital skilling of particular hitherto unreached civic groups. 
+
+These efforts should be viewed in line with two overarching developments in contemporary society and in humanities’ research; the move to create smart cities where citizens are digitally empowered and the development of digital humanities. By integrating the digital skilling of citizens with the agenda of the development of digital humanities, the project aims to perform academic research through a digital inclusion methodology/practice. Practically, the envisioned educational platform realizes local engagement, user-focused learning with both an individually-oriented as well as collective component; collaboration and the accumulation of knowledge and skills are key to a successful implementation of the platform. 
+Each of the four research areas anticipates and addresses an upcoming challenge. 
+
+Literary / platform for learning an researcher
+Universities are challenged in their ways of distributing knowledge by an increasing number of massive open online courses (MOOC) and try to follow suit by providing the same techniques to their students. However, this approach transfers the classroom scheme into the online world but fotrifies dichotomies of expert and layman, teacher and student. At the same time, within the classroom scheme MOOCs address big numbers, which goes along with the decrease of education. 
+
+
+Organization / collaboration over ownership
+
+Universities are open up towards other universities, civic movements and companies, so that other groups can benefit from their knowledge.
+This process of opening up can be accelerated by spaces that are situated in between. The living labs show how this can lead to innovation. Spaces for spaces for embedded research
+a place for overlapping , theory and artistic practice , physical and digital research , of studio, workshop, library , of institutions - private and public , an independent place outside the department structure of the university , a room that enables, allows to experiment
+
+Embedded researcher is a new and exiting role within the university. Its goal is to establish sustainable partnerships between private partners and universities. In practice, however, this turns out to be 
+problematic, since the role and position of this kind of researcher is peripheral by definition. The embedded research usual works on short term projects and inbetween the academy and a company. 
+
+<!--- Marijn: leave out "we believe", and explain immediately such a lab is essential and why it needs to be there before and after. ---> 
+ 
+A virtual and physical lab is essential to compensate for the above mentioned problems. An online and offline platform – that already exists before they start, and will start after their contracts 
+end - a is a necessary precondition for ER project that are actually sustainable. In this project we want to explore what such a lab should look like. 
+
+The work space of the embedded researchers are regular office spaces at the university, supplied with a desk and a computer. The scope of most projects however require a variety of work settings. 
+
+When working from a human-centered approach it is crucial to not think of the form of the outcome right away or to be limited to just one medium or technology. But in order to experiment and innovate, a flexible workspace is needed. Artistic expression and creativity do not obey closing hours and bureaucratic sterility of university buildings. 
+
+<!--- Marijn: State why the above is crucial for human-centered work ---> 
+
+Need 
+
+- increasing need of knowledge workers to combine theoretical as well as 
+hands-on approaches in their research 
+
+- current workspaces do not provide enough space and the right material 
+to experiment 
+
+Challenge 
+
+What could the ideal workspace for knowledge workers within the faculty of the humanities at the UvA look like? How could the working environment be adapted to meet the changed research requirements of knowledge workers at the Departments for Digital Humanities, Media Studies, Cultural Analysis and Artistic Research? 
+
+<!--- Marijn: What are the changed requirements of these workers? Why would a lab meet those needs? ---> 
+
+How to 
+
+user-centered approach Design Thinking 
+
+- aims at ﬁnding out about users’s needs via an ethnographic 
+research tools 
+- synthesizes, narrows insights down to hit the core of a problem 
+- condensed synthesis enables to start into an ideation part 
+- generates a broad variety of ideas 
+- makes ideas tangible in rapid and rough prototypes, cost-efﬁcient 
+development 
+
+<!--- Marijn: explain what Design Thinking is, how it differs from current practices and what experimentation and analysis is needed to find out whether it solves the problem. ---> 
+
+Numbers / visusalization
+
+Academia is increasingly confronted with large amounts of data. In order to turn this data into information and into knowledge, scholars and students need tools that allow to structure, search, correlate, analyze but most importantly present and visualize this data. This is also true for working fields related to the humanities: museums, libraries and archives are challenged to make the huge data sets that result from digitalization of the cultural heritage they foster //opencultuur.nl//, accessible and understandable to as many people as possible. Despite the opportunities these  mass resources generated in numerous digitization projects provide, humanities scholars and students are reluctant to exploit these troves.
+
+While digital resources are becoming more visible in the humanities, use of these resources by scholars remains limited. … Digitization projects are bringing texts, data sources, sound, and images to the scholar’s desktop; however, the functions on which research in the humanities depend are neither well understood nor well supported by librarians. (Brockman et al, 2001) / Bradley Text
+
+Also municipals and governments increasingly share their data openly online. The skills to compile graspable information out of big data sets becomes more important on the level of politics and social agency. It allows civic movements but also single citizens to understand political and social processes, identify problems and develop solutions – that might be software based. //gelt project // white house data // open knowledge foundation. 
+
+Visualizations like cartography, timelines, graphs, diagrams or animations thus help to translate data into knowledge by providing a context for different information and a combination of different data sets. This approach can boost humanities research and at the same time it makes humanities concepts and research productive and understandable for a broader audience as the visual translation of the data can inspire the mind to new insights. 
+
+Coding the Humanities trains students to read and handle data streams and shows possible ways to translate these into visualizations. The programming language the students are encouraged to learn first, JavaScript, holds a low threshold for the practical application of code in various fields, visualization being one of them. 
+The students apply the knowledge gained early on by exploring existing JavaScript libraries such as Data Driven Documents [http://d3js.org/](http://d3js.org/). This open source code collection allows the students to understand the translation of data into visualization but also empowers them to pursue little projects from which they can gain new perspectives on the data relevant to their research. These tools enhance the analysis and understanding of complex relations and concepts relevant to humanities research. At the same time data sets become comprehensible and presentable to a broader audience. 
+
+The developed tools can be applied to different data sets. Especially with regard to the above mentioned open data sets provided by more and more cultural institutions and organizations, data visualization tools provide a great foundation for collaborative activities between universities and other institutions. These tools allow to exceed the mode of mere data processing to the actual production of new insights and knowledge.
+
+In this research field we will therefore work with the private partner weyeser with its expertise in supporting organizations to translate big amounts of data into knowledge by means of data mining, text mining and visualization. So far their solutions offer governments, governmental institutions, universities, think tanks and corporations ways of objectively assessing their knowledge portfolio and that of their peers. Within the framework of CtH weyeser will support humanities students in the analysis and visualization of the humanities related data sets relevant to their research.
+
+Moreover, the consortium in this research field will be completed by a public partner, the Tropenmuseum Amsterdam, which will initiate projects that encourage students to work with the datasets related to their collection. In a series of workshops with the private and the public partner the students will learn about the status quo of visualization within the museums context. With their humanities background the students are predestined to comprehend how to turn data into a narrative and how to meet the demands of the visitor. With their coding skills and the support of the private partner, the students will collective conceptualize and develop software solutions for this field but not limited to this field. The outcome of this project will be accessible and free to use by other students, scholars, cultural institutions or civic movements.  
+
+Visualization empowers the students to make the increasing number of large datasets productive for their research. The new perspectives gained also provide arguments and strategies for a larger audience ranging from museums to foundations to civic movements.
+
+
+digital elites / Inclusion
+
+As Chinn and Fairly have shown in their cross country analysis on digital divide (Chinn and Fairly, 2004) there are not only dramatic geographic differences in accessibility to and user skills of ICT but also socio-economic and demographic gaps. There is a large group of children, woman, elderly and economically disadvantaged that are or face to be digitally excluded. 
+
+With regard to the growing impact of ICT not only on economic productivity but also in all other fields, such as the cultural, social and political realm, this exclusion forms a serious thread to societies in terms of equality, inclusion and chances of participation. 
+
+ICT is no longer restricted to tools that enhance communication. With more and more funding for the ambition to create smart cities and through integration of ICT into ever more objects of everyday life like watches, clothes, fridges - a situation coined with the term internet of things - accessibility and digital literacy determine whether a person is included into social and cultural life, is employable and more importantly whether they can participate in decision making processes within the democratic realm. In other words using and comprehending ICT tools is about agency and inclusion. 
+
+As evaluations of the project one laptop per child have shown (Christia et al, 2012), access to ICT does not guaranty an automatic improvement of skills, e.g. in the classical educational subjects like math or reading. Access needs to be accompanied by training and education that allows children and other potentially excluded groups to understand the utility and power of the digital tools they hold in their hands. This training needs to address the intrinsic curiosity that makes kids wonder how things work. Instead of providing kids and other non tech savy groups with digital tools running programs presumably suiting their needs, these groups need to be sensitized to wonder what a program is and how it can be altered, how a specific tool can be modified and adjusted to their specific needs and desires (which might not overlab with those of the tech elite).
+
+This research field will therefore explore the crucial question on how the motivation of a diverse group of people that do not have an affinity for ICT can be addressed, so they understand the challenges and opportunities that ICT holds for their lives and provide them with an sustainable way to acquire an understanding of the technologies that goes beyond a mere knowledge of how to use the gadgets at hand. 
+It seeks to deliver an answer to the question of how we can enable people of all ages and with various socio-economical backgrounds to overcome the reluctance towards their technological surrounding and lower the threshold to engage and develop a sustainable interests in these gadgets. An interest that is driven by a practical motivation strong enough to encourage them to pass on the knowledge gained to others and pursue group based interest driven projects in which this knowledge is applied. 
+
+In this field the level of technical knowledge non tech savy people already have and the possibilities to motivate an engagement with ICT that goes beyond a mere user knowledge will be researched. Based on the tools provided on the learning platform and combined with information events and workshops at the lab space the possible application of coding knowledge to practical fields related to the everyday life of people will trigger their motivation to learn and teach each others in order to solve a concrete problem. In that sense an awareness of the powerful practical impact of coding skills and a better understanding of ICT (economically, socially, culturally, for education and knowledge production) have to be communicated. 
+
+In order to make this tool oriented problem solving approach sustainable, it needs to foster and organize a community that is not only provided with an online peer learning environment but has to accelerated by offline events at which problems to be solve can be negotiated and projects be started and most importantly: people can engage with technology as layman with the fear to fail. 
+
+The outcome will be a set of very practical tools, that address the needs of a wide audience and thus might also advance the interest of a wide audience in tech.
+
+By avoiding the high theoretical threshold typical to academic ICT programs and focusing on the developments of tools that solve small everyday problems. 
+
+ICT has to be related to the interest of students / people – they have to understand how the increasing dominance of ICT in all fields affects them and how they can make these tools productive form their interests.
+
+Conservative computer science or programming programs start on such a high and abstract level, that does not allow people to relate it to their research interest or everyday life. 
+
+- how coding enables them to understand their surroundings and can provide them with agency  
+
+<!--- Marijn: the problem is well explained. Now how are we going to tackle this? A humanities interest in tools, i.e., how they affect us and change things, could be an interesting perspective to address motivation. The interest from a Mediastudies perspective probably speaks more to laymen than the interest from a computer science perspective. So a platform that explains tools from a media perspective but through code could be a better trigger than the boring and abstract computer science MOOCs on offer today. --->
+
+
 
 *Describe any national or international research and innovation activities which will be linked with the project, especially where the outputs from these will feed into the project;*
 
