@@ -14,15 +14,13 @@
 
 *tags: design thinking, self-reflexivity, sustainable environment, collaboration, inclusion, amateurism, learning culture, motivation and integreation*
 
-### 3.1 Workplan (for an overview see pdf Roadmap Dark Horse)
-
 > Thus, when we think of the factory of the future we should rather think of it as scientific laboratoria, art academies and libraries and discotheques instead of our contemporary factories. And the apparatushuman (Apparatmenschen) of the future we have to imagine as an academic rather than a craftsmen, worker or engineer. *Flusser 2002b: 170*
 
 >However, because these entities represent exceptions to the principle of organizing our research programs within regular academic channels, they may create unique challenges that must be addressed in order for them to succeed.
 *Establishing and Managing Independent Laboratories, Institutes and Centers*
 
 
-Summary of the project
+Summary
 
 The future of research lies more and more in collaborations between disciplines and fields, between public and private partnerships, practice and theory, between classic methodology and flexible theory, co-creation and collaborations. 
 However, the interdisciplinary researcher enters work spaces which are not built by or for them. Where artists use their atelier, designers their studio and scientists their lab for experimentation, testing and collaboration, the embedded researcher enters a traditional, disciplinary university environment.
@@ -71,14 +69,60 @@ Future University related research has to be informed by open methodologies. Inc
 Truely sustainable research is OPEN and would mean that a project has releases - at some point (after the official end of the research period) other students, embedded researchers are allowed and encouraged to take the outcome of the research, alter and develop it further. At some point (after the official end of the research period) other students, embedded researchers are allowed and encouraged to take the outcome of the research, alter and develop it further.
 
 
+
+
+
+### 3.1 Workplan - 
+#### Workpackage 
+(see pdf Roadmap Dark Horse)
+
+#### Deliverables
+
+#### Milestones
+
+1. Concept Living Labs/eLab
+Research/ Observe/ Ideate/ 1st test phase of the OverLab
+2. Prototype OverLab
+Prototype/Test 
+3. Concept for curating the OverLab
+4. Curating the OverLab
+5. Self-Reflective Coaching (where necessary)
+
+Zur Unterstützung für die Entwicklung eines E-Labs wird parallel ein physisches
+Forschungsatelier, ein Living Lab aufgebaut. Dieses befasst sich zum einen mit den
+Forschungsprojekten innerhalb des E-Labs und bildet auf der anderen Seite einen Ort, der der
+Kollaboration der Studenten und Forscher untereinander dient.
+Die Embedded Researcher, die als Pilot-Nutzer dieses Ortes fungieren, testen und verändern
+im Living Lab die Schnittstelle zwischen analoger und digitaler Welt und untersuchen die
+konkreten Auswirkungen auf die Kollaboration untereinander. Dies wird anhand
+prototypischer Änderungen im Raum, digitaler Prototypen und kultureller, prozessualer
+Anpassungen untersucht.
+
+
+
+### 3.2 Management structure and procedures 
+
+#####*Describe any critical risks, relating to project implementation, that the stated project’s objectives may not be achieved. Detail any risk mitigation measures. Please provide a table with critical risks identified and mitigating actions (table 3.2b).*
+
+critical questions to be answered in the proposal:
+
+- How can embedded research projects most effectively be realized when conducted and managed outside of existing organizational units? 
+- What is the likelihood of long-term and active participation in the OverLab structure by faculty and (graduate) students? 
+- What impact (positive or negative) will the OverLab have on the participating faculties' home academic department? 
+- What resources will be required to support the unit, and how will those resources be obtained and managed? 
+- To what extent will establishment of the new entity help to attract external support? 
+
+*Questions adjusted from “Rationale and Impact” for Establishing and Managing Independent Laboratories, Institutes and Centers at the Stanford University.* 
+
+
+#####*Describe, where relevant, how effective innovation management will be addressed  in the management structure and work plan; Innovation management is a process which requires an understanding of both market and technical problems, with a goal of successfully implementing appropriate creative ideas. A new or improved product, service or process is its typical output. It also allows a consortium to respond to an external or internal opportunity.*
+
+
 ### 4.1 Self-Description
 
 Dark Horse GmbH & Co KG
-
 Ritterstraße 12 - 14
-
 Aufgang 4, Etage 3
-
 10969 Berlin
 
 Lisa Zoth (add CV or description of the profile and responsibilities in the project) 
@@ -102,14 +146,3 @@ Within the proposed project Dark Horse is going to conduct research on and devel
 
 
 
-
-
-Research questions that are being adressed / critical questions to be answered in the proposal:
-
-- How can embedded research projects most effectively be realized when conducted and managed outside of existing organizational units? 
-- What is the likelihood of long-term and active participation in the OverLab structure by faculty and (graduate) students? 
-- What impact (positive or negative) will the OverLab have on the participating faculties' home academic department? 
-- What resources will be required to support the unit, and how will those resources be obtained and managed? 
-- To what extent will establishment of the new entity help to attract external support? 
-
-*Questions adjusted from “Rationale and Impact” for Establishing and Managing Independent Laboratories, Institutes and Centers at the Stanford University.* 
