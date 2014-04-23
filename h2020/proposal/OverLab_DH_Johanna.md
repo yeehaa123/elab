@@ -14,6 +14,7 @@
 
 *tags: design thinking, self-reflexivity, sustainable environment, collaboration, inclusion, amateurism, learning culture, motivation and integreation*
 
+### 3.1 Workplan (for an overview see pdf Roadmap Dark Horse)
 
 > Thus, when we think of the factory of the future we should rather think of it as scientific laboratoria, art academies and libraries and discotheques instead of our contemporary factories. And the apparatushuman (Apparatmenschen) of the future we have to imagine as an academic rather than a craftsmen, worker or engineer. *Flusser 2002b: 170*
 
@@ -54,7 +55,10 @@ We believe that a virtual and physical lab is essential to compensate for the ab
 How could the ideal workspace for knowledge workers within the faculty of the humanities at the UvA look like? How could the working environment be adapted to meet the changed research requirements of knowledge workers at the Departments for Digital Humanities, Media Studies, Cultural Analysis and Artistic Research?
 
 
-How to: user-centered approach Design Thinking
+#### How to: user-centered approach Design Thinking 
+
+//Johanna: I asked DH to include their visuals of the Design Thinking process, waiting for them to send it. [Here is a preview](http://www.thedarkhorse.de/images/01_prozess.png) //
+![DT DH](http://www.thedarkhorse.de/images/01_prozess.png)
 
 - aims at ﬁnding out about users’s needs via an ethnographic research tools
 - synthesizes, narrows insights down to hit the core of a problem
@@ -66,6 +70,8 @@ How to: user-centered approach Design Thinking
 Future University related research has to be informed by open methodologies. Increasingly funding is spread competitively for small research periods, also in order to foster the collaboration between the public and the private sector, for example in the form of embedded researchers. Even though the emphasis here is on sustainable research, the projects are often closed and presented and not open for further development (unless some additional funding allows to proceed) 
 Truely sustainable research is OPEN and would mean that a project has releases - at some point (after the official end of the research period) other students, embedded researchers are allowed and encouraged to take the outcome of the research, alter and develop it further. At some point (after the official end of the research period) other students, embedded researchers are allowed and encouraged to take the outcome of the research, alter and develop it further.
 
+
+### 4.1
 
 Research questions that are being adressed / critical questions to be answered in the proposal:
 
