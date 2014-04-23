@@ -18,7 +18,7 @@
 
 
 
-####     OverTools - tools for interdisciplinary research methodology
+####     OverTools - tools for interdisciplinary online and offline research methodology
 - Interdisciplinary and social Self-Analysis as a mode of reflection
 - Tools for public-private-civic partnerships geared at realizing innovative ICTs
 
@@ -38,7 +38,7 @@
 Embedded researcher is a new and exiting role within the university. Its goal is to establish sustainable partnerships between private partners and universities. In practice, however, this turns out to be problematic, since the role and position of this kind of researcher is peripheral by definition. The embedded research usual works on short term projects and inbetween the academy and a company.
 Though the future of research lies more and more in collaborations between disciplines and fields, between public and private partnerships, practice and theory, between classic methodology and flexible theory, co-creation and collaborations the interdisciplinary researcher enters work spaces which are not built by or for them and uses methodology and means of exposure which remain in the respective fields. 
 
-Where artists use their atelier, designers their studio and scientists their lab for experimentation, testing and collaboration, the embedded researcher enters a traditional, disciplinary university environment even though they are expected to address research questions which might have a strong practical aspect as well.
+Where artists use their atelier, designers their studio and scientists their lab for experimentation, testing and collaboration, the embedded researcher enters a traditional, disciplinary university environment even though they are often expected to address research questions with a strong practical aspect.
 A virtual and physical lab is essential to compensate for the abovementioned problems. An online and offline platform - that already exists before they start, and will start after their contracts end - a space is a necessary precondition for Embedded Research projects that are actually sustainable. In this project we want to explore how such a lab should look like.
 
 Therefore this project seeks to investigate and built upon the combined needs for newly established forms of researchs by means of self-reflective research by the combined skills and expertise of the public and private partner. 
