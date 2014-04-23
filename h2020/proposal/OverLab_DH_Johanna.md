@@ -16,10 +16,15 @@
 ## OverTools - Towards open Methodolgy through refined models of Self-Reflexivity. 
 ### Analyzing open innovation dynamics in public-private-civic partnerships.
 
-#### OverTools - tools for interdisciplinary research methodology
+
+
+####     OverTools - tools for interdisciplinary research methodology
 - Interdisciplinary and social Self-Analysis as a mode of reflection
 - Tools for public-private-civic partnerships geared at realizing innovative ICTs
-- 
+
+
+
+
 
 
 *tags: design thinking, self-reflexivity, sustainable environment, collaboration, inclusion, amateurism, learning culture, motivation and integreation*
