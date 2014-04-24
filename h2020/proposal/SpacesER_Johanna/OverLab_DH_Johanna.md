@@ -183,7 +183,19 @@ Within the proposed project Dark Horse is going to conduct research on and devel
 
 #### A list of up to 5 relevant publications, and/or products, services (including widely-used datasets or software), or other achievements relevant to the  call content; 
 
-//I think that the list below can be split in both relevant products/services and previous projects, but I also asked for additional info on publications and talks, as I know that they were involved in a few incubators at Leuphana University, which is reknown for their innovative research approaches and study programmes//
+//I think that the list below can be split in both relevant products/services and previous projects//
+
+Here are non-fiction (but not academic) publications:
+
+Book:
+- Dark Horse, The *Thanks God it’s Monday*, Econ Verlag, 09/2014.
+
+Articles:
+- Albers, Ralf; Konrad, Greta; Ott, Manuell 
+"Der Personaler als Designer", In: *Einrichten auf die Zukunft - Personalmagazin*, 04/2014.
+
+- Beinke, Christian "Produktentwicklung neu gedacht", In: Fraunhofer Magazin FUTUR, 3/2013.
+
 
 #### A list of up to 5 relevant previous projects or activities, connected to the subject of this proposal 
 **Note that there are pictures visualising the projects and tools used available**
