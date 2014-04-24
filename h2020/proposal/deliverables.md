@@ -90,7 +90,8 @@ Milestones:
 
 3.8.1
 
-## Visualisation & Interfaces
+
+## Inclusion / Visualisation & Interfaces
 
 Deliverables:
 
@@ -98,22 +99,32 @@ Deliverables:
 
 + 4.2 Open Source Library for Visualizing Humanities Research
 
++ 4.3 Repository with museum related projects open to use and develop further
 
 
 
 Milestones:
 
-+ ...
++ kick-off workshop private and public partners (introduction the CtH platform as foundation for the project)
 
-## Inclusion
++ presentation / workshop for students / researchers National Museum of World Cultures / Europeana representatives
+"Engaging audiences - Interfaces and Visualizations in the museum context"
 
-Deliverables:
++ presentation / workshop for students weyeser "Visualization as means of inclusion"
 
-+ ...
++ presentation / workshop CastYourArt "Video and audio in the museum context"
 
-Milestones:
++ formation of project groups mentored by private partners
 
-+ ...
++ first presentation of the projects / particpants feedback on collaborative working on the platform / the lab
+
++ evaluation / report "Online / offline Inclusion"
+
++ final presentation of projects 
+
++ evaluation / "Including Interfaces"
+
++ coming out: cultural hackathon event inviting the general public to work with the student proposals and the museum datasets
 
 
 ## Documentation of the project:
@@ -126,4 +137,3 @@ Deliverables
 Milestones:
 + Identify the learnings of establishing Coding the Humanities 
 + Document it's complexity by testing adequate media and technology
-+
