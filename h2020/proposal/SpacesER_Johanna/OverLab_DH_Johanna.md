@@ -107,6 +107,7 @@ How can these physical structures create a sustainable link with an online learn
 #### Workpackage No. 3 - (see aditionally: pdf's Roadmap, overview budget and requirements and pictures from testcases from Dark Horse on Trello)
 
 
+**Living Lab to E-Lab**
 Zur Unterstützung für die Entwicklung eines E-Labs wird parallel ein physisches
 Forschungsatelier, ein Living Lab aufgebaut. Dieses befasst sich zum einen mit den
 Forschungsprojekten innerhalb des E-Labs und bildet auf der anderen Seite einen Ort, der der
@@ -117,24 +118,56 @@ konkreten Auswirkungen auf die Kollaboration untereinander. Dies wird anhand
 prototypischer Änderungen im Raum, digitaler Prototypen und kultureller, prozessualer
 Anpassungen untersucht.
 
+**Konzept für Kuration **
+Planung eines einjährigen Programms inklusive verschiedener Veranstaltungen anhand des 
+übergreifenden Themas Kollaboration und Inklusion. Folgende Fragen können dabei 
+maßgebend sein: Wie trifft man sich? Welche Aufgaben hat das Living Lab? Wann verändert 
+man gemeinsame Spielregeln? Wie bindet man Studenten ein? 
+
+Halbjährlich - Projektausstellung/ Party/ Speaker etc. (ähnlich einer Jahresausstellung an 
+Kunsthochschulen) 
+Vierteljährlich - Durchführung von Studentenprojekten 
+Monatlich - Digitaler Salon/ digitaler Workshop/ interne Präsentationen 
+
+**Kuration des Living Labs**
+Durchführung des einjährigen Programms, inklusive 
+- Durchführung der Workshops und Pilot-Veranstaltungen 
+- Iteration der Veranstaltungen und Auswertungen - Begleitung des Living Labs durch interne Workshops 
+- Iteration des Living Labs, gemeinsames Entscheiden basierend auf den Auswertungen: Wo 
+soll verändert werden? Welche Dinge funktionieren und warum? Welche 
+Forschungsschwerpunkte und Bedürfnisse können digital beantwortet werden? 
+- Erarbeitung Schnittstelle zum E-Lab 
+
+**Beratung und Begleitung**
+Zusammenarbeit durch Beratung/Workshop bei relevanten Punkten der Weiterentwicklung 
+des Living Labs
 
 #### Deliverables
 
 3.1 Research - Identify - Ideate. 1st test phase of the OverLab which 
+
 3.2 Concept for a Living Labs/eLab meeting the needs of Coding the Humanities
+
 3.3 Prototype OverLab
+
 3.4 Iteration: Evaluate Results and Prototype/Test 
+
 3.5 Concept for curating the OverLab
+
 3.6 Joint curation of the OverLab with public and private partner
+
 3.7 Conduct a Self-Reflective Toolbox for interdisciplinary researchers
+
 3.8 Conduct a Self-Reflective Toolbox for public-private-partnerships
 
 #### Milestones
 
 3.1.1 Definition of the characteristics of Single Users of the OverLab
+
 3.2.1 Visualisation of the needfinding process
 
 3.3.1 Conclude the first iteration round of Design Thinking
+
 3.3.2 1st prototype OverLab
 
 3.5.1 community building events geared towards coding and exposure (on- and offline) of the OverLab
@@ -203,7 +236,7 @@ Within the proposed project Dark Horse is going to conduct research on and devel
 Here are non-fiction (but not academic) publications:
 
 Book:
-- Dark Horse, The *Thanks God it’s Monday*, Econ Verlag, 09/2014.
+- Dark Horse, The *Thanks God it’s Monday - How we revolutionize work life*, Econ Verlag, 09/2014.
 
 Articles:
 - Albers, Ralf; Konrad, Greta; Ott, Manuell 
