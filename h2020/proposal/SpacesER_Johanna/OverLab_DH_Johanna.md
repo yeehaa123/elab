@@ -251,8 +251,8 @@ http://www.gruenderszene.de/allgemein/lean-organisation
 
 #### Keynote
 
-Europäisches Forum Alpbach 
-Alpbach Perspektiven
+European Forum Alpbach -
+Alpbach Perspectives
 „The future of Europe. A grassroots’ perspective."
 Monika Frech
 Alpbach, August 2013
@@ -324,17 +324,27 @@ Berlin, Juni 2014
 
 #### Teaching at a.o. 
 HPI School of Design Thinking, Potsdam
+
 Universität Witten-Herdecke
+
 Tecnológico de Monterrey, Mexiko
+
 Hochschule Hof
+
 EBC Hamburg Business School
+
 Hochschule Steyr
+
 Hochschule Luzern
+
 Steinbeiss Hochschule
+
 Berlin School for Creative Leadership
+
 Jung von Matt Academy
 
 Universität der Künste
+
 Berlin Summer University of the Arts 2014
 "Channel your Creativity. From Trend and Talent to Business Concept in 4 Days“
 Monika Frech, Dominik Kenzler
@@ -344,9 +354,11 @@ Berlin, Juli 2014
 
 #### Awards
 Kultur- und Kreativpiloten 2010
+
 New Work Award 2013, Platz 3
 
 #### Learning Journey
+
 Die Deutsche Telekom kommt alle zwei Monate hier vorbei und besucht uns mit einer Gruppe von „Nachwuchsführungskräften“, dann gibt es einen Vortrag über unsere Arbeitskultur und Organisation, Design Thinking Übung und ein Gespräch 
 
 
