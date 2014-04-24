@@ -84,7 +84,7 @@ Milestones:
 + ...
 
 
-Documentation of the project:
+## Documentation of the project:
 
 Deliverables
 + built a best practice case 
