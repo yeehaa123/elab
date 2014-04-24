@@ -19,7 +19,7 @@ Coordinator: Jan Hein Hoogstad
 
 The project is about exploring the tools we use and how we use them. The overarching goal is to integrate technology into the humanities and to integrate the humanities into technology. We aim to elevate the processes of tool building to the status of research in the humanities. Engaging these traditionally less-technical students and scholars with technology empowers them to proactively develop their own tools, as well as to more deeply reflect on their use of these tools in their research. Once comfortable doing that, they can collaborate with others within academia and with business and cultural instutitions to make technological innovations that impact a wider audience. As humanities students are disproportionately female, encouraging technology within this faculty will be a concrete step towards evaporating the mindset that technology is naturally dominated by men.
 
-We seek to do this in two ways. First, by fostering interplay between humanities and technology within the humanities faculty. This will be done by introducing programming to humanities students through HOW MANY? WHAT ARE THEY ABOUT SPECIFICIALLY? JAVASCRIPT, FOR EXAMPLE??? new courses on computer programming basics, and by offering three PhD positions related to relationships between humanities and technology. Increasing the number of humanities students and scholars with programming skills through this coding platform will allow them to shape and create digital tools that meet their particular research needs and encourage new forms of learning, teaching and knowledge production. This skillset will sensitize the participants to their technological environment and make them aware of the challenges and opportunities ITC offers for humanities research. Coding knowledge makes those in the humanities more employable because humanities students and scholars will increasingly need to be able to read and write code.
+We seek to do this in two ways. First, by fostering interplay between humanities and technology within the humanities faculty. This will be done by introducing programming to humanities students through new courses //"Coding the Humanities", "From Object to Data", "Art, Science and Technology"// on computer programming basics, and by offering three PhD positions related to relationships between humanities and technology. Increasing the number of humanities students and scholars with programming skills through this coding platform will allow them to shape and create digital tools that meet their particular research needs and encourage new forms of learning, teaching and knowledge production. This skillset will sensitize the participants to their technological environment and make them aware of the challenges and opportunities ITC offers for humanities research. Coding knowledge makes those in the humanities more employable because humanities students and scholars will increasingly need to be able to read and write code.
 
 PhD projects:
   * Johanna's project with Darkhorse : 2) one (PhD/embedded researcher) that investigates sustainable forms of knowledge transfer and creative and collaborative work practices in combined digital and physical learning environments
@@ -28,7 +28,7 @@ PhD projects:
   * 
   
  
-1 PhD will be charged with reflecting on tools will evaluate the coding platform over four years, measuring the success and development of the platform.
+1 PhD charged with reflecting on tools will evaluate the coding platform over four years, measuring the success and development of the platform.
   
 Work packages: overall structure for projects
 - inclusion, interfaces, physical lab. 4th package as the overall package/ phd reflecting on tools
@@ -45,7 +45,7 @@ That is the second element of this project: applying a humanities perspective to
 Measuring results:
 The most basic measurement of the expansion of technology within the humanities faculty will be inclusion—how many people learn coding and provide portfolio projects. These can be measured by the pilot website. They can also be measured by offline events, such as workshops (e.g. the coding sessions), hackathons, information events (data drive) that initiate debate and whose outcomes (in the first two cases) could be traced online in form of coding projects.  Students’ improved skillsets can be measured by first developing an online questionaire to find out which technical devices humanities students already possess, which kind of programs they use in general, which kind of programs for their research and which programming languages they use. From that base, we can measure their newly gained knowledge by what they create with coding. Students will be required to record their findings as they go, and to share them with each other. From there, students can experiment with each others' findings. 
 
-Successes from collaborations with human design companies and museums can be measured first by the number of partnerships that take place. Then, the output of those partnerships can serve as a measurement of success as well, first of all in the new software and modifications that they create. This can be categorized into tools that they create or modify for their won use and tools that can be used by a wider audience. 
+Successes from collaborations with human design companies and museums can be measured first by the number of partnerships that take place. Then, the output of those partnerships can serve as a measurement of success as well, first of all in the new software and modifications that they create. This can be categorized into tools that they create or modify for their own use and tools that can be used by a wider audience. 
 Additionally, output can be publications on subjects such as new forms of education and teaching, the combination of online and offline learning strategies, and how to make the humanities more attractive for collaborations with private partners. We will encourage peer organization and evaluation; students will also contribute to creating methods of evaluating their work.
 
 The objective is realistic and achievable because it addresses the current demand for finding news ways to share resources in the software development community; humanities people are eager to increase their marketability and this is a concrete way to do so. Targeting humanities students to engage with ICT is particularly exciting because it will mean offering technological opportunities to women. An EU study from October 2013 shows that there are still very few girls graduating from ICT programs and the same is true for women working in ICT. The same study claims that more women working in ICT would bring €9 billion annual GDP boost in the digital sector. Humanities students are disproportionately women, and therefore this project will automatically confront and diminish the trend for women to avoid ICT. The research interests based approach could actually make coding quite attractive to female humanities students. Other institutions, such as museums and companies, can also greatly benefit from those in the humanities. Providing a coding platform will link humanities students and researchers to the outside world in tangible ways, and will at the same time allow them to extend their deep thinking to the topic of technology, and more generally to the tools they use rather than the resulting knowledge they obtain.
@@ -97,7 +97,7 @@ Troppenmuseum, Europeana: threshhold is too high to learn how to manipulate the 
 3) Visualization
    * Sabrina -- the postdoc
    * 
-
+   
 #####Approach
 
 This research proposal consists of four integrated research areas in which public-private-civic partnerships (quad-helix) lead to a sharing of expertise and collaborative practices geared at the development of a cutting-edge innovative educational ecosystem that is specific to the (digital) humanities. These research areas are socio-technical in their approach; apart from combining insights from different partners to develop technological solutions (such as an online educational platform), valorize existing and new R&D methodologies (such as design thinking methodologies and embedded research practices) and the translation of data streams and information in intuitive interfaces that make use of visualization, this research proposal seeks to specially gear technological developments and efforts to enhance society by closing the digital divide. By collaborating throughout the project with public, private and civic partners, the project foresees the accumulation of knowledge and a digital skilling of particular hitherto unreached civic groups. 
@@ -143,25 +143,21 @@ In this research field we work with the Dutch company weyeser with its expertise
 
 Weyesers expertise with visialisations and interfaces is accompanied by Austrian company CastYourArt which is focused on consulting, production and online/offline distribution of audio and video material in which they present artists, exhibitions and collectors and take art out of the museum context.
 
-The public partners research institut with five Dutch museums attached Royal Tropical Institute and Europeana the network of european 
-As a public partner we got the Europeana network interested in working with us in this research field.
-
-So the Royal Tropical Institute would be a wonderful fit to complete this consortium.
-
-
-//Europeana would provide us with API access, advice and critique from an institutionalised repository, and participate in joint meetings and publications. In terms of budget we should make sure they get a travel budget (€2,000 per year?), and some time (for participation and contributions). We will need to check with Jill to see if that is ok and how much they need for time, but I would guess that about €10-15K per year would be more than enough.//
+The public partners inviolved are the Royal Tropical Institute, a research institut with five Dutch museums attached  and Europeana, the network of european libraries, archives and other cultural institutions. 
 
 
 //We would love to initiate a collaboration between you and the private/public partners that allows Coding the Humanities researchers and students to explore new formats to make data and information related to museum collections accessible and experienceable. With regard to the private partners these explorations could involve the conception and development of visualizations in general terms, as video or audio and/or in form of interfaces.// 
 
-In a series of workshops the students/researchers should learn about the status quo of visualization within the museums context. Their humanities background then allows them to comprehend how to turn data into a narrative and thus develop perspectives on how address visitors in new ways. With their coding skills and the support of the private partner, the students will collectively conceptualize and develop software solutions for field but not limited to this field.
+//In a series of workshops the students/researchers should learn about the status quo of visualization within the museums context. Their humanities background then allows them to comprehend how to turn data into a narrative and thus develop perspectives on how address visitors in new ways. With their coding skills and the support of the private partner, the students will collectively conceptualize and develop software solutions for field but not limited to this field.//
+
+//Europeana would provide us with API access, advice and critique from an institutionalised repository, and participate in joint meetings and publications. In terms of budget we should make sure they get a travel budget (€2,000 per year?), and some time (for participation and contributions). We will need to check with Jill to see if that is ok and how much they need for time, but I would guess that about €10-15K per year would be more than enough.//
+
 
 Moreover, the consortium in this research field will be completed by a public partner, the Tropenmuseum Amsterdam, which will initiate projects that encourage students to work with the datasets related to their collection. In a series of workshops with the private and the public partner the students will learn about the status quo of visualization within the museums context. With their humanities background the students are predestined to comprehend how to turn data into a narrative and how to meet the demands of the visitor. With their coding skills and the support of the private partner, the students will collective conceptualize and develop software solutions for this field but not limited to this field. The outcome of this project will be accessible and free to use by other students, scholars, cultural institutions or civic movements.  
 
 Visualization empowers the students to make the increasing number of large datasets productive for their research. The new perspectives gained also provide arguments and strategies for a larger audience ranging from museums to foundations to civic movements.
 
-
-##### 4.digital elites / inclusion**
+digital elites / Inclusion
 
 As Chinn and Fairly have shown in their cross country analysis on digital divide (Chinn and Fairly, 2004) there are not only dramatic geographic differences in accessibility to and user skills of ICT but also socio-economic and demographic gaps. There is a large group of children, woman, elderly and economically disadvantaged that are or face to be digitally excluded. 
 
@@ -279,9 +275,8 @@ The proposed project is structured into four research fields:
 3) the exploration of the opportunities interfaces and visualization of data holds for knowledge production
 4) research that aims at developing strategies for development and inclusion
 
-These fields are going to be explored by phd students, embedded researchers and students in combination with public and private partners. Inspired by open source culture and software development practices the fields are going to be explored simulataneously so that insights from one of the fields can be applied transfered early on to the other fields. 
+These fields are going to be explored by phd students, embedded researchers and students in combination with public and private partners. Inspired by open source culture and software development practices the fields are going to be explored simulataneously so that insights from one of the fields can be applied tranfered early on to the other fields. 
 
- 
 *timing of the different work packages and their components (Gantt chart or similar)*
 *detailed work description, i.e.:*
 *a description of each work package (table 3.1a)*
@@ -510,7 +505,7 @@ Show how you will confirm that the milestone has been attained. Refer to indicat
 
 - *a description of the legal entity and its main tasks, with an explanation of how its profile matches the tasks in the proposal.*
 - *a  curriculum vitae or description of the profile of the persons, including their gender, who will be primarily responsible for carrying out the proposed research and/or innovation activities;*
-- *a  list of up to 5 relevant publications, and/or products, services (including widely-used datasets or software), or other achievements relevant to the  call content;* 
+- *a  list of up to 5 relevant publications, and/or products, services (including widely-used datasets or software), or other achievements relevant to the  call content;* 
 - *a  list of up to 5 relevant previous projects or activities, connected to the subject of this proposal;*
 - *a  description of any significant infrastructure and/or any major items of technical equipment, relevant to the proposed work;*
 (*any other supporting documents specified in the work programme for this call*)
@@ -520,22 +515,28 @@ Ritterstraße 12 - 14
 Aufgang 4, Etage 3  
 10969 Berlin  
 
-Lisa Zoth *(add CV or description of the profile and responsibilities in the project)*
-Patrick Kenzler *(add CV or description of the profile and responsibilities in the project)*
+*Lisa Zoth* has a background in political science and anthropology. She has conducted several projects in regard to the implementation of the Design Thinking Methodology and Culture into companies such as SAP or Deutsche Bahn. Her research focus lies on the design of organizational collaboration and implementing innovation processes into traditional structures. Lisa Zoth will in this project be mainly involved in the need finding, synthesis and ideation phase of the project and evaluating the collaboration processes among the embedded researchers.
 
-Dark Horse is an innovation agency based in Berlin which creates user-centered products and services and helps clients 
-to change their structures, processes and minds. Their work is based on Design Thinking principles and their own unusual working culture that simultaneously stresses ﬂexibility and connections. They design spatial, procedural and social 
-conditions of collaboration in on and offline settings. Guided by their participative design approach, they created spaces and working culture for collaboration in science and creative industry. 		
+*Patrick Kenzler* is an architect and interior designer. In his research he focusses on the design of spatial concepts for collaboration. Patrick Kenzler has conceptualized and designed several collaboration spaces such as for the HPI School of Design Thinking or the Humboldt Lab. In this project he will be involved in the needfinding, synthesis and ideation phase and is mainly responsible for the 3D-modeling of the first prototype as well as the furnishing and the fitting-out of the Living Lab.
 
-Within the proposed project Dark Horse is going to conduct research on and develop of a conceptual framework and design of a physical space that accompanies and complements the online learning platform. Their user centered approach and the background in anthropology and interior designe allows Lisa Zoth and Patrick Kenzler to understand and translate the requirements of such a space into a practical design concept and the according user culture. They will provide an answer to the crucial question of how online collaboration and innovative pratice can be initiated, accelerated and fostered through an offline setting. Moreover their research will give insights to the students needs that cannot be satisfied merely by the application of ICT but are better addressed with a combination of digital instruments and offline collaboration and training methods.
+*Dark Horse* is an innovation agency based in Berlin which creates user-centered products and services and helps clients to change their structures, processes and minds. Their work is based on Design Thinking principles and their own unusual working culture that simultaneously stresses ﬂexibility and connections. They design spatial, procedural and social conditions of collaboration in on- and offline settings. Guided by their participative design approach, they created spaces and working culture for collaboration in science and creative industry.
 
-*a  list of up to 5 relevant publications, and/or products, services (including widely-used datasets or software), or other achievements relevant to the  call content;* 
-*a  list of up to 5 relevant previous projects or activities, connected to the subject of this proposal;*
-projects with big corporation such as Deutsche Bahn, Lufthansa, Telekom and Volkswagen  
-**DH > please provide a description some of your projects (eg moving ideas) in more detail**  
+Within the proposed project Dark Horse is going to conduct research on and develop a conceptual framework and design for a physical space that accompanies and complements the online learning platform. Their user centered approach and the background in anthropology and interior design allows Lisa Zoth and Patrick Kenzler to understand and translate the requirements of such a space into a practical design concept and the according user culture. They will provide an answer to the crucial question of how online collaboration and innovative practice can be initiated, accelerated and fostered through an offline setting. Moreover their research will provide insights to the students’ needs that cannot be satisfied merely by the application of ICT but are better addressed with a combination of digital instruments and offline collaboration and training methods.
 
-*a  description of any significant infrastructure and/or any major items of technical equipment, relevant to the proposed work;*  
-**DH > what do you need for your work? white boards etc.**
+*Previous projects or activities*
+
+**Note that there are pictures visualising the projects and tools used available**
+
+*Lufthansa Technik AG:* Spaces for collaboration Lufthansa Technik AG asked Dark Horse to research the existing working culture at Lufthansa Technik and to develop a spatial concept for collaboration based on these findings. Through observation, interviews and participatory workshops all 400 employees were involved in the analysis and conceptual phase. The main focus lied in identifying the opportunities for change whilst preserving other spatial concepts and processes that already worked well in the existing structure. Due to the research findings and developed concepts Dark Horse will be further involved in the planning of two new office floors. The interior design of these spaces will offer spatial qualities that enable the collaboration among the employees while at the same time giving space and infrastructure for individual work. Dark Horse will undertake a moderating and consulting role towards the employees in enabling them to use the new spaces and implementing a successful working culture.
+
+*Deutsche Bahn AG:* Moving Ideas Deutsche Bahn AG is one of the largest transport companies in the world. All suppliers and industrial partners form part of a huge network. The idea was to benefit from this hub of expertise and to turn it into a driver for innovation. Dark Horse got engaged to develop a virtual platform that facilitates the collaboration across all branches. Dark Horse developed a browser based platform on which projects can be launched, discussed and worked on. The platform offers users the possibility to get instant and multi-perspective feedback on the current stages of their project. In addition to that the platform serves as the link between the digital and analog world of each project.
+
+*Out of the Box:* Whiteboard Working mainly in a physical space with post-it notes and whiteboards Dark Horse itself is in need for specific creativity tools. While existing whiteboards lacked flexibility and usability Dark Horse together with Room in a Box, a company specialized on cardboard furniture, developed a lightweight and user-friendly whiteboard. The board is built out of cardboard and is supplied with four movable disks. By analogy to the first digital data discs, these discs are writeable from both sides and serve as a digital store that can be carried around and taken to the next meeting.
+
+*SAP AG:* Design Thinking & Scrum for innovative projects In 2012 the SAP AG started the initiative to implement the Design Thinking Methodology in their company. Dark Horse accompanied SAP Germany and SAP India for more than a year in applying the Design Thinking Methodology to the product development and to create innovative products. Different Scrum-Teams got trained and consulted by Dark Horse in Design Thinking and user-centered design throughout the conceptual and designing phase of their products. The awareness for the users’ need and the implementation of collaborative elements had a noticeable impact on the „innovativeness“ of the products.
+
+*Audi AG:* Ideas Virus The Audi AG hired Dark Horse in order to find out about existing innovation hubs within their company. Through interviews and observation Dark Horse identified persons and departments that are key to the innovation processes and product development at Audi. Based on these findings the Audi AG launched a process that aims at designing a concept for collaboration among the employees and thus foster innovation. 
+
 
 #####Weyeser
 
@@ -545,7 +546,7 @@ Weyeser is a company specialized in supporting organizations to translate big am
 
 Within this proposed project weyeser will provide expertise concerning the questions of how mere data processing can be transformed into a process of knowledge production. Not only cultural institutions, but organizations, institutions and companies of all fields produce and provide increasing sets of digital data. Weyeser will develop applications that allows humanities students to compile new perspectives and knowledge from the analysis, correlation and visualization of these data sets. At the same time these tools will make humanities research and concepts more tangible and accessible to an larger audience. 
 
-*a  list of up to 5 relevant publications, and/or products, services (including widely-used datasets or software), or other achievements relevant to the  call content;* 
+*a  list of up to 5 relevant publications, and/or products, services (including widely-used datasets or software), or other achievements relevant to the  call content;* 
 *a  list of up to 5 relevant previous projects or activities, connected to the subject of this proposal;*
 *a  description of any significant infrastructure and/or any major items of technical equipment, relevant to the proposed work;* 
 
