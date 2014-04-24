@@ -103,21 +103,9 @@ How can these physical structures create a sustainable link with an online learn
 
 
 ### 3.1 Workplan - 
-#### Workpackage 
-(see aditionally: pdf's Roadmap, overview budget and requirements and pictures from testcases from Dark Horse on Trello)
 
-#### Deliverables
+#### Workpackage No. 3 - (see aditionally: pdf's Roadmap, overview budget and requirements and pictures from testcases from Dark Horse on Trello)
 
-
-#### Milestones
-
-1. Concept Living Labs/eLab
-Research/ Observe/ Ideate/ 1st test phase of the OverLab
-2. Prototype OverLab
-Prototype/Test 
-3. Concept for curating the OverLab
-4. Curating the OverLab
-5. Self-Reflective Coaching (where necessary)
 
 Zur Unterstützung für die Entwicklung eines E-Labs wird parallel ein physisches
 Forschungsatelier, ein Living Lab aufgebaut. Dieses befasst sich zum einen mit den
@@ -129,6 +117,33 @@ konkreten Auswirkungen auf die Kollaboration untereinander. Dies wird anhand
 prototypischer Änderungen im Raum, digitaler Prototypen und kultureller, prozessualer
 Anpassungen untersucht.
 
+
+#### Deliverables
+
+3.1 Research - Identify - Ideate. 1st test phase of the OverLab which 
+3.2 Concept for a Living Labs/eLab meeting the needs of Coding the Humanities
+3.3 Prototype OverLab
+3.4 Iteration: Evaluate Results and Prototype/Test 
+3.5 Concept for curating the OverLab
+3.6 Joint curation of the OverLab with public and private partner
+3.7 Conduct a Self-Reflective Toolbox for interdisciplinary researchers
+3.8 Conduct a Self-Reflective Toolbox for public-private-partnerships
+
+#### Milestones
+
+3.1.1 Definition of the characteristics of Single Users of the OverLab
+3.2.1 Visualisation of the needfinding process
+
+3.3.1 Conclude the first iteration round of Design Thinking
+3.3.2 1st prototype OverLab
+
+3.5.1 community building events geared towards coding and exposure (on- and offline) of the OverLab
+
+3.6.1
+
+3.7.1
+
+3.8.1
 
 
 ### 3.2 Management structure and procedures 
