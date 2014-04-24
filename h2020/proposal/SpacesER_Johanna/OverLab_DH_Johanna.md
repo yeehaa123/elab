@@ -243,6 +243,113 @@ Articles:
 "Der Personaler als Designer", In: *Einrichten auf die Zukunft - Personalmagazin*, 04/2014.
 
 - Beinke, Christian "Produktentwicklung neu gedacht", In: Fraunhofer Magazin FUTUR, 3/2013.
+- Große-Dunker, Fried "Lean-Organisation: Ein Selbstexperiment.", In: Gründerszene.
+http://www.gruenderszene.de/allgemein/lean-organisation
+
+
+#### Keynotes, Panels and Conferences with Dark Horse
+
+#### Keynote
+
+Europäisches Forum Alpbach 
+Alpbach Perspektiven
+„The future of Europe. A grassroots’ perspective."
+Monika Frech
+Alpbach, August 2013
+
+Digital Bauhaus Conference
+Designing Creative Collaboration
+„Post-Hierarchical Management - Building a Collaborative Company“ 
+Monika Frech, Patrick, Kenzler, Lisa Zoth
+Weimar, Juni 2014
+
+ActDifferent!
+"Thank God it’s Monday: Generation Y in der Praxis"
+Christian Beinke, Monika Frech, Greta Konrad
+Berlin, Mai 2014 
+
+Wilton Park
+British-German Forum
+"The future of Europe: Relevance and effectiveness in the 21st century."
+Teilnahme Lisa Zoth
+West Sussex, UK, Juni 2013
+
+Stuttgarter Wissenmanagementtage, 
+"Wissenmanagement. Was nun?"
+Monika Frech
+Stuttgart, November 2013
+
+Universität Leuphana, Lüneburg
+Start-Up Week
+„Ideation & Prototyping"
+Dominik Kenzler, Patrick Kenzler, Sascha Wolff
+Lüneburg, Oktober 2012
+
+#### Panels
+Creative Mornings 
+Work that works: A Generation Y Perspective 
+Monika Frech, Lisa Zoth
+Berlin, September 2013
+
+Heureka-Conference
+"Elements of a start-up“
+Fried Große-Dunker
+Berlin, Mai 2013
+
+Economic Forum Krynica
+Panel: "Eco-Innovation"
+Monika Frech
+Krynica, Polen, September 2013
+
+Design (r)evolution
+"Design ogranisation: Work that works"
+Monika Frech
+Warschau, Polen, November 2013
+
+Redmont Dialog
+„Von Changemüdigkeit zur Innovationskultur"
+Manuel Ott, Lisa Zoth
+Wien, Österreich, Februar 2014
+
+Bitkom Arbeitskreis
+Qualitätsmanagement in der Softwareentwicklung
+„Change the Culture"
+Dominik Kenzler
+
+HR Pepper
+Panel: "The (new) War for Hearts and Minds" 
+Manuel Ott, Lisa Zoth
+Berlin, Juni 2014
+
+
+#### Teaching at a.o. 
+HPI School of Design Thinking, Potsdam
+Universität Witten-Herdecke
+Tecnológico de Monterrey, Mexiko
+Hochschule Hof
+EBC Hamburg Business School
+Hochschule Steyr
+Hochschule Luzern
+Steinbeiss Hochschule
+Berlin School for Creative Leadership
+Jung von Matt Academy
+
+Universität der Künste
+Berlin Summer University of the Arts 2014
+"Channel your Creativity. From Trend and Talent to Business Concept in 4 Days“
+Monika Frech, Dominik Kenzler
+Berlin, Juli 2014
+
+
+
+#### Awards
+Kultur- und Kreativpiloten 2010
+New Work Award 2013, Platz 3
+
+#### Learning Journey
+Die Deutsche Telekom kommt alle zwei Monate hier vorbei und besucht uns mit einer Gruppe von „Nachwuchsführungskräften“, dann gibt es einen Vortrag über unsere Arbeitskultur und Organisation, Design Thinking Übung und ein Gespräch 
+
+
 
 
 #### A list of up to 5 relevant previous projects or activities, connected to the subject of this proposal 
