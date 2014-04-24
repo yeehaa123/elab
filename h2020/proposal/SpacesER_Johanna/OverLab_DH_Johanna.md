@@ -84,7 +84,7 @@ How can these physical structures create a sustainable link with an online learn
 
 #### How to: user-centered approach Design Thinking 
 
-//Johanna: I asked DH to include their visuals of the Design Thinking process, waiting for them to send it. [Here is a preview](http://www.thedarkhorse.de/images/01_prozess.png) //
+//Johanna: The Design Thinking model in English is found on Trello as pdf//
 ![DT DH](http://www.thedarkhorse.de/images/01_prozess.png)
 
 - aims at ﬁnding out about users’s needs via an ethnographic research tools
