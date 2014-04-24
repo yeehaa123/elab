@@ -123,12 +123,12 @@ This research proposal consists of four integrated research areas in which publi
 These efforts should be viewed in line with two overarching developments in contemporary society and in humanities’ research; the move to create smart cities where citizens are digitally empowered and the development of digital humanities. By integrating the digital skilling of citizens with the agenda of the development of digital humanities, the project aims to perform academic research through a digital inclusion methodology/practice. Practically, the envisioned educational platform realizes local engagement, user-focused learning with both an individually-oriented as well as collective component; collaboration and the accumulation of knowledge and skills are key to a successful implementation of the platform. 
 Each of the four research areas anticipates and addresses an upcoming challenge. 
 
-##### 1. Software / Platform for Learning an Research
+##### 1. Platform for Learning an Research
 
 Universities are challenged in their ways of distributing knowledge by an increasing number of massive open online courses (MOOC) and try to follow suit by providing the same techniques to their students. However, this approach transfers the classroom scheme into the online world but fotrifies dichotomies of expert and layman, teacher and student. At the same time, within the classroom scheme MOOCs address big numbers, which goes along with the decrease of education. 
 
 
-##### 2. Organization / Collaboration over Ownership
+##### 2. Spaces for Embedded Research 
 
 Universities are open up towards other universities, civic movements and companies, so that other groups can benefit from their knowledge.
 
@@ -175,7 +175,7 @@ Moreover, the consortium in this research field will be completed by a public pa
 
 Visualization empowers the students to make the increasing number of large datasets productive for their research. The new perspectives gained also provide arguments and strategies for a larger audience ranging from museums to foundations to civic movements.
 
-** Digital Elites **
+### Interfaces: Governing the Platform
 
 As Chinn and Fairly have shown in their cross country analysis on digital divide (Chinn and Fairly, 2004) there are not only dramatic geographic differences in accessibility to and user skills of ICT but also socio-economic and demographic gaps. There is a large group of children, women, elderly and economically disadvantaged that are or face to be digitally excluded. 
 

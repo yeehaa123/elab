@@ -16,21 +16,38 @@ Milestones:
 
 Deliverables:
 
-+ Platform version 1
-+ Platform version 2
-+ Monitoring tool: monitoring progress and problems of students 
-+ Feedback tools: build in feedback elements into tutorials and exercises
-+ Skill path tool: tool that guides users in chosing which specific programming skills to learn to build the project/application they envision
-+ Workflow tool: tool that supports the user in breaking down their research project into a sequence of steps
+
++ Software
+
+  + Platform version 1
+
+  + Platform version 2
+
+  + Open Source Components for:
+    + Monitoring: observe progress and problems of students 
+    + Feedback: build in feedback elements into tutorials and exercises
+    + Visualizing Learning Trajectories: tool that guides users in chosing which specific programming skills to learn to build the project/application they envision
+    + Managing Workflow: tool that supports the user in breaking down their research project into a sequence of steps
+
++ Events
+
+  + Coding Sessions (also: inclusion?)
+
+  + Hacking the Humanities (also: interface)
+
+  + Conference
+ 
 + Yearly evaluation reports based on regular academic courses Coding the Humanities, From Object to Data and Art, Science & Technology
+
 + Yearly evaluation reports based on overall usage, projects and feedback of the platform
-+ workshop reports based on Coding Sessions
+
++ Workshop reports based on Coding Sessions / Hacking the Humanities
 
 Milestones:
 
 + platform release for regular courses
++ Open Source Components
 + platform public release
-+ ...
 
 ## Spaces/Labs
 
@@ -77,7 +94,12 @@ Milestones:
 
 Deliverables:
 
-+ ...
++ Workshop with Museums in Vienna
+
++ Open Source Library for Visualizing Humanities Research
+
+
+
 
 Milestones:
 
