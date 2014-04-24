@@ -1,7 +1,7 @@
 List of participants: Jan Hein Hoogstad, Marijn Koolen, Sabrina Sauer (???), Robin Boast, Johanna Barnbeck
 
 **Participant No** (*Please use the same participant numbering as that used in the administrative proposal forms.*)
-Participant organisation name: UNiversiteit van Amsterdam
+Participant organisation name: Universiteit van Amsterdam
 Country: Netherlands
 Coordinator: Jan Hein Hoogstad
 
@@ -20,8 +20,11 @@ Coordinator: Jan Hein Hoogstad
 The project is about exploring the digital tools we use and how we use them. The overarching goal is to integrate technology into the humanities and to integrate the humanities into technology. We aim to elevate the processes of tool building to the status of research in the humanities. Engaging these traditionally less-technical students and scholars with technology empowers them to proactively develop their own tools, as well as to more deeply reflect on their use of these tools in their research. Once comfortable doing that, they can collaborate with others within academia and with business and cultural instutitions to make technological innovations that impact a wider audience. As humanities students are disproportionately female, encouraging technology within this faculty will be a concrete step towards evaporating the mindset that technology is naturally dominated by men.
 
 We seek to do this in two ways. First, by fostering interplay between humanities and technology within the humanities faculty. This is already set to be done by introducing introducing programming to humanities students through coursework. We have three courses already incorporated into the curriculum on programming basics. The course "Art, Science, and Technology" is running now, and the courses "Coding the Humanities" and "From Objected Data" will both begin in September 2014. Increasing the number of humanities students and scholars with programming skills through this coding platform will allow them to shape and create digital tools that meet their particular research needs and encourage new forms of learning, teaching and knowledge production. This skillset will sensitize the participants to their technological environment and make them aware of the challenges and opportunities ITC offers for humanities research. Coding knowledge makes those in the humanities more employable because humanities students and scholars will increasingly need to be able to read and write code.
+
 To enrich these courses and expand the coding platform, we seek funding to offer three PhD positions related to relationships between humanities and technology. Each project will address a key aspect of the overall objective to foster connections between technology and humanities. 
-The first project will address the Physical Lab element, and will involve a PhD student working part-time as an embedded researcher in a separate institution. The project will investigate sustainable forms of knowledge transfer and creative and collaborative work practices in combined digital and physical learning environments. SHOULD WE IDENTIFY DARK HORSE AS THE COMPANY? 
+
+The first project will address the Physical Lab element, and will involve a PhD student working part-time as an embedded researcher in a separate institution. The project will investigate sustainable forms of knowledge transfer and creative and collaborative work practices in combined digital and physical learning environments. SHOULD WE IDENTIFY DARK HORSE AS THE COMPANY? //YEEHAA: NO keep it general here//
+
 The second project will relate to the core project of the coding platform. The PhD student will research how to reflect on tools through coding. S/he will conceptualize, plan, monitor, and program the coding platform. This PhD will serve as a way of measuing the development and success of the platform over four years. This researcher will be well integrated into the context of the university's department of digital humanities, and will also collaborate with private and public partners.
 
   
@@ -77,18 +80,25 @@ CtH therefore aims to sensitize humanities students and others for the importanc
 
 
 ####1.3 Concept and approach, quality of the coordination and support measures
+
 *Describe and explain the overall concept underpinning the project. Describe the main ideas, models or assumptions involved;* 
 Connecting humanities to technology unlocks potential for holistic approaches to innovation, including those that consider ethical/moral impacts of technology and its use, ...
+
 Many humanities students and scholars are reluctant to learn new technologies, and thereby limit both their own ability to influence the outside world, as well as the incorporation of technology in their research. As Mitch Resnick has said, not being able to take charge of the technological tools we use to meet our own particular needs is similar to being able only to read a language but not write. For full use of the language and to use it to express ourselves, we must also be able to use it to create new structures. To make full use of technologies, we must be able not just to use them passively, but to modify them. This venture will empower humanities students and scholars to proactively drive their own learning and research. When they engage with technology through coding, they open the doors to master and innovate their own tools.
 
 models:
 
 assumptions involved: 
 - assumption that academia and the rest of the world are separate and cannot interact, and the idea that they can work together. More specifically, the idea that humanities students and scholars are separated from technology, and the goal of engaging them with it.
+
 - universities face a loss of authority as models of traditional education being replicated in online formats, and the goal of creating new tools in the context of today’s increasingly interdependent world
+
 - transfering the classroom into online formats does no justice to the possibilities provided by online tools in terms of peer learning, collaboration, exchange that abandons the dichotomy of experts and layman
+
 - We thus work from a model that favors collaboration over ownership. Rather than competing against one another, we seek to create environments and promote tools that encourage equality in teamwork.
+
 - Our model favors training rather than support, with the perspective that empowering people to take charge of the tools they use is better than simply assisting them. Also related to the goal of increasing the number of people who know how their tools function, our model emphasises accessible tools over state of the art tools. Accessibility is condusive to a wider group of users and makers, while state of the art tools discourage those who do not consider themselves to be tech-savy.
+
 - We also favor knowledge production over data processing...
 
 Troppenmuseum, Europeana: threshhold is too high to learn how to manipulate the technology. They have these amazing collections but need a way to engage more with a concrete audience, make their collection more accessible - inclusion
@@ -106,29 +116,29 @@ Troppenmuseum, Europeana: threshhold is too high to learn how to manipulate the 
    * Sabrina -- the postdoc
    * 
    
-#####Approach
+##### Approach
 
 This research proposal consists of four integrated research areas in which public-private-civic partnerships (quad-helix) lead to a sharing of expertise and collaborative practices geared at the development of a cutting-edge innovative educational ecosystem that is specific to the (digital) humanities. These research areas are socio-technical in their approach; apart from combining insights from different partners to develop technological solutions (such as an online educational platform), valorize existing and new R&D methodologies (such as design thinking methodologies and embedded research practices) and the translation of data streams and information in intuitive interfaces that make use of visualization, this research proposal seeks to specially gear technological developments and efforts to enhance society by closing the digital divide. By collaborating throughout the project with public, private and civic partners, the project foresees the accumulation of knowledge and a digital skilling of particular hitherto unreached civic groups. 
 
 These efforts should be viewed in line with two overarching developments in contemporary society and in humanities’ research; the move to create smart cities where citizens are digitally empowered and the development of digital humanities. By integrating the digital skilling of citizens with the agenda of the development of digital humanities, the project aims to perform academic research through a digital inclusion methodology/practice. Practically, the envisioned educational platform realizes local engagement, user-focused learning with both an individually-oriented as well as collective component; collaboration and the accumulation of knowledge and skills are key to a successful implementation of the platform. 
 Each of the four research areas anticipates and addresses an upcoming challenge. 
 
-#####1. Literary / platform for learning an researcher
+##### 1. Software / Platform for Learning an Research
 
 Universities are challenged in their ways of distributing knowledge by an increasing number of massive open online courses (MOOC) and try to follow suit by providing the same techniques to their students. However, this approach transfers the classroom scheme into the online world but fotrifies dichotomies of expert and layman, teacher and student. At the same time, within the classroom scheme MOOCs address big numbers, which goes along with the decrease of education. 
 
 
-#####2. Organization / collaboration over ownership
+##### 2. Organization / Collaboration over Ownership
 
 Universities are open up towards other universities, civic movements and companies, so that other groups can benefit from their knowledge.
-This process of opening up can be accelerated by spaces that are situated in between. The living labs show how this can lead to innovation. Spaces for spaces for embedded research
-a place for overlapping , theory and artistic practice , physical and digital research , of studio, workshop, library , of institutions - private and public , an independent place outside the department structure of the university , a room that enables, allows to experiment
+
+This process of opening up can be accelerated by spaces that are situated in between. The living labs show how this can lead to innovation. Spaces for spaces for embedded research a place for overlapping , theory and artistic practice , physical and digital research , of studio, workshop, library , of institutions - private and public , an independent place outside the department structure of the university , a room that enables, allows to experiment
 
 Embedded researcher is a new and exiting role within the university. Its goal is to establish sustainable partnerships between private partners and universities. In practice, however, this turns out to be 
 problematic, since the role and position of this kind of researcher is peripheral by definition. The embedded research usual works on short term projects and inbetween the academy and a company. 
 
 
-#####3. Numbers / visusalization**
+##### 3. Numbers / Interfaces
 
 Academia is increasingly confronted with large amounts of data. In order to turn this data into information and into knowledge, researchers and students need tools that allow to structure, search, correlate, analyze but most importantly present and visualize this data. This is also true for working fields related to the humanities: museums, libraries and archives are challenged to make the huge data sets that result from digitalization of the cultural heritage they foster //opencultuur.nl//, accessible and understandable for as many people as possible. Despite the opportunities these  mass resources generated in numerous digitization projects provide, humanities researchers and students are reluctant to exploit these troves.
 
@@ -165,7 +175,7 @@ Moreover, the consortium in this research field will be completed by a public pa
 
 Visualization empowers the students to make the increasing number of large datasets productive for their research. The new perspectives gained also provide arguments and strategies for a larger audience ranging from museums to foundations to civic movements.
 
-digital elites / Inclusion
+** Digital Elites **
 
 As Chinn and Fairly have shown in their cross country analysis on digital divide (Chinn and Fairly, 2004) there are not only dramatic geographic differences in accessibility to and user skills of ICT but also socio-economic and demographic gaps. There is a large group of children, women, elderly and economically disadvantaged that are or face to be digitally excluded. 
 
@@ -206,9 +216,11 @@ Humanities studies already seek to explore how tools affect us and change things
 
 
 *Describe and explain the overall approach, distinguishing, as appropriate, coordination and support activities;* 
+
 * The overall approach to this project is to stimulate both self-empowerment and at the same time, collaboration, between those working in the humanities those outside academia. This will be done by offering PhD positions, encouraging embedded research activities, and working together with Human Design companies for fruitful interaction in the physical lab. There is already an extensive amount of coordination between the University of Amsterdam and outside institutions for this project. Productive meetings with several companies have taken place, including Dark Horse.  
 
 *Where relevant, describe how sex and/or gender analysis is taken into account in the project’s content.*
+
 - Empowering people to use technology, including those who are hesitant or face obstacles to do so, means that we have a specific focus on girls and women, as they often face greater obstacles to accessing technology and education in general. Raising awareness of this issue, fostering discussion on feminism and coding, and working to create new ways of increasing the participation of girls and women in coding are all essential elements to our project.
 
 - The number of woman attracted by coding within CtH could be increased by collaborations with initiatives that seek to do the same - increase the number of female coders, like Railsgirls [http://railsgirls.com/](http://railsgirls.com/) or geekettes [http://www.geekettes.io/](http://www.geekettes.io/) in forms of workshops, information evenings in the lab.
