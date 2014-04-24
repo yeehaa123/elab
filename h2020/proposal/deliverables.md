@@ -2,6 +2,16 @@
 
 A list of deliverables of each sub-project.
 
+## Management
+
+Deliverables:
+
++ ...
+
+Milestones:
+
++ ...
+
 ## Platform
 
 Deliverables:
