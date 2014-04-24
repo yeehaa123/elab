@@ -6,7 +6,7 @@ A list of deliverables of each sub-project.
 
 Deliverables:
 
-+ ...
++ 1.1 ...
 
 Milestones:
 
@@ -19,11 +19,11 @@ Deliverables:
 
 + Software
 
-  + Platform version 1
+  + 2.1.1 Platform version 1
 
-  + Platform version 2
+  + 2.1.2 Platform version 2
 
-  + Open Source Components for:
+  + 2.1.3 Open Source Components for:
     + Monitoring: observe progress and problems of students 
     + Feedback: build in feedback elements into tutorials and exercises
     + Visualizing Learning Trajectories: tool that guides users in chosing which specific programming skills to learn to build the project/application they envision
@@ -31,17 +31,17 @@ Deliverables:
 
 + Events
 
-  + Coding Sessions (also: inclusion?)
+  + 2.2.1 Coding Sessions (also: inclusion?)
 
-  + Hacking the Humanities (also: interface)
+  + 2.2.2Hacking the Humanities (also: interface)
 
-  + Conference
+  + 2.2.3 Conference
  
-+ Yearly evaluation reports based on regular academic courses Coding the Humanities, From Object to Data and Art, Science & Technology
++ 2.3 Yearly evaluation reports based on regular academic courses Coding the Humanities, From Object to Data and Art, Science & Technology
 
-+ Yearly evaluation reports based on overall usage, projects and feedback of the platform
++ 2.4 Yearly evaluation reports based on overall usage, projects and feedback of the platform
 
-+ Workshop reports based on Coding Sessions / Hacking the Humanities
++ 2.5 Workshop reports based on Coding Sessions / Hacking the Humanities
 
 Milestones:
 
@@ -94,9 +94,9 @@ Milestones:
 
 Deliverables:
 
-+ Workshop with Museums in Vienna
++ 4.1 Workshop with Museums in Vienna
 
-+ Open Source Library for Visualizing Humanities Research
++ 4.2 Open Source Library for Visualizing Humanities Research
 
 
 
