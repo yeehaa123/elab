@@ -124,10 +124,12 @@ Planung eines einjährigen Programms inklusive verschiedener Veranstaltungen anh
 maßgebend sein: Wie trifft man sich? Welche Aufgaben hat das Living Lab? Wann verändert 
 man gemeinsame Spielregeln? Wie bindet man Studenten ein? 
 
-Halbjährlich - Projektausstellung/ Party/ Speaker etc. (ähnlich einer Jahresausstellung an 
-Kunsthochschulen) 
-Vierteljährlich - Durchführung von Studentenprojekten 
-Monatlich - Digitaler Salon/ digitaler Workshop/ interne Präsentationen 
+
+- Curation of the lab includes a variety of communication activities
+  - every 6 months throughout 3 years: project exhibition of the process 
+  - every 3 months throughout 3 years: symposium with workshops and speakers / party 
+  - monthly: Digital Salon/ Digital Workshop/ Presentations to all Project partners
+  - Workshops and Pilots 
 
 **Kuration des Living Labs**
 Durchführung des einjährigen Programms, inklusive 
