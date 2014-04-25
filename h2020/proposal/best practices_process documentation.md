@@ -5,7 +5,6 @@ Overall Deliverable: Make learnings and models available in best practices and l
 
 what? 
 
-- 
 - develop further the process documentation and medial communication of larger research projects
 - display and exposure of the project 
 
@@ -14,7 +13,7 @@ how?
 - cross-medial best practice 
 - built a bridge between the concrete implementation of video, learning and collecting as one part 
 of the overall platform
-- use format of Scientific Research Trailer as a point-of-departure
+- use format of Scientific Research Trailer as a point-of-departure; produce video sequences which use filmic language and do justice to the respective research topic and people who conduct the research.
 - research which media can be used for science communication in which way
 
 
@@ -36,7 +35,4 @@ Berlin: edition innovare / innokomm Forschungszentrum, p.24*
 
 who? 
 
-Johanna Barnbeck investigates the format of Scientific Research Trailer as a way to adequately communicate research practices to relevant audiences. Together with universities and research institutes she produces video sequences which use filmic language and do justice to the respective research topic and people who conduct the research. 
-
-The Research Trailers are embedded in conference talks in order to give context information, serve as a 
-
+Johanna Barnbeck is an artist, researcher and creative professional offering creative consulting for universities and research institutes who want to use audiovisual media in order to reach their relevant public. She develops concepts for film, photography and crossmedial art projects. Currently, she also works as an embedded researcher on the project Augmenting Masterpieces at the Rijksmuseum, which seeks to develop interfaces between the digital and the physical collection of the museum.
