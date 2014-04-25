@@ -17,7 +17,6 @@ of the overall platform
 - use format of Scientific Research Trailer as a point-of-departure; produce video sequences which use filmic language and do justice to the respective research topic and people who conduct the research.
 - research which media can be used for science communication in which way
 
-
 ####why? reasons for this approach
 
 - this project has a complex structure, uses a variety of technology, adresses and includes different audiences
@@ -51,6 +50,8 @@ Iteration of all of those activities in order to build strong cases regarding sc
   - every 3 months throughout 3 years: symposium with workshops and speakers / party 
   - monthly: Digital Salon/ Digital Workshop/ Presentations to all Project partners
   - Workshops and Pilots 
+  - Grand finale in order to end the four year collaborative research partnership with Dark Horse and mark the moment of complete independency
+
 - Science slams / Pecha Kucha's
 - presenting project results at different types of conferences: developer-, educational-, heritage-, humanities-oriented (here we need representation costs). We're reaching commercial companies and various kinds of institutions.
 
