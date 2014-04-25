@@ -221,7 +221,11 @@ Humanities studies already seek to explore how tools affect us and change things
 
 *Where relevant, describe how sex and/or gender analysis is taken into account in the project’s content.*
 
-- Empowering people to use technology, including those who are hesitant or face obstacles to do so, means that we have a specific focus on girls and women, as they often face greater obstacles to accessing technology and education in general. Raising awareness of this issue, fostering discussion on feminism and coding, and working to create new ways of increasing the participation of girls and women in coding are all essential elements to our project.
+This project is about empowering people to use technology, concentrating on those who are hesitant or face obstacles to do so. Girls and women overall face greater obstacles to accessing technology and education in general. Raising awareness of this issue, fostering discussion on feminism and coding, and working to create new ways of increasing the participation of girls and women in coding are all essential elements to our project.
+
+previously unmet needs that can be met by bringing sex and gender into the research: addressing the roots of the divide between women and men in technology
+
+equipping more girls and women with coding skills will enable them to create tools that they need, which have been overlooked in the male-dominated world of coding and technology in general. 
 
 - The number of woman attracted by coding within CtH could be increased by collaborations with initiatives that seek to do the same - increase the number of female coders, like Railsgirls [http://railsgirls.com/](http://railsgirls.com/) or geekettes [http://www.geekettes.io/](http://www.geekettes.io/) in forms of workshops, information evenings in the lab.
 
