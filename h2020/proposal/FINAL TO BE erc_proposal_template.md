@@ -287,6 +287,8 @@ exploitation measure: consultancy, acting as consultants for companies, for inst
 
 **b) Communication activities**
 
+Find a draft and bulletpoints on this section [here](https://github.com/yeehaa123/erc/blob/master/h2020/proposal/2.2.b_Communication%20activities_best%20practices_process%20documentation.md)
+
 Describe the proposed communication measures for promoting the project and its findings during the period of the grant. Measures should be proportionate to the scale of the project, with clear objectives.  They should be tailored to the needs of various audiences, including groups beyond the project’s own community. Where relevant, include measures for public/societal engagement on issues related to the project. 
 - events: workshops, 
 - outreach to other universities, initiate outreach within the universities
