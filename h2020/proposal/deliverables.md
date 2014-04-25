@@ -12,7 +12,21 @@ Milestones:
 
 + ...
 
-## Platform
+
+## Overall - Documentation of the project:
+
+Deliverables
++ built best practice cases and models of collaborations, the connecting interfaces, physical labs
++ cross-media process documentation  
++ libraries of software 
+
+
+Milestones:
++ Identify the learnings of establishing Coding the Humanities 
++ Document it's complexity by using adequate media and technology
++ 
+
+## The Platform as Interface
 
 Deliverables:
 
@@ -33,7 +47,7 @@ Deliverables:
 
   + 2.2.1 Coding Sessions (also: inclusion?)
 
-  + 2.2.2Hacking the Humanities (also: interface)
+  + 2.2.2 Hacking the Humanities (also: interface)
 
   + 2.2.3 Conference
  
@@ -49,7 +63,7 @@ Milestones:
 + Open Source Components
 + platform public release
 
-## Spaces/Labs
+## The Lab as Interface
 
 Deliverables:
 
@@ -91,11 +105,11 @@ Milestones:
 3.8.1
 
 
-## Inclusion / Visualisation & Interfaces
+## Collection as Interface
 
 Deliverables:
 
-+ 4.1 Workshop with Museums in Vienna
++ 4.1 Interfaces exhibition Vienna
 
 + 4.2 Open Source Library for Visualizing Humanities Research
 
@@ -107,7 +121,7 @@ Milestones:
 
 + kick-off workshop private and public partners (introduction the CtH platform as foundation for the project)
 
-+ presentation / workshop for students / researchers National Museum of World Cultures / Europeana representatives
++ presentation / workshop for students / researchers Europeana representatives
 "Engaging audiences - Interfaces and Visualizations in the museum context"
 
 + presentation / workshop for students weyeser "Visualization as means of inclusion"
@@ -127,14 +141,4 @@ Milestones:
 + coming out: cultural hackathon event inviting the general public to work with the student proposals and the museum datasets
 
 
-## Overall - Documentation of the project:
 
-Deliverables
-+ built best practice cases and models of collaborations, the connecting interfaces, physical labs
-+ cross-media process documentation  
-+ libraries of software 
-
-Milestones:
-+ Identify the learnings of establishing Coding the Humanities 
-+ Document it's complexity by using adequate media and technology
-+ 
