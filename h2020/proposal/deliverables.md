@@ -127,13 +127,14 @@ Milestones:
 + coming out: cultural hackathon event inviting the general public to work with the student proposals and the museum datasets
 
 
-## Documentation of the project:
+## Overall - Documentation of the project:
 
 Deliverables
-+ built a best practice case 
++ built best practice cases and models of collaborations, the connecting interfaces, physical labs
 + cross-media process documentation  
-+ 
++ libraries of software 
 
 Milestones:
 + Identify the learnings of establishing Coding the Humanities 
-+ Document it's complexity by testing adequate media and technology
++ Document it's complexity by using adequate media and technology
++ 
