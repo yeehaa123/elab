@@ -1,6 +1,6 @@
 Overall Deliverable: Make learnings and models available in best practices and libraries.
 
-
+## Communication strategy
 ### Towards a format of cross-medial process documentation 
 
 ####what? 
@@ -8,6 +8,19 @@ Overall Deliverable: Make learnings and models available in best practices and l
 - combining sub-projects into a larger communication framework, which includes libraries, software and on-/offline best practices 
 - develop further the process documentation and medial communication of larger research projects
 - display and exposure of the project through various media and communication channels
+
+Science communication is a constituting element of research and learning in order to bridge the gap between science and society. However, many of the new medial possiblities, and above all interactive interfaces, aren't strongly developed yet. The research centers *innokom* and *Stifterverband* conclude in their trend study on science communication, that the step towards "an open-result-oriented, societally engaged dialogue is overdue. Drivers behind this development are new formats in interactive media." Until now, science communication has been communication by the universities' press office, who pubslished research results with gate keeper principles. Which means that the results were communicated further depending on whether or not print, tv or radio would pick up on it. 
+
+*Gerber, Alexander (2011): Trendstudie Wissenschaftskommunikation – Vorhang auf für Phase 5. 
+Berlin: edition innovare / innokomm Forschungszentrum, p.24*
+
+There can be identified two main reasons for science communication not reaching beyond an academic public: Either scientists don't have the necessary skill set in order to act as communicators and media designers, or the media professionals try to squeeze scientific content into the standardized storytelling they know from corporate films or TV reports. 
+
+#### our approach
+
+- this project has a complex structure, uses a variety of technology, adresses and includes different audiences
+- to share the knowledge from building the different sub-projects 
+- the newly emerged field of eLearning and MOOC's possesses great possibilities for the distribution of knowledge and exchange. However, there are currently few examples of projects or courses where the promises of moving images are used to their fullest, and where the different field of expertise of academic teachers, videographers and students result in products which reflect their research content in the best possible way.
 
 ####how?
 
@@ -17,31 +30,15 @@ of the overall platform
 - use format of Scientific Research Trailer as a point-of-departure; produce video sequences which use filmic language and do justice to the respective research topic and people who conduct the research.
 - research which media can be used for science communication in which way
 
-####why? reasons for this approach
-
-- this project has a complex structure, uses a variety of technology, adresses and includes different audiences
-- to share the knowledge from building the different sub-projects 
-- the newly emerged field of eLearning and MOOC's possesses great possibilities for the distribution of knowledge and exchange. However, there are currently few examples of projects or courses where the promises of moving images are used to their fullest, and where the different field of expertise of academic teachers, videographers and students result in products which reflect their research content in the best possible way.
-
-
-Science communication is a constituting element of research and learning in order to bridge the gap between science and society. However, many of the new medial possiblities, and above all interactive interfaces, aren't strongly developed yet. The research centers *innokom* and *Stifterverband* conclude in their trend study on science communication, that the step towards "an open-result-oriented, societally engaged dialogue is overdue. Drivers behind this development are new formats in interactive media." Until now, science communication has been communication by the universities' press office, who pubslished research results with gate keeper principles. Which means that the results were communicated further depending on whether or not print, tv or radio would pick up on it. 
-
-There can be identified two main reasons for science communication not reaching beyond an academic public: Either scientists don't have the necessary skill set in order to act as communicators and media designers, or the media professionals try to squeeze scientific content into the standardized storytelling they know from corporate films or TV reports. 
-
-*Gerber, Alexander (2011): Trendstudie Wissenschaftskommunikation – Vorhang auf für Phase 5. 
-Berlin: edition innovare / innokomm Forschungszentrum, p.24*
-
-
 ####who? 
+## who else should be included here?????????
 
 All of the private partners are strong communicators and multipliers in their respective fields. Each of them  
 
 Johanna Barnbeck is an artist, researcher and creative professional offering creative consulting for universities and research institutes who want to use audiovisual media in order to reach their relevant public. She develops concepts for film, photography and crossmedial art projects. Currently, she also works as an embedded researcher on the project Augmenting Masterpieces at the Rijksmuseum, which seeks to develop interfaces between the digital and the physical collection of the museum.
 In this project she will be stimulating the communication activities regarding best practice cases and their formats. 
 
-## who else should be included here?????????
-
-### b) Communication activities
+## b) Communication activities
 
 Iteration of all of those activities in order to build strong cases regarding science communication and develop further storytelling strategies for researchers.
 
