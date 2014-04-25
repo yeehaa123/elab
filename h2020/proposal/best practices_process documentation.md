@@ -5,9 +5,9 @@ Overall Deliverable: Make learnings and models available in best practices and l
 
 ####what? 
 
-- develop further the process documentation and medial communication of larger research projects
-- display and exposure of the project 
 - combining sub-projects into a larger communication framework, which includes libraries, software and on-/offline best practices 
+- develop further the process documentation and medial communication of larger research projects
+- display and exposure of the project through various media and communication channels
 
 ####how?
 
@@ -35,6 +35,8 @@ Berlin: edition innovare / innokomm Forschungszentrum, p.24*
 
 ####who? 
 
+All of the private partners are strong communicators and multipliers in their respective fields. Each of them  
+
 Johanna Barnbeck is an artist, researcher and creative professional offering creative consulting for universities and research institutes who want to use audiovisual media in order to reach their relevant public. She develops concepts for film, photography and crossmedial art projects. Currently, she also works as an embedded researcher on the project Augmenting Masterpieces at the Rijksmuseum, which seeks to develop interfaces between the digital and the physical collection of the museum.
 In this project she will be stimulating the communication activities regarding best practice cases and their formats. 
 
@@ -42,21 +44,28 @@ In this project she will be stimulating the communication activities regarding b
 
 ### b) Communication activities
 
-- Curation of the lab includes a variety of communication activities
+Iteration of all of those activities in order to build strong cases regarding science communication and develop further storytelling strategies for researchers.
+
+- Curation of the physical lab includes a variety of communication activities
   - every 6 months throughout 3 years: project exhibition of the process 
   - every 3 months throughout 3 years: symposium with workshops and speakers / party 
   - monthly: Digital Salon/ Digital Workshop/ Presentations to all Project partners
   - Workshops and Pilots 
- 
-- Science slams
+- Science slams / Pecha Kucha's
 - presenting project results at different types of conferences: developer-, educational-, heritage-, humanities-oriented (here we need representation costs). We're reaching commercial companies and various kinds of institutions.
+
 - use kickstarter and crowdfunding to finance and promote the exhibition. This is also good for societal engagement.
+
 - challenge students (a.k.a. researchers or users) to collaborate on projects with people outside their courses and universities.
+
 - the Coding Sessions workshops that we're already organising reaches all kinds of new users.
+
 - announce projects and (hackathon) challenges via Europeana. As a massive European portal for thousands of heritage institutions, such announcements will reach enormous audiences.
+
 - by involving other universities in using and developing courses, the project is promoted in different countries
-- the exhibition itself will generate massive media attention and a very broad audience.
+
+- Exhibition of the Collections sub-project generates massive media attention and a very broad audience.
 
 
-Iteration of all of those activities in order to build strong cases regarding science communication and develop further storytelling strategies for researchers.
+
 
