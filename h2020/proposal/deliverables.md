@@ -19,7 +19,8 @@ Deliverables
 + built best practice cases and models of collaborations, the connecting interfaces, physical labs
 + cross-media process documentation  
 + libraries of software 
-
++ businessmodel
++ consulting / training
 
 Milestones:
 + Identify the learnings of establishing Coding the Humanities 
