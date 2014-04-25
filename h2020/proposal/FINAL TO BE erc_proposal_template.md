@@ -1,4 +1,4 @@
-List of participants: Jan Hein Hoogstad, Marijn Koolen, Sabrina Sauer (???), Robin Boast, Johanna Barnbeck
+List of participants: Jan Hein Hoogstad, Marijn Koolen, Sabrina Sauer (???), Robin Boast, Johanna Barnbeck, Nynke Bos
 
 **Participant No** (*Please use the same participant numbering as that used in the administrative proposal forms.*)
 Participant organisation name: Universiteit van Amsterdam
@@ -287,6 +287,9 @@ This project will directly contribute to the expected impacts set out in the wor
 **b) Communication activities**
 
 Describe the proposed communication measures for promoting the project and its findings during the period of the grant. Measures should be proportionate to the scale of the project, with clear objectives.  They should be tailored to the needs of various audiences, including groups beyond the project’s own community. Where relevant, include measures for public/societal engagement on issues related to the project. 
+- events: workshops, 
+- outreach to other universities, initiate outreach within the universities
+- 
 
 
 ###3. Implementation
@@ -355,15 +358,21 @@ These fields are going to be explored by phd students, embedded researchers and 
 ####3.2	Management structure and procedures 
  
 *Describe the organisational structure and the decision-making (including a list of milestones (table 3.2a));*
+- private partners can't take over -- connection made via workshops and meetings
+- how do decisions get made given a resistance to hierarchy?
+- git as a platform to collect ideas and share feedback
 
 *Explain why the organisational structure and decision-making mechanisms are appropriate to the complexity and scale of the project;*
 
 *Describe, where relevant, how effective innovation management will be addressed  in the management structure and work plan;*
+- effective innovation management : a self-managed system
 
 *Innovation management is a process which requires an understanding of both market and technical problems, with a goal of successfully implementing appropriate creative ideas. A new or improved product, service or process is its typical output. It also allows a consortium to respond to an external or internal opportunity.*
 
 *Describe any critical risks, relating to project implementation, that the stated project’s objectives may not be achieved. Detail any risk mitigation measures. Please provide a table with critical risks identified and mitigating actions (table 3.2b).*
-
+- dropout of courses
+- lack of participation / low level of participation
+coding the humanities offers ownership while also being online. students are themselves active in producing / developing the content 
 
 
 ####3.3	Consortium as a whole 
@@ -371,7 +380,9 @@ These fields are going to be explored by phd students, embedded researchers and 
 *The individual members of the consortium are described in a separate section 4. There is no need to repeat that information here.* 
 
 *Describe the consortium. How will it match the project’s objectives? How do the members complement one another (and cover the value chain, where appropriate)? In what way does each of them contribute to the project? How will they be able to work effectively together?* 
+- 
 
+ANNA: LOOK INTO:
 *If applicable, describe the industrial/commercial involvement in the project to ensure exploitation of the results and explain why this is consistent with and will help to achieve the specific measures which are proposed for exploitation of the results of the project (see section 2.3).* 
 
 **Other countries:** *If one or more of the participants requesting EU funding is based in a country that is not automatically eligible for such funding (entities from Member States of the EU, from Associated Countries and from one of the countries in the exhaustive list included in General Annex A of the work programme General Annex A of the work programme are automatically eligible for EU funding), explain why the participation of the entity in question is essential to carrying out the project.* 
@@ -513,7 +524,7 @@ Show how you will confirm that the milestone has been attained. Refer to indicat
 |Total|||
 
 
-
+ANNA LOOK INTO:
 *Please complete the table below for all participants that would like to declared costs of large research infrastructure under Article 6.2 of the General Model Agreement6, irrespective of the percentage of personnel costs. Please indicate (in the justification) if the beneficiary’s methodology for declaring the costs for large research infrastructure has already been positively assessed by the Commission.* 
 
 
@@ -579,9 +590,10 @@ Within this proposed project weyeser will provide expertise concerning the quest
 *a  list of up to 5 relevant previous projects or activities, connected to the subject of this proposal;*
 *a  description of any significant infrastructure and/or any major items of technical equipment, relevant to the proposed work;* 
 
-
+ANNA LOOK UP:
 ####4.2.	Third parties involved in the project (including use of third party resources)
 *Please complete, for each participant, the following table (or simply state “No third parties involved”, if applicable):*
+- no third parties involved???
 
 Does the participant plan to subcontract certain tasks  (please note that core tasks of the action should not be sub-contracted) **Y/N**
 
@@ -598,6 +610,9 @@ If yes, please describe the third party and their contributions
 ###5: 	Ethics and security 
  **This section is not covered by the page limit.**
 
+Intellectual Property / ANNA LOOK INTO:
+- checking progress of students, if they create a profile, having access to that. 
+- 
 ####5.1 	Ethics
 
 If you have entered any ethics issues in the ethical issue table in the administrative proposal forms, you must:
