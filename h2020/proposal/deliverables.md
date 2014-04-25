@@ -2,21 +2,14 @@
 
 A list of deliverables of each sub-project.
 
-## Management
 
-Deliverables:
-
-+ 1.1 ...
-
-Milestones:
-
-+ ...
-
-
-## Overall - Documentation of the project:
+## Overall - Management and Documentation of the project:
 
 Deliverables
-+ built best practice cases and models of collaborations, the connecting interfaces, physical labs
++ built best practice cases and models of 
+  + collaborations (types, scenarios), 
+  + the connecting interfaces, 
+  + physical labs
 + cross-media process documentation  
 + libraries of software 
 + businessmodel
@@ -31,38 +24,60 @@ Milestones:
 
 Deliverables:
 
++ 2.1 Software
 
-+ Software
+  + 2.1.1 Platform
 
-  + 2.1.1 Platform version 1
+    + Regular (half-year) updates based on course feedback
 
-  + 2.1.2 Platform version 2
+    + Web interfaces for platform
 
-  + 2.1.3 Open Source Components for:
+    + APIs (Application Programming Interface) for platform
+
+  + 2.1.2 Open Source Components for:
     + Monitoring: observe progress and problems of students 
     + Feedback: build in feedback elements into tutorials and exercises
     + Visualizing Learning Trajectories: tool that guides users in chosing which specific programming skills to learn to build the project/application they envision
     + Managing Workflow: tool that supports the user in breaking down their research project into a sequence of steps
+	+ Course building: tools to put together and modify online courses on and off the platform
 
-+ Events
++ 2.2 Education
 
-  + 2.2.1 Coding Sessions (also: inclusion?)
+  + 2.2.1 10 Online courses, 2 per year
 
-  + 2.2.2 Hacking the Humanities (also: interface)
++ 2.3 Events
 
-  + 2.2.3 Conference
- 
-+ 2.3 Yearly evaluation reports based on regular academic courses Coding the Humanities, From Object to Data and Art, Science & Technology
+  + 2.3.1 Coding Sessions
 
-+ 2.4 Yearly evaluation reports based on overall usage, projects and feedback of the platform
+  + 2.3.2 Hacking the Humanities
 
-+ 2.5 Workshop reports based on Coding Sessions / Hacking the Humanities
+  + 2.3.3 Conference
+
++ 2.4 Reports:
+
+  + 2.4.1 Yearly evaluation reports based on online courses 
+
+  + 2.4.2 Yearly evaluation reports based on overall usage, projects and feedback of the platform
+
+  + 2.4.4 Workshop reports based on Coding Sessions / Hacking the Humanities
+
+  + 2.4.4 Yearly portfolio of (exemplary) research projects
 
 Milestones:
 
 + platform release for regular courses
 + Open Source Components
 + platform public release
+
++ courses offered:
+  + 1 course (tutorials, exercises, projects) offered on the platform
+  + 5 courses offered
+  + 10 courses offered
+  + Coding the Humanities offered as Coursera/Udacity/Edx course
+
++ Universities:
+  + 2 universities offer courses on the platform
+  + 5 universities offer courses on the platform
 
 ## The Lab as Interface
 
