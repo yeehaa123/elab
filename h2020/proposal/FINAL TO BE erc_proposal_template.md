@@ -72,9 +72,9 @@ The objective is realistic and achievable because it both addresses a timely dem
 *Indicate the work programme topic to which your proposal relates, and explain how your proposal addresses the specific challenge and scope of that topic, as set out in the work programme.* 
 
 
-The project proposed fits the work programm  "Platform for ICT for Learning and Inclusion" as it seeks to initiate a dialoge between university scholars and students, knowledge institutions and private companies about the potential merits of ICT for new forms of teaching, learning, knowledge production and transfer. 
+The project proposed fits the work programm  "Platform for ICT for Learning and Inclusion" as it seeks to initiate a dialogue between university scholars and students, knowledge institutions and private companies about the potential merits of ICT for new forms of teaching, learning, knowledge production and transfer.  
 
-For this reason the consortium will conceptualize and develop an online platorm accompanied by an offline space that allow humanities students to acquire coding skills by learning by themselves and in peer groups or in offline workshops and events. This training will empower the students to understand, use and shape their digital tools. It also affords a space for collaboration and exchange. 
+For this reason the consortium will conceptualize and develop an online platform accompanied by an offline space that allow humanities students to acquire coding skills by learning by themselves and in peer groups or in offline workshops and events. This training will empower the students to understand, use and shape their digital tools. It also affords a space for collaboration and exchange. 
 
 The members of the consortium combine a broad expertise that allows to explore how ICT can enhance humanities research and education, how these insights can help knowledge institutions to make their heritage more accessible and understandable for a larger public and how these knowledge can inspire SMEs for the development of new products.
 
