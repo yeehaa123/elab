@@ -7,6 +7,8 @@
   + workshops at academic events
   + embedded research projects
   + 
+
++ (Open Source) Software Developers / Consultants
  
 + Museums and Archives
   + Collections as interfaces
