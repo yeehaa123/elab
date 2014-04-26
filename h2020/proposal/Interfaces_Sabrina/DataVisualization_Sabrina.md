@@ -1,4 +1,4 @@
-#LINES ABOUT VISUALIZATION / INCLUSION IN THE PROJECT
+#THE COLLECTION AS INTERFACE - VISUALIZATION / INCLUSION IN THE PROJECT
 
 Collection as an interface: the exploration of the opportunities interfaces and visualization of data holds for knowledge production and inclusion THIS IS THE THIRD PILLAR OF THE PROJECT: COLLECTION AS INTERFACE
 
