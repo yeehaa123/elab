@@ -11,7 +11,7 @@ How will we reach ...
   + 
 
 + (Open Source) Software Developers / Consultants
-  + //SCS presenting and pitching at PICNIC, European platform for innovation and creativity?//
+  + //SCS// presenting and pitching at PICNIC, European platform for innovation and creativity?
  
 + Museums and Archives
   + build and offer visualisation tools
