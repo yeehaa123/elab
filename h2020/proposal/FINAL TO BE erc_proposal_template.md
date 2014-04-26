@@ -1,4 +1,4 @@
-List of participants: Jan Hein Hoogstad, Marijn Koolen, Sabrina Sauer (???), Robin Boast, Johanna Barnbeck, Nynke Bos
+List of participants: Jan Hein Hoogstad, Marijn Koolen, Sabrina Sauer, Robin Boast, Johanna Barnbeck, Nynke Bos
 
 **Participant No** (*Please use the same participant numbering as that used in the administrative proposal forms.*)
 Participant organisation name: Universiteit van Amsterdam
