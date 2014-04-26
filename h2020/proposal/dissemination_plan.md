@@ -1,13 +1,35 @@
 # Dissemination and Exploitation plan
 
-## Range of users
+## How are we reaching ...
 
 + Humanities researchers (novice and experienced)
+  + online courses in regular curriculum
+  + workshops at academic events
+  + embedded research projects
+  + 
+ 
 + Museums and Archives
+  + Collections as interfaces
+  + Exhibition
+  + Course projects
+
++ Civic organisations
+  + ...
+
++ Policy makers
+  + ...
+
++ General public
+  + Coding Sessions
+  + Exhibition
+  + open projects and challenges 
+  + ...
+
 + ...
 
 ## Uses 
 + governmental and heritage collections
++ labs
 
 
 ## Dissemination
@@ -24,3 +46,4 @@
 
 + through the open, online courses on the platform and the presentation of the project through workshops at academic events and at universities world wide, more universities will be motivated to employ the platform and courses as new and low-cost means to enhance their curriculums.
 
++ we will use exemplary projects made on the platform to convince other knowledge institutions to incorporate the platform as a way to encourage new forms of collaboration amongs their students and staff members and with other institutions internationally.
