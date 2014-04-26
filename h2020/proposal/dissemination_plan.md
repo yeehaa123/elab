@@ -9,6 +9,8 @@ How will we reach ...
   + workshops at academic events
   + embedded research projects
   + 
+
++ (Open Source) Software Developers / Consultants
  
 + Museums and Archives
   + build and offer visualisation tools

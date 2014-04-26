@@ -41,20 +41,28 @@ The second project would relate to the core project of the coding platform. The 
 
 
 
-1.2 Relation to the Work Programme
+####1.2 Relation to the Work Programme
 
 *Indicate the work programme topic to which your proposal relates, and explain how your proposal addresses the specific challenge and scope of that topic, as set out in the work programme.* 
 
 
-The project proposed fits the work programm  "Platform for ICT for Learning and Inclusion" as it seeks to initiate a dialogue between university scholars and students, knowledge institutions and private companies about the potential merits of ICT for new forms of teaching, learning, knowledge production and transfer.  
+The project proposed fits the work programm "Platform for ICT for Learning and Inclusion" as it seeks to initiate a dialogue between university scholars and students, artists, knowledge institutions and private companies about the potential merits of ICT for new forms of teaching, learning, knowledge production and transfer.  
 
-For this reason the consortium will conceptualize and develop an online platform accompanied by an offline space that allow humanities students to acquire coding skills by learning by themselves and in peer groups or in offline workshops and events. This training will empower the students to understand, use and shape their digital tools. It also affords a space for collaboration and exchange. 
+The dialogue will be initiated on and around a open online learning and collaboration platform that allows students, researchers but also the general public in an hands on approach to develop and discuss ICT related questions. The platform seeks to train students and researchers in to understand and shape the digital tools surrounding them. The open design of this interface encourages them to pass on the tools they created and the knowledge they generated.   
+
+The exchange on the use of and knowledge about ICT will be futher advanced by an offline lab that accompanies the online platform. This space, that explores the interplay of on and offline collaborations, workshops, hackathons and presentations are set up to point the attention of a broad audiece towards ICT related topics and encourage them to participate on the online platform itself. 
+
+Finally the software projects, insights of students, private and public partners will feed into a 6 week exhibition in Vienna on ICT and art addressing a large audience and engaging them in workshops. The documentation of the exihibition will be openly accessible online. 
+
+Thus this project aims at providing a platform that equips its users with agency concerning the application and questioning of ICT in order to increase the overall amount of people that can have a say in ICT related discussions. 
 
 The members of the consortium combine a broad expertise that allows to explore how ICT can enhance humanities research and education, how these insights can help knowledge institutions to make their heritage more accessible and understandable for a larger public and how these knowledge can inspire SMEs for the development of new products.
 
-While the focus lies on humanities stundents in the first place, the students are trained to train each other instead of merely providing them with guidance abd support in the use of prefabricated tools. The emphasis on openess and accessibility in the choice of the platforms architecture adds to this approach as it encourages the students to pass on their knowledge to peers and share the outcome of their projects. Open licenses allow other students, universities or knowledge institutions to benefit from the knowledge, code and tools accumulated on the platform. These rescources invite others to share, re-use, adapt and to form collaborations based on code.  
+The consortium will provide training and consultation to humanities students, researchers and scholars. It will gernerate models and strategies concerning the use and development of ICT in an online and offline context that are valueable to other universities, public institutions and companies. 
 
-The platform hence reaches out to other universities, knowledge institutions and private partners alike in order to initiate a dialoge about new forms of education that not only integrate ICT but empower a large number of people to use and shape these technologies to their specific needs. Due to the open licenses used the digital tools developed by the students can be applied and altered also by social institutions, civic movements or the general public.  
+In order to involve a large number of students, researcher, scholars but also non-technology biased people in gereral terms, the platform reaches out to other universities, knowledge institutions and private partners alike. 
+
+in order to initiate a dialoge about new forms of education that not only integrate ICT but empower a large number of people to use and shape these technologies to their specific needs. Due to the open licenses used the digital tools developed by the students can be applied and altered also by social institutions, civic movements or the general public.  
 
 There is a current demand for finding news ways to share resources in the software development community; humanities people are eager to increase their marketability and this is a concrete way to do so. Introducing coding as a natural part of the humanities curriculum will steer humanities students, typically non-technically biased, towards finding it natural to explore and shape new technology in their research. This is significant to all humanities students involved, and will automatically reach a large number of women because humanities students are disproportionately female. An EU study from October 2013 shows that there are still very few girls graduating from ICT programs and the same is true for women working in ICT. The same study claims that more women working in ICT would bring €9 billion annual GDP boost in the digital sector. This project would diminish the trend for women to avoid ICT not by identifying women as a target group or by making ICT appear appealing to women in particular, but by focusing on offering technology to all those who are non-technically biased. Other institutions, such as museums and companies, can also greatly benefit from those in the humanities. Providing a coding platform will link humanities students and researchers to the outside world in tangible ways, and will at the same time allow them to extend their deep thinking to the topic of technology, and more generally to the tools they use rather than the resulting knowledge they obtain.
 
