@@ -11,6 +11,7 @@ How will we reach ...
   + 
 
 + (Open Source) Software Developers / Consultants
+  + //SCS presenting and pitching at PICNIC, European platform for innovation and creativity?//
  
 + Museums and Archives
   + build and offer visualisation tools
@@ -23,6 +24,7 @@ How will we reach ...
 
 + Policy makers
   + ...
+
 
 + General public
   + organising the coding sessions
