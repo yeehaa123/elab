@@ -841,9 +841,6 @@ Gumpendorfer Straße 55
 Austria
 
 
-Wolfgang Haas
-
-
 - *a description of the legal entity and its main tasks, with an explanation of how its profile matches the tasks in the proposal.*
 - *a  curriculum vitae or description of the profile of the persons, including their gender, who will be primarily responsible for carrying out the proposed research and/or innovation activities;*
 - *a  list of up to 5 relevant publications, and/or products, services (including widely-used datasets or software), or other achievements relevant to the  call content;* 
@@ -875,8 +872,9 @@ CastYourArt is a product of the KA21 GmbH, based in Vienna. The founding members
 Wolfgang Haas (born 1969), studied education in Graz (Austria) and finished his PhD in Philosophy in Utrecht (NL), he was Research assistant at the University Utrecht, Assistant at University Graz, had lectureships at the Technical University Graz and University Klagenfurt / Center for interdisciplinary research and advanced education. Wolfgang Haas was Co-publisher of the culture magazine "bob" and is at CastYourArt in charge for editing, production, and strategic development.
 Helmut Feier (born 1972) was managing director and consultant at e-century consulting and senior consultant for ict-knowledge. At CastYourArt he is in charge for ict-development, production.
 
-Further involved 
-Wolfgang Scheikl systemic consulting of organizations, associate of CastYourArt, specialized in change-management.
+*Wolfgang Haas*
+
+*Wolfgang Scheikl* systemic consulting of organizations, associate of CastYourArt, specialized in change-management.
 Raven and Finch, Vienna based company founded by Max Kickinger and Sarah Kehrer, specialized in soundbranding
 
 
