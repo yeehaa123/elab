@@ -10,8 +10,13 @@ How will we reach ...
   + embedded research projects
   + 
 
-+ (Open Source) Software Developers / Consultants
++ (Open Source) Software Developers
   + //SCS// presenting and pitching at PICNIC, European platform for innovation and creativity?
+  + Presenting at EYEO Minneapolis
+  + Presenting at VisConf Boston
+  + Presenting at JSConf
+  + Create Online Tutorials
+  + share our curriculum on github
  
 + Museums and Archives
   + build and offer visualisation tools
