@@ -126,7 +126,18 @@ Milestones:
 Deliverables:
 
 + 4.1 Interfaces exhibition Vienna
-
++ 	- deliverable 1: making a film of the exhibition
++ 	- deliverable 2: kickoff 2 day workshop in Amsterdam that includes our private partners and students. 
++ 	- deliverable 3: contribute to making a course work together with UvA students on the topic of ICT interfaces
++ 	- data drive thing
++ 	- assisting students to develop videos
++ 	- project-oriented, make students work 
+	- creating new formats (that broaden the audience?) for video 
+	- integrating video into ITC, providing a different context with a new frame. 
+	- museums already try to reach a wider audience via video online
+	- want students to find new ways to present data
+	- explore the video as interface between institutions and audience
+	- reaching new audiences ,lead to other technology in museums
 + 4.2 Open Source Library for Visualizing Humanities Research
 
 + 4.3 Repository with museum related projects open to use and develop further
