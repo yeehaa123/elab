@@ -124,14 +124,20 @@ Milestones:
 ## Collection as Interface
 
 Deliverables:
-- Exhibition is the deliverable
+- Exhibition as a communication platform is the deliverable. There there will be events, such as hackethons, workshops, presentations by each partner (CastYourArt, Weyser), all with the goal of lowering the threshhold of technology, making learning new technologies fun and attractive to new people. Attract people with products. 
+- - use the momentum to activate people to enlarge the participating audience
+- To make the exhibition happen, we need: 
+- 	- communications person to build network and get partners on board
+- 	- organize space, logistics
+- 	- 
 - 	- producing content of the exhibition, which should involve the private partners and students
 - 	- documentation to make the products of the exhibition accessible 
 - 	- Milestones: getting various 
 + 4.1 Interfaces exhibition Vienna
 + 	- deliverable 1: making a film of the exhibition
 + 	- deliverable 2: kickoff 2 day workshop in Amsterdam that includes our private partners and students. 
-+ 	- deliverable 3: contribute to making a course work together with UvA students on the topic of ICT interfaces
++ 	- deliverable 3: contribute to making a course work together with UvA students on the topic of ICT interfaces	
++ 	- 
 + 	- document the process of artists in how they handle ICT in preparing for the exhibition
 + 	- data drive thing
 + 	- assisting students to develop videos
