@@ -53,6 +53,8 @@ Deliverables:
 
   + 2.3.3 Conference
 
+  + 2.3.4 workshops at international Digital Humanities events
+
 + 2.4 Reports:
 
   + 2.4.1 Yearly evaluation reports based on online courses 
