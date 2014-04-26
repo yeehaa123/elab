@@ -319,9 +319,71 @@ exploitation measure: consultancy, acting as consultants for companies, for inst
 Find a draft and bulletpoints on this section [here](https://github.com/yeehaa123/erc/blob/master/h2020/proposal/2.2.b_Communication%20activities_best%20practices_process%20documentation.md)
 
 Describe the proposed communication measures for promoting the project and its findings during the period of the grant. Measures should be proportionate to the scale of the project, with clear objectives.  They should be tailored to the needs of various audiences, including groups beyond the project’s own community. Where relevant, include measures for public/societal engagement on issues related to the project. 
-- events: workshops, 
-- outreach to other universities, initiate outreach within the universities
-- 
+
+Overall Deliverable: Make learnings and models available in best practices and libraries.
+
+## Communication activities
+### Towards a format of cross-medial process documentation 
+
+####what? 
+
+- combining sub-projects into a larger communication framework, which includes libraries, software and on-/offline best practices 
+- to share the knowledge from building the different sub-projects 
+- develop further the process documentation and medial communication of larger research projects
+- display and exposure of the project through various media and communication channels
+
+Science communication is a constituting element of research and learning in order to bridge the gap between science and society. However, many of the new medial possiblities, and above all interactive interfaces, aren't strongly developed yet. The research centers *innokom* and *Stifterverband* conclude in their trend study on science communication, that the step towards "an open-result-oriented, societally engaged dialogue is overdue. Drivers behind this development are new formats in interactive media." (*Gerber, Alexander (2011): Trendstudie Wissenschaftskommunikation – Vorhang auf für Phase 5. Berlin: edition innovare / innokomm Forschungszentrum, p.24*) Until now, science communication has been communication by the universities' press office, who pubslished research results with gate keeper principles. Which means that the results were communicated further depending on whether or not print, tv or radio would pick up on it. 
+
+There can be identified two main reasons for science communication not reaching beyond an academic public: Either scientists don't have the necessary skill set in order to act as communicators and media designers, or the media professionals try to squeeze scientific content into the standardized storytelling they know from corporate films or TV reports. 
+The newly emerged field of eLearning and MOOC's possesses great possibilities for the distribution of knowledge and exchange. However, there are currently few examples of projects or courses where the promises of moving images are used to their fullest, and where the different field of expertise of academic teachers, videographers and students result in products which reflect their research content in the best possible way.
+
+#### our approach
+- the project partners's expertise include both media professionals as well as researchers. Throughout the project they will attend workshops in order to reflect on the forms of scientific communication and test it's range through a variety of comunication activities (see below).
+- this project has a complex structure, uses a variety of technology, adresses and includes different audiences
+
+####how?
+
+- cross-medial best practice 
+- built a bridge between the concrete implementation of video, learning and collecting as one part 
+of the overall platform
+- use format of Scientific Research Trailer as a point-of-departure; produce video sequences which use filmic language and do justice to the respective research topic and people who conduct the research.
+- research which media can be used for science communication in which way
+
+####who? 
+## who else should be included here?????????
+
+All of the private partners are strong communicators and multipliers in their respective fields. Each of them will  
+
+Johanna Barnbeck is an artist, researcher and creative professional offering creative consulting for universities and research institutes who want to use audiovisual media in order to reach their relevant public. 
+She develops concepts for film, photography and crossmedial art projects. Currently, she also works as an embedded researcher on the project Augmenting Masterpieces at the Rijksmuseum, which seeks to develop interfaces between the digital and the physical collection of the museum.
+(If specification is useful: In this project she will be giving workshops regarding best practice cases and their formats.)
+
+## b) Communication activities
+
+Iteration of all of those activities in order to build strong cases regarding science communication and develop further storytelling strategies for researchers.
+
+- Curation of the physical lab includes a variety of communication activities
+  - every 6 months throughout 3 years: project exhibition of the process 
+  - every 3 months throughout 3 years: symposium with workshops and speakers / party 
+  - monthly: Digital Salon/ Digital Workshop/ Presentations to all Project partners
+  - Workshops and Pilots 
+  - Grand finale in order to end the four year collaborative research partnership with Dark Horse and mark the moment of complete independency
+
+- Science slams / Pecha Kucha's
+- presenting project results at different types of conferences: developer-, educational-, heritage-, humanities-oriented (here we need representation costs). We're reaching commercial companies and various kinds of institutions.
+
+- use kickstarter and crowdfunding to finance and promote the exhibition. This is also good for societal engagement.
+
+- challenge students (a.k.a. researchers or users) to collaborate on projects with people outside their courses and universities.
+
+- the Coding Sessions workshops that we're already organising reaches all kinds of new users.
+
+- announce projects and (hackathon) challenges via Europeana. As a massive European portal for thousands of heritage institutions, such announcements will reach enormous audiences.
+
+- by involving other universities in using and developing courses, the project is promoted in different countries
+
+- Exhibition of the Collections sub-project generates massive media attention and a very broad audience.
+
 
 
 ###3. Implementation
@@ -332,14 +394,16 @@ Describe the proposed communication measures for promoting the project and its f
 
 *brief presentation of the overall structure of the work plan* 
 
-The proposed project is structured into four research fields: 
+The proposed project is structured into three fields: 
 
-1) an online platform for learning and research, that allows students to aqcuire coding skills and work collaboratively
-2) a space for embedded research – an offline space that complements the online platform and provides an in-between environment for university and public and private partners
-3) the exploration of the opportunities interfaces and visualization of data holds for knowledge production
-4) research that aims at developing strategies for development and inclusion
+1) The Platform as Interface 
+In this workpackage an online platform for learning and research will be conceptualized by 
 
-These fields are going to be explored by phd students, embedded researchers and students in combination with public and private partners. Inspired by open source culture and software development practices the fields are going to be explored simulataneously so that insights from one of the fields can be applied tranfered early on to the other fields. 
+2) The Lab as Interface  – an offline space that complements the online platform and provides an in-between environment for university and public and private partners
+3) The Collection as Interface - the exploration of the inclusive opportunities interfaces and visualization of data holds for knowledge production
+
+
+Inspired by open source culture and software development practices the fields are going to be explored simulataneously so that insights from one of the fields can be applied tranfered early on to the other fields. 
 
 *timing of the different work packages and their components (Gantt chart or similar)*
 *detailed work description, i.e.:*
@@ -412,7 +476,9 @@ coding the humanities offers ownership while also being online. students are the
 *The individual members of the consortium are described in a separate section 4. There is no need to repeat that information here.* 
 
 *Describe the consortium. How will it match the project’s objectives? How do the members complement one another (and cover the value chain, where appropriate)? In what way does each of them contribute to the project? How will they be able to work effectively together?* 
-- 
+
+
+
 
 ANNA: LOOK INTO:
 *If applicable, describe the industrial/commercial involvement in the project to ensure exploitation of the results and explain why this is consistent with and will help to achieve the specific measures which are proposed for exploitation of the results of the project (see section 2.3).* 
@@ -727,14 +793,15 @@ ANNA LOOK INTO:
 Ritterstraße 12 - 14  
 Aufgang 4, Etage 3  
 10969 Berlin  
-
-*Lisa Zoth* has a background in political science and anthropology. She has conducted several projects in regard to the implementation of the Design Thinking Methodology and Culture into companies such as SAP or Deutsche Bahn. Her research focus lies on the design of organizational collaboration and implementing innovation processes into traditional structures. Lisa Zoth will in this project be mainly involved in the need finding, synthesis and ideation phase of the project and evaluating the collaboration processes among the embedded researchers.
-
-*Patrick Kenzler* is an architect and interior designer. In his research he focusses on the design of spatial concepts for collaboration. Patrick Kenzler has conceptualized and designed several collaboration spaces such as for the HPI School of Design Thinking or the Humboldt Lab. In this project he will be involved in the needfinding, synthesis and ideation phase and is mainly responsible for the 3D-modeling of the first prototype as well as the furnishing and the fitting-out of the Living Lab.
+Germany
 
 *Dark Horse* is an innovation agency based in Berlin which creates user-centered products and services and helps clients to change their structures, processes and minds. Their work is based on Design Thinking principles and their own unusual working culture that simultaneously stresses ﬂexibility and connections. They design spatial, procedural and social conditions of collaboration in on- and offline settings. Guided by their participative design approach, they created spaces and working culture for collaboration in science and creative industry.
 
 Within the proposed project Dark Horse is going to conduct research on and develop a conceptual framework and design for a physical space that accompanies and complements the online learning platform. Their user centered approach and the background in anthropology and interior design allows Lisa Zoth and Patrick Kenzler to understand and translate the requirements of such a space into a practical design concept and the according user culture. They will provide an answer to the crucial question of how online collaboration and innovative practice can be initiated, accelerated and fostered through an offline setting. Moreover their research will provide insights to the students’ needs that cannot be satisfied merely by the application of ICT but are better addressed with a combination of digital instruments and offline collaboration and training methods.
+
+*Lisa Zoth* has a background in political science and anthropology. She has conducted several projects in regard to the implementation of the Design Thinking Methodology and Culture into companies such as SAP or Deutsche Bahn. Her research focus lies on the design of organizational collaboration and implementing innovation processes into traditional structures. Lisa Zoth will in this project be mainly involved in the need finding, synthesis and ideation phase of the project and evaluating the collaboration processes among the embedded researchers.
+
+*Patrick Kenzler* is an architect and interior designer. In his research he focusses on the design of spatial concepts for collaboration. Patrick Kenzler has conceptualized and designed several collaboration spaces such as for the HPI School of Design Thinking or the Humboldt Lab. In this project he will be involved in the needfinding, synthesis and ideation phase and is mainly responsible for the 3D-modeling of the first prototype as well as the furnishing and the fitting-out of the Living Lab.
 
 *Previous projects or activities*
 
@@ -753,15 +820,65 @@ Within the proposed project Dark Horse is going to conduct research on and devel
 
 #####Weyeser
 
-Alexandro Mancusi *(add CV or description of the profile and responsibilities in the project)*
+Delftechpark 26
+2628 XH Delft
+Niederlande
 
-Weyeser is a company specialized in supporting organizations to translate big amounts of data into knowledge by means of data mining, text mining and visualization. Their solutions offer Governments, Governmental Institutions, Universities, Think Tanks and Corporations ways of objectively assessing their knowledge portfolio and that of their peers.
+
+*Weyeser* is a company specialized in supporting organizations to translate big amounts of data into knowledge by means of data mining, text mining and visualization. Their solutions offer Governments, Governmental Institutions, Universities, Think Tanks and Corporations ways of objectively assessing their knowledge portfolio and that of their peers.
 
 Within this proposed project weyeser will provide expertise concerning the questions of how mere data processing can be transformed into a process of knowledge production. Not only cultural institutions, but organizations, institutions and companies of all fields produce and provide increasing sets of digital data. Weyeser will develop applications that allows humanities students to compile new perspectives and knowledge from the analysis, correlation and visualization of these data sets. At the same time these tools will make humanities research and concepts more tangible and accessible to an larger audience. 
 
 *a  list of up to 5 relevant publications, and/or products, services (including widely-used datasets or software), or other achievements relevant to the  call content;* 
 *a  list of up to 5 relevant previous projects or activities, connected to the subject of this proposal;*
 *a  description of any significant infrastructure and/or any major items of technical equipment, relevant to the proposed work;* 
+
+
+#####CastYourArt
+
+Gumpendorfer Straße 55
+1060 Wien
+Austria
+
+
+Wolfgang Haas
+
+
+- *a description of the legal entity and its main tasks, with an explanation of how its profile matches the tasks in the proposal.*
+- *a  curriculum vitae or description of the profile of the persons, including their gender, who will be primarily responsible for carrying out the proposed research and/or innovation activities;*
+- *a  list of up to 5 relevant publications, and/or products, services (including widely-used datasets or software), or other achievements relevant to the  call content;* 
+- *a  list of up to 5 relevant previous projects or activities, connected to the subject of this proposal;*
+- *a  description of any significant infrastructure and/or any major items of technical equipment, relevant to the proposed work;*
+(*any other supporting documents specified in the work programme for this call*)
+ 
+
+Our committment
+
+Art and thought about art enrich our lives. This is why we from CastYourArt provide insights into the world of art. CastYourArt wants to discover, make accessible, transmit, support and entertain. In doing so we rely on content rather than superficiality, authenticity instead of glib professionalism, complexity instead of oversimplification, we rely on networking and exchange rather than on separation and of course we love what we do. 
+ 
+
+Content
+
+
+In the audio and video features produced by CastYourArt we visit artists, exhibitions, collectors, persons and institutions involved in the world of art and portray them. It is all about ideas and thoughts, protagonists, networks and mechanisms, about experiments, theories and reflection, inspiration and emotions, about diversity as well as discrepancies. How are works of art created and which ideas motivated the artist? What motivates the collector - fascination, profit, love, addiction, calculation? How does a curator see his exhibition and how does the audience? We are interested in these and other questions. We want to hear frankly, see differently, be there, make available and tangible, be inspired, and be able to learn. Productions by CastYourArt want to express individuality and leave room for development of creative potential in the production process.  
+ 
+
+
+Performance
+ 
+
+CastYourArt produced about 250 video-portraits of artists and art-institutions within the last six years. This videos are published through the CastYourArt plattform (www.castyourart.com) as well as podcasting, wikipedia etc. In 2013 CastYourArt had about 1 million plays within its podcast-subscriptions and its website. Additionally to its online activities CastYourArt is also busy offline.   
+
+CastYourArts services include advice, production and distribution of audio and film features, creation and editing of textual content, online and offline distribution of the features, exhibition activities, project development and organisation in the domain of art, and artist management as well as liaising between art and business. We call art to people’s attention. We offer the infrastructure to show what exhibition halls, museums, galleries, collectors and art-oriented companies offer for art-interested people. We exhibit art. We accompany artists in the actualisation of their ideas, beginning from strategy to financial planning, organisation, communication to sales; we manage artists in every step of their career.
+
+CastYourArt is a product of the KA21 GmbH, based in Vienna. The founding members are Wolfgang Haas, Helmut Feier and Franz Morgenbesser. Managing directors and in charge are Wolfgang Haas and Helmut Feier.
+Wolfgang Haas (born 1969), studied education in Graz (Austria) and finished his PhD in Philosophy in Utrecht (NL), he was Research assistant at the University Utrecht, Assistant at University Graz, had lectureships at the Technical University Graz and University Klagenfurt / Center for interdisciplinary research and advanced education. Wolfgang Haas was Co-publisher of the culture magazine "bob" and is at CastYourArt in charge for editing, production, and strategic development.
+Helmut Feier (born 1972) was managing director and consultant at e-century consulting and senior consultant for ict-knowledge. At CastYourArt he is in charge for ict-development, production.
+
+Further involved 
+Wolfgang Scheikl systemic consulting of organizations, associate of CastYourArt, specialized in change-management.
+Raven and Finch, Vienna based company founded by Max Kickinger and Sarah Kehrer, specialized in soundbranding
+
 
 ANNA LOOK UP:
 ####4.2.	Third parties involved in the project (including use of third party resources)
