@@ -365,43 +365,57 @@ A recent EU study shows that only 30% of the people in the ICT sector in Europe 
 *Describe how your project will contribute to the expected impacts set out in the work programme, under the relevant topic;*
 
 *Describe any barriers/obstacles, and any framework conditions (such as regulation and standards), that may determine whether and to what extent the expected impacts will be achieved. (This should not include any risk factors concerning implementation, as covered in section 3.2.)* 
-
 2. Impact
 
 2.1 Expected impacts
 
-The main goal of the project is to reach and train a large number of humanities students, researchers and scholars and initiate collaboration through coding projects and a debate about the digital tools in use. This goal will be pursued through active involvement of students and researchers on the online interface, the use of the offline lab, and collaborations with universities, organizations and private partners.
+The main goal of the project is to reach and train a large number of humanities students, researchers and scholars and initiate collaboration through coding projects and a debate about the digital tools in use. This goal will be pursued through active involvement of students and researchers on the online interface, the use of the offline lab, collaborations with universities, organizations and private partners.
 
-This project will facilitate the transformation of thousands of non-technically biased people, beginning with humanities students, into technologically empowered positions, making them able to participate in innovation processes of technologies they use.
+On a larger scope the project will provide an online learning platform that is freely accessible and contains collection digital tools that can be re-used, adapted or developed further. The platform therefore holds the potential of enabling and equipping a large number of non-technologically biased people to use these and other tools according to their needs. In order make this project known to potentially digitally excluded persons Coding the Humanities seeks to facilitate collaborations with diverse partners, such as knowledge institutes, civic movements and municipals. 
 
-This project contributes to the impacts expected in the work programme "Platform for ICT for Learning and Inclusion" by promoting digital inclusion. The coding platform (Platform as Interface) would bring thousands of people who are reluctant or face societal obstacles to technology a heightened awareness of technology in creative and enjoyable ways, starting with students at the University of Amsterdam. This would result in increasingly employable humanities students, as they would have marketable skills in new technology. 
-
+This hands on approach will train thousands of humanities students to develop digital agency and at the same time seeks to interests many potentially digitally excluded persons and train them to collaboratively expand their coding skills and to pass on this knowledge. Every active user therefore become a collaborator and multiplyer.
 
 *Targets* 
 
-- the goal is to have 20.000 active users of the online platform after four years
-- the physcial lab should be used by at least 50 people on a regular basis
-- the model of the lab should be applied by at least four other prublic or privat institutions 
-- with workshops, presentations, hackathons we intend to reach at least 1000 people per year
-- we intend to give presentations together with the private partners on at least 5 conferences / symposiums per year  
+As concrete targets we intent to:
+
+- have 20.000 active users of the online platform after four years
+- have at least 50 regular users of the physical lab 
+- have the model of the lab implemented by at least four other public or private institutions 
+- reach at least 1000 people workshops, presentations, hackathons with varying levels of technological knowledge
+- to give presentations together with the private partners on at least 5 conferences / symposiums per year  
+- involve international digital/media artists and reach and involve hundreds of visitors of the fare for digital devices in Vienna in 2017 
+
+*Reaching these goals*
 
 *University of Amsterdam*
 
 The three offline courses "Art, Science, and Technology", "Coding the Humanities", "From Objected Data" initiate the participation on the platform with 20 students per course, 60 students in total in 2014 and create a awareness of the project before the official release.
 
-In the following years 4 courses (12 ECT) per year starting 2015 will reach 320 students. During the same time 40 embedded researchers will use the online interface and the pilot and the actual physical lab.
+In the following years four courses (12 ECT) per year starting 2015 will reach 320 students. These students are meant to work as tutors and pass on their knowledge to other humanities students and engage with them in projects based on their research interests.
+
+During the same time 40 embedded researchers will use the online interface and the pilot and the actual physical lab. The experience gained for the work within this analogue and digital collaborative space, naturally integrates into their research which is aimed at modeling a product or service for a cultural institution with regard to the digital enhancement the services.
+
 
 *Best (good) practice models for other universities and organizations*
 
-Collaborations with at least four other european universities with humanities departments equal in size to that of the faculty of humanities of the University of Amsterdam (7.000 students) will introduce the platform on an international level to a large goup of humanities students and scholars. These universities integrate the platform into their curriculum. Coding the Humanities will provide scholars from the other universities with consultation on the implementation of the platform in the coursework.
+Collaborations with at least four other universities with humanities departments equal in size to that of the faculty of humanities of the University of Amsterdam (7.000 students) will introduce the platform on an international level to a large goup of humanities students and scholars. These universities integrate the platform into their curriculum. Coding the Humanities will provide scholars from the other universities with consultation on the implementation of the platform in the coursework.
 
 The success of these collaborations can be directly measured through the number of participating students and of their portfolios on github. Among the involved humanities scholars an active exchange about the integration of the platform into their teaching will be initiated and curated by Coding the Humanities communications staff. 
 
-Coding the Humanities will furthermore reach out to organizations like open knowledge foundations and research centers like the Creative Industries Research Centre Amsterdam, Centre for Digital Humanities Amsterdam will diversify and enlarge the usergroup further.
+Coding the Humanities will furthermore reach out to initiatives like the open knowledge foundation, railsgirls and research centers like the Creative Industries Research Centre Amsterdam and Centre for Digital Humanities Amsterdam to diversify and enlarge the usergroup further.
+
+*Public and Private Partners* 
+
+The direct cooperation with different SMEs will allow for the co-development of products and services and thus include another perspective into the digital tools needed in humanities teaching and education. 
+
+*Events*
+
+All findings, for example in form of reports, presentation, videos, design blueprints, and the code generated in the project will be documented and accessible online. The project manager of Coding the Humanities will initiate a series of events that points the awareness groups with various levels of technical knowledge to these tools and the interface itself. Furthermore, the project will be presented at various conferences, symposia and conventions in the field of education and software.  
 
 Via the online interface, the physical space and a series of events, Coding the Humanities is going to reach and empower a diverse audience of people different levels of programming and technological knowledge. The mix of hands on courses and tutorials and offline workshops will empower humanities students to enter a dialogue on the impact of digital tools on their research and ways of collaboration.  
 
-The collaboration with different institutions and organizations will increase the diversity of particpants and loosen up the homogeneous group of humanities researchers. The develoment of services and products related to humnaities research but also aimed at the needs of a larger public (for example knowledge institutions) ensure that the dialogue about digital tools exeeds an abstract realm which is not user centred and evolves between ICT experts. Instead it includes a diverse groups of a new kind of enabled users. 
+The collaboration with different institutions and organizations will increase the diversity of participants and loosen up the homogeneous group of humanities researchers. The development of services and products related to humanities research but also aimed at the needs of a larger public (for example knowledge institutions) ensure that the dialogue about digital tools exceeds an abstract realm which is not user centered and evolves between ICT experts. Instead it includes a diverse groups of a new kind of enabled users. 
 
 
 #### 2.2 Measures to maximise impact
