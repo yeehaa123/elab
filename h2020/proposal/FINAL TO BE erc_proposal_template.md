@@ -42,58 +42,6 @@ We identify four dilemmas about statements on learning and research that can be 
 3. *Numbers*: Future education should revolve around massive numbers (Big Data, MOOC).
 4. *Elite*: Coding and knowledge production remain privileges of a cultural, technological and economic elite.
 
-
-### Problems and Principles
-
-<table border="1" style="border-collapse: collapse">
-	<tr>
-		<th></th>
-		<th colspan="5">Principle</th>
-	</tr>
-	<tr>
-		<th>Problem</th>
-		<th>Training over Support</th>
-		<th>Collaboration over Ownership</th>
-		<th>Online over Massive</th>
-		<th>Knowledge Production over Data Processing</th>
-		<th>Accessibility over State-of-the-art</th>
-	</tr>
-	<tr>
-		<td>Literacy</td>
-		<td>X</td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td>X</td>
-	</tr>
-	<tr>
-		<td>Organisation</td>
-		<td></td>
-		<td>X</td>
-		<td>X</td>
-		<td></td>
-		<td>X</td>
-	</tr>
-	<tr>
-		<td>Numbers</td>
-		<td>X</td>
-		<td>X</td>
-		<td></td>
-		<td>X</td>
-		<td>X</td>
-	</tr>
-	<tr>
-		<td>Elite</td>
-		<td>X</td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td>X</td>
-	</tr>
-</table>
-
-
-
 Our answer to these dilemmas provide the following objectives:
 
 1. Digital Literacy: Increase the number of people who approach learning and research collaboratively, through an online platform where users collaboratively learn programming and build tools, thereby increasing digital literacy and at same time lowering the technological threshold to engage with and reflect on digital tools. (challenge and embrace)
@@ -113,234 +61,13 @@ We propose to do this in three parts:
 
 3. *Collections as interfaces*: The exhibition would be a combination of on and offline projects, culminating in a public six week exhibition in the Museum Square in Vienna three years into the project. We endeavor to involve students from the platform, partners from the lab space, as well as other private and public partners, developers, and the general population. This exhibition would consist of workshops, data events, speakers, art installations, and presentations on relationships between ITC, art, business, and cultural heritage. 
 
-### Problems and Projects
-
-<table border="1" style="border-collapse: collapse">
-	<tr>
-		<th></th>
-		<th colspan="5">Project</th>
-	</tr>
-	<tr>
-		<th>Problem</th>
-		<th>Platforms as Interfaces</th>
-		<th>Labs as Interface</th>
-		<th>Collections as Interfaces</th>
-	</tr>
-	<tr>
-		<td>Literacy</td>
-		<td>X</td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>Organisation</td>
-		<td></td>
-		<td>X</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>Numbers</td>
-		<td>X</td>
-		<td></td>
-		<td>X</td>
-	</tr>
-	<tr>
-		<td>Elite</td>
-		<td>X</td>
-		<td>X</td>
-		<td>X</td>
-	</tr>
-</table>
-
-
 We also challenge the traditional educational dichotomy of researchers as experts and students as novices. Learning and research are hard to separate as both revolve around involve producing and sharing knowledge, where each participant can be both the sender and receiver of knowledge. This leads us to five principles which will guide our implementation of these interfaces:
 
-1. *Training over support*: Our first core value is training so that a learner will soon be able to pass on the knowledge to another learner. While support can result in repeatedly assisting the same person with the same issue, maintaining a distinction and even hierarchy in skillsets, training provides experience to the learner to bring them to an equal level to the trainer.
+1. *Training over support*: Our first core value is training so that a learner will soon be able to pass on the knowledge to another learner. While support can result in repeatedly assisting the same person with the same issue, maintaining a distinction and even hierarchy in skill sets, training provides experience to the learner to bring them to an equal level to the trainer.
 2. *Collaboration over ownership*: Related to training over support is our second core principle, which favors collaborative over competitive efforts. Owning processes and results together on an equal basis promotes great teamwork.
 3. *Online over Massive*: The format of the platform encourages students to first learn coding online, but intends them to also have a physical team within their institution. This complements the Massive Open Online Course (MOOC) concept, which includes only an online context for learning.
 4. *Knowledge production over data processing*: <explanation>
 5. *Accessibility over state-of-the-art*: Our fifth core value is that of tools that are less complicated to begin to use over those that are state-of-the-art. Whereas state-of-the-art tools attract primarily the technically biased, more accessible tools have the power to reach a wider group of new users, including the non-technically biased. This supports our goal of inclusion of traditionally and currently underrepresented populations in ICT.
-
-
-### Principles and Implementation
-
-<table border="1" style="border-collapse: collapse;">
-	<tr>
-		<th>Implementation</th>
-		<th>Training over Support</th>
-		<th>Collaboration over Ownership</th>
-		<th>Online over Massive</th>
-		<th>Knowledge Production over Data Processing</th>
-		<th>Accessibility over State-of-the-art</th>
-	</tr>
-	<tr>
-		<td>Language based</td>
-		<td></td>
-		<td>X</td>
-		<td></td>
-		<td>X</td>
-		<td>X</td>
-	</tr>
-	<tr>
-		<td>Tool-oriented</td>
-		<td>X</td>
-		<td></td>
-		<td></td>
-		<td>X</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>User-centered</td>
-		<td></td>
-		<td>X</td>
-		<td></td>
-		<td>X</td>
-		<td>X</td>
-	</tr>
-	<tr>
-		<td>Embedded Research</td>
-		<td></td>
-		<td>X</td>
-		<td></td>
-		<td>X</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>JavaScript</td>
-		<td>X</td>
-		<td></td>
-		<td>X</td>
-		<td></td>
-		<td>X</td>
-	</tr>
-	<tr>
-		<td>Git</td>
-		<td>X</td>
-		<td>X</td>
-		<td>X</td>
-		<td></td>
-		<td>X</td>
-	</tr>
-	<tr>
-		<td>Peer organisation &amp; evaluation</td>
-		<td></td>
-		<td>X</td>
-		<td></td>
-		<td>X</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>Browser first</td>
-		<td></td>
-		<td></td>
-		<td>X</td>
-		<td></td>
-		<td>X</td>
-	</tr>
-	<tr>
-		<td>Webcomponents</td>
-		<td></td>
-		<td>X</td>
-		<td>X</td>
-		<td>X</td>
-		<td>X</td>
-	</tr>
-
-</table>
-
-
-<table border="1" style="border-collapse: collapse">
-	<tr>
-		<th></th>
-		<th colspan="5">Problem</th>
-	</tr>
-	<tr>
-		<th>Deliverable/Milestone</th>
-		<th>Literacy</th>
-		<th>Organization</th>
-		<th>Numbers</th>
-		<th>Elite</th>
-	</tr>
-	<tr>
-		<td>Platform</td>
-		<td>X</td>
-		<td>X</td>
-		<td>X</td>
-		<td>X</td>
-	</tr>
-	<tr>
-		<td>Exhibition</td>
-		<td></td>
-		<td></td>
-		<td>X</td>
-		<td>X</td>
-	</tr>
-	<tr>
-		<td>Lab prototype</td>
-		<td></td>
-		<td>X</td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>Online First Courses</td>
-		<td>X</td>
-		<td></td>
-		<td>X</td>
-		<td>X</td>
-	</tr>
-	<tr>
-		<td>Courses offered Cross-University</td>
-		<td>X</td>
-		<td></td>
-		<td>X</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>Open Source Tools Released</td>
-		<td></td>
-		<td>X</td>
-		<td>X</td>
-		<td>X</td>
-	</tr>
-	<tr>
-		<td>Webcomponents Released</td>
-		<td></td>
-		<td>X</td>
-		<td>X</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>Workshops (academic, commercial, general)</td>
-		<td>X</td>
-		<td></td>
-		<td>X</td>
-		<td>X</td>
-	</tr>
-	<tr>
-		<td>Project results from challenges</td>
-		<td></td>
-		<td>X</td>
-		<td></td>
-		<td>X</td>
-	</tr>
-	<tr>
-		<td>...</td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>...</td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-</table>
-
-<br/><br/>
 
 Coding the Humanities is already a strong and unique research project in Amsterdam (UvA, VU, HvA) that has been successfully running for over one year. Closely linked to projects such as zooniverse, dh, data drive, AAA, chat, and circa, Coding the Humanities explores interplay between humanities and technology. We engage traditionally non-technically biased students with technology in order to empower them to proactively create their own tools, as well as to more deeply and holistically reflect on those tools. We aim to extend beyond the coursework currently offered in order to connect humanities students to artistic, cultural, and business institutions. 
 
@@ -385,7 +112,7 @@ Connecting humanities to technology unlocks potential for holistic approaches to
 Many humanities students and scholars are reluctant to learn new technologies, and thereby limit both their own ability to influence the outside world, as well as the incorporation of technology in their research. As Mitch Resnick has said, not being able to take charge of the technological tools we use to meet our own particular needs is similar to being able only to read a language but not write. For full use of the language and to use it to express ourselves, we must also be able to use it to create new structures. To make full use of technologies, we must be able not just to use them passively, but to modify them. This venture will empower humanities students and scholars to proactively drive their own learning and research. When they engage with technology through coding, they open the doors to master and innovate their own tools.
 
 
-The coding platform will build upon Coding the Humanities, an already strong research project at the University of Amsterdam that has been successfully running for more than a year. Coding the Humanities is closely linked to several other projects, including zooniverse, dh, chat, and circa, and explores interplay between humanities and technology within the humanities faculty. It currently introduces programming to humanities students through coursework. We have three courses that are incorporated into the curriculum on programming basics. The course "Art, Science, and Technology" is running now, and the courses "Coding the Humanities" and "From Objected Data" will both begin in September 2014. Increasing the number of humanities students and scholars with programming skills through this coding platform will allow them to shape and create digital tools that meet their particular research needs and encourage new forms of learning, teaching and knowledge production. This skillset will sensitize the participants to their technological environment and make them aware of the challenges and opportunities ICT offers for humanities research. Coding knowledge makes those in the humanities more employable because humanities students and scholars will increasingly need to be able to read and write code. Expanding the context beyond the classroom to the coding platform will give students a venue to connect and share with participants outside the university.
+The coding platform will build upon Coding the Humanities, an already strong research project at the University of Amsterdam that has been successfully running for more than a year. Coding the Humanities is closely linked to several other projects, including zooniverse, dh, chat, and circa, and explores interplay between humanities and technology within the humanities faculty. It currently introduces programming to humanities students through coursework. We have three courses that are incorporated into the curriculum on programming basics. The course "Art, Science, and Technology" is running now, and the courses "Coding the Humanities" and "From Objected Data" will both begin in September 2014. Increasing the number of humanities students and scholars with programming skills through this coding platform will allow them to shape and create digital tools that meet their particular research needs and encourage new forms of learning, teaching and knowledge production. This skill set will sensitize the participants to their technological environment and make them aware of the challenges and opportunities ICT offers for humanities research. Coding knowledge makes those in the humanities more employable because humanities students and scholars will increasingly need to be able to read and write code. Expanding the context beyond the classroom to the coding platform will give students a venue to connect and share with participants outside the university.
 
 
 ##### 1.3.2 Assumptions involved
@@ -715,6 +442,7 @@ exploitation measure: consultancy, acting as consultants for companies, for inst
 *What standards will be used?*
 
 *How will this data be exploited and/or shared/made accessible for verification and re-use? If data cannot be made available, explain why.*
+Data will be easily accessible for verification, reuse, and development. 
 
 *How will this data be curated and preserved?*  
 
@@ -747,12 +475,12 @@ Overall Deliverable: Make learnings and models available in best practices and l
 
 Science communication is a constituting element of research and learning in order to bridge the gap between science and society. However, many of the new medial possiblities, and above all interactive interfaces, aren't strongly developed yet. The research centers *innokom* and *Stifterverband* conclude in their trend study on science communication, that the step towards "an open-result-oriented, societally engaged dialogue is overdue. Drivers behind this development are new formats in interactive media." (*Gerber, Alexander (2011): Trendstudie Wissenschaftskommunikation – Vorhang auf für Phase 5. Berlin: edition innovare / innokomm Forschungszentrum, p.24*) Until now, science communication has been communication by the universities' press office, who pubslished research results with gate keeper principles. Which means that the results were communicated further depending on whether or not print, tv or radio would pick up on it. 
 
-There can be identified two main reasons for science communication not reaching beyond an academic public: Either scientists don't have the necessary skill set in order to act as communicators and media designers, or the media professionals try to squeeze scientific content into the standardized storytelling they know from corporate films or TV reports. 
-The newly emerged field of eLearning and MOOC's possesses great possibilities for the distribution of knowledge and exchange. However, there are currently few examples of projects or courses where the promises of moving images are used to their fullest, and where the different field of expertise of academic teachers, videographers and students result in products which reflect their research content in the best possible way.
+Two main reasons can be identified for science communication not reaching beyond an academic public: Either scientists do not have the necessary skill set in order to act as communicators and media designers, or the media professionals try to squeeze scientific content into the standardized storytelling they know from corporate films or TV reports. 
+The newly emerged field of eLearning and MOOCs possesses great possibilities for the distribution of knowledge and exchange. However, there are currently few examples of projects or courses where the promises of moving images are used to their fullest, and where the different field of expertise of academic teachers, videographers and students result in products which reflect their research content in the best possible way.
 
 #### our approach
-- the project partners's expertise include both media professionals as well as researchers. Throughout the project they will attend workshops in order to reflect on the forms of scientific communication and test it's range through a variety of comunication activities (see below).
-- this project has a complex structure, uses a variety of technology, adresses and includes different audiences
+The project partners' expertise include both media professionals as well as researchers. Throughout the project they will attend workshops in order to reflect on the forms of scientific communication and test its range through a variety of comunication activities (see below).
+This project has a complex structure, uses a variety of technology, and adresses and includes different user groups.
 
 #### how?
 
