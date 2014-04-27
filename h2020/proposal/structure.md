@@ -235,5 +235,98 @@ We identify:
 
 </table>
 
+<table border="1" style="border-collapse: collapse">
+	<tr>
+		<th></th>
+		<th colspan="5">Problem</th>
+	</tr>
+	<tr>
+		<th>Deliverable/Milestone</th>
+		<th>Literacy</th>
+		<th>Organization</th>
+		<th>Numbers</th>
+		<th>Elite</th>
+	</tr>
+	<tr>
+		<td>Platform</td>
+		<td>X</td>
+		<td>X</td>
+		<td>X</td>
+		<td>X</td>
+	</tr>
+	<tr>
+		<td>Exhibition</td>
+		<td></td>
+		<td></td>
+		<td>X</td>
+		<td>X</td>
+	</tr>
+	<tr>
+		<td>Lab prototype</td>
+		<td></td>
+		<td>X</td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Online First Courses</td>
+		<td>X</td>
+		<td></td>
+		<td>X</td>
+		<td>X</td>
+	</tr>
+	<tr>
+		<td>Courses offered Cross-University</td>
+		<td>X</td>
+		<td></td>
+		<td>X</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Open Source Tools Released</td>
+		<td></td>
+		<td>X</td>
+		<td>X</td>
+		<td>X</td>
+	</tr>
+	<tr>
+		<td>Webcomponents Released</td>
+		<td></td>
+		<td>X</td>
+		<td>X</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Workshops (academic, commercial, general)</td>
+		<td>X</td>
+		<td></td>
+		<td>X</td>
+		<td>X</td>
+	</tr>
+	<tr>
+		<td>Project results from challenges</td>
+		<td></td>
+		<td>X</td>
+		<td></td>
+		<td>X</td>
+	</tr>
+	<tr>
+		<td>...</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>...</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+</table>
+
+<br/><br/>
+
 </body>
 </html>
