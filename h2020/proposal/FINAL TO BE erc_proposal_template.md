@@ -17,7 +17,6 @@ Coordinator: Jan Hein Hoogstad
 #### 1.1 Objectives 
 *Describe the specific objectives for the project, which should be clear, measurable, realistic and achievable within the duration of the project. Objectives should be consistent with the expected exploitation and impact of the project (see section 2).* 
 
-k
 <!-- What is the problem? -->
 
 Learning and research (in the Humanities) are hindered by a lack of coding skills and the seeming incommensurability of educating massive groups of students and providing high quality education.
