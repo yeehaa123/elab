@@ -17,9 +17,10 @@ Coordinator: Jan Hein Hoogstad
 #### 1.1 Objectives 
 *Describe the specific objectives for the project, which should be clear, measurable, realistic and achievable within the duration of the project. Objectives should be consistent with the expected exploitation and impact of the project (see section 2).* 
 
+k
 <!-- What is the problem? -->
 
-Learning and research (in the Humanities) are hindered by a lack of digital literacy and the seeming incommensurability of educating massive groups of students and providing high quality education.
+Learning and research (in the Humanities) are hindered by a lack of coding skills and the seeming incommensurability of educating massive groups of students and providing high quality education.
 
 
 <!-- Why is it an interesting/important problem? -->
@@ -105,6 +106,7 @@ In order to involve a large number of students, researcher, scholars but also no
 
 *Describe and explain the overall concept underpinning the project. Describe the main ideas, models or assumptions involved;* 
 Connecting humanities to technology unlocks potential for holistic approaches to innovation, including those that consider ethical/moral impacts of technology and its use, ...
+
 
 ##### 1.3.1 Introduction
 
