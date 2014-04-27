@@ -34,13 +34,6 @@ The first project will address the Physical Lab element, and will involve a PhD 
 The second project would relate to the core project of the coding platform. The PhD student would research how to reflect on tools through coding. S/he would conceptualize, plan, monitor, and program the coding platform. This PhD would serve as a way of measuing the development and success of the platform over four years. This researcher will be well integrated into the context of the university's department of digital humanities, and will also collaborate with private and public partners.
 
 
-
-
-
-
-
-
-
 ####1.2 Relation to the Work Programme
 
 *Indicate the work programme topic to which your proposal relates, and explain how your proposal addresses the specific challenge and scope of that topic, as set out in the work programme.* 
@@ -48,7 +41,7 @@ The second project would relate to the core project of the coding platform. The 
 
 The project proposed fits the work programm "Platform for ICT for Learning and Inclusion" as it seeks to initiate a dialogue between university scholars and students, artists, knowledge institutions and private companies about the potential merits of ICT for new forms of teaching, learning, knowledge production and transfer.  
 
-The dialogue will be initiated on and around a open online learning and collaboration platform that allows students, researchers but also the general public in an hands on approach to develop and discuss ICT related issues. The platform seeks to train students and researchers to understand and shape the digital tools surrounding them. The open design of this interface encourages them to pass on the tools they created and the knowledge they generated.   
+The dialogue will be initiated on and around a open online learning and collaboration platform that allows students, researchers but also the general public in an hands on approach to shape ICT and discuss ICT related issues. The platform seeks to train students and researchers to understand and shape the digital tools surrounding them. The open design of this interface encourages them to pass on the tools they created and the knowledge they generated.   
 
 The exchange on the use of and knowledge about ICT in research and education will be further advanced by an offline lab that accompanies the online platform. In this space, that explores the interplay of on- and offline collaborations, workshops, hackathons and presentations are set up to point the attention of a broad audience towards ICT as a means to enhance knowledge production and encourage them to participate on the online platform itself. 
 
@@ -60,9 +53,7 @@ The members of the consortium combine a broad expertise that allows to explore h
 
 The consortium will provide training and consultation to humanities students, researchers and scholars. It will gernerate models and strategies concerning the use and development of ICT for teaching and education in an online and offline context that are valueable to other universities, public institutions and companies. 
 
-In order to involve a large number of students, researcher, scholars but also non-technology biased people in gereral terms, the platform reaches out to other universities, knowledge institutions and private partners alike. 
-
-in order to initiate a dialoge about new forms of education that not only integrate ICT but empower a large number of people to use and shape these technologies to their specific needs. Due to the open licenses used the digital tools developed by the students can be applied and altered also by social institutions, civic movements or the general public.  
+In order to involve a large number of students, researcher, scholars but also non-technology biased people in gereral terms, the platform reaches out to other universities, knowledge institutions and private partners alike in order to initiate a dialoge about new forms of education that not only integrate ICT but empower a large number of people to use and shape these technologies to their specific needs. Due to the open licenses used the digital tools developed by the students can be applied and altered also by social institutions, civic movements or the general public.  
 
 
 
@@ -71,16 +62,17 @@ in order to initiate a dialoge about new forms of education that not only integr
 *Describe and explain the overall concept underpinning the project. Describe the main ideas, models or assumptions involved;* 
 Connecting humanities to technology unlocks potential for holistic approaches to innovation, including those that consider ethical/moral impacts of technology and its use, ...
 
-Many humanities students and scholars are reluctant to learn new technologies, and thereby limit both their own ability to influence the outside world, as well as the incorporation of technology in their research. As Mitch Resnick has said, not being able to take charge of the technological tools we use to meet our own particular needs is similar to being able only to read a language but not write. For full use of the language and to use it to express ourselves, we must also be able to use it to create new structures. To make full use of technologies, we must be able not just to use them passively, but to modify them. This venture will empower humanities students and scholars to proactively drive their own learning and research. When they engage with technology through coding, they open the doors to master and innovate their own tools.
+#####1.3.1 Introduction
 
+Many humanities students and scholars are reluctant to learn new technologies, and thereby limit both their own ability to influence the outside world, as well as the incorporation of technology in their research. As Mitch Resnick has said, not being able to take charge of the technological tools we use to meet our own particular needs is similar to being able only to read a language but not write. For full use of the language and to use it to express ourselves, we must also be able to use it to create new structures. To make full use of technologies, we must be able not just to use them passively, but to modify them. This venture will empower humanities students and scholars to proactively drive their own learning and research. When they engage with technology through coding, they open the doors to master and innovate their own tools.
 
 
 The coding platform will build upon Coding the Humanities, an already strong research project at the University of Amsterdam that has been successfully running for more than a year. Coding the Humanities is closely linked to several other projects, including zooniverse, dh, chat, and circa, and explores interplay between humanities and technology within the humanities faculty. It currently introduces programming to humanities students through coursework. We have three courses that are incorporated into the curriculum on programming basics. The course "Art, Science, and Technology" is running now, and the courses "Coding the Humanities" and "From Objected Data" will both begin in September 2014. Increasing the number of humanities students and scholars with programming skills through this coding platform will allow them to shape and create digital tools that meet their particular research needs and encourage new forms of learning, teaching and knowledge production. This skillset will sensitize the participants to their technological environment and make them aware of the challenges and opportunities ICT offers for humanities research. Coding knowledge makes those in the humanities more employable because humanities students and scholars will increasingly need to be able to read and write code. Expanding the context beyond the classroom to the coding platform will give students a venue to connect and share with participants outside the university.
 
 
-models:
+##### 1.3.2 Assumptions involved
 
-assumptions involved: 
+
 - assumption that academia and the rest of the world are separate and cannot interact, and the idea that they can work together. More specifically, the idea that humanities students and scholars are separated from technology, and the goal of engaging them with it.
 
 - universities face a loss of authority as models of traditional education being replicated in online formats, and the goal of creating new tools in the context of today’s increasingly interdependent world
@@ -93,12 +85,11 @@ assumptions involved:
 
 - We also favor knowledge production over data processing...
 
-Troppenmuseum, Europeana: threshhold is too high to learn how to manipulate the technology. They have these amazing collections but need a way to engage more with a concrete audience, make their collection more accessible - inclusion
+
 
 1) Inclusion: how institutions can gain from this new approach
-   * 1 PhD
    * coursework on coding
-   * 
+   * Europeana: threshhold is too high to learn how to manipulate the technology. They have these amazing collections but need a way to engage more with a concrete audience, make their collection more accessible - inclusion
    
 2) Physical Lab
   * Dark Horse
@@ -108,56 +99,107 @@ Troppenmuseum, Europeana: threshhold is too high to learn how to manipulate the 
    * Sabrina -- the postdoc
    * 
    
-##### Approach
+##### 1.3.3 Structure
 
-This research proposal consists of four integrated research areas in which public-private-civic partnerships (quad-helix) lead to a sharing of expertise and collaborative practices geared at the development of a cutting-edge innovative educational ecosystem that is specific to the (digital) humanities. These research areas are socio-technical in their approach; apart from combining insights from different partners to develop technological solutions (such as an online educational platform), valorize existing and new R&D methodologies (such as design thinking methodologies and embedded research practices) and the translation of data streams and information in intuitive interfaces that make use of visualization, this research proposal seeks to specially gear technological developments and efforts to enhance society by closing the digital divide. By collaborating throughout the project with public, private and civic partners, the project foresees the accumulation of knowledge and a digital skilling of particular hitherto unreached civic groups. 
+This research proposal consists of three integrated action fields in which public-private-civic partnerships (quad-helix) lead to a sharing of expertise and collaborative practices geared at the development of a cutting-edge innovative educational ecosystem that is specific to the (digital) humanities but reaches beyond this realm. These fields are socio-technical in their approach; apart from combining insights from different partners to develop technological solutions (such as an online educational platform), valorize existing and new R&D methodologies (such as design thinking methodologies and embedded research practices) and the translation of data streams and information in intuitive interfaces that make use of visualization, this research proposal seeks to specially gear technological developments and efforts to enhance society by closing the digital divide. By collaborating throughout the project with public, private and civic partners, the project foresees the accumulation of knowledge and a digital skilling of particular hitherto unreached civic groups. 
 
-These efforts should be viewed in line with two overarching developments in contemporary society and in humanities’ research; the move to create smart cities where citizens are digitally empowered and the development of digital humanities. By integrating the digital skilling of citizens with the agenda of the development of digital humanities, the project aims to perform academic research through a digital inclusion methodology/practice. Practically, the envisioned educational platform realizes local engagement, user-focused learning with both an individually-oriented as well as collective component; collaboration and the accumulation of knowledge and skills are key to a successful implementation of the platform. 
-Each of the four research areas anticipates and addresses an upcoming challenge. 
+These efforts should be viewed in line with two overarching developments in contemporary society and in humanities’ research; the move to create smart cities where citizens are digitally empowered and the development of digital humanities. By integrating the digital skilling of citizens with the agenda of the development of digital humanities, the project aims to perform academic research through a digital inclusion methodology/practice. Practically, the envisioned educational platform realizes local engagement, user-focused learning with both an individually-oriented as well as collective component; collaboration and the accumulation of knowledge and skills are key to a successful implementation of the platform.
 
-##### 1. The Platform as Interface
-**The Platform as Interface** 
+Each of the three areas anticipates and addresses an upcoming challenge. 
 
-In order to initiate a fruitful debate about the development and application of ICT it is crucial not only to start that debate among ICT experts. On the contrary this debate should evolve around users and their needs. Thus one of the main challenges to face for the creation of a sustainable dialogue about the opportunities ICT offers is to interest and educate non-technical bias persons in the use and development of ICT.  
+######1.3.3.1 The Platform as Interface** 
 
-CtH pursues this goal by addressing humanities students but at the same time provides an online learning interface that is reaching out to non-tech biased people in general by lowering the threshold to engage with ICT. This platform therefore opens up the closed university realm for the education of bigger numbers and overcome the limitation of ICT training to a cultural, technological and economical elite.   
+In order to initiate a fruitful debate about the development and application of ICT it is crucial not only to start that debate among ICT experts. On the contrary, this debate should evolve around users and their needs. Thus one of the main challenges to face for the creation of a sustainable dialogue about the opportunities ICT offers is to interest and educate non-technologically biased persons in the use and development of ICT.  
+
+CtH pursues this goal by addressing humanities students and at the same time provides an online learning interface that is reaching out to non-techonologically biased people in general by lowering the threshold to engage with ICT. This platform therefore opens up the closed university realm for the education up to bigger numbers and overcomes the limitation of ICT training to a cultural, technological and economical elite.   
 
 Whereas classical digital humanities programs often rely ICT experts that develop programs for the humanities and provide for supportive actions for the implementation of these tools, coding the humanities seeks to train the students and researchers themselves to shape ICT and understand the possibilities the tools they hold in their hands offer. Hereby the online platform intents to enlarge the circle of people that are involved in the development of ICT beyond the small group of experts. 
 
-The platform provide an "online first" approach which means that the students find the means to learn coding and work collaboratively online first through online courses and tutorials but can complement these tools with offline meetings. 
-This approach avoids the mere transfer of offline teaching methods into the online world, which is a typical weakness of many Massive Open Online Courses (MOOCs), but explores what offline collaboration can be informed by strategies applied with online tools and how innovative offline practices can initiate and foster online cooperation. It seeks to provide students with the technological foundations to acquire and develop these skills by themselves and in peer learning based processes, based on tutorials and assignments
+The platform provides an "online first" approach which means that the students find the means to learn coding and work collaboratively online first through courses and tutorials but can complement these tools with offline meetings. This approach avoids the mere transfer of offline teaching methods into the online world, which is a typical weakness of many Massive Open Online Courses (MOOCs), but explores what offline collaboration can be informed by strategies applied with online tools and how innovative offline practices can initiate and foster online cooperation. It seeks to provide students with the technological foundations to acquire and develop these skills by themselves and in peer learning based processes, based on tutorials and assignments
 
 CtH projects are produced and stored under open licenses which encourages the collaboration and reuse of the software tools by other institutions, companies or partners and therefore provides. These platform in this sense triggers direct debate on the status of ICT in the humanities.  
 
-In times of big data more and more data is available but not necessary turned into knowledge. The Coding the Humanities platform educates students, researchers and others on how to approach this data. It allows its participants to gain insights by addressing these dataset. The CtH projects and tools are therefore easily relate able to already existing open data movements - it seeks to provide its users with digital agency that evolves into debates on open data.
+In times of big data more and more data is available but not necessary turned into knowledge. The Coding the Humanities platform educates students, researchers and non-technologically biased people on how to approach this data. It allows its participants to gain insights by addressing these dataset. The CtH projects and tools are therefore easily relateable to already existing open data movements - it seeks to provide its users with digital agency that evolves into debates on open data.
 
 The platform will embrace open source culture and open licenses. The students share their code projects on a distributed repository which encourages re-use, altering and further development. This platform is therefore open, inclusive and sustainable.
 
+**Technical approach**
 
-*Approach*
+On the technical side the design of the platform is inspired by and makes use of open source software and the attached collaborative strategies.
 
-For the platform, users make a profile on GitHub, an online public platform for maintaining and sharing repositories that has distributed version control (each user has access to all versions of all documents in the project and can modify existing projects). Their profiles contain all their work, every single contribution to their repositories, which encourages sharing and reuse but also provides them with a portfolio which shows their skills. This portfolio increases the employability of humanities students in addition to serving as a documentation site. 
+Users make a profile on GitHub, an online public platform for maintaining and sharing repositories that has distributed version control (each user has access to all versions of all documents in the project and can modify existing projects). Their profiles contain all their work, every single contribution to their repositories, which encourages sharing and reuse but also provides them with a portfolio which shows their skills. This portfolio increases the employability of humanities students in addition to serving as a documentation site. 
 
 The platform is developed in JavaScript, which will also be the main programming language that is used on the platform. JavaScript is the language that is used on most websites and in all modern web browsers to let the user interact with the web. The advantage of using JavaScript is that it gives users access to the full stack of technologies: client-side, server-side and database levels can be controlled with JavaScript. With it, programmers can interact with data on any website and any web platform. JavaScript also combines the major programming paradigms, so users switching to other programming languages will recognise many elements and don't need to start from scratch.
 
- All interaction with the platform is done via the web browser. All modern browsers allow users to directly interact with web sites and servers through the browser console using JavaScript. Thereby users can directly apply their coding skills to anything they encounter on the web. Another advantage is that this minimises the threshold to developing and using programmings skills, as web browsers are found on most computers and are provided by default with all popular operating systems. At the same time, using JavaScript in the browser exposes users to the full range of programming possibilities.
+All interaction with the platform is done via the web browser. All modern browsers allow users to directly interact with web sites and servers through the browser console using JavaScript. Thereby users can directly apply their coding skills to anything they encounter on the web. Another advantage is that this minimises the threshold to developing and using programmings skills, as web browsers are found on most computers and are provided by default with all popular operating systems. At the same time, using JavaScript in the browser exposes users to the full range of programming possibilities.
 
-The platform is tool oriented. Students develop small tools and widgets that perform small parts of the research they want to conduct. The reason to focus on tools is that researchers in general and humanities scholars in particular need to reflect critically on the tools they use for their research. By becoming proficient at conceptualising and developing tools, scholars develop a keen eye for perceiving how digital tools work in general. 
+Furthermore, the platform is tool oriented. Students develop small tools and widgets that perform small parts of the research they want to conduct. The reason to focus on tools is that researchers in general and humanities scholars in particular need to reflect critically on the tools they use for their research. By becoming proficient at conceptualisig and developing tools, scholars develop a keen eye for perceiving how digital tools work in general. 
 
-Developments in programming languages have shifted the focus from computation to language. Commands in modern programming languages are more like natural language expressions, whereas older languages forced programmers to formulate very algebraic commands. This makes modern languages more intuitive to use, which lowers the threshold and together with the vast number of interesting JavaScript modules available on the web, even novice programmers can build interesting applications in a matter of hours or days instead of months or years. Promoting programming skills to a large audience makes more sense now than ever before. . 
+Developments in programming languages have shifted the focus from computation to language. Commands in modern programming languages are more like natural language expressions, whereas older languages forced programmers to formulate very algebraic commands. This makes modern languages more intuitive to use, which lowers the threshold and together with the vast number of interesting JavaScript modules available on the web, even novice programmers can build interesting applications in a matter of hours or days instead of months or years. Promoting programming skills to a large audience makes more sense now than ever before.
+
+**User Experience**
+
+The users of the platform will acquire programming skills via modular online courses and tutorials with direct visual feedback and the ability to concurrently work on the same code and copy and comment on each others work in real-time. This approach encourages peer learning and collaboration.
+
+The platform is set up in such a way that universities can integrate learning modules from CtH in their curriculum, while students can build up their portfolios through research projects, with which they can show both their progress to teachers and their skills and achievements to employers. Furthermore, like indicated abot the application integrates naturally with Github and other open source environments, lowering the threshold for a diverse audience to reuse, copy and extend the prototypes, products and results of interest to society, including the general public, academics and companies.
 
 
-##### 2. The Lab as Interface
+#####1.3.3.2 The Lab as Interface - The OverLab
 
 Universities are open up towards other universities, civic movements and companies, so that other groups can benefit from their knowledge.
 
-This process of opening up can be accelerated by spaces that are situated in between. The living labs show how this can lead to innovation. Spaces for spaces for embedded research a place for overlapping , theory and artistic practice , physical and digital research , of studio, workshop, library , of institutions - private and public , an independent place outside the department structure of the university , a room that enables, allows to experiment
+This process of opening up can be accelerated by spaces that are situated in between. The living labs show how this can lead to innovation. Spaces for spaces for embedded research a place for overlapping, theory and artistic practice, physical and digital research, of studio, workshop, library, of institutions - private and public, an independent place 
 
-Embedded researcher is a new and exiting role within the university. Its goal is to establish sustainable partnerships between private partners and universities. In practice, however, this turns out to be 
-problematic, since the role and position of this kind of researcher is peripheral by definition. The embedded research usual works on short term projects and inbetween the academy and a company. 
+**Introduction** 
+
+One of the challenges concerning new forms of online learning is to form a community of participants that are interested to engage with a platform over a longer period of time and actively contribution to sustainable projects. This sub-project addresses these challenges by the design and production of an offline living lab as interface between digital and analogue world.
+
+As a user-driven methodology, Living Labs aim to blur the boundaries between technology users and producers by including (future) users of technologies from the start of technology development. Positioning users as co-creators would reverse traditional “top-down” R&D-processes performed by companies in favour of “bottom-up” innovation, performed by users and grounded in society instead of in corporate research laboratories. This practice is hoped to lead to unexpected insights into user ideas and practices (Almirall, 2008: 43 Almirall, E. (2008). Living Labs and Open Innovation: Roles and Applicability. The Electronic Journal for Virtual Organizations and Networks, 10(August), 21–46) and lead to the development of more successful ICTs.
+To gain unexpected insights, methodologies focus on the inclusion of real (end) users in  daily life contexts. The Living Lab thus also comprises a setting; a setting that affords “experimentation environments in which technology is given shape in real life context and in which (end) users are considered co-producers” (Ballon et al., 2005: 13 Ballon, P., Delaere, S., Pierson, J., M, P., Slot, M., Bierhof, J., & Diocaretz, M. (2005). Test & Experimentation Platforms for Broadband Innovation: Conceptualizing and Benchmarking International Best Practice).
+
+This living lab, the OverLab, will explore the integration and complementation of ICT based learning and collaboration into an offline environment. It will serve as a testbed to initiate, support and foster online ICT projects. At the same time, the strategies and practices of the analogue space inform the development of the digital platform. Innovative perspectives on the application of ICT in general and its integration into an offline space will be explored through experimental, user focused workshops that result in a physical space. The conception and design of the lab according to user needs is a crucial part within this subproject. 
+This approach will produce models and concepts for the design and user culture of a living lab that feeds of and informs the online learning platform. The process will be openly documented and intends the imitation and formation of living labs related to the coding the humanities platform.  
+
+The initial users of this interface are researchers that are situated in between a variety of aspects themselves: Embedded researchers work between theory and (artistic) practice, physical and digital research, science and art, universities and public or private partners. Their needs as digital knowledge worker on the one hand and a specific but homogeneous group on the other hand, allow valuable insights concerning the question of how ICT can provide instruments to make research more open, accessible and sustainable. 
+
+It will be an independent place outside the department structure of the university in which studio, workshop and library intertwine, a room that enables and allows to experiment.
+
+**Project Overview** 
+
+Embedded researcher is a new and exiting role within the university. Its goal is to establish sustainable partnerships between private partners and universities. In practice, however, this turns out to be problematic, since the role and position of this kind of researcher is peripheral by definition. The embedded researcher usually works on short term projects and in between the academy and a company which seeks to establish sustainable collaborations between the creative industries and universities. Though the future of research lies more and more in collaborations between disciplines and fields, between public and private partnerships, practice and theory, between classic methodology and flexible theory, co-creation and collaborations the interdisciplinary researcher enters work spaces which are not built by or for them and uses methodology and means of exposure which remain in the respective fields.
+
+Where artists use their atelier, designers their studio and scientists their lab for experimentation, testing and collaboration, the embedded researcher enters a traditional, disciplinary university environment even though they are often expected to address research questions with a practical and creative research aspect. But artistic expression and creativity do not obey closing hours and bureaucratic sterility of university buildings.
+
+A virtual and physical lab is essential to compensate for the aforementioned problems. An online and offline platform - that already exists before they start, and will start after their contracts end - a space is a necessary precondition for embedded research projects that are actually sustainable. In this project we want to explore how such a lab should look like. Therefore this project seeks to investigate and built upon the combined needs for newly established forms of research by means of self-reflective research by the combined skills and expertise of the public and private partner using design thinking.  
+
+Therefore this project seeks to investigate and built upon the combined needs for newly established forms of researchs by means of self-reflective research by the combined skills and expertise of the public and private partner using design thinking. 
+When working from a human-centered approach it is crucial to not think of the form of the outcome right away or to be limited to just one medium or technology. But in order to experiment and innovate, a flexible workspace is as much needed as a flexible methodological framework which stimulates creating research designs with specific tools. 
+
+**Challenge** 
+The work space of the embedded researchers are regular office spaces at the university, supplied with a desk and a computer. The scope of most projects however require a variety of work settings. When working from a human-centered approach it is crucial to not think of the form of the outcome right away or to be limited to just one medium or technology. But in order to experiment and innovate, a flexible workspace is needed. Artistic expression and creativity do not obey closing hours and bureaucratic sterility of university buildings. 
+How could the ideal workspace for knowledge workers look like? How could the working environment be adapted to meet the changed research requirements of knowledge workers at the Departments for Digital Humanities, Media Studies, Cultural Analysis and Artistic Research? How can these physical structures create a sustainable link with an online learning environment? And how can the analogue and digital workspaces best be linked to each other? 
 
 
-##### 3. The Collection as Interface - Visualization and Inclusion
+**How to: user-centered approach Design Thinking** 
+
+GRAPHIC
+
+
+aims at ﬁnding out about users’s needs via an ethnographic research tools, synthesizes, narrows insights down to hit the core of a problem, condensed synthesis enables to start into an ideation part 
+generates a broad variety of ideas, makes ideas tangible in rapid and rough prototypes, cost-efﬁcient development 
+
+Future University related research has to be informed by open methodologies. Increasingly funding is spread competitively for small research periods, also in order to foster the collaboration between the public and the private sector, for example in the form of embedded researchers. Even though the emphasis here is on sustainable research, the projects are often closed and presented and not open for further development (unless some additional funding allows to proceed) Truely sustainable research is OPEN and would mean that a project has releases - at some point (after the official end of the research period) other students, embedded researchers are allowed and encouraged to take the outcome of the research, alter and develop it further. At some point (after the official end of the research period) other students, embedded researchers are allowed and encouraged to take the outcome of the research, alter and develop it further. 
+
+
+Need
+- increasing need of knowledge workers to combine theoretical as well as hands-on approaches in their research
+- current workspaces do not provide enough space, the right material and technology to experiment
+- methodological framework for researching interdisciplinary methodology
+- best practice for building sustainable public-private-partnerships
+
+
+
+#####1.3.3.3 The Collection as Interface - Visualization and Inclusion
 
 
 Collection as an interface: the exploration of the opportunities interfaces and visualization of data holds for knowledge production and inclusion THIS IS THE THIRD PILLAR OF THE PROJECT: COLLECTION AS INTERFACE
@@ -165,9 +207,9 @@ Collection as an interface: the exploration of the opportunities interfaces and 
 INCLUSION – COLLECTION HUMANITIES ACADEMIA- VISUALIZATION
 INCLUSION – COLLECTION CIVIC ENGAGEMENT WITH COLLECTIONS AND VISUALIZATIONS/INTERFACES
 
-As Chinn and Fairly have shown in their cross country analysis on digital divide (Chinn and Fairly, 2004 ADD REFERENCE!!IIS THERE A MORE RECENT STUDY ABOUT THIS?) there are not only dramatic geographic differences in accessibility to and user skills of ICT but also socio-economic and demographic gaps. Vast societal groups face the problem of digitally exclusion. Accessibility to and digital literacy about ICTs determine whether a person is included into economic, social and cultural life, and whether they can participate in decision making processes within the democratic realm. In other words using and comprehending ICT is about agency and inclusion. With regard to the growing impact of ICT not only on economic productivity but also within the cultural, social and political realm, this exclusion forms a challenge in terms of equality, inclusion and chances of participation.
+There are not only dramatic geographic differences in accessibility to and user skills of ICT but also socio-economic and demographic gaps (Chinn and Fairly). Vast societal groups face the problem of digital exclusion. Accessibility to and digital literacy about ICTs determine whether a person is included into economic, social and cultural life, and whether they can participate in decision making processes within the democratic realm. In other words, using and comprehending ICT is about agency and inclusion. With regard to the growing impact of ICT not only on economic productivity but also within the cultural, social and political realm, this exclusion forms a challenge in terms of equality, inclusion and chances of participation.
 
-One area in which the challenge of digital literacy and exclusion is prominent, is within humanities research. Academia is increasingly confronted with large amounts of data. In order to turn this data into information and into knowledge, researchers and students need tools that allow to structure, search, correlate, analyze but most importantly present and visualize this data. This is also true for working fields related to the humanities: museums, libraries and archives are challenged to make the huge data sets that result from digitalization of the cultural heritage they foster //opencultuur.nl//, accessible and understandable for as many people as possible. Despite the opportunities these mass resources generated in numerous digitization projects provide, humanities researchers and students are – due to a lack of skills - reluctant to exploit these troves.
+One area in which the challenge of digital literacy and exclusion is prominent is within humanities research. Academia is increasingly confronted with large amounts of data. In order to turn this data into information and into knowledge, researchers and students need tools that allow to structure, search, correlate, analyze, but most importantly present and visualize this data. This is also true for working fields related to the humanities: museums, libraries and archives are challenged to make the huge data sets that result from digitalization of the cultural heritage they foster //opencultuur.nl//, accessible and understandable for as many people as possible. Despite the opportunities these mass resources generated in numerous digitization projects provide, humanities researchers and students are – due to a lack of skills - reluctant to exploit these troves.
 
 //"While digital resources are becoming more visible in the humanities, use of these resources by scholars remains limited. … Digitization projects are bringing texts, data sources, sound, and images to the scholar’s desktop; however, the functions on which research in the humanities depend are neither well understood nor well supported by librarians."// (Brockman et al, 2001) / Bradley Text
 
@@ -175,7 +217,11 @@ At the same time, governments, municipalities and cultural institutions increasi
 
 Coding the Humanities trains students and researchers to read and handle data streams and shows possible ways to translate these into visualizations. Visualizations such as cartography, timelines, graphs, diagrams or animations, as well as the design of interactive interfaces help to translate data into knowledge by providing a context for different information and a combination of different data sets. This approach can boost humanities research and at the same time it makes humanities concepts and research productive and understandable for a broader audience as the visual translation of the data can inspire the mind to new insights.
 
-In practice, the choice is made to encourage researchers to first learn to program in JavaScript; JavaScript has a low threshold for the practical application of code in various fields. Here the researchers can also experiment with and apply their knowledge to existing open code resources. In addition to this, existing visualization applications and programs - such as cartography, timelines, graphs, diagrams or animations - are made available to humanities’ researchers. Combining newly developed JavaScript coding skills with enhanced visualization applications literacy, allows humanities’ researchers to elicit new knowledge and scientific insights by experimenting with existing JavaScript libraries such as Data Driven Documents http://d3js.org/ while they at the same time gain good control over the visual outcome of their research endeavors. These tools thus enhance the analysis and understanding of complex relations and concepts relevant to humanities’ research. At the same time data sets become comprehensible and presentable to a broader audience. Supported by private partners in the consortium, researchers will also develop new tools that may be applied to different open data sets, provided by cultural institutions and organizations⁶. 
+In practice, the choice is made to encourage researchers to first learn to program in JavaScript; JavaScript has a low threshold for the practical application of code in various fields. Here the researchers can also experiment with and apply their knowledge to existing open code resources. In addition to this, existing visualization applications and programs - such as cartography, timelines, graphs, diagrams or animations - are made available to humanities’ researchers. Combining newly developed JavaScript coding skills with enhanced visualization applications literacy, allows humanities’ researchers to elicit new knowledge and scientific insights by experimenting with existing JavaScript libraries such as Data Driven Documents http://d3js.org/ while also gaining good control over the visual outcome of their research endeavors. These tools thus enhance the analysis and understanding of complex relations and concepts relevant to humanities’ research. At the same time data sets become comprehensible and presentable to a broader audience. Supported by private partners in the consortium, researchers will also develop new tools that may be applied to different open data sets, provided by cultural institutions and organizations⁶. 
+
+
+A FOOTNOTE!
+
 
 The developed tools can be applied to different data sets. Especially with regard to the above mentioned open data sets provided by more and more cultural institutions and organizations, data visualization tools provide a great foundation for collaborative activities between universities and other institutions. These tools allow to exceed the mode of mere data processing to the actual production of new insights and knowledge.
 
@@ -188,11 +234,12 @@ Apart from working to skill humanities’ researchers within the project, a seco
 
 **Consortium** 
 
-In this research field we work with the Dutch company weyeser with its expertise in supporting organizations to translate big amounts of data into knowledge by means of data mining, text mining and visualization. So far their solutions offer governments, governmental institutions, universities, think tanks and corporations ways of objectively assessing their knowledge portfolio and that of their peers. Within the framework of CtH weyeser will support humanities students in the analysis and visualization of the humanities related data sets relevant to their research.
+In this research field we work with the Dutch company weyeser with its expertise in supporting organizations to translate big amounts of data into knowledge by means of data mining, text mining and visualization. So far their solutions offer governments, governmental institutions, universities, think tanks and corporations ways of objectively assessing their knowledge portfolio and that of their peers. Within the framework of CtH, weyeser will support humanities students in the analysis and visualization of the humanities related data sets relevant to their research.
 
-Weyesers expertise with visialisations and interfaces is accompanied by Austrian company CastYourArt which is focused on consulting, production and online/offline distribution of audio and video material in which they present artists, exhibitions and collectors and take art out of the museum context.
+Weyesers' expertise with visialisations and interfaces is accompanied by the Austrian company CastYourArt, which is focused on consulting, production and online/offline distribution of audio and video material in which they present artists, exhibitions and collectors and take art out of the museum context.
 
 The public partners inviolved are the Royal Tropical Institute, a research institut with five Dutch museums attached  and Europeana, the network of european libraries, archives and other cultural institutions. 
+
 
 
 //We would love to initiate a collaboration between you and the private/public partners that allows Coding the Humanities researchers and students to explore new formats to make data and information related to museum collections accessible and experienceable. With regard to the private partners these explorations could involve the conception and development of visualizations in general terms, as video or audio and/or in form of interfaces.// 
