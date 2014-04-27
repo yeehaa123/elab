@@ -476,39 +476,6 @@ Moreover, the consortium in this research field will be completed by a public pa
 
 Visualization empowers the students to make the increasing number of large datasets productive for their research. The new perspectives gained also provide arguments and strategies for a larger audience ranging from museums to foundations to civic movements.
 
-### Interfaces: Governing the Platform
-
-As Chinn and Fairly have shown in their cross country analysis on digital divide (Chinn and Fairly, 2004) there are not only dramatic geographic differences in accessibility to and user skills of ICT but also socio-economic and demographic gaps. There is a large group of children, women, elderly and economically disadvantaged that are or face to be digitally excluded. 
-
-With regard to the growing impact of ICT not only on economic productivity but also in all other fields, such as the cultural, social and political realm, this exclusion forms a serious thread to societies in terms of equality, inclusion and chances of participation. 
-
-ICT is no longer restricted to tools that enhance communication. With continually increasing funding for the ambition to create smart cities and through integration of ICT into ever more objects of everyday life like watches, clothes, fridges - a situation coined with the term ??"internet of things"?? - accessibility and digital literacy determine whether a person is included into social and cultural life, is employable and, perhaps more importantly, whether they can participate in decision making processes within the democratic realm. In other words, using and comprehending ICT tools is about agency and inclusion. 
-
-As evaluations of the project one laptop per child have shown (Christia et al, 2012), access to ICT does not guarantee an automatic improvement of skills, e.g. in the classical educational subjects like math or reading. Access needs to be accompanied by training and education that allows children and other potentially excluded groups to understand the utility and power of the digital tools they hold in their hands. This training needs to address the intrinsic curiosity that makes kids wonder how things work. Instead of providing kids and other non tech savy groups with digital tools running programs presumably suiting their needs, these groups need to be sensitized to wonder what a program is and how it can be altered, how a specific tool can be modified and adjusted to their specific needs and desires (which might not overlap with those of the tech elite).
-
-This field will therefore explore the crucial question on how the motivation of a diverse group of people that do not have an affinity for ICT can be addressed, so they understand the challenges and opportunities that ICT holds for their lives and provide them with an sustainable way to acquire an understanding of the technologies that goes beyond a mere knowledge of how to use the gadgets at hand. 
-It seeks to deliver an answer to the question of how we can enable people of all ages and with various socio-economical backgrounds (CURRENT SITUATIONS?) to overcome the reluctance OR OBSTACLES? towards their technological surrounding and lower the threshold to engage and develop a sustainable interests in these gadgets. These interests should be driven by a practical motivation strong enough to encourage them to pass on the knowledge gained to others and pursue group based interest driven projects in which this knowledge is applied. 
-ON SCOPE: I THINK THE FOCUS IS ON THOSE WHO DO HAVE THE OPTION TO ENGAGE WITH ICT BUT FEEL RELUCTANT TO DO SO. I KNOW THE PLATFORM WILL BE OPEN TO EVERYONE ALL OVER THE WORLD, BUT WHO SPECIFICALLY DO WE REALISICALLY EXPECT TO PARTICIPATE?
-
-In this field the level of technical knowledge non tech savy people already have and the possibilities to motivate an engagement with ICT that goes beyond a mere user knowledge will be researched. Based on the tools provided on the learning platform and combined with information events and workshops at the lab space the possible application of coding knowledge to practical fields related to the everyday life of people will trigger their motivation to learn and teach each others in order to solve a concrete problem. In that sense an awareness of the powerful practical impact of coding skills and a better understanding of ICT (economically, socially, culturally, for education and knowledge production) have to be communicated. 
-
-In order to make this tool oriented problem solving approach sustainable, it needs to foster and organize a community that is not only provided with an online peer learning environment but has to be accelerated by offline events at which problems to be solved can be negotiated, projects be started and most importantly, people can engage with technology as layman with the fear to fail.
-
-The outcome will be a set of very practical tools, that address the needs of a wide audience and thus might also advance the interest of a wide audience in tech.
-
-By avoiding the high theoretical threshold typical to academic ICT programs and focusing on the developments of tools that solve small everyday problems. 
-
-ICT has to be related to the interest of students / people – they have to understand how the increasing dominance of ICT in all fields affects them and how they can make these tools productive form their interests.
-
-Conservative computer science or programming programs start on such a high and abstract level, that does not allow people to relate it to their research interest or everyday life. 
-
-- how coding enables them to understand their surroundings and can provide them with agency  
-
-Humanities studies already seek to explore how tools affect us and change things. This project aims to extend that curiosity to digital tools. The coding platform communicates to humanities students in their language / approaches new technology from a humanities perspective, making it accessible to them to become open to coding. 
-
-<!--- Marijn: the problem is well explained. Now how are we going to tackle this? A humanities interest in tools, i.e., how they affect us and change things, could be an interesting perspective to address motivation. The interest from a Mediastudies perspective probably speaks more to laymen than the interest from a computer science perspective. So a platform that explains tools from a media perspective but through code could be a better trigger than the boring and abstract computer science MOOCs on offer today. --->
-
-
 
 *Describe any national or international research and innovation activities which will be linked with the project, especially where the outputs from these will feed into the project;*
 
