@@ -370,9 +370,9 @@ A recent EU study shows that only 30% of the people in the ICT sector in Europe 
 
 2.1 Expected impacts
 
-The main goal of the project is to reach and train a large number of humanities students, researchers and scholars and initiate collaboration through coding projects and a debate about the digital tools in use. This goal will be pursued through active involvement of students and researchers on the online interface, the use of the offline lab, collaborations with universities, organizations and private partners.
+The main goal of the project is to reach and train a large number of humanities students, researchers and scholars and initiate collaboration through coding projects and a debate about the digital tools in use. This goal will be pursued through active involvement of students and researchers on the online interface, the use of the offline lab, and collaborations with universities, organizations and private partners.
 
-This project will facilitate the transformation of thousands of non-tech biased people, beginning with humanities students, into technologically empowered positions of agency, making them able to participate in innovation processes of technologies they use.
+This project will facilitate the transformation of thousands of non-technically biased people, beginning with humanities students, into technologically empowered positions, making them able to participate in innovation processes of technologies they use.
 
 This project contributes to the impacts expected in the work programme "Platform for ICT for Learning and Inclusion" because by promoting digital inclusion. The coding platform (Platform as Interface) would bring thousands of people who are reluctant or face societal obstacles to technology a heightened awareness of technology in creative and enjoyable ways, starting with students at the University of Amsterdam. This would result in increasingly employable humanities students, as they would have marketable skills in new technology. 
 
