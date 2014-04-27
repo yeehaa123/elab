@@ -6,25 +6,30 @@ Country: Netherlands
 Coordinator: Jan Hein Hoogstad
 
 
-##Table of Contents
+## Table of Contents
 
 
-###1. Excellence 
+### 1. Excellence 
 
 *Your proposal must address a topic set out in the work programme, for this call for proposals. This section of your proposal will be assessed only to the extent that it is relevant to that topic.*
 
 
-####1.1 Objectives 
+#### 1.1 Objectives 
 *Describe the specific objectives for the project, which should be clear, measurable, realistic and achievable within the duration of the project. Objectives should be consistent with the expected exploitation and impact of the project (see section 2).* 
 
 <!-- What is the problem? -->
+
 Learning and research (in the Humanities) are hindered by a lack of digital literacy and the seeming incommensurability of educating massive groups of students and providing high quality education.
 
+
 <!-- Why is it an interesting/important problem? -->
+
 Although traditional knowledge institutions are losing their monopoly on education and research, ICT skills and knowledge production remain privileges of a cultural, technological and economic elite.
+
 
 <!-- What is our solution to this problem? -->
 We propose to tackle this problem by providing online and offline interfaces between people on the one hand and learning and research on the other hand, which focus on new forms of collaboration and a user- and tool-oriented approach to learning programming skills.
+
 
 <!-- What are the consequences of our solution? -->
 These interfaces lower the technological, economic and organizational barriers to participation, empower many different groups of people to more deeply and effectively engage with technology and motivate lifelong learning.
@@ -38,9 +43,13 @@ We identify four dilemmas about statements on learning and research that can be 
 4. *Elite*: Coding and knowledge production remain privileges of a cultural, technological and economic elite.
 
 Our answer to these dilemmas provide the following objectives:
+
 1. Digital Literacy: Increase the number of people who approach learning and research collaboratively, through an online platform where users collaboratively learn programming and build tools, thereby increasing digital literacy and at same time lowering the technological threshold to engage with and reflect on digital tools. (challenge and embrace)
+
 2. Organization: Create interfaces for users to teach each other and learn and research collaboratively, out of their own motivation, but use institutional structures to kick-start this process and provide disciplinary contexts. (challenge and embrace)
+
 3. Numbers: Increase the number of people learning and researching by focusing on collaboration and sharing knowledge, so that individual approaches and feedback remain possible, thereby retaining high quality education. (challenge and embrace)
+
 4. Elite: Make learning and research accessible and relevant by offering interfaces that allow many different types of users to learn to use and do research with technology  (challenge)
 
 These objectives present learning and inclusion as problems of interfaces. By definition, interfaces determine who or what is included and excluded. The focus of this project is thus on providing interfaces that increase inclusion, where users build, explore and reflect on digital tools and how we use them. The overarching goal is to weave technology and humanities together to foster innovation through three forums: an expandable platform for humanities students collaborate through coding, a lab space where humanities thinking influences product and business design, and an exhibition which engages technology, art, business, and humanities. <!-- We aim to elevate the processes of tool building to the status of research in the humanities. -->
@@ -60,7 +69,7 @@ We also challenge the traditional educational dichotomy of researchers as expert
 4. *Knowledge production over data processing*: <explanation>
 5. *Accessibility over state-of-the-art*: <explanation>
 
-Coding the Humanities is already a strong and unique research project at the University of Amsterdam that has been successfully running for over one year. Closely linked to projects such as zooniverse, dh, chat, and circa, Coding the Humanities explores interplay between humanities and technology. We engage traditionally non-technically biased students with technology in order to empower them to proactively create their own tools, as well as to more deeply and holistically reflect on those tools. We aim to extend beyond the coursework currently offered in order to connect humanities students to artistic, cultural, and business institutions. 
+Coding the Humanities is already a strong and unique research project in Amsterdam (UvA, VU, HvA) that has been successfully running for over one year. Closely linked to projects such as zooniverse, dh, data drive, AAA, chat, and circa, Coding the Humanities explores interplay between humanities and technology. We engage traditionally non-technically biased students with technology in order to empower them to proactively create their own tools, as well as to more deeply and holistically reflect on those tools. We aim to extend beyond the coursework currently offered in order to connect humanities students to artistic, cultural, and business institutions. 
 
 To enrich these courses and enhance the analysis of the coding platform's processes and results, we seek funding from other sources to offer two PhD positions related to relationships between humanities and technology. These positions would be excellent additions to the project, whose primary focus is to create new products and services and support research and development activities. Each project will address a key aspect of the overall objective to foster connections between technology and humanities.
 
@@ -69,7 +78,7 @@ The first project will address the Physical Lab element, and will involve a PhD 
 The second project would relate to the core project of the coding platform. The PhD student would research how to reflect on tools through coding. S/he would conceptualize, plan, monitor, and program the coding platform. This PhD would serve as a way of measuing the development and success of the platform over four years. This researcher will be well integrated into the context of the university's department of digital humanities, and will also collaborate with private and public partners.
 
 
-####1.2 Relation to the Work Programme
+#### 1.2 Relation to the Work Programme
 
 *Indicate the work programme topic to which your proposal relates, and explain how your proposal addresses the specific challenge and scope of that topic, as set out in the work programme.* 
 
@@ -92,12 +101,12 @@ In order to involve a large number of students, researcher, scholars but also no
 
 
 
-####1.3 Concept and approach, quality of the coordination and support measures
+#### 1.3 Concept and approach, quality of the coordination and support measures
 
 *Describe and explain the overall concept underpinning the project. Describe the main ideas, models or assumptions involved;* 
 Connecting humanities to technology unlocks potential for holistic approaches to innovation, including those that consider ethical/moral impacts of technology and its use, ...
 
-#####1.3.1 Introduction
+##### 1.3.1 Introduction
 
 Many humanities students and scholars are reluctant to learn new technologies, and thereby limit both their own ability to influence the outside world, as well as the incorporation of technology in their research. As Mitch Resnick has said, not being able to take charge of the technological tools we use to meet our own particular needs is similar to being able only to read a language but not write. For full use of the language and to use it to express ourselves, we must also be able to use it to create new structures. To make full use of technologies, we must be able not just to use them passively, but to modify them. This venture will empower humanities students and scholars to proactively drive their own learning and research. When they engage with technology through coding, they open the doors to master and innovate their own tools.
 
@@ -142,7 +151,7 @@ These efforts should be viewed in line with two overarching developments in cont
 
 Each of the three areas anticipates and addresses an upcoming challenge. 
 
-######1.3.3.1 The Platform as Interface** 
+###### 1.3.3.1 The Platform as Interface 
 
 In order to initiate a fruitful debate about the development and application of ICT it is crucial not only to start that debate among ICT experts. On the contrary, this debate should evolve around users and their needs. Thus one of the main challenges to face for the creation of a sustainable dialogue about the opportunities ICT offers is to interest and educate non-technologically biased persons in the use and development of ICT.  
 
@@ -181,7 +190,7 @@ The platform is set up in such a way that universities can integrate learning mo
 The platform will be introduced to students for the University of Amsterdam with an accompanying offline course that allows students to earn ECT points. This phase will be followed by public release. 
 
 
-#####1.3.3.2 The Lab as Interface - The OverLab
+##### 1.3.3.2 The Lab as Interface
 
 Universities are opening up towards other universities, civic movements and companies, so that other groups can benefit from and enrich their knowledge.
 
@@ -236,7 +245,7 @@ Need
 
 
 
-#####1.3.3.3 The Collection as Interface - Visualization and Inclusion
+##### 1.3.3.3 Collections as Interfaces
 
 
 Collection as an interface: the exploration of the opportunities interfaces and visualization of data holds for knowledge production and inclusion
@@ -258,6 +267,7 @@ The developed tools can be applied to different data sets. Especially with regar
 Practically, the foreseen educational platform realizes local engagement, user-focused learning with both an individually-oriented as well as collective component; collaboration and the accumulation of knowledge and skills are key to a successful implementation of the platform. Apart from a digital educational platform and the realization of a physical research space where public-private-civic partners can collaborate, a third component of the project is the translation of data in intuitive interfaces and data visualization. Students and researchers (“users”) will be taught to translate data into visualization, thereby not only learning how to interpret data, but also how to code and reflect on what coding practices mean; how the act of coding influences how data is represented. Users, in this way, become more aware of how data may be manipulated while at the same time gaining skills that empower the user. By learning how to read and handle data streams and how these may be translated in visualizations, users therefore not only gain skills, but also become more empowered, “smart” users. Moreover, data visualization tools provide a great foundation for collaborative activities between universities and other institutions; these tools move beyond the mode of mere data processing to instead produce new insights and knowledge.
 
 The project thus involves visualization and interface expertise of private partners to not merely facilitate and realize skilling of humanities’ researchers, but to moreover stimulate new knowledge production. Directly connected to this is the fact that the consortium is complemented by open data collections provided by museums. These open data collections provide research material for humanities researchers to interact with, to investigate and to draw new knowledge from.
+
 The exhibition would be a combination of on and offline projects, culminating in a public six week exhibition in the Museum Square in Vienna three years into the project. We endeavor to involve students from the platform, partners from the lab space, as well as other private and public partners, developers, and the general population. This exhibition would consist of workshops, data events, speakers, art installations, and presentations on relationships between ITC, art, business, and cultural heritage.
 
 This also relates to the second part of the Collection as Interface sub-project; the research performed by consortium of actors will culminate in a public six week exhibition, situated in the Museum Square in Vienna in the third year of the project. Involving and drawing from the research practices of students on the platform, the partners in the lab space and the general population, the exhibition publicly presents workshops, art installations and events about the relationship between ICT, art, business and cultural heritage. Situated in public space, the exhibition invites the public to engage with art work, developed interfaces, and visualizations which are the result of researchers’ efforts in researching open data provided by cultural institutions.
@@ -344,9 +354,10 @@ A recent EU study shows that only 30% of the people in the ICT sector in Europe 
 *Sex and gender refer to biological characteristics and social/cultural factors respectively. For guidance on methods of sex / gender analysis and the issues to be taken into account, please refer to [http://ec.europa.eu/research/science-society/gendered-innovations/index_en.cfm](http://ec.europa.eu/research/science-society/gendered-innovations/index_en.cfm)*
 
 
-###2. Impact 
+### 2. Impact 
 
-####2.1 Expected impacts 
+
+#### 2.1 Expected impacts 
 
 *Please be specific, and provide only information that applies to the proposal and its objectives. Wherever possible, use quantified indicators and targets.*
 
@@ -357,7 +368,7 @@ This project will directly contribute to the expected impacts set out in the wor
 *Describe any barriers/obstacles, and any framework conditions (such as regulation and standards), that may determine whether and to what extent the expected impacts will be achieved. (This should not include any risk factors concerning implementation, as covered in section 3.2.)* 
 
 
-####2.2 Measures to maximise impact
+#### 2.2 Measures to maximise impact
 
 **a) Dissemination and exploitation of results** 
 
@@ -420,7 +431,7 @@ The newly emerged field of eLearning and MOOC's possesses great possibilities fo
 - the project partners's expertise include both media professionals as well as researchers. Throughout the project they will attend workshops in order to reflect on the forms of scientific communication and test it's range through a variety of comunication activities (see below).
 - this project has a complex structure, uses a variety of technology, adresses and includes different audiences
 
-####how?
+#### how?
 
 - cross-medial best practice 
 - built a bridge between the concrete implementation of video, learning and collecting as one part 
@@ -428,7 +439,7 @@ of the overall platform
 - use format of Scientific Research Trailer as a point-of-departure; produce video sequences which use filmic language and do justice to the respective research topic and people who conduct the research.
 - research which media can be used for science communication in which way
 
-####who? 
+#### who? 
 ## who else should be included here?????????
 
 All of the private partners are strong communicators and multipliers in their respective fields. Each of them will  
@@ -465,9 +476,9 @@ Iteration of all of those activities in order to build strong cases regarding sc
 
 
 
-###3. Implementation
+### 3. Implementation
 
-####3.1	Work plan – Work packages, deliverables and milestones
+#### 3.1	Work plan – Work packages, deliverables and milestones
 
 *Please provide the following:*
 
@@ -530,7 +541,7 @@ Inspired by open source culture and software development practices the fields ar
 
 
 
-####3.2	Management structure and procedures 
+#### 3.2	Management structure and procedures 
  
 *Describe the organisational structure and the decision-making (including a list of milestones (table 3.2a));*
 - private partners can't take over -- connection made via workshops and meetings
@@ -550,7 +561,7 @@ Inspired by open source culture and software development practices the fields ar
 coding the humanities offers ownership while also being online. students are themselves active in producing / developing the content 
 
 
-####3.3	Consortium as a whole 
+#### 3.3	Consortium as a whole 
 
 *The individual members of the consortium are described in a separate section 4. There is no need to repeat that information here.* 
 
@@ -578,7 +589,7 @@ ANNA: LOOK INTO:
 *If applicable, describe the industrial/commercial involvement in the project to ensure exploitation of the results and explain why this is consistent with and will help to achieve the specific measures which are proposed for exploitation of the results of the project (see section 2.3).* 
 
 
-####3.4	Resources to be committed 
+#### 3.4	Resources to be committed 
 
 *Please make sure the information in this section matches the costs as stated in the budget table in section 3 of the administrative proposal forms, and the number of person/months, shown in the detailed work package descriptions.
 Please provide the following:*
@@ -865,12 +876,12 @@ ANNA LOOK INTO:
 
 
 
-###4: 	Members of the consortium
+### 4: 	Members of the consortium
 
  *This section is not covered by the page limit.*	
  *The information provided here will be used to judge the operational capacity.*
 
-####4.1. 	Participants (applicants)
+#### 4.1. 	Participants (applicants)
 
 *Please provide, for each participant, the following (if available):* 
 
@@ -881,7 +892,7 @@ ANNA LOOK INTO:
 - *a  description of any significant infrastructure and/or any major items of technical equipment, relevant to the proposed work;*
 (*any other supporting documents specified in the work programme for this call*)
 
-#####Dark Horse GmbH & Co KG  
+##### Dark Horse GmbH & Co KG  
 Ritterstraße 12 - 14  
 Aufgang 4, Etage 3  
 10969 Berlin  
@@ -910,7 +921,7 @@ Within the proposed project Dark Horse is going to conduct research on and devel
 *Audi AG:* Ideas Virus The Audi AG hired Dark Horse in order to find out about existing innovation hubs within their company. Through interviews and observation Dark Horse identified persons and departments that are key to the innovation processes and product development at Audi. Based on these findings the Audi AG launched a process that aims at designing a concept for collaboration among the employees and thus foster innovation. 
 
 
-#####Weyeser
+##### Weyeser
 
 Delftechpark 26
 2628 XH Delft
@@ -926,7 +937,7 @@ Within this proposed project weyeser will provide expertise concerning the quest
 *a  description of any significant infrastructure and/or any major items of technical equipment, relevant to the proposed work;* 
 
 
-#####CastYourArt
+##### CastYourArt
 
 Gumpendorfer Straße 55
 1060 Wien
@@ -958,7 +969,7 @@ CastYourArt is a product of the KA21 GmbH, based in Vienna. The founding members
 
 
 ANNA LOOK UP:
-####4.2.	Third parties involved in the project (including use of third party resources)
+#### 4.2.	Third parties involved in the project (including use of third party resources)
 *Please complete, for each participant, the following table (or simply state “No third parties involved”, if applicable):*
 - no third parties involved???
 
@@ -974,13 +985,13 @@ Does the participant envisage the use of contributions in kind provided by third
 
 If yes, please describe the third party and their contributions
  
-###5: 	Ethics and security 
+### 5: 	Ethics and security 
  **This section is not covered by the page limit.**
 
 Intellectual Property / ANNA LOOK INTO:
 - checking progress of students, if they create a profile, having access to that. 
 - 
-####5.1 	Ethics
+#### 5.1 	Ethics
 
 If you have entered any ethics issues in the ethical issue table in the administrative proposal forms, you must:
 submit an ethics self-assessment, which:
@@ -1004,7 +1015,7 @@ an ethics committee opinion;
 
 - If you plan to request these documents specifically for the action you are proposing, your request must contain an explicit reference to the action title.
 
-#####5.2 	Security
+##### 5.2 	Security
 
 Please indicate if your project will involve:  
 activities or results raising security issues: **(YES/NO)**  
