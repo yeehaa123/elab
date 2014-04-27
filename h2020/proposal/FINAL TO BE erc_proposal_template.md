@@ -374,7 +374,7 @@ The main goal of the project is to reach and train a large number of humanities 
 
 This project will facilitate the transformation of thousands of non-technically biased people, beginning with humanities students, into technologically empowered positions, making them able to participate in innovation processes of technologies they use.
 
-This project contributes to the impacts expected in the work programme "Platform for ICT for Learning and Inclusion" because by promoting digital inclusion. The coding platform (Platform as Interface) would bring thousands of people who are reluctant or face societal obstacles to technology a heightened awareness of technology in creative and enjoyable ways, starting with students at the University of Amsterdam. This would result in increasingly employable humanities students, as they would have marketable skills in new technology. 
+This project contributes to the impacts expected in the work programme "Platform for ICT for Learning and Inclusion" by promoting digital inclusion. The coding platform (Platform as Interface) would bring thousands of people who are reluctant or face societal obstacles to technology a heightened awareness of technology in creative and enjoyable ways, starting with students at the University of Amsterdam. This would result in increasingly employable humanities students, as they would have marketable skills in new technology. 
 
 
 *Targets* 
