@@ -306,7 +306,7 @@ ICT is no longer restricted to tools that enhance communication. With continuall
 
 As evaluations of the project one laptop per child have shown (Christia et al, 2012), access to ICT does not guarantee an automatic improvement of skills, e.g. in the classical educational subjects like math or reading. Access needs to be accompanied by training and education that allows children and other potentially excluded groups to understand the utility and power of the digital tools they hold in their hands. This training needs to address the intrinsic curiosity that makes kids wonder how things work. Instead of providing kids and other non tech savy groups with digital tools running programs presumably suiting their needs, these groups need to be sensitized to wonder what a program is and how it can be altered, how a specific tool can be modified and adjusted to their specific needs and desires (which might not overlap with those of the tech elite).
 
-This research field will therefore explore the crucial question on how the motivation of a diverse group of people that do not have an affinity for ICT can be addressed, so they understand the challenges and opportunities that ICT holds for their lives and provide them with an sustainable way to acquire an understanding of the technologies that goes beyond a mere knowledge of how to use the gadgets at hand. 
+This field will therefore explore the crucial question on how the motivation of a diverse group of people that do not have an affinity for ICT can be addressed, so they understand the challenges and opportunities that ICT holds for their lives and provide them with an sustainable way to acquire an understanding of the technologies that goes beyond a mere knowledge of how to use the gadgets at hand. 
 It seeks to deliver an answer to the question of how we can enable people of all ages and with various socio-economical backgrounds (CURRENT SITUATIONS?) to overcome the reluctance OR OBSTACLES? towards their technological surrounding and lower the threshold to engage and develop a sustainable interests in these gadgets. These interests should be driven by a practical motivation strong enough to encourage them to pass on the knowledge gained to others and pursue group based interest driven projects in which this knowledge is applied. 
 ON SCOPE: I THINK THE FOCUS IS ON THOSE WHO DO HAVE THE OPTION TO ENGAGE WITH ICT BUT FEEL RELUCTANT TO DO SO. I KNOW THE PLATFORM WILL BE OPEN TO EVERYONE ALL OVER THE WORLD, BUT WHO SPECIFICALLY DO WE REALISICALLY EXPECT TO PARTICIPATE?
 
@@ -521,6 +521,7 @@ The proposed project is structured into three fields:
 In this workpackage an online platform for learning and research will be conceptualized by 
 
 2) The Lab as Interface  – an offline space that complements the online platform and provides an in-between environment for university and public and private partners
+
 3) The Collection as Interface - the exploration of the inclusive opportunities interfaces and visualization of data holds for knowledge production
 
 
