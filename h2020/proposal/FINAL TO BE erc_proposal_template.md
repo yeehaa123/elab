@@ -48,7 +48,7 @@ The second project would relate to the core project of the coding platform. The 
 
 The project proposed fits the work programm "Platform for ICT for Learning and Inclusion" as it seeks to initiate a dialogue between university scholars and students, artists, knowledge institutions and private companies about the potential merits of ICT for new forms of teaching, learning, knowledge production and transfer.  
 
-The dialogue will be initiated on and around a open online learning and collaboration platform that allows students, researchers but also the general public in an hands on approach to develop and discuss ICT related issues. The platform seeks to train students and researchers to understand and shape the digital tools surrounding them. The open design of this interface encourages them to pass on the tools they created and the knowledge they generated.   
+The dialogue will be initiated on and around a open online learning and collaboration platform that allows students, researchers but also the general public in an hands on approach to shape ICT and discuss ICT related issues. The platform seeks to train students and researchers to understand and shape the digital tools surrounding them. The open design of this interface encourages them to pass on the tools they created and the knowledge they generated.   
 
 The exchange on the use of and knowledge about ICT in research and education will be further advanced by an offline lab that accompanies the online platform. In this space, that explores the interplay of on- and offline collaborations, workshops, hackathons and presentations are set up to point the attention of a broad audience towards ICT as a means to enhance knowledge production and encourage them to participate on the online platform itself. 
 
@@ -60,9 +60,7 @@ The members of the consortium combine a broad expertise that allows to explore h
 
 The consortium will provide training and consultation to humanities students, researchers and scholars. It will gernerate models and strategies concerning the use and development of ICT for teaching and education in an online and offline context that are valueable to other universities, public institutions and companies. 
 
-In order to involve a large number of students, researcher, scholars but also non-technology biased people in gereral terms, the platform reaches out to other universities, knowledge institutions and private partners alike. 
-
-in order to initiate a dialoge about new forms of education that not only integrate ICT but empower a large number of people to use and shape these technologies to their specific needs. Due to the open licenses used the digital tools developed by the students can be applied and altered also by social institutions, civic movements or the general public.  
+In order to involve a large number of students, researcher, scholars but also non-technology biased people in gereral terms, the platform reaches out to other universities, knowledge institutions and private partners alike in order to initiate a dialoge about new forms of education that not only integrate ICT but empower a large number of people to use and shape these technologies to their specific needs. Due to the open licenses used the digital tools developed by the students can be applied and altered also by social institutions, civic movements or the general public.  
 
 
 
