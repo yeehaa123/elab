@@ -364,9 +364,39 @@ A recent EU study shows that only 30% of the people in the ICT sector in Europe 
 
 *Describe how your project will contribute to the expected impacts set out in the work programme, under the relevant topic;*
 
-This project will directly contribute to the expected impacts set out in the work programme.
-
 *Describe any barriers/obstacles, and any framework conditions (such as regulation and standards), that may determine whether and to what extent the expected impacts will be achieved. (This should not include any risk factors concerning implementation, as covered in section 3.2.)* 
+
+2. Impact
+
+2.1 Expected impacts
+
+The main goal of the project is to reach and train a large number of humanities students, researchers and scholars and initiate collaboration through coding projects and a debate about the digital tools in use. This goal will be pursued through active involvement of students and researchers on the online interface, the use of the offline lab, collaborations with universities, organizations and private partners.
+
+*Targets* 
+
+- the goal is to have 20.000 active users of the online platform after four years
+- the physcial lab should be used by at least 50 people on a regular basis
+- the model of the lab should be applied by at least four other prublic or privat institutions 
+- with workshops, presentations, hackathons we intend to reach at least 1000 people per year
+- we intend to give presentations together with the private partners on at least 5 conferences / symposiums per year  
+
+*University of Amsterdam*
+
+The three offline courses "Art, Science, and Technology", "Coding the Humanities", "From Objected Data" initiate the participation on the platform with 20 students per course, 60 students in total in 2014 and create a awareness of the project before the official release.
+
+In the following years 4 courses (12 ECT) per year starting 2015 will reach 320 students. During the same time 40 embedded researchers will use the online interface and the pilot and the actual physical lab.
+
+*Best (good) practice models for other universities and organizations*
+
+Collaborations with at least four other european universities with humanities departments equal in size to that of the faculty of humanities of the University of Amsterdam (7.000 students) will introduce the platform on an international level to a large goup of humanities students and scholars. These universities integrate the platform into their curriculum. Coding the Humanities will provide scholars from the other universities with consultation on the implementation of the platform in the coursework.
+
+The success of these collaborations can be directly measured through the number of participating students and of their portfolios on github. Among the involved humanities scholars an active exchange about the integration of the platform into their teaching will be initiated and curated by Coding the Humanities communications staff. 
+
+Coding the Humanities will furthermore reach out to organizations like open knowledge foundations and research centers like the Creative Industries Research Centre Amsterdam, Centre for Digital Humanities Amsterdam will diversify and enlarge the usergroup further.
+
+Via the online interface, the physical space and a series of events, Coding the Humanities is going to reach and empower a diverse audience of people different levels of programming and technological knowledge. The mix of hands on courses and tutorials and offline workshops will empower humanities students to enter a dialogue on the impact of digital tools on their research and ways of collaboration.  
+
+The collaboration with different institutions and organizations will increase the diversity of particpants and loosen up the homogeneous group of humanities researchers. The develoment of services and products related to humnaities research but also aimed at the needs of a larger public (for example knowledge institutions) ensure that the dialogue about digital tools exeeds an abstract realm which is not user centred and evolves between ICT experts. Instead it includes a diverse groups of a new kind of enabled users. 
 
 
 #### 2.2 Measures to maximise impact
