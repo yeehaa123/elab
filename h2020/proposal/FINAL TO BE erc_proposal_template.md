@@ -63,7 +63,7 @@ We propose to do this in three parts:
 
 We also challenge the traditional educational dichotomy of researchers as experts and students as novices. Learning and research are hard to separate as both revolve around involve producing and sharing knowledge, where each participant can be both the sender and receiver of knowledge. This leads us to five principles which will guide our implementation of these interfaces:
 
-1. *Training over support*: <explanation>
+1. *Training over support*: Our first core value is training so that a learner will soon be able to pass on the knowledge to another learner. While support can result in repeatedly assisting the same person with the same issue, maintaining a distinction and even hierarchy in skillsets, training provides experience to the learner to bring them to an equal level to the trainer.
 2. *Collaboration over ownership*: <explanation>
 3. *Online over Massive*: <explanation>
 4. *Knowledge production over data processing*: <explanation>
