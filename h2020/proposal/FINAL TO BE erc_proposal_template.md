@@ -42,6 +42,95 @@ We identify four dilemmas about statements on learning and research that can be 
 3. *Numbers*: Future education should revolve around massive numbers (Big Data, MOOC).
 4. *Elite*: Coding and knowledge production remain privileges of a cultural, technological and economic elite.
 
+
+### Problems and Principles
+
+<table border="1" style="border-collapse: collapse">
+	<tr>
+		<th></th>
+		<th colspan="5">Principle</th>
+	</tr>
+	<tr>
+		<th>Problem</th>
+		<th>Training over Support</th>
+		<th>Collaboration over Ownership</th>
+		<th>Online over Massive</th>
+		<th>Knowledge Production over Data Processing</th>
+		<th>Accessibility over State-of-the-art</th>
+	</tr>
+	<tr>
+		<td>Literacy</td>
+		<td>X</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>X</td>
+	</tr>
+	<tr>
+		<td>Organisation</td>
+		<td></td>
+		<td>X</td>
+		<td>X</td>
+		<td></td>
+		<td>X</td>
+	</tr>
+	<tr>
+		<td>Numbers</td>
+		<td>X</td>
+		<td>X</td>
+		<td></td>
+		<td>X</td>
+		<td>X</td>
+	</tr>
+	<tr>
+		<td>Elite</td>
+		<td>X</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>X</td>
+	</tr>
+</table>
+
+### Problems and Projects
+
+<table border="1" style="border-collapse: collapse">
+	<tr>
+		<th></th>
+		<th colspan="5">Project</th>
+	</tr>
+	<tr>
+		<th>Problem</th>
+		<th>Platforms as Interfaces</th>
+		<th>Labs as Interface</th>
+		<th>Collections as Interfaces</th>
+	</tr>
+	<tr>
+		<td>Literacy</td>
+		<td>X</td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Organisation</td>
+		<td></td>
+		<td>X</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Numbers</td>
+		<td>X</td>
+		<td></td>
+		<td>X</td>
+	</tr>
+	<tr>
+		<td>Elite</td>
+		<td>X</td>
+		<td>X</td>
+		<td>X</td>
+	</tr>
+</table>
+
 Our answer to these dilemmas provide the following objectives:
 
 1. Digital Literacy: Increase the number of people who approach learning and research collaboratively, through an online platform where users collaboratively learn programming and build tools, thereby increasing digital literacy and at same time lowering the technological threshold to engage with and reflect on digital tools. (challenge and embrace)
@@ -51,6 +140,93 @@ Our answer to these dilemmas provide the following objectives:
 3. Numbers: Increase the number of people learning and researching by focusing on collaboration and sharing knowledge, so that individual approaches and feedback remain possible, thereby retaining high quality education. (challenge and embrace)
 
 4. Elite: Make learning and research accessible and relevant by offering interfaces that allow many different types of users to learn to use and do research with technology  (challenge)
+
+
+### Principles and Implementation
+
+<table border="1" style="border-collapse: collapse;">
+	<tr>
+		<th>Implementation</th>
+		<th>Training over Support</th>
+		<th>Collaboration over Ownership</th>
+		<th>Online over Massive</th>
+		<th>Knowledge Production over Data Processing</th>
+		<th>Accessibility over State-of-the-art</th>
+	</tr>
+	<tr>
+		<td>Language based</td>
+		<td></td>
+		<td>X</td>
+		<td></td>
+		<td>X</td>
+		<td>X</td>
+	</tr>
+	<tr>
+		<td>Tool-oriented</td>
+		<td>X</td>
+		<td></td>
+		<td></td>
+		<td>X</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>User-centered</td>
+		<td></td>
+		<td>X</td>
+		<td></td>
+		<td>X</td>
+		<td>X</td>
+	</tr>
+	<tr>
+		<td>Embedded Research</td>
+		<td></td>
+		<td>X</td>
+		<td></td>
+		<td>X</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>JavaScript</td>
+		<td>X</td>
+		<td></td>
+		<td>X</td>
+		<td></td>
+		<td>X</td>
+	</tr>
+	<tr>
+		<td>Git</td>
+		<td>X</td>
+		<td>X</td>
+		<td>X</td>
+		<td></td>
+		<td>X</td>
+	</tr>
+	<tr>
+		<td>Peer organisation &amp; evaluation</td>
+		<td></td>
+		<td>X</td>
+		<td></td>
+		<td>X</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Browser first</td>
+		<td></td>
+		<td></td>
+		<td>X</td>
+		<td></td>
+		<td>X</td>
+	</tr>
+	<tr>
+		<td>Webcomponents</td>
+		<td></td>
+		<td>X</td>
+		<td>X</td>
+		<td>X</td>
+		<td>X</td>
+	</tr>
+
+</table>
 
 These objectives present learning and inclusion as problems of interfaces. By definition, interfaces determine who or what is included and excluded. The focus of this project is thus on providing interfaces that increase inclusion, where users build, explore and reflect on digital tools and how we use them. The overarching goal is to weave technology and humanities together to foster innovation through three forums: an expandable platform for humanities students collaborate through coding, a lab space where humanities thinking influences product and business design, and an exhibition which engages technology, art, business, and humanities. <!-- We aim to elevate the processes of tool building to the status of research in the humanities. -->
 We propose to do this in three parts:
@@ -68,6 +244,99 @@ We also challenge the traditional educational dichotomy of researchers as expert
 3. *Online over Massive*: The format of the platform encourages students to first learn coding online, but intends them to also have a physical team within their institution. This complements the Massive Open Online Course (MOOC) concept, which includes only an online context for learning.
 4. *Knowledge production over data processing*: <explanation>
 5. *Accessibility over state-of-the-art*: Our fifth core value is that of tools that are less complicated to begin to use over those that are state-of-the-art. Whereas state-of-the-art tools attract primarily the technically biased, more accessible tools have the power to reach a wider group of new users, including the non-technically biased. This supports our goal of inclusion of traditionally and currently underrepresented populations in ICT.
+
+<table border="1" style="border-collapse: collapse">
+	<tr>
+		<th></th>
+		<th colspan="5">Problem</th>
+	</tr>
+	<tr>
+		<th>Deliverable/Milestone</th>
+		<th>Literacy</th>
+		<th>Organization</th>
+		<th>Numbers</th>
+		<th>Elite</th>
+	</tr>
+	<tr>
+		<td>Platform</td>
+		<td>X</td>
+		<td>X</td>
+		<td>X</td>
+		<td>X</td>
+	</tr>
+	<tr>
+		<td>Exhibition</td>
+		<td></td>
+		<td></td>
+		<td>X</td>
+		<td>X</td>
+	</tr>
+	<tr>
+		<td>Lab prototype</td>
+		<td></td>
+		<td>X</td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Online First Courses</td>
+		<td>X</td>
+		<td></td>
+		<td>X</td>
+		<td>X</td>
+	</tr>
+	<tr>
+		<td>Courses offered Cross-University</td>
+		<td>X</td>
+		<td></td>
+		<td>X</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Open Source Tools Released</td>
+		<td></td>
+		<td>X</td>
+		<td>X</td>
+		<td>X</td>
+	</tr>
+	<tr>
+		<td>Webcomponents Released</td>
+		<td></td>
+		<td>X</td>
+		<td>X</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Workshops (academic, commercial, general)</td>
+		<td>X</td>
+		<td></td>
+		<td>X</td>
+		<td>X</td>
+	</tr>
+	<tr>
+		<td>Project results from challenges</td>
+		<td></td>
+		<td>X</td>
+		<td></td>
+		<td>X</td>
+	</tr>
+	<tr>
+		<td>...</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>...</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+</table>
+
+<br/><br/>
 
 Coding the Humanities is already a strong and unique research project in Amsterdam (UvA, VU, HvA) that has been successfully running for over one year. Closely linked to projects such as zooniverse, dh, data drive, AAA, chat, and circa, Coding the Humanities explores interplay between humanities and technology. We engage traditionally non-technically biased students with technology in order to empower them to proactively create their own tools, as well as to more deeply and holistically reflect on those tools. We aim to extend beyond the coursework currently offered in order to connect humanities students to artistic, cultural, and business institutions. 
 
