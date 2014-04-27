@@ -733,11 +733,15 @@ Inspired by open source culture and software development practices the fields ar
 #### 3.2	Management structure and procedures 
  
 *Describe the organisational structure and the decision-making (including a list of milestones (table 3.2a));*
-- private partners can't take over -- connection made via workshops and meetings
-- how do decisions get made given a resistance to hierarchy?
-- git as a platform to collect ideas and share feedback
+We have the idea for a horizontal management structure that ensures private partners are not able to overtake decisions; rather, there will be a balance among partners. Connection will be made via workshops and meetings. Our resistance to hierarcy requires a careful explanation as to structure and how decisions are made. We will enact a policy of frequent but strictly time-controlled meetings via skype with partners to discuss progress and plans ahead. Each person present in a meeting may voice their opinion, and each person will have a veto, which they should use carefully. However, each partner will have a lead participant who serves as the representative of that organization related to the project. This role will rotate every six months, allowing all main participants to represent their organization. The project managers will play a coordination role in making sure meetings are well organized and effective. Twice per year, all participants, not only the leaders, will meet in person for a conference. At these conferences, everyone is encouraged to concisely share what they think the one thing is that could move the innovation forward. 
+
+Github is an excellent platform to collect ideas and share feedback, allowing for open discussion and a well informed decision making process. 
+
 
 *Explain why the organisational structure and decision-making mechanisms are appropriate to the complexity and scale of the project;*
+
+This organizational structure involves each partner or component to the project having one representative at a time. This allows for a smaller group to participate in decision making. Because the partners in this project are physically located in several different countries within the European Union, having one representative attend monthly meetings is more manageable. Meeting regularly is condusive to our value of collaboration.
+
 
 *Describe, where relevant, how effective innovation management will be addressed  in the management structure and work plan;*
 - effective innovation management : a self-managed system
