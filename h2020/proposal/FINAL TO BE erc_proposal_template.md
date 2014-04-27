@@ -267,12 +267,11 @@ The exhibition will be presented in the third year of the project. However, at t
 
 **Consortium** 
 
-In this research field we work with the Dutch company weyeser with its expertise in supporting organizations to translate big amounts of data into knowledge by means of data mining, text mining and visualization. So far their solutions offer governments, governmental institutions, universities, think tanks and corporations ways of objectively assessing their knowledge portfolio and that of their peers. Within the framework of CtH, weyeser will support humanities students in the analysis and visualization of the humanities related data sets relevant to their research.
+In this research field we work with the Dutch company Weyeser with expertise in supporting organizations to translate big amounts of data into knowledge by means of data mining, machine learning and visualization. Their solutions offer governments, governmental institutions, universities, think tanks and corporations ways of objectively assessing their knowledge portfolio and that of their peers. Within the framework of CtH, Weyeser supports humanities students in the analysis and visualization of humanities’ related data sets relevant to their research.
 
-Weyesers' expertise with visialisations and interfaces is accompanied by the Austrian company CastYourArt, which is focused on consulting, production and online/offline distribution of audio and video material in which they present artists, exhibitions and collectors and take art out of the museum context.
+Weyeser’s expertise with visualization and interfacing-practices is complemented by the Austrian company CastYourArt. CastYourArt is focused on consulting, production and online/offline distribution of audio and video material in which they present artists, exhibitions and collectors and take art out of the museum context.
 
-The public partners inviolved are the Royal Tropical Institute, a research institut with five Dutch museums attached  and Europeana, the network of european libraries, archives and other cultural institutions. 
-
+The public partners involved are the Royal Tropical Institute, a research institute with five Dutch museums attached and Europeana, the network of European libraries, archives and other cultural institutions.
 
 
 //We would love to initiate a collaboration between you and the private/public partners that allows Coding the Humanities researchers and students to explore new formats to make data and information related to museum collections accessible and experienceable. With regard to the private partners these explorations could involve the conception and development of visualizations in general terms, as video or audio and/or in form of interfaces.// 
