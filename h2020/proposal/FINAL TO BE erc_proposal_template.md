@@ -297,32 +297,10 @@ The coding platform will build upon Coding the Humanities, an already strong res
 
 ##### 1.3.2 Assumptions involved
 
+There is an assumption in society that academia is separate from the rest of the world, and that the two cannot interact; we intend to break down this constructed notion and open channels for the two to connect. More specifically, we address the assumption that humanities students and scholars are separate from the hard sciences and technology, endeavoring to bring the two together.
 
-- assumption that academia and the rest of the world are separate and cannot interact, and the idea that they can work together. More specifically, the idea that humanities students and scholars are separated from technology, and the goal of engaging them with it.
+At the present time, universities face a loss of authority and control over their own knowledge production as models of traditional education are being replicated in online formats. Transfering the classroom into online formats does no justice to the possibilities provided by online tools in terms of peer learning, collaboration, and exchange that abandons the dichotomy of experts and layman.
 
-- universities face a loss of authority as models of traditional education being replicated in online formats, and the goal of creating new tools in the context of today’s increasingly interdependent world
-
-- transfering the classroom into online formats does no justice to the possibilities provided by online tools in terms of peer learning, collaboration, exchange that abandons the dichotomy of experts and layman
-
-- We thus work from a model that favors collaboration over ownership. Rather than competing against one another, we seek to create environments and promote tools that encourage equality in teamwork.
-
-- Our model favors training rather than support, with the perspective that empowering people to take charge of the tools they use is better than simply assisting them. Also related to the goal of increasing the number of people who know how their tools function, our model emphasises accessible tools over state of the art tools. Accessibility is condusive to a wider group of users and makers, while state of the art tools discourage those who do not consider themselves to be tech-savy.
-
-- We also favor knowledge production over data processing...
-
-
-
-1) Inclusion: how institutions can gain from this new approach
-   * coursework on coding
-   * Europeana: threshhold is too high to learn how to manipulate the technology. They have these amazing collections but need a way to engage more with a concrete audience, make their collection more accessible - inclusion
-   
-2) Physical Lab
-  * Dark Horse
-  * one PhD (Johanna)
-  
-3) Visualization
-   * Sabrina -- the postdoc
-   * 
    
 ##### 1.3.3 Structure
 
