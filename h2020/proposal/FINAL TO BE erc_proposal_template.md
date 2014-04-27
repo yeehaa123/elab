@@ -1055,5 +1055,5 @@ an ethics committee opinion;
 ##### 5.2 	Security
 
 Please indicate if your project will involve:  
-activities or results raising security issues: **(YES/NO)**  
-‘EU-classified information’ as background or results: **(YES/NO)**
+activities or results raising security issues: NO  
+‘EU-classified information’ as background or results: NO
