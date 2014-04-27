@@ -698,9 +698,51 @@ Inspired by open source culture and software development practices the fields ar
 *a description of each work package (table 3.1a)*
 *a list of work packages (table 3.1b);*
 *a list of major deliverables (table 3.1c);*
+
+
+Table  3.1 a:	Work package description 
+
+
+Work package number 	3	Start Date or Starting Event	Kick-off workshop 10/2014
+Work package title	Collections as Interfaces
+Participant number							
+Short name of participant	CYA						
+Person/months per participant:	1/12						
+
+Objectives : The objective is to build a network that bridges ICT to art that culminates in the first World ICT Fair, participate in the Fair both as the primary organizer and as a participant.
+
+
+Description of work (where appropriate, broken down into tasks), lead partner and role of participants
+CastYourArt will organize and participate in the World ICT Fair that will take place in Vienna in 2016, as well as the pilot Fair that will take place in Amsterdam in 2015. 
+
+
+
+
+
+
+
+
+Deliverables (brief description and month of delivery)
+CastYourArt will use their network of electronic media, art, and museums to bring in new participants to the pilot fair in July 2015 and the complete World ICT Fair in July 2017. This will take place over time, starting in September 2014 and continuing throughout the process until the pilot Fair in July 2015. 
+In October 2014, Wolfgang Haas will present himself and CastYourArt’s work at a 2 day kick-off workshop in Amsterdam that includes students, as well as other partners. He will connect what they do to the students' research.
+Related to the World ICT Fair, CastYourArt will make two short films documenting the process of one artist and one Fair participant from the humanities. These will be made between The films will examine integrating ICT into their contribution to the exhibition. Another film will be made by CastYourArt of the Fair itself.
+
+
+
+
+
+ 
+
 *graphical presentation of the components showing how they inter-relate (Pert chart or similar)*
 
 *Give full details. Base your account on the logical structure of the project and the stages in which it is to be carried out. Include details of the resources to be allocated to each work package. The number of work packages should be proportionate to the scale and complexity of the project.* 
+
+Platform as Interface:
+
+Lab as Interface: 
+
+Collections as Interfaces: 
+
 
 *You should give enough detail in each work package to justify the proposed resources to be allocated and also quantified information so that progress can be monitored, including by the Commission.* 
 
@@ -742,14 +784,14 @@ Inspired by open source culture and software development practices the fields ar
 #### 3.2	Management structure and procedures 
  
 *Describe the organisational structure and the decision-making (including a list of milestones (table 3.2a));*
-- private partners can't take over -- connection made via workshops and meetings
-- how do decisions get made given a resistance to hierarchy?
-- git as a platform to collect ideas and share feedback
+We have the idea for a horizontal management structure that ensures private partners are not able to take over -- connection will be made via workshops and meetings. Our resistance to hierarcy requires a careful explanation as to structure and how decisions are made. We will enact a policy of frequent but strictly time-controlled meetings via skype with partners to discuss progress and plans ahead. Each person present in a meeting may voice their opinion, and each person will have a veto, which they should use carefully. However, each partner will have a lead participant who serves as the representative of that organization related to the project. This role will rotate every six months, allowing all main participants to represent their organization. The project managers will play a coordination role in making sure meetings are well organized and effective. Twice per year, all participants, not only the leaders, will meet in person for a conference. At these conferences, everyone is encouraged to concisely share what they think the one thing is that could move the innovation forward. 
+Github is an excellent platform to collect ideas and share feedback, allowing for open discussion and a well informed decision making process. 
 
 *Explain why the organisational structure and decision-making mechanisms are appropriate to the complexity and scale of the project;*
+This organizational structure involves each partner or component to the project having one representative at a time. This allows for a smaller group to participate in decision making. Because the partners in this project are physically located in several different countries within the European Union, having one representative attend monthly meetings is more manageable. Meeting regularly is condusive to our value of collaboration.
 
 *Describe, where relevant, how effective innovation management will be addressed  in the management structure and work plan;*
-- effective innovation management : a self-managed system
+
 
 *Innovation management is a process which requires an understanding of both market and technical problems, with a goal of successfully implementing appropriate creative ideas. A new or improved product, service or process is its typical output. It also allows a consortium to respond to an external or internal opportunity.*
 
