@@ -437,7 +437,7 @@ One area in which the challenge of digital literacy and exclusion is prominent i
 
 //"While digital resources are becoming more visible in the humanities, use of these resources by scholars remains limited. … Digitization projects are bringing texts, data sources, sound, and images to the scholar’s desktop; however, the functions on which research in the humanities depend are neither well understood nor well supported by librarians."// (Brockman et al, 2001) / Bradley Text
 
-At the same time, governments, municipalities and cultural institutions increasingly share their data openly online. The skills to compile graspable information from big data sets become more important on the level of politics and social agency. It allows civic movements but also single citizens to understand political and social processes, identify problems and develop solutions – that can be software based. //gelt project // white house data // open knowledge foundation//.
+At the same time, governments, municipalities and cultural institutions increasingly share their data openly online. A good example of this development in the field of cultural heritage is our partner in this project the Europeana network [http://www.europeana.eu/](http://www.europeana.eu/). But also in the political field a lot of open data sets wait be explored by dedicated citizen. The skills to compile graspable information from big data sets therefore become more important on the level of politics and social agency. It allows civic movements but also single citizens to understand political and social processes, identify problems and develop solutions – that can be software based. //gelt project // white house data // open knowledge foundation//.
 
 Coding the Humanities trains students and researchers to read and handle data streams and shows possible ways to translate these into visualizations. Visualizations such as cartography, timelines, graphs, diagrams or animations, as well as the design of interactive interfaces help to translate data into knowledge by providing a context for different information and a combination of different data sets. This approach can boost humanities research and at the same time it makes humanities concepts and research productive and understandable for a broader audience as the visual translation of the data can inspire the mind to new insights.
 
@@ -447,14 +447,13 @@ The developed tools can be applied to different data sets. Especially with regar
 
 Practically, the foreseen educational platform realizes local engagement, user-focused learning with both an individually-oriented as well as collective component; collaboration and the accumulation of knowledge and skills are key to a successful implementation of the platform. Apart from a digital educational platform and the realization of a physical research space where public-private-civic partners can collaborate, a third component of the project is the translation of data in intuitive interfaces and data visualization. Students and researchers (“users”) will be taught to translate data into visualization, thereby not only learning how to interpret data, but also how to code and reflect on what coding practices mean; how the act of coding influences how data is represented. Users, in this way, become more aware of how data may be manipulated while at the same time gaining skills that empower the user. By learning how to read and handle data streams and how these may be translated in visualizations, users therefore not only gain skills, but also become more empowered, “smart” users. Moreover, data visualization tools provide a great foundation for collaborative activities between universities and other institutions; these tools move beyond the mode of mere data processing to instead produce new insights and knowledge.
 
-The project thus involves visualization and interface expertise of private partners to not merely facilitate and realize skilling of humanities’ researchers, but to moreover stimulate new knowledge production. Directly connected to this is the fact that the consortium is complemented by open data collections provided by museums. These open data collections provide research material for humanities researchers to interact with, to investigate and to draw new knowledge from.
+The project thus involves visualization and interface expertise of private partners to not merely facilitate and realize skilling of humanities’ researchers, but to moreover stimulate new knowledge production. Directly connected to this is the fact that the consortium is complemented by open data collections provided by cultural institutions. These open data collections provide research material for humanities researchers to interact with, to investigate and to draw new knowledge from.
 
-The exhibition would be a combination of on and offline projects, culminating in a public six week exhibition in the Museum Square in Vienna three years into the project. We endeavor to involve students from the platform, partners from the lab space, as well as other private and public partners, developers, and the general population. This exhibition would consist of workshops, data events, speakers, art installations, and presentations on relationships between ITC, art, business, and cultural heritage.
+This also relates to the second part of the Collection as Interfaces sub-project; the research performed by consortium of actors will culminate in a public six week exhibition, situated in the Museum Square in Vienna in the third year of the project. Involving and drawing from the research practices of students on the platform, the partners in the lab, as well as other private and public partners, developers and the general population, the exhibition publicly presents workshops, art installations and events about the relationship between ICT, art, business and cultural heritage. 
 
-This also relates to the second part of the Collection as Interface sub-project; the research performed by consortium of actors will culminate in a public six week exhibition, situated in the Museum Square in Vienna in the third year of the project. Involving and drawing from the research practices of students on the platform, the partners in the lab space and the general population, the exhibition publicly presents workshops, art installations and events about the relationship between ICT, art, business and cultural heritage. Situated in public space, the exhibition invites the public to engage with art work, developed interfaces, and visualizations which are the result of researchers’ efforts in researching open data provided by cultural institutions.
+The exhibition would be a combination of on and offline projects complemented by workshops, data events, speakers, art installations, and presentations on relationships between ITC, art, business, and cultural heritage. Situated in public space, the exhibition invites the public to engage with art work, developed interfaces, and visualizations which are the result of researchers’ efforts in researching open data provided by cultural institutions. 
 
 The exhibition will be presented in the third year of the project. However, at the end of the first year, a trial event will be organized in Vienna, where first results are to be presented. Between the first and third year, the consortium will work on realizing the six week exhibition through crowdfunding mechanisms, such as kickstarter (www.kickstart.com)  
-
 
 **Consortium** 
 
@@ -462,24 +461,16 @@ In this research field we work with the Dutch company Weyeser with expertise in 
 
 Weyeser’s expertise with visualization and interfacing-practices is complemented by the Austrian company CastYourArt. CastYourArt is focused on consulting, production and online/offline distribution of audio and video material in which they present artists, exhibitions and collectors and take art out of the museum context.
 
-The public partners involved are the Royal Tropical Institute, a research institute with five Dutch museums attached and Europeana, the network of European libraries, archives and other cultural institutions.
-
-
-//We would love to initiate a collaboration between you and the private/public partners that allows Coding the Humanities researchers and students to explore new formats to make data and information related to museum collections accessible and experienceable. With regard to the private partners these explorations could involve the conception and development of visualizations in general terms, as video or audio and/or in form of interfaces.// 
-
-//In a series of workshops the students/researchers should learn about the status quo of visualization within the museums context. Their humanities background then allows them to comprehend how to turn data into a narrative and thus develop perspectives on how address visitors in new ways. With their coding skills and the support of the private partner, the students will collectively conceptualize and develop software solutions for field but not limited to this field.//
-
-//Europeana would provide us with API access, advice and critique from an institutionalised repository, and participate in joint meetings and publications. In terms of budget we should make sure they get a travel budget (€2,000 per year?), and some time (for participation and contributions). We will need to check with Jill to see if that is ok and how much they need for time, but I would guess that about €10-15K per year would be more than enough.//
-
-
-Moreover, the consortium in this research field will be completed by a public partner, the Tropenmuseum Amsterdam, which will initiate projects that encourage students to work with the datasets related to their collection. In a series of workshops with the private and the public partner the students will learn about the status quo of visualization within the museums context. With their humanities background the students are predestined to comprehend how to turn data into a narrative and how to meet the demands of the visitor. With their coding skills and the support of the private partner, the students will collective conceptualize and develop software solutions for this field but not limited to this field. The outcome of this project will be accessible and free to use by other students, scholars, cultural institutions or civic movements.  
+Moreover, the consortium in this research field will be completed by a public partner, the Europeana network, which will initiate projects that encourage students to work with the datasets related to their collection. In a series of workshops with the private and the public partner the students will learn about the status quo of visualization within the museums context. With their humanities background the students are predestined to comprehend how to turn data into a narrative and how to meet the demands of the visitor. With their coding skills and the support of the private partner, the students will collective conceptualize and develop software solutions for this field but not limited to this field. The outcome of this project will be accessible and free to use by other students, scholars, cultural institutions or civic movements.  
 
 Visualization empowers the students to make the increasing number of large datasets productive for their research. The new perspectives gained also provide arguments and strategies for a larger audience ranging from museums to foundations to civic movements.
 
 
 *Describe any national or international research and innovation activities which will be linked with the project, especially where the outputs from these will feed into the project;*
 
-//CIRCA// //ADH// //http://www.lifeparticipation.org// Action 60: Increase participation of women in the ICT workforce
+The proposed projects will connect to the Amsterdam Centre for Digital Humanities in terms of shared seminars and benefit from the collaborations with scholars that have insights research concerning tools for humanities research. Furthermore Coding the Humanities will benefit from research and network of the Creative Research Centre Amsterdam to connect with SMEs of the creative industries sector to collaborate on the development of innovative products and services.  
+  
+Action 60: Increase participation of women in the ICT workforce
 [https://ec.europa.eu/digital-agenda/en/pillar-vi-enhancing-digital-literacy-skills-and-inclusion/action-60-increase-participation-women-ict](https://ec.europa.eu/digital-agenda/en/pillar-vi-enhancing-digital-literacy-skills-and-inclusion/action-60-increase-participation-women-ict)
 
 
@@ -698,51 +689,9 @@ Inspired by open source culture and software development practices the fields ar
 *a description of each work package (table 3.1a)*
 *a list of work packages (table 3.1b);*
 *a list of major deliverables (table 3.1c);*
-
-
-Table  3.1 a:	Work package description 
-
-
-Work package number 	3	Start Date or Starting Event	Kick-off workshop 10/2014
-Work package title	Collections as Interfaces
-Participant number							
-Short name of participant	CYA						
-Person/months per participant:	1/12						
-
-Objectives : The objective is to build a network that bridges ICT to art that culminates in the first World ICT Fair, participate in the Fair both as the primary organizer and as a participant.
-
-
-Description of work (where appropriate, broken down into tasks), lead partner and role of participants
-CastYourArt will organize and participate in the World ICT Fair that will take place in Vienna in 2016, as well as the pilot Fair that will take place in Amsterdam in 2015. 
-
-
-
-
-
-
-
-
-Deliverables (brief description and month of delivery)
-CastYourArt will use their network of electronic media, art, and museums to bring in new participants to the pilot fair in July 2015 and the complete World ICT Fair in July 2017. This will take place over time, starting in September 2014 and continuing throughout the process until the pilot Fair in July 2015. 
-In October 2014, Wolfgang Haas will present himself and CastYourArt’s work at a 2 day kick-off workshop in Amsterdam that includes students, as well as other partners. He will connect what they do to the students' research.
-Related to the World ICT Fair, CastYourArt will make two short films documenting the process of one artist and one Fair participant from the humanities. These will be made between The films will examine integrating ICT into their contribution to the exhibition. Another film will be made by CastYourArt of the Fair itself.
-
-
-
-
-
- 
-
 *graphical presentation of the components showing how they inter-relate (Pert chart or similar)*
 
 *Give full details. Base your account on the logical structure of the project and the stages in which it is to be carried out. Include details of the resources to be allocated to each work package. The number of work packages should be proportionate to the scale and complexity of the project.* 
-
-Platform as Interface:
-
-Lab as Interface: 
-
-Collections as Interfaces: 
-
 
 *You should give enough detail in each work package to justify the proposed resources to be allocated and also quantified information so that progress can be monitored, including by the Commission.* 
 
@@ -784,14 +733,14 @@ Collections as Interfaces:
 #### 3.2	Management structure and procedures 
  
 *Describe the organisational structure and the decision-making (including a list of milestones (table 3.2a));*
-We have the idea for a horizontal management structure that ensures private partners are not able to take over -- connection will be made via workshops and meetings. Our resistance to hierarcy requires a careful explanation as to structure and how decisions are made. We will enact a policy of frequent but strictly time-controlled meetings via skype with partners to discuss progress and plans ahead. Each person present in a meeting may voice their opinion, and each person will have a veto, which they should use carefully. However, each partner will have a lead participant who serves as the representative of that organization related to the project. This role will rotate every six months, allowing all main participants to represent their organization. The project managers will play a coordination role in making sure meetings are well organized and effective. Twice per year, all participants, not only the leaders, will meet in person for a conference. At these conferences, everyone is encouraged to concisely share what they think the one thing is that could move the innovation forward. 
-Github is an excellent platform to collect ideas and share feedback, allowing for open discussion and a well informed decision making process. 
+- private partners can't take over -- connection made via workshops and meetings
+- how do decisions get made given a resistance to hierarchy?
+- git as a platform to collect ideas and share feedback
 
 *Explain why the organisational structure and decision-making mechanisms are appropriate to the complexity and scale of the project;*
-This organizational structure involves each partner or component to the project having one representative at a time. This allows for a smaller group to participate in decision making. Because the partners in this project are physically located in several different countries within the European Union, having one representative attend monthly meetings is more manageable. Meeting regularly is condusive to our value of collaboration.
 
 *Describe, where relevant, how effective innovation management will be addressed  in the management structure and work plan;*
-
+- effective innovation management : a self-managed system
 
 *Innovation management is a process which requires an understanding of both market and technical problems, with a goal of successfully implementing appropriate creative ideas. A new or improved product, service or process is its typical output. It also allows a consortium to respond to an external or internal opportunity.*
 
