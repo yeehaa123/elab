@@ -113,7 +113,6 @@ These efforts should be viewed in line with two overarching developments in cont
 
 Each of the three areas anticipates and addresses an upcoming challenge. 
 
-##### 1. The Platform as Interface
 **The Platform as Interface** 
 
 In order to initiate a fruitful debate about the development and application of ICT it is crucial not only to start that debate among ICT experts. On the contrary, this debate should evolve around users and their needs. Thus one of the main challenges to face for the creation of a sustainable dialogue about the opportunities ICT offers is to interest and educate non-technologically biased persons in the use and development of ICT.  
@@ -130,8 +129,7 @@ In times of big data more and more data is available but not necessary turned in
 
 The platform will embrace open source culture and open licenses. The students share their code projects on a distributed repository which encourages re-use, altering and further development. This platform is therefore open, inclusive and sustainable.
 
-
-*Approach*
+**Technical approach**
 
 On the technical side the design of the platform is inspired by and makes use of open source software and the attached collaborative strategies.
 
@@ -141,11 +139,13 @@ The platform is developed in JavaScript, which will also be the main programming
 
 All interaction with the platform is done via the web browser. All modern browsers allow users to directly interact with web sites and servers through the browser console using JavaScript. Thereby users can directly apply their coding skills to anything they encounter on the web. Another advantage is that this minimises the threshold to developing and using programmings skills, as web browsers are found on most computers and are provided by default with all popular operating systems. At the same time, using JavaScript in the browser exposes users to the full range of programming possibilities.
 
-Furthermore, the platform is tool oriented. Students develop small tools and widgets that perform small parts of the research they want to conduct. The reason to focus on tools is that researchers in general and humanities scholars in particular need to reflect critically on the tools they use for their research. By becoming proficient at conceptualising and developing tools, scholars develop a keen eye for perceiving how digital tools work in general. 
+Furthermore, the platform is tool oriented. Students develop small tools and widgets that perform small parts of the research they want to conduct. The reason to focus on tools is that researchers in general and humanities scholars in particular need to reflect critically on the tools they use for their research. By becoming proficient at conceptualisig and developing tools, scholars develop a keen eye for perceiving how digital tools work in general. 
 
 Developments in programming languages have shifted the focus from computation to language. Commands in modern programming languages are more like natural language expressions, whereas older languages forced programmers to formulate very algebraic commands. This makes modern languages more intuitive to use, which lowers the threshold and together with the vast number of interesting JavaScript modules available on the web, even novice programmers can build interesting applications in a matter of hours or days instead of months or years. Promoting programming skills to a large audience makes more sense now than ever before.
 
-The user of the platform will acquire programming skills via modular online courses and tutorials with direct visual feedback and the ability to concurrently work on the same code and copy and comment on each others work in real-time. This approach encourages peer learning and collaboration.
+**User Experience**
+
+The users of the platform will acquire programming skills via modular online courses and tutorials with direct visual feedback and the ability to concurrently work on the same code and copy and comment on each others work in real-time. This approach encourages peer learning and collaboration.
 
 The platform is set up in such a way that universities can integrate learning modules from CtH in their curriculum, while students can build up their portfolios through research projects, with which they can show both their progress to teachers and their skills and achievements to employers. Furthermore, like indicated abot the application integrates naturally with Github and other open source environments, lowering the threshold for a diverse audience to reuse, copy and extend the prototypes, products and results of interest to society, including the general public, academics and companies.
 
