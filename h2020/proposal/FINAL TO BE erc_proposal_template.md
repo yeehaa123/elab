@@ -145,7 +145,9 @@ Furthermore, the platform is tool oriented. Students develop small tools and wid
 
 Developments in programming languages have shifted the focus from computation to language. Commands in modern programming languages are more like natural language expressions, whereas older languages forced programmers to formulate very algebraic commands. This makes modern languages more intuitive to use, which lowers the threshold and together with the vast number of interesting JavaScript modules available on the web, even novice programmers can build interesting applications in a matter of hours or days instead of months or years. Promoting programming skills to a large audience makes more sense now than ever before.
 
-On the users of the platform will acquire programming skills via modular online courses and tutorials  
+The user of the platform will acquire programming skills via modular online courses and tutorials with direct visual feedback and the ability to concurrently work on the same code and copy and comment on each others work in real-time. This approach encourages peer learning and collaboration.
+
+The platform is set up in such a way that universities can integrate learning modules from CtH in their curriculum, while students can build up their portfolios through research projects, with which they can show both their progress to teachers and their skills and achievements to employers. Furthermore, like indicated abot the application integrates naturally with Github and other open source environments, lowering the threshold for a diverse audience to reuse, copy and extend the prototypes, products and results of interest to society, including the general public, academics and companies.
 
 
 ##### 2. The Lab as Interface
