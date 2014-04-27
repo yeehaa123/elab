@@ -32,10 +32,10 @@ These interfaces lower the technological, economic and organizational barriers t
 
 We identify four dilemmas about statements on learning and research that can be challenged or embraced:
 
-1. Digital Literacy: Education and research (in the Humanities) increasingly depend on people with programming skills.
-2. Organization: Traditional knowledge institutions are losing their monopoly on education and research.
-3. Numbers: Future education should revolve around massive numbers (Big Data, MOOC).
-4. Elite: Coding and knowledge production remain privileges of a cultural, technological and economic elite.
+1. *Digital Literacy*: Education and research (in the Humanities) increasingly depend on people with programming skills.
+2. *Organization*: Traditional knowledge institutions are losing their monopoly on education and research.
+3. *Numbers*: Future education should revolve around massive numbers (Big Data, MOOC).
+4. *Elite*: Coding and knowledge production remain privileges of a cultural, technological and economic elite.
 
 Our answer to these dilemmas provide the following objectives:
 1. Digital Literacy: Increase the number of people who approach learning and research collaboratively, through an online platform where users collaboratively learn programming and build tools, thereby increasing digital literacy and at same time lowering the technological threshold to engage with and reflect on digital tools. (challenge and embrace)
@@ -53,6 +53,7 @@ We propose to do this in three parts:
 3. *Collections as interfaces*: The exhibition would be a combination of on and offline projects, culminating in a public six week exhibition in the Museum Square in Vienna three years into the project. We endeavor to involve students from the platform, partners from the lab space, as well as other private and public partners, developers, and the general population. This exhibition would consist of workshops, data events, speakers, art installations, and presentations on relationships between ITC, art, business, and cultural heritage. 
 
 We also challenge the traditional educational dichotomy of researchers as experts and students as novices. Learning and research are hard to separate as both revolve around involve producing and sharing knowledge, where each participant can be both the sender and receiver of knowledge. This leads us to five principles which will guide our implementation of these interfaces:
+
 1. *Training over support*: <explanation>
 2. *Collaboration over ownership*: <explanation>
 3. *Online over Massive*: <explanation>
