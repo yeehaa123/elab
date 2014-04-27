@@ -69,6 +69,8 @@ In order to involve a large number of students, researcher, scholars but also no
 *Describe and explain the overall concept underpinning the project. Describe the main ideas, models or assumptions involved;* 
 Connecting humanities to technology unlocks potential for holistic approaches to innovation, including those that consider ethical/moral impacts of technology and its use, ...
 
+#####1.3.1 Introduction
+
 Many humanities students and scholars are reluctant to learn new technologies, and thereby limit both their own ability to influence the outside world, as well as the incorporation of technology in their research. As Mitch Resnick has said, not being able to take charge of the technological tools we use to meet our own particular needs is similar to being able only to read a language but not write. For full use of the language and to use it to express ourselves, we must also be able to use it to create new structures. To make full use of technologies, we must be able not just to use them passively, but to modify them. This venture will empower humanities students and scholars to proactively drive their own learning and research. When they engage with technology through coding, they open the doors to master and innovate their own tools.
 
 
@@ -76,9 +78,9 @@ Many humanities students and scholars are reluctant to learn new technologies, a
 The coding platform will build upon Coding the Humanities, an already strong research project at the University of Amsterdam that has been successfully running for more than a year. Coding the Humanities is closely linked to several other projects, including zooniverse, dh, chat, and circa, and explores interplay between humanities and technology within the humanities faculty. It currently introduces programming to humanities students through coursework. We have three courses that are incorporated into the curriculum on programming basics. The course "Art, Science, and Technology" is running now, and the courses "Coding the Humanities" and "From Objected Data" will both begin in September 2014. Increasing the number of humanities students and scholars with programming skills through this coding platform will allow them to shape and create digital tools that meet their particular research needs and encourage new forms of learning, teaching and knowledge production. This skillset will sensitize the participants to their technological environment and make them aware of the challenges and opportunities ICT offers for humanities research. Coding knowledge makes those in the humanities more employable because humanities students and scholars will increasingly need to be able to read and write code. Expanding the context beyond the classroom to the coding platform will give students a venue to connect and share with participants outside the university.
 
 
-models:
+##### 1.3.2 Assumptions involved
 
-assumptions involved: 
+
 - assumption that academia and the rest of the world are separate and cannot interact, and the idea that they can work together. More specifically, the idea that humanities students and scholars are separated from technology, and the goal of engaging them with it.
 
 - universities face a loss of authority as models of traditional education being replicated in online formats, and the goal of creating new tools in the context of today’s increasingly interdependent world
@@ -105,7 +107,7 @@ assumptions involved:
    * Sabrina -- the postdoc
    * 
    
-##### Approach
+##### 1.3.3 Structure
 
 This research proposal consists of three integrated action fields in which public-private-civic partnerships (quad-helix) lead to a sharing of expertise and collaborative practices geared at the development of a cutting-edge innovative educational ecosystem that is specific to the (digital) humanities but reaches beyond this realm. These fields are socio-technical in their approach; apart from combining insights from different partners to develop technological solutions (such as an online educational platform), valorize existing and new R&D methodologies (such as design thinking methodologies and embedded research practices) and the translation of data streams and information in intuitive interfaces that make use of visualization, this research proposal seeks to specially gear technological developments and efforts to enhance society by closing the digital divide. By collaborating throughout the project with public, private and civic partners, the project foresees the accumulation of knowledge and a digital skilling of particular hitherto unreached civic groups. 
 
@@ -113,7 +115,7 @@ These efforts should be viewed in line with two overarching developments in cont
 
 Each of the three areas anticipates and addresses an upcoming challenge. 
 
-**The Platform as Interface** 
+######1.3.3.1 The Platform as Interface** 
 
 In order to initiate a fruitful debate about the development and application of ICT it is crucial not only to start that debate among ICT experts. On the contrary, this debate should evolve around users and their needs. Thus one of the main challenges to face for the creation of a sustainable dialogue about the opportunities ICT offers is to interest and educate non-technologically biased persons in the use and development of ICT.  
 
@@ -150,17 +152,71 @@ The users of the platform will acquire programming skills via modular online cou
 The platform is set up in such a way that universities can integrate learning modules from CtH in their curriculum, while students can build up their portfolios through research projects, with which they can show both their progress to teachers and their skills and achievements to employers. Furthermore, like indicated abot the application integrates naturally with Github and other open source environments, lowering the threshold for a diverse audience to reuse, copy and extend the prototypes, products and results of interest to society, including the general public, academics and companies.
 
 
-##### 2. The Lab as Interface
+#####1.3.3.2 The Lab as Interface - The OverLab
 
 Universities are open up towards other universities, civic movements and companies, so that other groups can benefit from their knowledge.
 
-This process of opening up can be accelerated by spaces that are situated in between. The living labs show how this can lead to innovation. Spaces for spaces for embedded research a place for overlapping, theory and artistic practice, physical and digital research, of studio, workshop, library, of institutions - private and public, an independent place outside the department structure of the university, a room that enables, allows those involved to experiment.
+This process of opening up can be accelerated by spaces that are situated in between. The living labs show how this can lead to innovation. Spaces for spaces for embedded research a place for overlapping, theory and artistic practice, physical and digital research, of studio, workshop, library, of institutions - private and public, an independent place 
 
-Embedded researcher is a new and exiting role within the university. Its goal is to establish sustainable partnerships between private partners and universities. In practice, however, this turns out to be 
-problematic, since the role and position of this kind of researcher is peripheral by definition. The embedded research usual works on short term projects and inbetween the academy and a company. 
+**Introduction** 
+
+One of the challenges concerning new forms of online learning is to form a community of participants that are interested to engage with a platform over a longer period of time and actively contribution to sustainable projects. This sub-project addresses these challenges by the design and production of an offline lab as interface between digital and analogue world.
+
+This living lab will explore the integration and complementation of ICT based learning and collaboration into an offline environment. It will serve as a testbed to initiate, support and foster online ICT projects. At the same time, the strategies and practices of the analogue space inform the development of the digital platform. Innovative perspectives on the application of ICT in general and its integration into an offline space will be explored through experimental, user focused workshops that result in a physical space. The conception and design of the lab according to user needs is a crucial part within this subproject. 
+This approach will produce models and concepts for the design and user culture of a living lab that feeds of and informs the online learning platform. The process will be openly documented and intends the imitation and formation of living labs related to the coding the humanities platform.  
+
+The initial users of this interface are researchers that are situated in between a variety of aspects themselves: Embedded researchers work between theory and practice, science and art, universities and public or private partners. Their needs as digital knowledge worker on the one hand and a specific but homogeneous group on the other hand, allow valuable insights concerning the question of how ICT can provide instruments to make research more open, accessible and sustainable. 
+
+The OverLab will address an overlapping of: 
+- theory and artistic practice
+- physical and digital research
+- studio, workshop, library
+- institutions - private and public
+
+It will be an independent place outside the department structure of the university, a room that enables and allows to experiment.
 
 
-##### 3. The Collection as Interface - Visualization and Inclusion
+
+**Project Overview** 
+
+Embedded researcher is a new and exiting role within the university. Its goal is to establish sustainable partnerships between private partners and universities. In practice, however, this turns out to be problematic, since the role and position of this kind of researcher is peripheral by definition. The embedded researcher usually works on short term projects and in between the academy and a company which seeks to establish sustainable collaborations between the creative industries and universities. Though the future of research lies more and more in collaborations between disciplines and fields, between public and private partnerships, practice and theory, between classic methodology and flexible theory, co-creation and collaborations the interdisciplinary researcher enters work spaces which are not built by or for them and uses methodology and means of exposure which remain in the respective fields.
+
+Where artists use their atelier, designers their studio and scientists their lab for experimentation, testing and collaboration, the embedded researcher enters a traditional, disciplinary university environment even though they are often expected to address research questions with a practical and creative research aspect. But artistic expression and creativity do not obey closing hours and bureaucratic sterility of university buildings.
+
+A virtual and physical lab is essential to compensate for the aforementioned problems. An online and offline platform - that already exists before they start, and will start after their contracts end - a space is a necessary precondition for embedded research projects that are actually sustainable. In this project we want to explore how such a lab should look like. Therefore this project seeks to investigate and built upon the combined needs for newly established forms of research by means of self-reflective research by the combined skills and expertise of the public and private partner using design thinking.  
+
+Therefore this project seeks to investigate and built upon the combined needs for newly established forms of researchs by means of self-reflective research by the combined skills and expertise of the public and private partner using design thinking. 
+When working from a human-centered approach it is crucial to not think of the form of the outcome right away or to be limited to just one medium or technology. But in order to experiment and innovate, a flexible workspace is as much needed as a flexible methodological framework which stimulates creating research designs with specific tools. 
+
+**Challenge** 
+The work space of the embedded researchers are regular office spaces at the university, supplied with a desk and a computer. The scope of most projects however require a variety of work settings. When working from a human-centered approach it is crucial to not think of the form of the outcome right away or to be limited to just one medium or technology. But in order to experiment and innovate, a flexible workspace is needed. Artistic expression and creativity do not obey closing hours and bureaucratic sterility of university buildings. 
+How could the ideal workspace for knowledge workers look like? How could the working environment be adapted to meet the changed research requirements of knowledge workers at the Departments for Digital Humanities, Media Studies, Cultural Analysis and Artistic Research? How can these physical structures create a sustainable link with an online learning environment? And how can the analogue and digital workspaces best be linked to each other? 
+
+
+**How to: user-centered approach Design Thinking** 
+
+GRAPHIC
+
+
+aims at ﬁnding out about users’s needs via an ethnographic research tools, synthesizes, narrows insights down to hit the core of a problem, condensed synthesis enables to start into an ideation part 
+generates a broad variety of ideas, makes ideas tangible in rapid and rough prototypes, cost-efﬁcient development 
+
+Future University related research has to be informed by open methodologies. Increasingly funding is spread competitively for small research periods, also in order to foster the collaboration between the public and the private sector, for example in the form of embedded researchers. Even though the emphasis here is on sustainable research, the projects are often closed and presented and not open for further development (unless some additional funding allows to proceed) Truely sustainable research is OPEN and would mean that a project has releases - at some point (after the official end of the research period) other students, embedded researchers are allowed and encouraged to take the outcome of the research, alter and develop it further. At some point (after the official end of the research period) other students, embedded researchers are allowed and encouraged to take the outcome of the research, alter and develop it further. 
+
+
+Need
+- increasing need of knowledge workers to combine theoretical as well as hands-on approaches in their research
+- current workspaces do not provide enough space, the right material and technology to experiment
+- methodological framework for researching interdisciplinary methodology
+- best practice for building sustainable public-private-partnerships
+
+
+
+
+
+
+
+#####1.3.3.3 The Collection as Interface - Visualization and Inclusion
 
 
 Collection as an interface: the exploration of the opportunities interfaces and visualization of data holds for knowledge production and inclusion THIS IS THE THIRD PILLAR OF THE PROJECT: COLLECTION AS INTERFACE
