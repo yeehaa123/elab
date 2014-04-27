@@ -65,7 +65,7 @@ We also challenge the traditional educational dichotomy of researchers as expert
 
 1. *Training over support*: Our first core value is training so that a learner will soon be able to pass on the knowledge to another learner. While support can result in repeatedly assisting the same person with the same issue, maintaining a distinction and even hierarchy in skillsets, training provides experience to the learner to bring them to an equal level to the trainer.
 2. *Collaboration over ownership*: Related to training over support is our second core principle, which favors collaborative over competitive efforts. Owning processes and results together on an equal basis promotes great teamwork.
-3. *Online over Massive*: 
+3. *Online over Massive*: The format of the platform encourages students to first learn coding online, but intends them to also have a physical team within their institution. This complements the Massive Open Online Course (MOOC) concept, which includes only an online context for learning.
 4. *Knowledge production over data processing*: <explanation>
 5. *Accessibility over state-of-the-art*: Our fifth core value is that of tools that are less complicated to begin to use over those that are state-of-the-art. Whereas state-of-the-art tools attract primarily the technically biased, more accessible tools have the power to reach a wider group of new users, including the non-technically biased. This supports our goal of inclusion of traditionally and currently underrepresented populations in ICT.
 
