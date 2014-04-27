@@ -523,11 +523,11 @@ Iteration of all of those activities in order to build strong cases regarding sc
 The proposed project is structured into three fields: 
 
 1) The Platform as Interface 
-In this workpackage an online platform for learning and research will be conceptualized by 
+In this work package an online platform for learning and research will be conceptualized by offering programming training to humanities students. It will serve as a forum for a wider user group and will engender fruitful collaborations in learning new technologies. 
 
-2) The Lab as Interface  – an offline space that complements the online platform and provides an in-between environment for university and public and private partners
+2) The Lab as Interface is to be an offline space that complements the online platform and provides an in-between environment for university partners, in addition to public and private partners to connect and pool their skills and perspectives towards innovations.
 
-3) The Collection as Interface - the exploration of the inclusive opportunities interfaces and visualization of data holds for knowledge production
+3) The Collection as Interface will be an exploration of the inclusive opportunities interfaces and visualization of data holds for knowledge production.
 
 
 Inspired by open source culture and software development practices the fields are going to be explored simulataneously so that insights from one of the fields can be applied tranfered early on to the other fields. 
