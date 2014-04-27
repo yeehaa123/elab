@@ -34,13 +34,6 @@ The first project will address the Physical Lab element, and will involve a PhD 
 The second project would relate to the core project of the coding platform. The PhD student would research how to reflect on tools through coding. S/he would conceptualize, plan, monitor, and program the coding platform. This PhD would serve as a way of measuing the development and success of the platform over four years. This researcher will be well integrated into the context of the university's department of digital humanities, and will also collaborate with private and public partners.
 
 
-
-
-
-
-
-
-
 ####1.2 Relation to the Work Programme
 
 *Indicate the work programme topic to which your proposal relates, and explain how your proposal addresses the specific challenge and scope of that topic, as set out in the work programme.* 
@@ -72,7 +65,6 @@ Connecting humanities to technology unlocks potential for holistic approaches to
 #####1.3.1 Introduction
 
 Many humanities students and scholars are reluctant to learn new technologies, and thereby limit both their own ability to influence the outside world, as well as the incorporation of technology in their research. As Mitch Resnick has said, not being able to take charge of the technological tools we use to meet our own particular needs is similar to being able only to read a language but not write. For full use of the language and to use it to express ourselves, we must also be able to use it to create new structures. To make full use of technologies, we must be able not just to use them passively, but to modify them. This venture will empower humanities students and scholars to proactively drive their own learning and research. When they engage with technology through coding, they open the doors to master and innovate their own tools.
-
 
 
 The coding platform will build upon Coding the Humanities, an already strong research project at the University of Amsterdam that has been successfully running for more than a year. Coding the Humanities is closely linked to several other projects, including zooniverse, dh, chat, and circa, and explores interplay between humanities and technology within the humanities faculty. It currently introduces programming to humanities students through coursework. We have three courses that are incorporated into the curriculum on programming basics. The course "Art, Science, and Technology" is running now, and the courses "Coding the Humanities" and "From Objected Data" will both begin in September 2014. Increasing the number of humanities students and scholars with programming skills through this coding platform will allow them to shape and create digital tools that meet their particular research needs and encourage new forms of learning, teaching and knowledge production. This skillset will sensitize the participants to their technological environment and make them aware of the challenges and opportunities ICT offers for humanities research. Coding knowledge makes those in the humanities more employable because humanities students and scholars will increasingly need to be able to read and write code. Expanding the context beyond the classroom to the coding platform will give students a venue to connect and share with participants outside the university.
@@ -160,22 +152,17 @@ This process of opening up can be accelerated by spaces that are situated in bet
 
 **Introduction** 
 
-One of the challenges concerning new forms of online learning is to form a community of participants that are interested to engage with a platform over a longer period of time and actively contribution to sustainable projects. This sub-project addresses these challenges by the design and production of an offline lab as interface between digital and analogue world.
+One of the challenges concerning new forms of online learning is to form a community of participants that are interested to engage with a platform over a longer period of time and actively contribution to sustainable projects. This sub-project addresses these challenges by the design and production of an offline living lab as interface between digital and analogue world.
 
-This living lab will explore the integration and complementation of ICT based learning and collaboration into an offline environment. It will serve as a testbed to initiate, support and foster online ICT projects. At the same time, the strategies and practices of the analogue space inform the development of the digital platform. Innovative perspectives on the application of ICT in general and its integration into an offline space will be explored through experimental, user focused workshops that result in a physical space. The conception and design of the lab according to user needs is a crucial part within this subproject. 
+As a user-driven methodology, Living Labs aim to blur the boundaries between technology users and producers by including (future) users of technologies from the start of technology development. Positioning users as co-creators would reverse traditional “top-down” R&D-processes performed by companies in favour of “bottom-up” innovation, performed by users and grounded in society instead of in corporate research laboratories. This practice is hoped to lead to unexpected insights into user ideas and practices (Almirall, 2008: 43 Almirall, E. (2008). Living Labs and Open Innovation: Roles and Applicability. The Electronic Journal for Virtual Organizations and Networks, 10(August), 21–46) and lead to the development of more successful ICTs.
+To gain unexpected insights, methodologies focus on the inclusion of real (end) users in  daily life contexts. The Living Lab thus also comprises a setting; a setting that affords “experimentation environments in which technology is given shape in real life context and in which (end) users are considered co-producers” (Ballon et al., 2005: 13 Ballon, P., Delaere, S., Pierson, J., M, P., Slot, M., Bierhof, J., & Diocaretz, M. (2005). Test & Experimentation Platforms for Broadband Innovation: Conceptualizing and Benchmarking International Best Practice).
+
+This living lab, the OverLab, will explore the integration and complementation of ICT based learning and collaboration into an offline environment. It will serve as a testbed to initiate, support and foster online ICT projects. At the same time, the strategies and practices of the analogue space inform the development of the digital platform. Innovative perspectives on the application of ICT in general and its integration into an offline space will be explored through experimental, user focused workshops that result in a physical space. The conception and design of the lab according to user needs is a crucial part within this subproject. 
 This approach will produce models and concepts for the design and user culture of a living lab that feeds of and informs the online learning platform. The process will be openly documented and intends the imitation and formation of living labs related to the coding the humanities platform.  
 
-The initial users of this interface are researchers that are situated in between a variety of aspects themselves: Embedded researchers work between theory and practice, science and art, universities and public or private partners. Their needs as digital knowledge worker on the one hand and a specific but homogeneous group on the other hand, allow valuable insights concerning the question of how ICT can provide instruments to make research more open, accessible and sustainable. 
+The initial users of this interface are researchers that are situated in between a variety of aspects themselves: Embedded researchers work between theory and (artistic) practice, physical and digital research, science and art, universities and public or private partners. Their needs as digital knowledge worker on the one hand and a specific but homogeneous group on the other hand, allow valuable insights concerning the question of how ICT can provide instruments to make research more open, accessible and sustainable. 
 
-The OverLab will address an overlapping of: 
-- theory and artistic practice
-- physical and digital research
-- studio, workshop, library
-- institutions - private and public
-
-It will be an independent place outside the department structure of the university, a room that enables and allows to experiment.
-
-
+It will be an independent place outside the department structure of the university in which studio, workshop and library intertwine, a room that enables and allows to experiment.
 
 **Project Overview** 
 
@@ -209,10 +196,6 @@ Need
 - current workspaces do not provide enough space, the right material and technology to experiment
 - methodological framework for researching interdisciplinary methodology
 - best practice for building sustainable public-private-partnerships
-
-
-
-
 
 
 
