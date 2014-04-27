@@ -17,15 +17,49 @@ Coordinator: Jan Hein Hoogstad
 ####1.1 Objectives 
 *Describe the specific objectives for the project, which should be clear, measurable, realistic and achievable within the duration of the project. Objectives should be consistent with the expected exploitation and impact of the project (see section 2).* 
 
-This project is about exploring the digital tools we use and how we use them. The overarching goal is to weave technology and humanities together to foster innovation through three forums: an expandable platform for humanities students to learn coding, a lab space where humanities thinking influences product and business design, and an exhibition which engages technology, art, business, and humanities. We aim to elevate the processes of tool building to the status of research in the humanities. 
+<!-- What is the problem? -->
+Learning and research (in the Humanities) are hindered by a lack of digital literacy and the seeming incommensurability of educating massive groups of students and providing high quality education.
+
+<!-- Why is it an interesting/important problem? -->
+Although traditional knowledge institutions are losing their monopoly on education and research, ICT skills and knowledge production remain privileges of a cultural, technological and economic elite.
+
+<!-- What is our solution to this problem? -->
+We propose to tackle this problem by providing online and offline interfaces between people on the one hand and learning and research on the other hand, which focus on new forms of collaboration and a user- and tool-oriented approach to learning programming skills.
+
+<!-- What are the consequences of our solution? -->
+These interfaces lower the technological, economic and organizational barriers to participation, empower many different groups of people to more deeply and effectively engage with technology and motivate lifelong learning.
+
+
+We identify four dilemmas about statements on learning and research that can be challenged or embraced:
+
+1. Digital Literacy: Education and research (in the Humanities) increasingly depend on people with programming skills.
+2. Organization: Traditional knowledge institutions are losing their monopoly on education and research.
+3. Numbers: Future education should revolve around massive numbers (Big Data, MOOC).
+4. Elite: Coding and knowledge production remain privileges of a cultural, technological and economic elite.
+
+Our answer to these dilemmas provide the following objectives:
+1. Digital Literacy: Increase the number of people who approach learning and research collaboratively, through an online platform where users collaboratively learn programming and build tools, thereby increasing digital literacy and at same time lowering the technological threshold to engage with and reflect on digital tools. (challenge and embrace)
+2. Organization: Create interfaces for users to teach each other and learn and research collaboratively, out of their own motivation, but use institutional structures to kick-start this process and provide disciplinary contexts. (challenge and embrace)
+3. Numbers: Increase the number of people learning and researching by focusing on collaboration and sharing knowledge, so that individual approaches and feedback remain possible, thereby retaining high quality education. (challenge and embrace)
+4. Elite: Make learning and research accessible and relevant by offering interfaces that allow many different types of users to learn to use and do research with technology  (challenge)
+
+These objectives present learning and inclusion as problems of interfaces. By definition, interfaces determine who or what is included and excluded. The focus of this project is thus on providing interfaces that increase inclusion, where users build, explore and reflect on digital tools and how we use them. The overarching goal is to weave technology and humanities together to foster innovation through three forums: an expandable platform for humanities students collaborate through coding, a lab space where humanities thinking influences product and business design, and an exhibition which engages technology, art, business, and humanities. <!-- We aim to elevate the processes of tool building to the status of research in the humanities. -->
+We propose to do this in three parts:
+
+1. *Platform as interface*: an expandable platform for humanities students to collaboratively learn programming and build tools for their research. The coding platform would develop new courses with both on and offline components. Our goal is to introduce four new courses of 12 ETCs, one each year. The new courses would enable Coding the Humanities to expand students’ introduction to programming to an open space where they would collaborate with people from all over the world in their ICT engagement. It would foster communication among students and other participants by serving as a space where they can share and experiment with findings, improvise together, and enjoy the thrill of new learning with a network of support. The goal in terms of inclusion would be to reach 20,000 users in four years. The University of Amsterdam would begin by including four other universities in this platform, linking the students through the coursework. The University of California Santa Barbara, University of California Irvine, and Humboldt University of Berlin are highly motivated to take part in this platform. 
+
+2. *Lab as interface*: The lab space would be an offline physical space in Amsterdam where students could work together with private partners to create new products and services that involve humanities thinking; applying a humanities perspective to practical applications outside academia. Our goal is to create one new product or service per year that meets a need within the humanities, and one new product or service per year that meets a need for a more general or different audience.
+
+3. *Collections as interfaces*: The exhibition would be a combination of on and offline projects, culminating in a public six week exhibition in the Museum Square in Vienna three years into the project. We endeavor to involve students from the platform, partners from the lab space, as well as other private and public partners, developers, and the general population. This exhibition would consist of workshops, data events, speakers, art installations, and presentations on relationships between ITC, art, business, and cultural heritage. 
+
+We also challenge the traditional educational dichotomy of researchers as experts and students as novices. Learning and research are hard to separate as both revolve around involve producing and sharing knowledge, where each participant can be both the sender and receiver of knowledge. This leads us to five principles which will guide our implementation of these interfaces:
+1. *Training over support*: <explanation>
+2. *Collaboration over ownership*: <explanation>
+3. *Online over Massive*: <explanation>
+4. *Knowledge production over data processing*: <explanation>
+5. *Accessibility over state-of-the-art*: <explanation>
 
 Coding the Humanities is already a strong and unique research project at the University of Amsterdam that has been successfully running for over one year. Closely linked to projects such as zooniverse, dh, chat, and circa, Coding the Humanities explores interplay between humanities and technology. We engage traditionally non-technically biased students with technology in order to empower them to proactively create their own tools, as well as to more deeply and holistically reflect on those tools. We aim to extend beyond the coursework currently offered in order to connect humanities students to artistic, cultural, and business institutions. 
-
-The coding platform (Platform as Interface) would develop new courses with both on and offline components. Our goal is to introduce four new courses of 12 ETCs, one each year. The new courses would enable Coding the Humanities to expand students’ introduction to programming to an open space where they would collaborate with people from all over the world in their ICT engagement. It would foster communication among students and other participants by serving as a space where they can share and experiment with findings, improvise together, and enjoy the thrill of new learning with a network of support. The goal in terms of inclusion would be to reach 20,000 users in four years. The University of Amsterdam would begin by including four other universities in this platform, linking the students through the coursework. The University of California Santa Barbara, University of California Irvine, and A UNIVERSITY IN BERLIN -- WHICH ONE? are highly motivated to take part in this platform. 
-
-The lab space (Lab as Interface)  would be an offline physical space in Amsterdam where students could work together with private partners to create new products and services that involve humanities thinking; applying a humanities perspective to practical applications outside academia. Our goal is to create one new product or service per year that meets a need within the humanities, and one new product or service per year that meets a need for a more general or different audience.
-
-The exhibition (Collections as Interfaces) would be a combination of on and offline projects, culminating in a public six week exhibition in the Museum Square in Vienna three years into the project. We endeavor to involve students from the platform, partners from the lab space, as well as other private and public partners, developers, and the general population. This exhibition would consist of workshops, data events, speakers, art installations, and presentations on relationships between ITC, art, business, and cultural heritage. 
 
 To enrich these courses and enhance the analysis of the coding platform's processes and results, we seek funding from other sources to offer two PhD positions related to relationships between humanities and technology. These positions would be excellent additions to the project, whose primary focus is to create new products and services and support research and development activities. Each project will address a key aspect of the overall objective to foster connections between technology and humanities.
 
