@@ -909,33 +909,20 @@ Austria
 (*any other supporting documents specified in the work programme for this call*)
  
 
-Our committment
-
-Art and thought about art enrich our lives. This is why we from CastYourArt provide insights into the world of art. CastYourArt wants to discover, make accessible, transmit, support and entertain. In doing so we rely on content rather than superficiality, authenticity instead of glib professionalism, complexity instead of oversimplification, we rely on networking and exchange rather than on separation and of course we love what we do. 
+CastYourArt provides insights into the world of art. CastYourArt wants to discover, make accessible, transmit, support and entertain. In doing so we rely on content rather than superficiality, authenticity instead of glib professionalism, complexity instead of oversimplification, we rely on networking and exchange rather than on separation and of course we love what we do. 
  
-
-Content
-
-
-In the audio and video features produced by CastYourArt we visit artists, exhibitions, collectors, persons and institutions involved in the world of art and portray them. It is all about ideas and thoughts, protagonists, networks and mechanisms, about experiments, theories and reflection, inspiration and emotions, about diversity as well as discrepancies. How are works of art created and which ideas motivated the artist? What motivates the collector - fascination, profit, love, addiction, calculation? How does a curator see his exhibition and how does the audience? We are interested in these and other questions. We want to hear frankly, see differently, be there, make available and tangible, be inspired, and be able to learn. Productions by CastYourArt want to express individuality and leave room for development of creative potential in the production process.  
+Audio and video features produced by CastYourArt protrait artists, exhibitions, collectors, persons and institutions involved in the world of. It is all about ideas and thoughts, protagonists, networks and mechanisms, about experiments, theories and reflection, inspiration and emotions, about diversity as well as discrepancies. How are works of art created and which ideas motivated the artist? What motivates the collector - fascination, profit, love, addiction, calculation? How does a curator see his exhibition and how does the audience? We are interested in these and other questions. We want to hear frankly, see differently, be there, make available and tangible, be inspired, and be able to learn. Productions by CastYourArt want to express individuality and leave room for development of creative potential in the production process.  
  
-
-
-Performance
- 
-
 CastYourArt produced about 250 video-portraits of artists and art-institutions within the last six years. This videos are published through the CastYourArt plattform (www.castyourart.com) as well as podcasting, wikipedia etc. In 2013 CastYourArt had about 1 million plays within its podcast-subscriptions and its website. Additionally to its online activities CastYourArt is also busy offline.   
 
 CastYourArts services include advice, production and distribution of audio and film features, creation and editing of textual content, online and offline distribution of the features, exhibition activities, project development and organisation in the domain of art, and artist management as well as liaising between art and business. We call art to people’s attention. We offer the infrastructure to show what exhibition halls, museums, galleries, collectors and art-oriented companies offer for art-interested people. We exhibit art. We accompany artists in the actualisation of their ideas, beginning from strategy to financial planning, organisation, communication to sales; we manage artists in every step of their career.
 
 CastYourArt is a product of the KA21 GmbH, based in Vienna. The founding members are Wolfgang Haas, Helmut Feier and Franz Morgenbesser. Managing directors and in charge are Wolfgang Haas and Helmut Feier.
-Wolfgang Haas (born 1969), studied education in Graz (Austria) and finished his PhD in Philosophy in Utrecht (NL), he was Research assistant at the University Utrecht, Assistant at University Graz, had lectureships at the Technical University Graz and University Klagenfurt / Center for interdisciplinary research and advanced education. Wolfgang Haas was Co-publisher of the culture magazine "bob" and is at CastYourArt in charge for editing, production, and strategic development.
-Helmut Feier (born 1972) was managing director and consultant at e-century consulting and senior consultant for ict-knowledge. At CastYourArt he is in charge for ict-development, production.
 
-*Wolfgang Haas*
+*Wolfgang Haas* is managing director of CastYourArt. He studied education in Graz (Austria) and finished his PhD in Philosophy in Utrecht (NL), he was Research assistant at the University Utrecht, Assistant at University Graz, had lectureships at the Technical University Graz and University Klagenfurt / Center for interdisciplinary research and advanced education. Wolfgang Haas was Co-publisher of the culture magazine "bob" and is at CastYourArt in charge for editing, production, and strategic development.
 
-*Wolfgang Scheikl* systemic consulting of organizations, associate of CastYourArt, specialized in change-management.
-Raven and Finch, Vienna based company founded by Max Kickinger and Sarah Kehrer, specialized in soundbranding
+*Helmut Feier* is managing director of CastYourArt. Before he was managing director and consultant at e-century consulting and senior consultant for ict-knowledge. At CastYourArt he is in charge for ict-development, production.
+
 
 
 ANNA LOOK UP:
