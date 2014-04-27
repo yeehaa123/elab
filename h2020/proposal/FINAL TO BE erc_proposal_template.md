@@ -143,6 +143,8 @@ The users of the platform will acquire programming skills via modular online cou
 
 The platform is set up in such a way that universities can integrate learning modules from CtH in their curriculum, while students can build up their portfolios through research projects, with which they can show both their progress to teachers and their skills and achievements to employers. Furthermore, like indicated abot the application integrates naturally with Github and other open source environments, lowering the threshold for a diverse audience to reuse, copy and extend the prototypes, products and results of interest to society, including the general public, academics and companies.
 
+The platform will be introduced to students for the University of Amsterdam with an accompanying offline course that allows students to earn ECT points. This phasis will be followed by public release. 
+
 
 #####1.3.3.2 The Lab as Interface - The OverLab
 
