@@ -612,7 +612,6 @@ How will the project be exploited by/for ...
 + we will use exemplary projects made on the platform to convince other knowledge institutions to incorporate the platform as a way to encourage new forms of collaboration amongs their students and staff members and with other institutions internationally.
 
 
-
 Apart form the material overarching the project like yearly reports and best practices, the following materials will be generated and collected in the three sub-projects:
 
 The platform as Interface
@@ -633,10 +632,17 @@ Collections as Interfaces
 - visualizations 
 
 
-The material generated and collected shall be open for use and reuse. This is not only true for the code and the resulting digital tools that are going to be saved and made accessible in one repository on github.com under the GNU General Public License 
-[http://choosealicense.com/licenses/gpl-v2/](http://choosealicense.com/licenses/gpl-v2/) but also for documents, like evaluations, reports, presentations or conference papers. These documents therefore are archived by the autor and accessible under the green open access model. //github does not by default apply an open source license - which license do we want to use? GNU GENERAL PUBLIC LICENSE? http://choosealicense.com/// The github repository will be refered to on the online platform.
+The material generated and collected shall be open for use and reuse. 
 
-Video and audio material, pieces of digital art will be embedded in the online platform itself and will be available under the Creative Commons "share alike" license [http://creativecommons.org/licenses/by-sa/2.5/](http://creativecommons.org/licenses/by-sa/2.5/). The material will be stored on the Coding the Humanities server. Material created by parters will also be stored on the website of the partner.
+This holds not only true for the code and digital tools resulting from projects between students and public and private partners, which are going to be saved and made accessible in one repository on github.com under the GNU General Public License 
+[http://choosealicense.com/licenses/gpl-v2/](http://choosealicense.com/licenses/gpl-v2/) but also for documents, like evaluations, reports, presentations or conference papers. These documents therefore are archived by the autor and accessible under the green open access model. //github does not by default apply an open source license - which license do we want to use? GNU GENERAL PUBLIC LICENSE? http://choosealicense.com/// The github repository will be refered to on the online platform. 
+
+The The platform will by default attach the GNU General Public License to every repository create on github by its the users. The users will be informed about this procedure and the License on the platform.
+
+Video and audio material, pieces of digital art can, due to the storage space they demand, not be saved on github. These materials will be embedded in the online platform itself and will be available under the Creative Commons "share alike" license [http://creativecommons.org/licenses/by-sa/2.5/](http://creativecommons.org/licenses/by-sa/2.5/). The material will be stored on the Coding the Humanities server. Material created by parters will also be stored on the website of the partner.
+
+Additionally, in order to guaratee the conservation and accessibilty of all materials over a long period of time, they will be additionally stored by Data Archiving and Networked Services [http://www.dans.knaw.nl/en](http://www.dans.knaw.nl/en).
+//mention DANS as subcontractor//
 
 The project fundamentally builds on open source and knowledge strategies that encourages sharing and re-use of code, data and other materials. We thus follow the maxime that all knowledge generated within the project should be freely accessible, usable and adaptable. 
 
