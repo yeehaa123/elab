@@ -17,23 +17,7 @@ Coordinator: Jan Hein Hoogstad
 #### 1.1 Objectives 
 *Describe the specific objectives for the project, which should be clear, measurable, realistic and achievable within the duration of the project. Objectives should be consistent with the expected exploitation and impact of the project (see section 2).* 
 
-<!-- What is the problem? -->
-
-Learning and research (in the Humanities) are hindered by a lack of coding skills and the seeming incommensurability of educating massive groups of students and providing high quality education.
-
-
-<!-- Why is it an interesting/important problem? -->
-
-Although traditional knowledge institutions are losing their monopoly on education and research, ICT skills and knowledge production remain privileges of a cultural, technological and economic elite.
-
-
-<!-- What is our solution to this problem? -->
-We propose to tackle this problem by providing online and offline interfaces between people on the one hand and learning and research on the other hand, which focus on new forms of collaboration and a user- and tool-oriented approach to learning programming skills.
-
-
-<!-- What are the consequences of our solution? -->
-These interfaces lower the technological, economic and organizational barriers to participation, empower many different groups of people to more deeply and effectively engage with technology and motivate lifelong learning.
-
+Learning and research (in the Humanities) are hindered by a lack of coding skills and the seeming incommensurability of educating massive groups of students and providing high quality education. Although traditional knowledge institutions are losing their monopoly on education and research, ICT skills and knowledge production remain privileges of a cultural, technological and economic elite. We propose to tackle this problem by providing online and offline interfaces between people on the one hand and learning and research on the other hand, which focus on new forms of collaboration and a user- and tool-oriented approach to learning programming skills. These interfaces lower the technological, economic and organizational barriers to participation, empower many different groups of people to more deeply and effectively engage with technology and motivate lifelong learning.
 
 We identify four dilemmas about statements on learning and research that can be challenged or embraced:
 
@@ -48,17 +32,15 @@ We identify four dilemmas about statements on learning and research that can be 
 
 Our answer to these dilemmas provide the following objectives:
 
-1. Digital Literacy: Increase the number of people who approach learning and research collaboratively, through an online platform where users collaboratively learn programming and build tools, thereby increasing digital literacy and at same time lowering the technological threshold to engage with and reflect on digital tools. (challenge and embrace)
+1. The goal to heighten digital literacy. We want to increase the number of people who approach learning and research collaboratively, through an online platform where users learn programming and build tools, thereby increasing digital literacy and at the same time lowering the technological threshold to engage with and reflect on digital tools. 
 
-2. Organization: Create interfaces for users to teach each other and learn and research collaboratively, out of their own motivation, but use institutional structures to kick-start this process and provide disciplinary contexts. (challenge and embrace)
+2. The goal of organization. We intend to create interfaces for users to teach each other and learn and research collaboratively, out of their own motivation, but use institutional structures to kick-start this process and provide disciplinary contexts.
 
-3. Numbers: Increase the number of people learning and researching by focusing on collaboration and sharing knowledge, so that individual approaches and feedback remain possible, thereby retaining high quality education. (challenge and embrace)
+3. The goal of strengthening numbers. We want to increase the number of people learning and researching by focusing on collaboration and sharing knowledge, so that individual approaches and feedback remain possible, thereby retaining high quality education. 
 
-4. Elite: Make learning and research accessible and relevant by offering interfaces that allow many different types of users to learn to use and do research with technology  (challenge)
+4. The goal of addressing the issue of the elite. We want to make learning and research accessible and relevant by offering interfaces that allow many different types of users to learn to use and do research with technology 
 
 These objectives present learning and inclusion as problems of interfaces. By definition, interfaces determine who or what is included and excluded. The focus of this project is thus on providing interfaces that increase inclusion, where users build, explore and reflect on digital tools and how we use them. The overarching goal is to weave technology and humanities together to foster innovation through three forums: an expandable platform for humanities students collaborate through coding, a lab space where humanities thinking influences product and business design, and an exhibition which engages technology, art, business, and humanities. We propose to do this in three parts:
-
-<!--- We aim to elevate the processes of tool building to the status of research in the humanities. --->
 
 1. *Platform as interface*: an expandable platform for humanities students to collaboratively learn programming and build tools for their research. The coding platform would develop new courses with both on and offline components. Our goal is to introduce four new courses of 12 ETCs, one each year. The new courses would enable Coding the Humanities to expand students’ introduction to programming to an open space where they would collaborate with people from all over the world in their ICT engagement. It would foster communication among students and other participants by serving as a space where they can share and experiment with findings, improvise together, and enjoy the thrill of new learning with a network of support. The goal in terms of inclusion would be to reach 20,000 users in four years. The University of Amsterdam would begin by including four other universities in this platform, linking the students through the coursework. The University of California Santa Barbara, University of California Irvine, and Humboldt University of Berlin are highly motivated to take part in this platform. 
 
