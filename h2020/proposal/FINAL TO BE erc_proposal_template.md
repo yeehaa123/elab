@@ -397,10 +397,7 @@ Future University related research has to be informed by open methodologies. Inc
 
 
 Need
-- increasing need of knowledge workers to combine theoretical as well as hands-on approaches in their research
-- current workspaces do not provide enough space, the right material and technology to experiment
-- methodological framework for researching interdisciplinary methodology
-- best practice for building sustainable public-private-partnerships
+There is an increasing need of knowledge workers to combine theoretical as well as hands-on approaches in their research. Current workspaces do not provide enough space, the right material, or the appropriate technology to experiment. It is also essential to have a methodological framework for researching interdisciplinary methodology, as well as best practice for building sustainable public-private-partnerships
 
 
 
