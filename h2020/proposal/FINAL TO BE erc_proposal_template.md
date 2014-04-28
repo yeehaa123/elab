@@ -646,9 +646,7 @@ Additionally, in order to guaratee the conservation and accessibilty of all mate
 
 The project fundamentally builds on open source and knowledge strategies that encourages sharing and re-use of code, data and other materials. We thus follow the maxime that all knowledge generated within the project should be freely accessible, usable and adaptable. 
 
-As the consortium follows a non-hierarchical structure as far as possible, every partner is responsible to make the material and documents he produces in the realm of the project accessible. The Coding the Humanities project manager controls these processes.
-
-The proposed projects will connect to the Amsterdam Centre for Digital Humanities in terms of shared seminars and benefit from the collaborations with scholars that have insights research concerning tools for humanities research. Furthermore Coding the Humanities will benefit from research and network of the Creative Research Centre Amsterdam to connect with SMEs of the creative industries sector to collaborate on the development of innovative products and services.  
+As the consortium follows a non-hierarchical structure as far as possible, every partner is responsible to make the material and documents he produces in the realm of the project accessible. The Coding the Humanities documentation manager controls these processes.
 
 
 **b) Communication activities**
