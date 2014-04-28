@@ -1188,6 +1188,48 @@ Within the proposed project Dark Horse is going to conduct research on and devel
 
 *Audi AG:* Ideas Virus The Audi AG hired Dark Horse in order to find out about existing innovation hubs within their company. Through interviews and observation Dark Horse identified persons and departments that are key to the innovation processes and product development at Audi. Based on these findings the Audi AG launched a process that aims at designing a concept for collaboration among the employees and thus foster innovation. 
 
+#####Europeana 
+
+The Europeana Foundation is a cross domain foundation, under Dutch law, set up for the purpose of fostering collaboration between museums, archives, libraries and audiovisual collections in Europe. It aims to provide access to Europe’s cultural heritage by facilitating formal agreement across museums, archives, audio-visual archives and libraries on how to cooperate in the delivery and sustainability of a joint portal. It also provides a legal framework for use by EU funded projects to bring their research or content into Europeana. The Europeana Foundation governs Europeana and employs its staff, who make up the Europeana Office. The commitment of Foundation Supervisory Board members, its Executive Group and the Europeana Office is huge. The Foundation members give all their time voluntarily and the Europeana Office carries out the work with a very committed, capable staff from fourteen countries with expertise in technologies, the semantic web, multilingualism, online exhibitions, awareness raising, data modeling, interoperability, collaboration, fund raising, business development and project management. The Europeana Office has 47 staff, well versed in European projects and delivering to time and budget. It has three Directors, reporting to an Executive Committee of the Europeana Foundation led by the Executive Director Jill Cousins
+
+Relevance of profile to the proposal
+Europeana currently gives access to 33 million digital cultural objects from across 34 countries, in all their languages. This is a growing research resource that poses serious challenges in surfacing and visualizing the material people are looking for.  Coding the Humanities will give opportunities for researchers, students and private companies to come up with new ways to expose, visualize and present the huge diversity of data held in Europeana to the humanities researcher and others.  Any open source results that are more broadly relevant could be incorporated into the Europeana portal front end. 
+
+Europeana also has a quickly growing database of user contributed content in its Europeana1914-1918 and Europeana 1989 collections these thematic collections are also available to the project to discover new and improved ways of mining the data. They come complete with their own ontologies and vocabularies and similarly to the full Europeana data set are available via the API but can also be used via data dump or other mechanisms of use to the researcher.  
+
+All Europeana code is open source and therefore available to the project for re-use.  This alongside the API and digital content sets can be found and used via our Europeana Labs front end, labs.europeana.eu.  Launched as a Beta in March 2014 it is for and of the developer communities and entrepreneurs in cultural heritage and fully available to Coding the Humanities.  EuropeanaLabs is also happy to showcase any of the results of Coding the Humanities. Our professional site contains information on IPR and Data modeling including their frameworks that have been adopted worldwide and might also be of use to the project in helping making outcomes completely interoperable. 
+
+Europeana has a wide network of contributing organisations and individuals who people taskforces and can be asked to test outcomes of projects. 
+
+Relevant personnel
+*Jill Cousins (F)* is the Executive Director of the Europeana Foundation. She initiated and developed the operational services and networks of Europeana and The European Library. She is responsible for strategy, communications, policy, research and technology and the raising of funding for the service. She has a strong web publishing background, having worked for VNU as their European Business Development Director and then transferring the lessons learnt from commercial business-to-business publishing to scholarly publishing working for Blackwell Publishing and several other academic publishers in the UK. She has been involved in several international publishing industry bodies such as CrossRef and COUNTER and is on the Board of Globethics and the Content & Strategy Committee of the DPLA. Jill holds a Geography BA. Hons and took a Ph.D in 16th century Arabic & Turkish seacharts
+
+*Harry Verwayen (M)* is Deputy Director at Europeana. His main focus is the design and implementation of new business models and strategies that will support Europeana to fulfil its mission as a driver of innovation in the cultural heritage sector. Prior to this position Harry worked at the Amsterdam based thinktank Knowledgeland where he was responsible for innovation and positioning of the project Images for the Future. He has over ten years of experience in the Academic Publishing industry in various positions including sales, business and product development and worked for Kluwer Academic Publishing, Springer and IDC. Harry holds a MA in History from Leiden University and a certificate from Nyenrode Business University.
+
+*Antoine Isaac (M)* is the Research and Development Manager at Europeana, working part time at the VU in Guus Schreiber's Web and Media group. He co-chairs the Library Linked Data group at W3C and serve as W3C SKOS community contact, on behalf of the now closed Semantic Web Deployment working group.
+
+
+Relevant database and publications
+
+Europeana Labs (labs.europeana.eu) is a playground for remixing and using Europe’s cultural and scientific heritage. It is both an online space and a network of real-world places for inspiration, innovation and sharing. In particular, Europeana Labs provides information on data re-use tools (Europeana APIs), ready-to-use datasets on specific themes, application gallery,  hackathons, business incubation contests and real-world spaces across Europe to play, test and build applications.
+
+Europeana APIs (Application Programming Interface) allows dynamic search and retrieval of Europeana collections for use of external websites and applications, including games. 
+Europeana1914 – 1918.eu is Europeana’s dedicated portal on the First World War theme. Currently, it showcases more than 400.000 items from libraries and archives across the globe as well as digitized memories and memorabilia from families throughout Europe. 
+
+Europeana 1989 is a collection site for user contributed content connected to the fall of the Iron Curtain.  It is a small database (10,000 contributions to date) but growing as we conduct new campaigns throughout this 25th anniversary year.
+
+Europeana.eu the public facing portal of Europeana with access to all the material that has been aggregated from 2500 memory institutions across Europe
+The European Library over nearly 150 million bibliographic records and 22 million digital objects from national and research libraries across Europe
+
+Relevant Projects
+Europeana Cloud is a PSP-ICT project with 2 more years to run.  It is creating a cloud infrastructure for the management and sharing of metadata but is also developing a platform for access by researchers to this material Europeana Research. Research into the needs of humanities researchers has been undertaken by the Digital Curation Unit in Athens that can be made available to Coding the Humanities
+Europeana Creative is the project responsible for the development of Europeana Labs and developing access for research communities to the data sets for experimentation and reuse.
+
+
+Relevant Infrastructure & Technical Equipment
+Europeana gives access to a European treasury of over 33 million books, pictures, films, maps, archival records, museum objects and sound recordings from 2,500 of Europe’s memory institutions. It created an interoperable data model and IPR standards across Europe.
+
+
 
 ##### Weyeser
 
