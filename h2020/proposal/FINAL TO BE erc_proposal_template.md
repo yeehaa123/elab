@@ -488,7 +488,7 @@ On a larger scope the project will provide an online learning platform that is f
 
 This hands on approach will train thousands of humanities students to develop digital agency and at the same time seeks to interests many potentially digitally excluded persons and train them to collaboratively expand their coding skills and to pass on this knowledge. Every active user therefore become a collaborator and multiplyer.
 
-*Targets* 
+**Targets** 
 
 As concrete targets we intent to:
 
@@ -499,9 +499,9 @@ As concrete targets we intent to:
 - to give presentations together with the private partners on at least 5 conferences / symposiums per year  
 - involve international digital/media artists and reach and involve hundreds of visitors of the fare for digital devices in Vienna in 2017 
 
-*Reaching these goals*
+**Reaching these goals**
 
-*University of Amsterdam*
+**University of Amsterdam**
 
 The three offline courses "Art, Science, and Technology", "Coding the Humanities", "From Objected Data" initiate the participation on the platform with 20 students per course, 60 students in total in 2014 and create a awareness of the project before the official release.
 
@@ -510,7 +510,7 @@ In the following years four courses (12 ECT) per year starting 2015 will reach 3
 During the same time 40 embedded researchers will use the online interface and the pilot and the actual physical lab. The experience gained for the work within this analogue and digital collaborative space, naturally integrates into their research which is aimed at modeling a product or service for a cultural institution with regard to the digital enhancement the services.
 
 
-*Best (good) practice models for other universities and organizations*
+**Best practice models for other universities and organizations**
 
 Collaborations with at least four other universities with humanities departments equal in size to that of the faculty of humanities of the University of Amsterdam (7.000 students) will introduce the platform on an international level to a large goup of humanities students and scholars. These universities integrate the platform into their curriculum. Coding the Humanities will provide scholars from the other universities with consultation on the implementation of the platform in the coursework.
 
@@ -518,11 +518,11 @@ The success of these collaborations can be directly measured through the number 
 
 Coding the Humanities will furthermore reach out to initiatives like the open knowledge foundation, railsgirls and research centers like the Creative Industries Research Centre Amsterdam and Centre for Digital Humanities Amsterdam to diversify and enlarge the usergroup further.
 
-*Public and Private Partners* 
+**Public and Private Partners** 
 
 The direct cooperation with different SMEs will allow for the co-development of products and services and thus include another perspective into the digital tools needed in humanities teaching and education. 
 
-*Events*
+**Events**
 
 All findings, for example in form of reports, presentation, videos, design blueprints, and the code generated in the project will be documented and accessible online. The project manager of Coding the Humanities will initiate a series of events that points the awareness groups with various levels of technical knowledge to these tools and the interface itself. Furthermore, the project will be presented at various conferences, symposia and conventions in the field of education and software.  
 
@@ -565,7 +565,6 @@ How will we reach ...
 + Policy makers
   + ...
 
-
 + General public
   + organising the coding sessions
   + exhibition
@@ -587,10 +586,11 @@ How will we increase the (inclusive and innovative) uses and usage of ICT for ..
   + ...
 
 + investment
-  + ...
+  + collaboartion between students and researchers will result in programs that point to the needs of humanities research and the needs of knowledge institutions to make collections accessible and presentabel. These perspectives can be commercialized and lead to collaborations between universities and businesses.  
 
 + society
-  + ...
+  + citizens that know how to apply and shape digital tools can generate new perspectives on policy and decision making processes from open data sets and provide citizen with political agency
+  + software applications can solve problems of municipalities in a cost effective and citizen involving way   
 
 + policy making
   + this project provides policy makers with a different way for looking at, measuring and improving inclusion.
@@ -599,10 +599,8 @@ How will we increase the (inclusive and innovative) uses and usage of ICT for ..
 + education
   + the "online first" approach we are developing results in new types of humanities courses that give learners and researchers different perspectives on their materials of study.
 
-
-
 + labs
-
+  + the OverLap provides the blueprint for a living lab for on- and offline collaboration that can be put into practice by various groups and in various spaces 
 
 ## Exploitation
 
