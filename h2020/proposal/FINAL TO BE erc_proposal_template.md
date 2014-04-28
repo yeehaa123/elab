@@ -535,7 +535,7 @@ We will reach humanities researchers, both novice and experienced, through
   + embedded research projects
   
 + (Open Source) Software Developers
-  + //SCS// presenting and pitching at PICNIC, European platform for innovation and creativity
+  + Presenting and pitching at PICNIC, European platform for innovation and creativity
   + Presenting at EYEO Minneapolis
   + Presenting at VisConf Boston
   + Presenting at JSConf
