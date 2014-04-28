@@ -1034,7 +1034,6 @@ Show how you will confirm that the milestone has been attained. Refer to indicat
 |Total|||
 
 
-ANNA LOOK INTO:
 *Please complete the table below for all participants that would like to declared costs of large research infrastructure under Article 6.2 of the General Model Agreement6, irrespective of the percentage of personnel costs. Please indicate (in the justification) if the beneficiary’s methodology for declaring the costs for large research infrastructure has already been positively assessed by the Commission.* 
 
 
@@ -1093,10 +1092,10 @@ Within the proposed project Dark Horse is going to conduct research on and devel
 
 Delftechpark 26
 2628 XH Delft
-Niederlande
+Netherlands
 
 
-*Weyeser* is a company specialized in supporting organizations to translate big amounts of data into knowledge by means of data mining, text mining and visualization. Their solutions offer Governments, Governmental Institutions, Universities, Think Tanks and Corporations ways of objectively assessing their knowledge portfolio and that of their peers.
+*Weyeser* is a company specialized in supporting organizations to translate big amounts of data into knowledge by means of data mining, text mining and visualization. Their solutions offer governments, governmental institutions, universities, think tanks and corporations ways of objectively assessing their knowledge portfolio and that of their peers.
 
 Within this proposed project weyeser will provide expertise concerning the questions of how mere data processing can be transformed into a process of knowledge production. Not only cultural institutions, but organizations, institutions and companies of all fields produce and provide increasing sets of digital data. Weyeser will develop applications that allows humanities students to compile new perspectives and knowledge from the analysis, correlation and visualization of these data sets. At the same time these tools will make humanities research and concepts more tangible and accessible to an larger audience. 
 
@@ -1126,20 +1125,18 @@ Audio and video features produced by CastYourArt protrait artists, exhibitions, 
  
 CastYourArt produced about 250 video-portraits of artists and art-institutions within the last six years. This videos are published through the CastYourArt plattform (www.castyourart.com) as well as podcasting, wikipedia etc. In 2013 CastYourArt had about 1 million plays within its podcast-subscriptions and its website. Additionally to its online activities CastYourArt is also busy offline.   
 
-CastYourArts services include advice, production and distribution of audio and film features, creation and editing of textual content, online and offline distribution of the features, exhibition activities, project development and organisation in the domain of art, and artist management as well as liaising between art and business. We call art to people’s attention. We offer the infrastructure to show what exhibition halls, museums, galleries, collectors and art-oriented companies offer for art-interested people. We exhibit art. We accompany artists in the actualisation of their ideas, beginning from strategy to financial planning, organisation, communication to sales; we manage artists in every step of their career.
+CastYourArts services include advice, production and distribution of audio and film features, creation and editing of textual content, online and offline distribution of the features, exhibition activities, project development and organisation in the domain of art, and artist management as well as liaising between art and business. They call art to people’s attention. We offer the infrastructure to show what exhibition halls, museums, galleries, collectors and art-oriented companies offer for art-interested people. We exhibit art. We accompany artists in the actualisation of their ideas, beginning from strategy to financial planning, organisation, communication to sales; we manage artists in every step of their career.
 
-CastYourArt is a product of the KA21 GmbH, based in Vienna. The founding members are Wolfgang Haas, Helmut Feier and Franz Morgenbesser. Managing directors and in charge are Wolfgang Haas and Helmut Feier.
+CastYourArt is a product of the KA21 GmbH, based in Vienna. The founding members are Wolfgang Haas, Helmut Feier and Franz Morgenbesser. The managing directors and persons in charge are Wolfgang Haas and Helmut Feier.
 
-*Wolfgang Haas* is managing director of CastYourArt. He studied education in Graz (Austria) and finished his PhD in Philosophy in Utrecht (NL), he was Research assistant at the University Utrecht, Assistant at University Graz, had lectureships at the Technical University Graz and University Klagenfurt / Center for interdisciplinary research and advanced education. Wolfgang Haas was Co-publisher of the culture magazine "bob" and is at CastYourArt in charge for editing, production, and strategic development.
+*Wolfgang Haas* is managing director of CastYourArt. He studied education in Graz, Austria and finished his PhD in Philosophy in Utrecht, the Netherlands. He has had lectureships at the Technical University Graz and University Klagenfurt / Center for interdisciplinary research and advanced education. Haas was Co-publisher of the culture magazine "bob" and is at CastYourArt in charge for editing, production, and strategic development.
 
 *Helmut Feier* is managing director of CastYourArt. Before he was managing director and consultant at e-century consulting and senior consultant for ict-knowledge. At CastYourArt he is in charge for ict-development, production.
 
 
-
-ANNA LOOK UP:
 #### 4.2.	Third parties involved in the project (including use of third party resources)
 *Please complete, for each participant, the following table (or simply state “No third parties involved”, if applicable):*
-- no third parties involved???
+No third parties involved.
 
 Does the participant plan to subcontract certain tasks  (please note that core tasks of the action should not be sub-contracted) **Y/N**
 
@@ -1150,15 +1147,16 @@ Does the participant envisage that part of its work is performed by linked third
 If yes, please describe the third party, the link of the participant to the third party, and describe and justify the foreseen tasks to be performed by the third party
 
 Does the participant envisage the use of contributions in kind provided by third parties (Articles 11 and 12 of the General Model Grant Agreement) **Y/N**
+NO
 
 If yes, please describe the third party and their contributions
  
 ### 5: 	Ethics and security 
  **This section is not covered by the page limit.**
 
-Intellectual Property / ANNA LOOK INTO:
+
 - checking progress of students, if they create a profile, having access to that. 
-- 
+ 
 #### 5.1 	Ethics
 
 If you have entered any ethics issues in the ethical issue table in the administrative proposal forms, you must:
