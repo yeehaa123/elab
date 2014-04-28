@@ -802,7 +802,7 @@ This organizational structure involves each partner or component to the project 
 *Describe, where relevant, how effective innovation management will be addressed  in the management structure and work plan;*
 Effective innovation management is central to the way of working in the lab as interface field of this project. Linking humanities students to the business world will steer innovation towards products that are marketable, original, as well as appropriate.
 
-*Innovation management is a process which requires an understanding of both market and technical problems, with a goal of successfully implementing appropriate creative ideas. A new or improved product, service or process is its typical output. It also allows a consortium to respond to an external or internal opportunity.*
+*Innovation management is a process which requires an understanding of both market and technical problems, with a goal of successfully implementing appropriate creative ideas. A new or improved product, service or process is its typical output. It also allows a consortium to respond to an external or internal opportunity.* 
 
 *Describe any critical risks, relating to project implementation, that the stated project’s objectives may not be achieved. Detail any risk mitigation measures. Please provide a table with critical risks identified and mitigating actions (table 3.2b).*
 - dropout of courses
