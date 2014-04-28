@@ -302,7 +302,7 @@ There is an assumption in society that academia is separate from the rest of the
 At the present time, universities face a loss of authority and control over their own knowledge production as models of traditional education are being replicated in online formats. Transfering the classroom into online formats does no justice to the possibilities provided by online tools in terms of peer learning, collaboration, and exchange that abandons the dichotomy of experts and layman.
 
    
-##### 1.3.3 Structure
+##### 1.3.3 Approach
 
 This research proposal consists of three integrated action fields in which public-private-civic partnerships (quad-helix) lead to a sharing of expertise and collaborative practices geared at the development of a cutting-edge innovative educational ecosystem that is specific to the (digital) humanities but reaches beyond this realm. These fields are socio-technical in their approach; apart from combining insights from different partners to develop technological solutions (such as an online educational platform), valorize existing and new R&D methodologies (such as design thinking methodologies and embedded research practices) and the translation of data streams and information in intuitive interfaces that make use of visualization, this research proposal seeks to specially gear technological developments and efforts to enhance society by closing the digital divide. By collaborating throughout the project with public, private and civic partners, the project foresees the accumulation of knowledge and a digital skilling of particular hitherto unreached civic groups. 
 
