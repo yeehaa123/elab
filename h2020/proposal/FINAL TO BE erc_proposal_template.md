@@ -638,47 +638,34 @@ Find a draft and bulletpoints on this section [here](https://github.com/yeehaa12
 
 Describe the proposed communication measures for promoting the project and its findings during the period of the grant. Measures should be proportionate to the scale of the project, with clear objectives.  They should be tailored to the needs of various audiences, including groups beyond the project’s own community. Where relevant, include measures for public/societal engagement on issues related to the project. 
 
-Overall Deliverable: Make learnings and models available in best practices and libraries.
 
 ## Communication activities
-### Towards a format of cross-medial process documentation 
+##Cross-medial process documentation
 
-####what? 
+####what?
 
-- combining sub-projects into a larger communication framework, which includes libraries, software and on-/offline best practices 
-- to share the knowledge from building the different sub-projects 
-- develop further the process documentation and medial communication of larger research projects
-- display and exposure of the project through various media and communication channels
++to display and expose the project through various media and communication channels using ressources from public-private-partnership  
++apply creative strategies to the research documentation and medial communication of larger research projects 
+combining sub-projects into a larger communication framework, which includes on-/offline best practices, as this project has a complex structure, uses a variety of technology, adresses and includes different audiences
++to share the knowledge from building the different sub-projects
++ Serving the overall deliverable to make learnings and models available in best practices and libraries.
 
-Science communication is a constituting element of research and learning in order to bridge the gap between science and society. However, many of the new medial possiblities, and above all interactive interfaces, aren't strongly developed yet. The research centers *innokom* and *Stifterverband* conclude in their trend study on science communication, that the step towards "an open-result-oriented, societally engaged dialogue is overdue. Drivers behind this development are new formats in interactive media." (*Gerber, Alexander (2011): Trendstudie Wissenschaftskommunikation – Vorhang auf für Phase 5. Berlin: edition innovare / innokomm Forschungszentrum, p.24*) Until now, science communication has been communication by the universities' press office, who pubslished research results with gate keeper principles. Which means that the results were communicated further depending on whether or not print, tv or radio would pick up on it. 
+####why?
+Science communication is a constituting element of research and learning in order to bridge the gap between science and society. However, many of the new medial possiblities, and above all interactive interfaces, aren't strongly developed yet. The research centers innokom and Stifterverband conclude in their trend study on science communication, that the step towards "an open-result-oriented, societally engaged dialogue is overdue. Drivers behind this development are new formats in interactive media." (Gerber, Alexander (2011): Trendstudie Wissenschaftskommunikation – Vorhang auf für Phase 5. Berlin: edition innovare / innokomm Forschungszentrum, p.24) Until now, science communication has been communication by the universities' press office, who pubslished research results with gate keeper principles. Which means that the results were communicated further depending on whether or not print, tv or radio would pick up on it.
 
-There can be identified two main reasons for science communication not reaching beyond an academic public: Either scientists don't have the necessary skill set in order to act as communicators and media designers, or the media professionals try to squeeze scientific content into the standardized storytelling they know from corporate films or TV reports. 
-The newly emerged field of eLearning and MOOC's possesses great possibilities for the distribution of knowledge and exchange. However, there are currently few examples of projects or courses where the promises of moving images are used to their fullest, and where the different field of expertise of academic teachers, videographers and students result in products which reflect their research content in the best possible way.
+There can be identified two main reasons for science communication not reaching beyond an academic public: Either scientists don't have the necessary skill set in order to act as communicators and media designers, or the media professionals try to squeeze scientific content into the standardized storytelling they know from corporate films or TV reports. The newly emerged field of eLearning and MOOC's possesses great possibilities for the distribution of knowledge and exchange. However, there are currently few examples of projects or courses where the promises of moving images are used to their fullest, and where the different field of expertise of academic teachers, videographers and students result in products which reflect their research content in the best possible way.
 
-#### our approach
-- the project partners's expertise include both media professionals as well as researchers. Throughout the project they will attend workshops in order to reflect on the forms of scientific communication and test it's range through a variety of comunication activities (see below).
-- this project has a complex structure, uses a variety of technology, adresses and includes different audiences
+####how?
 
-#### how?
+The project partners's expertise include both media professionals as well as researchers. A creative consultant specialised in cross-media production between research projects and univiersities and media professionals will train and coordinate the participants in order to better understand each other's communication and therefore plays an important role both for the internal and external media exposure and science communications activities.
+Throughout the project, the partners will attend workshops in order to reflect on the forms of scientific communication and built best practices for the variety of comunication activities (see below).
 
-- cross-medial best practice 
-- built a bridge between the concrete implementation of video, learning and collecting as one part 
-of the overall platform
-- use format of Scientific Research Trailer as a point-of-departure; produce video sequences which use filmic language and do justice to the respective research topic and people who conduct the research.
-- research which media can be used for science communication in which way
-
-#### who? 
-## who else should be included here?????????
-
-All of the private partners are strong communicators and multipliers in their respective fields. Each of them will  
-
-Johanna Barnbeck is an artist, researcher and creative professional offering creative consulting for universities and research institutes who want to use audiovisual media in order to reach their relevant public. 
-She develops concepts for film, photography and crossmedial art projects. Currently, she also works as an embedded researcher on the project Augmenting Masterpieces at the Rijksmuseum, which seeks to develop interfaces between the digital and the physical collection of the museum.
-(If specification is useful: In this project she will be giving workshops regarding best practice cases and their formats.)
++ built a bridge between the concrete implementation of video, learning and collecting as one part of the overall platform
++ cross-medial best practice for science communication; use format of Scientific Research Trailer as a point-of-departure; produce video sequences which use filmic language and do justice to the respective research topic and people who conduct the research.
 
 ## b) Communication activities
 
-Iteration of all of those activities in order to build strong cases regarding science communication and develop further storytelling strategies for researchers.
+All of the private partners are strong communicators and multipliers in their respective fields. Each of them will use their regular communication channels to attract attention and maximize exposure. Iteration of all of those activities in order to build strong cases regarding science communication and develop further storytelling strategies for researchers.
 
 The curation of the physical lab includes a variety of communication activities:
   - every 6 months throughout 3 years: project exhibition of the process 
@@ -694,7 +681,7 @@ The curation of the physical lab includes a variety of communication activities:
 
 - challenge students (a.k.a. researchers or users) to collaborate on projects with people outside their courses and universities.
 
-- the Coding Sessions workshops that we're already organising reaches all kinds of new users.
+- Coding Sessions workshops: reaches all kinds of new users.
 
 - announce projects and (hackathon) challenges via Europeana. As a massive European portal for thousands of heritage institutions, such announcements will reach enormous audiences.
 
