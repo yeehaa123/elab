@@ -1201,6 +1201,9 @@ Große-Dunker, Fried "Lean-Organisation: Ein Selbstexperiment.", In: *Gründersz
 
 HPI School of Design Thinking, Germany
 
+Universität der Künste *Berlin Summer University of the Arts 2014* 
+"Channel your Creativity." July 2014
+
 Universität Witten-Herdecke, Germany
 
 Tecnológico de Monterrey, Mexico
@@ -1219,7 +1222,7 @@ Berlin School for Creative Leadership, Germany
 
 Jung von Matt Academy, Germany
 
-Universität der Künste: Berlin Summer University of the Arts 2014 "Channel your Creativity. From Trend and Talent to Business Concept in 4 Days“ Berlin, July 2014
+
 
 **Awards**
 
