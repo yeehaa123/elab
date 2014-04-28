@@ -1,4 +1,4 @@
-List of participants: Jan Hein Hoogstad, Marijn Koolen, Sabrina Sauer, Robin Boast, Nynke Bos
+List of participants: Jan Hein Hoogstad, Marijn Koolen, Sabrina Sauer, Robin Boast, Johanna Barnbeck, Nynke Bos
 
 **Participant No** (*Please use the same participant numbering as that used in the administrative proposal forms.*)
 Participant organisation name: Universiteit van Amsterdam
@@ -634,8 +634,6 @@ As the consortium follows a non-hierarchical structure as far as possible, every
 
 **b) Communication activities**
 
-Find a draft and bulletpoints on this section [here](https://github.com/yeehaa123/erc/blob/master/h2020/proposal/2.2.b_Communication%20activities_best%20practices_process%20documentation.md)
-
 Describe the proposed communication measures for promoting the project and its findings during the period of the grant. Measures should be proportionate to the scale of the project, with clear objectives.  They should be tailored to the needs of various audiences, including groups beyond the project’s own community. Where relevant, include measures for public/societal engagement on issues related to the project. 
 
 
@@ -644,10 +642,10 @@ Describe the proposed communication measures for promoting the project and its f
 
 ####what?
 
-+to display and expose the project through various media and communication channels using ressources from public-private-partnership  
++ to display and expose the project through various media and communication channels using ressources from public-private-partnership  
 +apply creative strategies to the research documentation and medial communication of larger research projects 
 combining sub-projects into a larger communication framework, which includes on-/offline best practices, as this project has a complex structure, uses a variety of technology, adresses and includes different audiences
-+to share the knowledge from building the different sub-projects
++ to share the knowledge from building the different sub-projects
 + Serving the overall deliverable to make learnings and models available in best practices and libraries.
 
 ####why?
@@ -657,7 +655,7 @@ There can be identified two main reasons for science communication not reaching 
 
 ####how?
 
-The project partners's expertise include both media professionals as well as researchers. A creative consultant specialised in cross-media production between research projects and univiersities and media professionals will train and coordinate the participants in order to better understand each other's communication and therefore plays an important role both for the internal and external media exposure and science communications activities.
+The project partners's expertise include both media professionals as well as researchers. A creative consultant specialised in cross-media production between research projects, univiersities and media professionals will coordinate the activities, but also train the participants through workshops in order to better understand each other's communication, start making and creating media themselves. The bridging element of the media and research consultant characterizes yet again the idea of inclusion and learning, and plays an important role both for the internal and external media exposure and science communications activities.
 Throughout the project, the partners will attend workshops in order to reflect on the forms of scientific communication and built best practices for the variety of comunication activities (see below).
 
 + built a bridge between the concrete implementation of video, learning and collecting as one part of the overall platform
@@ -1117,14 +1115,18 @@ Spui 21
 The Netherlands 
 
 ######Relevant Personnel
-Jan Hein Hoogstad
-Robin Boast
-Sabrina C. Sauer
-Nynke Bos
+Jan Hein Hoogstad - Coordinator of the Project
+Robin Boast - 
+Sabrina C. Sauer - 
+Nynke Bos - 
+Johanna Barnbeck - Creative Consultant for Cross-medial science communication
 
-//still discuss roles of participants, provide overviwe table//
+//still discuss roles of participants, provide overviwe table// publications
 
-publications
+
+
+**Johanna Barnbeck** is an artist, researcher and creative professional offering creative consulting for universities and research institutes who want to use audiovisual media in order to reach their relevant public. Based in Berlin, she develops concepts for film, photography and crossmedial art projects. Currently, she also works as an embedded researcher on the project *Augmenting Masterpieces* at the Rijksmuseum in Amsterdam, which seeks to develop interfaces between the digital and the physical collection of the museum.
+
 
 ##### Dark Horse GmbH & Co KG  
 Ritterstraße 12 - 14  
