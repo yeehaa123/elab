@@ -516,12 +516,16 @@ Via the online interface, the physical space and a series of events, Coding the 
 The collaboration with different institutions and organizations will increase the diversity of participants and loosen up the homogeneous group of humanities researchers. The development of services and products related to humanities research but also aimed at the needs of a larger public (for example knowledge institutions) ensure that the dialogue about digital tools exceeds an abstract realm which is not user centered and evolves between ICT experts. Instead it includes a diverse groups of a new kind of enabled users. 
 
 
-#### 2.2 Measures to maximise impact
+#### 2.2 Measures to maximize impact
 
 **a) Dissemination and exploitation of results** 
 
+The project reaches out to a diverse group of humanities students, researcher and scholars, universities and research institutes, museums, archives, SMEs of the creative industries sector, civic movements and especially non-technologically biased people within the general public.  
+
+The projects seeks to provide models, products and services to enhance educational training to the indicated group. These impacts shall be reached following the strategy.
+
 ## Users
-To a large extent, the results of the coding platform will automatically be available to all.  A Project Manager will be hired and will be responsible for strategizing and implementing a  campaign to disseminate results. Building the network through the coding platform, as well as connections to our art network will help to extend this project to others. 
+To a large extent, the results of the coding platform will automatically be available to all.  A project manager will be hired and will be responsible for strategizing and implementing a campaign to disseminate results. Building the network through the coding platform, as well as connections to our art network will help to extend this project to others. 
 
 We will reach humanities researchers, both novice and experienced, through 
 
@@ -530,9 +534,8 @@ We will reach humanities researchers, both novice and experienced, through
   + workshops at academic events
   + embedded research projects
   
-
 + (Open Source) Software Developers
-  + //SCS// presenting and pitching at PICNIC, European platform for innovation and creativity?
+  + //SCS// presenting and pitching at PICNIC, European platform for innovation and creativity
   + Presenting at EYEO Minneapolis
   + Presenting at VisConf Boston
   + Presenting at JSConf
@@ -540,24 +543,20 @@ We will reach humanities researchers, both novice and experienced, through
   + share our curriculum on github
  
 + Museums and Archives
-  + build and offer visualisation tools
+  + build and offer visualization tools
   + collections as interfaces
   + exhibition
   + course projects
 
-+ Civic organisations
++ Civic organizations
   + collaborative open data projects like hackathons
 
-+ Policy makers
-  + ...
-
 + General public
-  + organising the coding sessions
-  + exhibition
-  + open projects and challenges 
-  + ...
-
-+ ...
+  + organizing the coding sessions'
+  + presentations by the partners involved
+  + presentations by students and embedded researchers
+  + exhibition in Vienna
+  + open projects and challenges like hackathons 
 
 ## Uses 
 
@@ -565,22 +564,21 @@ How will we increase the (inclusive and innovative) uses and usage of ICT for ..
 
 + Research
   + governmental and heritage collections will be used in new ways in humanities and social science research when new users with expertise in their respective disciplines approach them collaboratively, through programming. Moreover, the platform will foster new inter-disciplinary collaborations, which further enrich these collections and make them more accessible and interesting for education.
-  + ...
+  + Embedded researchers will explore the possibilities the integration of online collaboration tools into a living lab
 
 + Commercial ends
   + promoting the platform at developer conferences will draw companies to the platform to scout for talent, find new ideas for applications and new solutions to problems, new collaborations with and projects for institutions
-  + ...
+  + direct involvement of private partners in student projects will advance the above mentioned processes 
 
 + investment
-  + collaboartion between students and researchers will result in programs that point to the needs of humanities research and the needs of knowledge institutions to make collections accessible and presentabel. These perspectives can be commercialized and lead to collaborations between universities and businesses.  
+  + these collaborations between students and researchers will result in programs that point to the needs of humanities research and the needs of knowledge institutions to make collections accessible and presentable. These perspectives can be commercialized and lead to collaborations between universities and businesses.  
 
 + society
-  + citizens that know how to apply and shape digital tools can generate new perspectives on policy and decision making processes from open data sets and provide citizen with political agency
+  + citizens that know how to apply and shape digital tools gain new insights on policy and decision making processes from open data sets and provide citizen with political agency
   + software applications can solve problems of municipalities in a cost effective and citizen involving way   
 
 + policy making
   + this project provides policy makers with a different way for looking at, measuring and improving inclusion.
-  + ...
 
 + education
   + the "online first" approach we are developing results in new types of humanities courses that give learners and researchers different perspectives on their materials of study.
@@ -594,22 +592,7 @@ How will the project be exploited by/for ...
 
 + business plan
 + consultancy
-+ best practices for platform, online learning, embedded researchers, labs, ...
-
-
-## Older bullets with some thoughts
-
-+ course projects with online collections (government and heritage collections) will increase academic usage of those collections.
-
-+ the platform as an interface to ICT reaches out to humanities researchers, heritage institutions, civic organisations and media professionals and will increase the number of non-technologically-biased people making, changing, using and feeling confident with digital tools.
-
-+ We will organise workshops for various audiences. We will continue to organise hands-on workshops on programming and collaboration for humanities researchers and the Coding Sessions, which are open to anyone and are organised for people with an interest in ICT and with different levels of programming skills.
-
-+ the exhibition will be promoted among both communities of open source developers, scholars working in digital humanities, as well as non-professionals with a desire to develop their understanding of ICT through their interest in and/or connecting with the topic of the exhibition.
-
-+ through the open, online courses on the platform and the presentation of the project through workshops at academic events and at universities world wide, more universities will be motivated to employ the platform and courses as new and low-cost means to enhance their curriculums.
-
-+ we will use exemplary projects made on the platform to convince other knowledge institutions to incorporate the platform as a way to encourage new forms of collaboration amongs their students and staff members and with other institutions internationally.
++ best practices for platform, online learning, embedded researchers, labs
 
 
 Apart form the material overarching the project like yearly reports and best practices, the following materials will be generated and collected in the three sub-projects:
