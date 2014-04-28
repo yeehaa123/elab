@@ -1,4 +1,4 @@
-List of participants: Jan Hein Hoogstad, Marijn Koolen, Sabrina Sauer, Robin Boast, Johanna Barnbeck, Nynke Bos
+List of participants: Jan Hein Hoogstad, Marijn Koolen, Sabrina Sauer, Robin Boast, Nynke Bos
 
 **Participant No** (*Please use the same participant numbering as that used in the administrative proposal forms.*)
 Participant organisation name: Universiteit van Amsterdam
@@ -1171,6 +1171,60 @@ Within the proposed project Dark Horse is going to conduct research on and devel
 *Lisa Zoth* has a background in political science and anthropology. She has conducted several projects in regard to the implementation of the Design Thinking Methodology and Culture into companies such as SAP or Deutsche Bahn. Her research focus lies on the design of organizational collaboration and implementing innovation processes into traditional structures. Lisa Zoth will in this project be mainly involved in the need finding, synthesis and ideation phase of the project and evaluating the collaboration processes among the embedded researchers.
 
 *Patrick Kenzler* is an architect and interior designer. In his research he focusses on the design of spatial concepts for collaboration. Patrick Kenzler has conceptualized and designed several collaboration spaces such as for the HPI School of Design Thinking or the Humboldt Lab. In this project he will be involved in the needfinding, synthesis and ideation phase and is mainly responsible for the 3D-modeling of the first prototype as well as the furnishing and the fitting-out of the Living Lab.
+
+######Publications, Keynotes and University Teaching
+
+**Publications**
+Dark Horse, The *Thanks God it’s Monday - How we revolutionize work life*, Econ Verlag, 09/2014.
+
+Albers, Ralf; Konrad, Greta; Ott, Manuell "Der Personaler als Designer", In: *Einrichten auf die Zukunft - Personalmagazin*, 04/2014.
+
+Beinke, Christian "Produktentwicklung neu gedacht", In: *Fraunhofer Magazin FUTUR*, 3/2013.
+
+Große-Dunker, Fried "Lean-Organisation: Ein Selbstexperiment.", In: *Gründerszene*. http://www.gruenderszene.de/allgemein/lean-organisation
+
+**Keynotes**
+*European Forum Alpbach - Alpbach Perspectives* „The future of Europe. A grassroots’ perspective." Alpbach, August 2013
+
+*Digital Bauhaus Conference - Designing Creative Collaboration* „Post-Hierarchical Management - Building a Collaborative Company“ Weimar, Germany June 2014
+
+*Design (r)evolution* "Design ogranisation: Work that works" Warszaw, Poland, November 2013
+
+*The future of Europe: Relevance and effectiveness in the 21st century*, Wilton Park British-German Forum, West Sussex, UK, Juni 2013
+
+*Stuttgarter Wissenmanagementtage*, "Wissenmanagement. Was nun?", Stuttgart, Germany, November 2013
+
+*Start-Up Week Universität Leuphana*, „Ideation & Prototyping" Lüneburg, Germany, October 2012
+
+
+**University Teaching at a.o.**
+
+HPI School of Design Thinking, Germany
+
+Universität Witten-Herdecke, Germany
+
+Tecnológico de Monterrey, Mexico
+
+Hochschule Hof, Germany
+
+EBC Hamburg Business School, Germany
+
+Hochschule Steyr, Austria
+
+Hochschule Luzern, Switzerland
+
+Steinbeiss Hochschule, Germany
+
+Berlin School for Creative Leadership, Germany
+
+Jung von Matt Academy, Germany
+
+Universität der Künste: Berlin Summer University of the Arts 2014 "Channel your Creativity. From Trend and Talent to Business Concept in 4 Days“ Berlin, July 2014
+
+**Awards**
+
+Cultural and Creative Pilotes, Berlin 2010
+New Work Award, Berlin 2013
 
 ######Previous projects
 *Lufthansa Technik AG:* Spaces for collaboration Lufthansa Technik AG asked Dark Horse to research the existing working culture at Lufthansa Technik and to develop a spatial concept for collaboration based on these findings. Through observation, interviews and participatory workshops all 400 employees were involved in the analysis and conceptual phase. The main focus lied in identifying the opportunities for change whilst preserving other spatial concepts and processes that already worked well in the existing structure. Due to the research findings and developed concepts Dark Horse will be further involved in the planning of two new office floors. The interior design of these spaces will offer spatial qualities that enable the collaboration among the employees while at the same time giving space and infrastructure for individual work. Dark Horse will undertake a moderating and consulting role towards the employees in enabling them to use the new spaces and implementing a successful working culture.
