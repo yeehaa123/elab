@@ -734,6 +734,7 @@ In this work package an online platform for learning and research will be concep
 
 3) The Collection as Interface will be an exploration of the inclusive opportunities interfaces and visualization of data holds for knowledge production.
 
+These three fields will be developed simultaneously, with an emphasis in the early stages on building the platform. 
 
 Inspired by open source culture and software development practices the fields are going to be explored simulataneously so that insights from one of the fields can be applied tranfered early on to the other fields. 
 
