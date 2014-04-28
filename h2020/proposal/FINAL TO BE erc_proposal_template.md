@@ -536,7 +536,7 @@ The collaboration with different institutions and organizations will increase th
 **a) Dissemination and exploitation of results** 
 
 *Provide a draft ‘plan for disseminating and exploiting the project’s results’ (unless the work programme topic explicitly states that such a plan is not required). The plan, which should be proportionate to the scale of the project, should contain measures to be implemented both during and after the project;*  
-exploitation measure: consultancy, acting as consultants for companies, for instance in coding, best practices for development, best practices for coding. 
+exploitation measure: consultancy, acting as consultants for companies, for instance in coding, best practices for development, best practices for coding.
 
 //The result will be an increased learning from experience, a boosted transferability of results and, as a consequence, an increased lasting effect of the supported activities//
 //Horizon 2020 plays a central role in the delivery of the Europe 2020 strategy for smart, sustainable and inclusive growth and acts as a vehicle for leveraging private investment, creating new job opportunities//
