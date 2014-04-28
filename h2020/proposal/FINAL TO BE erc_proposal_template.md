@@ -535,36 +535,39 @@ The collaboration with different institutions and organizations will increase th
 
 **a) Dissemination and exploitation of results** 
 
-*Provide a draft ‘plan for disseminating and exploiting the project’s results’ (unless the work programme topic explicitly states that such a plan is not required). The plan, which should be proportionate to the scale of the project, should contain measures to be implemented both during and after the project;*  
-exploitation measure: consultancy, acting as consultants for companies, for instance in coding, best practices for development, best practices for coding.
+#### 2.2 Measures to maximise impact
 
-//The result will be an increased learning from experience, a boosted transferability of results and, as a consequence, an increased lasting effect of the supported activities//
-//Horizon 2020 plays a central role in the delivery of the Europe 2020 strategy for smart, sustainable and inclusive growth and acts as a vehicle for leveraging private investment, creating new job opportunities//
-//The result will be an increased learning from experience, a boosted transferability of results and, as a consequence, an increased lasting effect of the supported activities.//
+**a) Dissemination and exploitation of results** 
 
-*Dissemination and exploitation measures should address the full range of potential users and uses including research, commercial, investment, social, environmental, policy making, setting standards, skills and educational training.* 
 
-*The approach to innovation should be as comprehensive as possible, and must be tailored to the specific technical, market and organisational issues to be addressed.* 
- 
-*Explain how the proposed measures will help to achieve the expected impact of the project. Include a business plan where relevant;*
+Apart form the material overarching the project like yearly reports and best practices, the following materials will be generated and collected in the three sub-projects:
 
-*Where relevant, include information on how the participants will manage the research data generated and/or collected during the project, in particular addressing the following issues:*
+The platform as Interface
+- code portfolios from coursework
+- code portfolios from projects with privat partners
+- best practice 
 
-*What types of data will the project generate/collect?*
+The Lab as Interface
+- best practices concerning on- and offline collaborations
+- reports / evaluations of workshops with students
+- models / design for living lab furniture interior design
+- reports on the integration of online platform and offline lab   
 
-*What standards will be used?*
+Collections as Interfaces
+- digital artworks (visualizations, videos, animations) 
+- video documentation of creation of artworks   
+- video documentation of the fare  
+- visualizations 
 
-*How will this data be exploited and/or shared/made accessible for verification and re-use? If data cannot be made available, explain why.*
 
-*How will this data be curated and preserved?*  
+The material generated and collected shall be open for use and reuse. This is not only true for the code and the resulting digital tools that are going to be saved and made accessible in one repository on github.com under the GNU General Public License 
+[http://choosealicense.com/licenses/gpl-v2/](http://choosealicense.com/licenses/gpl-v2/) but also for documents, like evaluations, reports, presentations or conference papers. These documents therefore are archived by the autor and accessible under the green open access model. //github does not by default apply an open source license - which license do we want to use? GNU GENERAL PUBLIC LICENSE? http://choosealicense.com/// The github repository will be refered to on the online platform.
 
-*You will need an appropriate consortium agreement to manage (amongst other things) the ownership and access to key knowledge (IPR, data etc.). These will allow you, collectively and individually, to pursue market opportunities arising from the project's results.*  
+Video and audio material, pieces of digital art will be embedded in the online platform itself and will be available under the Creative Commons "share alike" license [http://creativecommons.org/licenses/by-sa/2.5/](http://creativecommons.org/licenses/by-sa/2.5/). The material will be stored on the Coding the Humanities server. Material created by parters will also be stored on the website of the partner.
 
-*Outline the strategy for knowledge management and protection. Include measures to provide open access (free on-line access such as the ‘green’ or ‘gold’ model) to peer-reviewed scientific publications which might result from the project.*
+The project fundamentally builds on open source and knowledge strategies that encourages sharing and re-use of code, data and other materials. We thus follow the maxime that all knowledge generated within the project should be freely accessible, usable and adaptable. 
 
-*Open access publishing (also called 'gold' open access) means that an article is immediately provided in open access mode by the scientific publisher. The associated costs are usually shifted away from readers, and instead (for example) to the university or research institute to which the researcher is affiliated, or to the funding agency supporting the research.* 
-
-*Self-archiving (also called 'green' open access) means that the published article or the final peer-reviewed manuscript is archived by the researcher - or a representative - in an online repository before, after or alongside its publication. Access to this article is often - but not necessarily - delayed (‘embargo period’) as some scientific publishers may wish to recoup their investment by selling subscriptions and charging pay-per-download/view fees during an exclusivity period.*
+As the consortium follows a non-hierarchical structure as far as possible, every partner is responsible to make the material and documents he produces in the realm of the project accessible. The Coding the Humanities project manager controls these processes.
 
 
 **b) Communication activities**
