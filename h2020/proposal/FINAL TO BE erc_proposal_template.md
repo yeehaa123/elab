@@ -793,10 +793,10 @@ CastYourArt: October 2014: presentation at kick-off event in Amsterdam
 #### 3.2	Management structure and procedures 
  
 *Describe the organisational structure and the decision-making (including a list of milestones (table 3.2a));*
+
+The management structure of the platform will be distributed rather than centralized, aligning with our mechanisms from open source development and Github. Github is an excellent platform to collect ideas and share feedback, allowing for open discussion and a well informed decision making process. Additional sources of inspiration include contemporary project management methods such as agile and scrum. We will have Pull Requests for bug and problem fixes and new features, Forks and Clones of the platform and the course curricula, and maintainers who are responsible for individual aspects of the project. The platform will be used to facilitate its own management. 
+
 We have the idea for a horizontal management structure that ensures private partners are not able to overtake decisions; rather, there will be a balance among partners. Connection will be made via workshops and meetings. Our resistance to hierarcy requires a careful explanation as to structure and how decisions are made. We will enact a policy of frequent but strictly time-controlled meetings via skype with partners to discuss progress and plans ahead. Each person present in a meeting may voice their opinion, and each person will have a veto, which they should use carefully. However, each partner will have a lead participant who serves as the representative of that organization related to the project. This role will rotate every six months, allowing all main participants to represent their organization. The project managers will play a coordination role in making sure meetings are well organized and effective. Twice per year, all participants, not only the leaders, will meet in person for a conference. At these conferences, everyone is encouraged to concisely share what they think the one thing is that could move the innovation forward. 
-
-Github is an excellent platform to collect ideas and share feedback, allowing for open discussion and a well informed decision making process. 
-
 
 *Explain why the organisational structure and decision-making mechanisms are appropriate to the complexity and scale of the project;*
 
