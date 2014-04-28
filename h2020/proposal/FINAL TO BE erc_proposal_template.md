@@ -708,7 +708,7 @@ She develops concepts for film, photography and crossmedial art projects. Curren
 
 Iteration of all of those activities in order to build strong cases regarding science communication and develop further storytelling strategies for researchers.
 
-- Curation of the physical lab includes a variety of communication activities
+The curation of the physical lab includes a variety of communication activities:
   - every 6 months throughout 3 years: project exhibition of the process 
   - every 3 months throughout 3 years: symposium with workshops and speakers / party 
   - monthly: Digital Salon/ Digital Workshop/ Presentations to all Project partners
@@ -753,6 +753,8 @@ In this work package an online platform for learning and research will be concep
 Inspired by open source culture and software development practices the fields are going to be explored simulataneously so that insights from one of the fields can be applied tranfered early on to the other fields. 
 
 *timing of the different work packages and their components (Gantt chart or similar)*
+CastYourArt: October 2014: presentation at kick-off event in Amsterdam
+	     further information in word tables
 *detailed work description, i.e.:*
 *a description of each work package (table 3.1a)*
 *a list of work packages (table 3.1b);*
@@ -812,7 +814,7 @@ This organizational structure involves each partner or component to the project 
 
 
 *Describe, where relevant, how effective innovation management will be addressed  in the management structure and work plan;*
-- effective innovation management : a self-managed system
+Effective innovation management is central to the way of working in the lab as interface field of this project. Linking humanities students to the business world will steer innovation towards products that are marketable, original, as well as appropriate.
 
 *Innovation management is a process which requires an understanding of both market and technical problems, with a goal of successfully implementing appropriate creative ideas. A new or improved product, service or process is its typical output. It also allows a consortium to respond to an external or internal opportunity.*
 
@@ -820,6 +822,11 @@ This organizational structure involves each partner or component to the project 
 - dropout of courses
 - lack of participation / low level of participation
 coding the humanities offers ownership while also being online. students are themselves active in producing / developing the content 
+
+RISK	                                  MITIGATION TACTIC
+* high dropout rate of courses online	* inclusive, proactive approach to student involvement
+* 	
+	
 
 
 #### 3.3	Consortium as a whole 
