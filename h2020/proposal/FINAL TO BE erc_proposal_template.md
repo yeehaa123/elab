@@ -1116,16 +1116,67 @@ The Netherlands
 
 ######Relevant Personnel
 Jan Hein Hoogstad - Coordinator of the Project
-Robin Boast - 
-Sabrina C. Sauer - 
-Nynke Bos - 
-Johanna Barnbeck - Creative Consultant for Cross-medial science communication
+Robin Boast - **Role?**
+Sabrina C. Sauer - **Role?**
+Marijn Koolen - **Role?**
+Nynke Bos - **Role?**
+Johanna Barnbeck - Creative Consultant for Cross-medial Science Communication
 
 //still discuss roles of participants, provide overviwe table// publications
 
+#### CV's & Publications
+
+**Prof. Boast** has been working for over thirty years in what today we call Digital Humanities. His work has focused on diverse topics, ranging from the first digital collection projects in museums and universities to the more recent emergence of the Web and social computing, to the question of digitality itself. His recent research has focused on local knowledge and emergent systems across incommensurable expert communities (indigenous and scientific), where he focuses on the study and development of open source, social and distributive systems.
+
+* R. Boast & J. Enote (2013). Virtual Repatriation: It's Virtual, but it's not Repatriation. In P. Biehl & C. Prescott (Eds.), Heritage in Context of Globalization: Europe and the Americas (Springer Briefs in Archaeology, 8) (pp. 103-113). New York: Springer.
+
+[**Jan Hein Hoogstad**](http://www.linkedin.com/pub/jan-hein-hoogstad/75/22b/389) is an Assistant Professor in Cultural Analysis and Comparative Literature at the University of Amsterdam. This summer he was a coach and teaching assistant at Dev Bootcamp in San Francisco. In 2008, Jan Hein was a visiting professor at the University of Minnesota, Minneapolis and a research fellow at the Jan van Eyck Academy in Maastricht. He studied philosophy and media studies at the University of Utrecht and the Humboldt University in Berlin.
+
+* Hoogstad, J.H. (2008). "Oh baby, I like it raw": engineering truth. In C. Birdsall & A. Enns (Eds.), Sonic mediations: body, sound, technology (pp. 93-107). Newcastle: Cambridge Scholars.
+* Hoogstad, J.H. & Stougaard Pedersen, B, (2013). Introduction. In J.H. Hoogstad & B. Stougaard Pedersen (Eds.), Off Beat. Pluralizing Rhythm (Thamyris Intersecting Place, Sex and Race) (pp.11-26). Amsterdam - New York: Rodopi.
+* Hoogstad, J.H. (2013). The Good Foot: James Brown's Revolutionary Rhythmic Interventions. In
+* J.H. Hoogstad & B. Stougaard Pedersen (Eds.), Off Beat. Pluralizing Rhythm (pp. 169-196). Amsterdam - New York: Rodopi.
+* Hoogstad, J.H. (2013). Lost and Found in Space. In ACLA 2013 - Global Positioning Systems. ACLA.
+*Hoogstad, J.H. & Stougaard Pedersen, B, (Eds.). (2013). Off Beat. Pluralizing Rhythm (Thamyris Intersecting Place,Sex, and Race, 204). Amsterdam - New York: Rodopi.
+
+**Sabrina Sauer**  is assistant professor comparative media studies at the media studies department of the University of Amsterdam. She completed an MA in media and culture at the University of Amsterdam (1998-2002), graduated from acting school De Trap in Amsterdam (2003-2006) and obtained her PhD at the University of Twente (2009-2013). Between 2003 and 2009, she worked in the fields of security management, subtitling, localization and ICT product and marketing management. Her PhD research, funded by the Dutch Research Delta - a strategic cooperation between KPN, TNO and several Dutch universities - centered on what happens when the ideas of ordinary people become the starting point for designing new ICTs.
+
+* (Forthcoming) Sauer, S. “Democratizing ICT development through co-creation: Channelling citizens’ situated expertise into new ICTs in a Living Laboratory”, Reconfiguring Users: how democratized technology and creative capitalism meet in 
+the 21st century. Eds. S. Hyysalo, T.E. Jensen, N.E.J. Oudshoorn, Oxford University Press.
+
+* Sauer, S. (September 2013) User innovativeness in Living Laboratories – Everyday user improvisations with ICTs as a source of innovation. PhD Thesis, University of Twente. Promotor: Prof. dr. N.E.J. Oudshoorn.
+
+* S. Sauer, “Do Smart Cities produce Smart Entrepreneurs?” Journal of Theoretical and Applied Electronic Commerce Research (ISSN 0718-1876), vol. 7, issue 3 (December 2012), pp. 63-73.
+
+* S. Sauer, “Improvisation Practices in a Living Lab-setting: High School Students as Designers in the SensorLab”, conference paper of the IAMCR Conference Cities, Creativity, Connectivity, July 13-17 2011, Istanbul. Online via http://iamcr.org/home-and-news/809-vpr2011 
+
+* “Het leren van de Toekomst – zorg voor impact”, co-author, together with dr. M. van Lieshout, drs. J. Kort, drs. S. Huveneers (for TNO and Kennisnet), 2010.
+
+**Marijn Koolen** is an Assistant Professor of Digital Humanities at the University of Amsterdam. Previously he was an Assistant Professor of Archives and Information Studies at the Media Studies department. He studied Artificial Intelligence, focusing on language and speech technologies. As a PhD student he did an internship with Microsoft Research Cambridge. Marijn is a member of the Institute for Logic, Language and Computation, working on Information Retrieval and Web Search. His current project is on Social Book Search, an international collaboration to develop and evaluate book search systems in the social web.
+
+* M.H.A. Koolen (2014). "User Reviews in the Search Index? That'll Never Work!". In M. de Rijke (Ed.), Proceedings of the 36th European Conference on IR Research Lecture Notes in Computer Science. Springer.
+2013
+* M.H.A. Koolen, J. Kamps & G. Kazai (2013). Social Book Search: The Impact of Professional and User-Generated Content on Book Suggestions. In C. Eickhoff & A.P. de Vries (Eds.), Proceedings of the 13th Dutch-Belgian Information Retrieval Workshop (DIR 2013) CEUR Workshop Proceedings (pp. 38-39).
+* P. Bellot, A. Doucet, S. Geva, S. Gurajada, J. Kamps, G. Kazai, M.H.A. Koolen, A. Mishra, V. Moriceau, J. Mothe, M. Preminger, E. SanJuan, R. Schenkel, X. Tannier, M. Theobald, M. Trappett & Q. Wang (2013). Overview of INEX 2013. In P. Forner, H. Muller, R. Paredes, P. Rosso & B. Stein (Eds.), Information Access Evaluation. Multilinguality, Multimodality, and Visualization Vol. 8138. Lecture Notes in Computer Science. Springer.
+2012
+* P. Bellot, T Chappell, A. Doucet, S. Geva, J. Kamps, G. Kazai, M.H.A. Koolen, M. Landoni, M. Marx, V. Moriceau, J. Mothe, G. Ramirez, M. Sanderson, E. SanJuan, F. Scholer, X. Tannier, M. Theobald, M. Trappett, A. Trotman & Q. Wang (2012). Report on INEX 2011. SIGIR Forum, 46(1), 33-42.
+* F. Adriaans, J. Kamps & M.H.A. Koolen (2012). The Importance of Document Ranking and User-Generated Content for Faceted Search and Book Suggestions. In S, Geva, J. Kamps & R. Schenkel (Eds.), Focused Retrieval of Content and Structure: 10th International Workshop of the Initiative for the Evaluation of XML Retrieval (INEX 2011) Vol. 7424. Lecture Notes in Computer Science (pp. 30-44). Heidelberg: Springer.
 
 
-**Johanna Barnbeck** is an artist, researcher and creative professional offering creative consulting for universities and research institutes who want to use audiovisual media in order to reach their relevant public. Based in Berlin, she develops concepts for film, photography and crossmedial art projects. Currently, she also works as an embedded researcher on the project *Augmenting Masterpieces* at the Rijksmuseum in Amsterdam, which seeks to develop interfaces between the digital and the physical collection of the museum.
+[**Johanna Barnbeck**] (www.johannabarnbeck.com) is an artist, researcher and creative professional offering creative consulting for universities and research institutes who want to use audiovisual media in order to reach their relevant public. Based in Berlin, she develops concepts for film, photography and crossmedial art projects. Currently, she also works as an embedded researcher on the project *Augmenting Masterpieces* at the Rijksmuseum in Amsterdam, which seeks to develop interfaces between the digital and the physical collection of the museum.
+
+Client portfolio (selection): University of Amsterdam (The Netherlands), International Psychoanalytic University (Germany), Anne Frank Center Berlin (Germany), Vrije Universiteit Amsterdam (The Netherlands), Coca Cola Accelerator Europe, 2470media, International Building Exhibition IBA Hamburg 2013.
+
+Conference Talks
+* *Digital Bauhaus Conference - Designing Creative Collaboration* Embedding the Self - Collaborative practices between private and public partners
+* *MeCCSA - Postgraduate Network Conference* Augmenting Masterpieces – Building bridges between Rembrandt and museum visitors, forthcoming Leeds 2014 (UK)
+* *4th International Deleuze Conference Copenhagen*, Self-analysis and Self-portraiture as Interdisciplinary Research Methodology, 2012 (Denmark).
+* *3rd International Deleuze Conference*, Social Practices within Fields and Frames, 2011 (The Netherlands).
+* *Lost Objects - NICA Summer School*, Self-analysis and Self-portraiture as Interdisciplinary Research Methodology, 2011, Amsterdam (The Netherlands).
+
+Artistic Work: Since 2008 Exhibits cross-media installations, performances and short films
+in Amsterdam, Hamburg and Berlin. Upcoming exhibitions in Australia and Canada. 
+See her [website] (www.johannabarnbeck.com) and [vimeo channel] (http://vimeo.com/johannabarnbeck) for her portfolio.
 
 
 ##### Dark Horse GmbH & Co KG  
@@ -1147,7 +1198,7 @@ Within the proposed project Dark Horse is going to conduct research on and devel
 ######Publications, Keynotes and University Teaching
 
 **Publications**
-Dark Horse, The *Thanks God it’s Monday - How we revolutionize work life*, Econ Verlag, 09/2014.
+Dark Horse, The *Thanks God it’s Monday - How we revolutionize work life*, Econ Verlag, forthcoming 09/2014.
 
 Albers, Ralf; Konrad, Greta; Ott, Manuell "Der Personaler als Designer", In: *Einrichten auf die Zukunft - Personalmagazin*, 04/2014.
 
