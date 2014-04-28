@@ -295,9 +295,9 @@ Each of the three areas anticipates and addresses an upcoming challenge.
 
 ###### 1.3.3.1 The Platform as Interface 
 
-In order to initiate a fruitful debate about the development and application of ICT it is crucial not only to start that debate among ICT experts. On the contrary, this debate should evolve around users and their needs. Thus one of the main challenges to face for the creation of a sustainable dialogue about the opportunities ICT offers is to interest and educate non-technologically biased persons in the use and development of ICT.  
+In order to initiate a fruitful debate about the development and application of ICT it is crucial not only to start that debate among ICT experts. On the contrary, this debate should evolve around users and their needs. Thus one of the main challenges to face for the creation of a sustainable dialogue about the opportunities ICT offers is to interest and educate non-technologically biased persons, meaning those who are not inclined to use and develop ICT. 
 
-CtH pursues this goal by addressing humanities students and at the same time provides an online learning interface that is reaching out to non-technologically biased people in general by lowering the threshold to engage with ICT. This platform therefore opens up the closed university realm for the education up to bigger numbers and overcomes the limitation of ICT training to a cultural, technological and economical elite.   
+CtH pursues this goal by addressing humanities students and at the same time provides an online learning interface that reaches out to non-technologically biased people in general by lowering the threshold to engage with ICT. This platform therefore opens up the closed university realm for the education up to bigger numbers and overcomes the limitation of ICT training to a cultural, technological and economical elite.   
 
 Whereas classical digital humanities programs often rely ICT experts that develop programs for the humanities and provide for supportive actions for the implementation of these tools, coding the humanities seeks to train the students and researchers themselves to shape ICT and understand the possibilities the tools they hold in their hands offer. Hereby the online platform intends to enlarge the circle of people that are involved in the development of ICT beyond the small group of experts. 
 
