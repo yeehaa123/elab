@@ -535,10 +535,6 @@ The collaboration with different institutions and organizations will increase th
 
 **a) Dissemination and exploitation of results** 
 
-#### 2.2 Measures to maximise impact
-
-**a) Dissemination and exploitation of results** 
-
 
 Apart form the material overarching the project like yearly reports and best practices, the following materials will be generated and collected in the three sub-projects:
 
