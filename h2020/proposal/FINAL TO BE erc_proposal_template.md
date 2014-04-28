@@ -1134,12 +1134,20 @@ Show how you will confirm that the milestone has been attained. Refer to indicat
 
 *Please provide, for each participant, the following (if available):* 
 
-- *a description of the legal entity and its main tasks, with an explanation of how its profile matches the tasks in the proposal.*
-- *a  curriculum vitae or description of the profile of the persons, including their gender, who will be primarily responsible for carrying out the proposed research and/or innovation activities;*
-- *a  list of up to 5 relevant publications, and/or products, services (including widely-used datasets or software), or other achievements relevant to the  call content;* 
-- *a  list of up to 5 relevant previous projects or activities, connected to the subject of this proposal;*
-- *a  description of any significant infrastructure and/or any major items of technical equipment, relevant to the proposed work;*
-(*any other supporting documents specified in the work programme for this call*)
+#####University of Amsterdam 
+Spui 21 
+1012 WX Amsterdam 
+The Netherlands 
+
+######Relevant Personnel
+Jan Hein Hoogstad
+Robin Boast
+Sabrina C. Sauer
+Nynke Bos
+
+//still discuss roles of participants, provide overviwe table//
+
+publications
 
 ##### Dark Horse GmbH & Co KG  
 Ritterstraße 12 - 14  
@@ -1147,18 +1155,17 @@ Aufgang 4, Etage 3
 10969 Berlin  
 Germany
 
+######The Company
 *Dark Horse* is an innovation agency based in Berlin which creates user-centered products and services and helps clients to change their structures, processes and minds. Their work is based on Design Thinking principles and their own unusual working culture that simultaneously stresses ﬂexibility and connections. They design spatial, procedural and social conditions of collaboration in on- and offline settings. Guided by their participative design approach, they created spaces and working culture for collaboration in science and creative industry.
 
 Within the proposed project Dark Horse is going to conduct research on and develop a conceptual framework and design for a physical space that accompanies and complements the online learning platform. Their user centered approach and the background in anthropology and interior design allows Lisa Zoth and Patrick Kenzler to understand and translate the requirements of such a space into a practical design concept and the according user culture. They will provide an answer to the crucial question of how online collaboration and innovative practice can be initiated, accelerated and fostered through an offline setting. Moreover their research will provide insights to the students’ needs that cannot be satisfied merely by the application of ICT but are better addressed with a combination of digital instruments and offline collaboration and training methods.
 
+######Relevant personnel
 *Lisa Zoth* has a background in political science and anthropology. She has conducted several projects in regard to the implementation of the Design Thinking Methodology and Culture into companies such as SAP or Deutsche Bahn. Her research focus lies on the design of organizational collaboration and implementing innovation processes into traditional structures. Lisa Zoth will in this project be mainly involved in the need finding, synthesis and ideation phase of the project and evaluating the collaboration processes among the embedded researchers.
 
 *Patrick Kenzler* is an architect and interior designer. In his research he focusses on the design of spatial concepts for collaboration. Patrick Kenzler has conceptualized and designed several collaboration spaces such as for the HPI School of Design Thinking or the Humboldt Lab. In this project he will be involved in the needfinding, synthesis and ideation phase and is mainly responsible for the 3D-modeling of the first prototype as well as the furnishing and the fitting-out of the Living Lab.
 
-*Previous projects or activities*
-
-**Note that there are pictures visualising the projects and tools used available**
-
+######Previous projects
 *Lufthansa Technik AG:* Spaces for collaboration Lufthansa Technik AG asked Dark Horse to research the existing working culture at Lufthansa Technik and to develop a spatial concept for collaboration based on these findings. Through observation, interviews and participatory workshops all 400 employees were involved in the analysis and conceptual phase. The main focus lied in identifying the opportunities for change whilst preserving other spatial concepts and processes that already worked well in the existing structure. Due to the research findings and developed concepts Dark Horse will be further involved in the planning of two new office floors. The interior design of these spaces will offer spatial qualities that enable the collaboration among the employees while at the same time giving space and infrastructure for individual work. Dark Horse will undertake a moderating and consulting role towards the employees in enabling them to use the new spaces and implementing a successful working culture.
 
 *Deutsche Bahn AG:* Moving Ideas Deutsche Bahn AG is one of the largest transport companies in the world. All suppliers and industrial partners form part of a huge network. The idea was to benefit from this hub of expertise and to turn it into a driver for innovation. Dark Horse got engaged to develop a virtual platform that facilitates the collaboration across all branches. Dark Horse developed a browser based platform on which projects can be launched, discussed and worked on. The platform offers users the possibility to get instant and multi-perspective feedback on the current stages of their project. In addition to that the platform serves as the link between the digital and analog world of each project.
@@ -1171,9 +1178,10 @@ Within the proposed project Dark Horse is going to conduct research on and devel
 
 #####Europeana 
 
+######Organization
 The Europeana Foundation is a cross domain foundation, under Dutch law, set up for the purpose of fostering collaboration between museums, archives, libraries and audiovisual collections in Europe. It aims to provide access to Europe’s cultural heritage by facilitating formal agreement across museums, archives, audio-visual archives and libraries on how to cooperate in the delivery and sustainability of a joint portal. It also provides a legal framework for use by EU funded projects to bring their research or content into Europeana. The Europeana Foundation governs Europeana and employs its staff, who make up the Europeana Office. The commitment of Foundation Supervisory Board members, its Executive Group and the Europeana Office is huge. The Foundation members give all their time voluntarily and the Europeana Office carries out the work with a very committed, capable staff from fourteen countries with expertise in technologies, the semantic web, multilingualism, online exhibitions, awareness raising, data modeling, interoperability, collaboration, fund raising, business development and project management. The Europeana Office has 47 staff, well versed in European projects and delivering to time and budget. It has three Directors, reporting to an Executive Committee of the Europeana Foundation led by the Executive Director Jill Cousins
 
-Relevance of profile to the proposal
+######Relevance of profile to the proposal
 Europeana currently gives access to 33 million digital cultural objects from across 34 countries, in all their languages. This is a growing research resource that poses serious challenges in surfacing and visualizing the material people are looking for.  Coding the Humanities will give opportunities for researchers, students and private companies to come up with new ways to expose, visualize and present the huge diversity of data held in Europeana to the humanities researcher and others.  Any open source results that are more broadly relevant could be incorporated into the Europeana portal front end. 
 
 Europeana also has a quickly growing database of user contributed content in its Europeana1914-1918 and Europeana 1989 collections these thematic collections are also available to the project to discover new and improved ways of mining the data. They come complete with their own ontologies and vocabularies and similarly to the full Europeana data set are available via the API but can also be used via data dump or other mechanisms of use to the researcher. 
@@ -1182,7 +1190,7 @@ All Europeana code is open source and therefore available to the project for re-
 
 Europeana has a wide network of contributing organisations and individuals who people taskforces and can be asked to test outcomes of projects. 
 
-Relevant personnel
+######Relevant personnel
 *Jill Cousins (F)* is the Executive Director of the Europeana Foundation. She initiated and developed the operational services and networks of Europeana and The European Library. She is responsible for strategy, communications, policy, research and technology and the raising of funding for the service. She has a strong web publishing background, having worked for VNU as their European Business Development Director and then transferring the lessons learnt from commercial business-to-business publishing to scholarly publishing working for Blackwell Publishing and several other academic publishers in the UK. She has been involved in several international publishing industry bodies such as CrossRef and COUNTER and is on the Board of Globethics and the Content & Strategy Committee of the DPLA. Jill holds a Geography BA. Hons and took a Ph.D in 16th century Arabic & Turkish seacharts
 
 *Harry Verwayen (M)* is Deputy Director at Europeana. His main focus is the design and implementation of new business models and strategies that will support Europeana to fulfil its mission as a driver of innovation in the cultural heritage sector. Prior to this position Harry worked at the Amsterdam based thinktank Knowledgeland where he was responsible for innovation and positioning of the project Images for the Future. He has over ten years of experience in the Academic Publishing industry in various positions including sales, business and product development and worked for Kluwer Academic Publishing, Springer and IDC. Harry holds a MA in History from Leiden University and a certificate from Nyenrode Business University.
@@ -1190,8 +1198,7 @@ Relevant personnel
 *Antoine Isaac (M)* is the Research and Development Manager at Europeana, working part time at the VU in Guus Schreiber's Web and Media group. He co-chairs the Library Linked Data group at W3C and serve as W3C SKOS community contact, on behalf of the now closed Semantic Web Deployment working group.
 
 
-Relevant database and publications
-
+######Relevant database and publications
 Europeana Labs (labs.europeana.eu) is a playground for remixing and using Europe’s cultural and scientific heritage. It is both an online space and a network of real-world places for inspiration, innovation and sharing. In particular, Europeana Labs provides information on data re-use tools (Europeana APIs), ready-to-use datasets on specific themes, application gallery,  hackathons, business incubation contests and real-world spaces across Europe to play, test and build applications.
 
 Europeana APIs (Application Programming Interface) allows dynamic search and retrieval of Europeana collections for use of external websites and applications, including games. 
@@ -1202,14 +1209,49 @@ Europeana 1989 is a collection site for user contributed content connected to th
 Europeana.eu the public facing portal of Europeana with access to all the material that has been aggregated from 2500 memory institutions across Europe
 The European Library over nearly 150 million bibliographic records and 22 million digital objects from national and research libraries across Europe
 
-Relevant Projects
+######Relevant Projects
 Europeana Cloud is a PSP-ICT project with 2 more years to run.  It is creating a cloud infrastructure for the management and sharing of metadata but is also developing a platform for access by researchers to this material Europeana Research. Research into the needs of humanities researchers has been undertaken by the Digital Curation Unit in Athens that can be made available to Coding the Humanities
 Europeana Creative is the project responsible for the development of Europeana Labs and developing access for research communities to the data sets for experimentation and reuse.
 
 
-Relevant Infrastructure & Technical Equipment
+######Relevant Infrastructure & Technical Equipment
 Europeana gives access to a European treasury of over 33 million books, pictures, films, maps, archival records, museum objects and sound recordings from 2,500 of Europe’s memory institutions. It created an interoperable data model and IPR standards across Europe.
 
+
+#####National Museum of World Cultures 
+
+The National Museum of World Cultures (NMvM) is one of the newest museums in the Dutch museum landscape. Created out of the merger of the Africa Museum in Berg-en-Dal, the National Museum of Ethnology, Leiden and the Tropenmuseum, Amsterdam, this new institution is the designated national focal point for ethnographic museum practice in the Netherlands. This national designation includes the research portfolio for ethnographic collections research. Research in the museum is carried out within the museum’s recently created Research Centre for Material Culture (RCMC). One of the focal areas of RCMC is Digital Futures for Ethnographic museums.
+
+######Relevant personnel
+*Wayne Modest* is the head of Research at the National Museum of World Cultures in the Netherlands. Previously he was Head of Collections and Research at the Tropenmuseum, Amsterdam; Keeper of Anthropology at the Horniman Museum in London, and Director of the Museums of History and Ethnography in Kingston, Jamaica. He has held visiting fellowships at New York University and at the Yale Centre for British Art, Yale University. Modest has published on a wide range of topics focused on slavery and colonialism, ethnographic museums, photography and collecting and exhibitionary histories and co-curation and participatory practices in museums. His most recent publications include the co-edited volume, Museums and Communities: Curators, Collections, Collaboration, with Viv Golding. He is currently co-editing the books, Museums, Heritage and International Development (with Paul Basu), which is due in the fall of 2014, and Victorian Jamaica (with Tim Barringer – submitted to publishers)
+
+######Relevant Publications from museum staff:
+
+ 1.     Buijs, Cunera (2010).  Related Collections, Sharing East Greenlandic Material Culture and Photographs. In Laura van Broekhoven, Cunera Buijs, Pieter Hovens (eds), Sharing Knowledge and Cultural Heritage: First Nations of the Americas. Studies in Collaboration with Indigenous Peoples from Greenland, North and South America, Mededelingen van Het Rijksmuseum voor Volkenkunde 39, Leiden, Sidestone Press in cooperation with the National Museum of Ethnology: 17-39.
+
+2.     Broekhoven, Laura and Cunera Buijs (2010). Introduction, in Laura van Broekhoven, Cunera Buijs, Pieter Hovens (eds), Sharing Knowledge and Cultural Heritage Heritage: First Nations of the Americas. Studies in Collaboration with Indigenous Peoples from Greenland, North and South America, Mededelingen van Het Rijksmuseum voor Volkenkunde 39, Leiden, Sidestone Press in cooperation with the National Museum of Ethnology: 7-17.
+
+3.     Modest, Wayne (2013), Museums and Communities: Curators, Collections and Collaboration (with Viv Golding). London: Bloomsbury Academic.
+
+4.     Modest, Wayne (2013) ‘You’re All Just Using Us Right, to Do Your Work for You’: Co-Curating with Teenagers at the Horniman Museum. In: Viv Golding and Wayne Modest (eds.), Museums and Communities: Curators, Collections and Collaboration, London: Bloomsbury Academic.
+
+5.     Cultural Encounters in a Changing World. In exhibition catalogue Unexpected Encounters (with Paul Faber). Amsterdam: KIT Publishers. 2013.
+
+
+######Relevant Projects
+
+Foto Zoekt Familie (Photos seeks family) - http://www.fotozoektfamilie.nl
+
+Between 1945-1949, during the Dutch/ Indonesian struggle for Independence, thousands of persons from the Dutch East Indies left Indonesia for the Netherlands leaving behind hundreds of family photo albums. Shortly after the end of the struggle  these albums were brought to the Tropenmuseum where they remained for decades. The Foto zoekt famalie project created a web-based platform for the return of these collections as well as the collection of family documentary information about the collection of photographs.
+
+PhotoClec – Photographs, Colonial Legacies and Museums in Contemporary European Culture asked “what is the role of the photographic legacy of colonial relations in the identity of a fluid and multi-cultural modern Europe and its global relations?” It focused on museums and the use of such photographs in museums – their displays and their collections – as major and influential vectors of public history. The research was undertaken in three European countries, The Netherlands, Norway and the UK, which have shared histories of a European colonial activity, but at same different responses and legacies relating to that history. The research was funded by HERA (Humanities in the European Research Area)  and European Framework Programme 7.
+
+Roots2Share: visual repatriation project and inclusive website
+
+Contemporary ICT tools present formerly unknown opportunities to share museum collections digitally even in remote communities in the world. Such is the case of our Roots2Share project with Greenland, which is centered around a collection of photographs taken in Greenland over the past 50 years that are kept at the Museon and predominantly at the National Museum of Ethnology in The Netherlands
+
+Infrastructure
+The museum cares for a collection of over 400.000 objects and 1.000.000 photographs. These are digitised and made accessible to a public through the museums database system, TMS.
 
 
 ##### Weyeser
@@ -1228,21 +1270,14 @@ Within this proposed project weyeser will provide expertise concerning the quest
 *a  description of any significant infrastructure and/or any major items of technical equipment, relevant to the proposed work;* 
 
 
-##### CastYourArt
+#####CastYourArt
 
 Gumpendorfer Straße 55
 1060 Wien
 Austria
 
-
-- *a description of the legal entity and its main tasks, with an explanation of how its profile matches the tasks in the proposal.*
-- *a  curriculum vitae or description of the profile of the persons, including their gender, who will be primarily responsible for carrying out the proposed research and/or innovation activities;*
-- *a  list of up to 5 relevant publications, and/or products, services (including widely-used datasets or software), or other achievements relevant to the  call content;* 
-- *a  list of up to 5 relevant previous projects or activities, connected to the subject of this proposal;*
-- *a  description of any significant infrastructure and/or any major items of technical equipment, relevant to the proposed work;*
-(*any other supporting documents specified in the work programme for this call*)
  
-
+######Company
 CastYourArt provides insights into the world of art. CastYourArt wants to discover, make accessible, transmit, support and entertain. In doing so we rely on content rather than superficiality, authenticity instead of glib professionalism, complexity instead of oversimplification, we rely on networking and exchange rather than on separation and of course we love what we do. 
  
 Audio and video features produced by CastYourArt protrait artists, exhibitions, collectors, persons and institutions involved in the world of. It is all about ideas and thoughts, protagonists, networks and mechanisms, about experiments, theories and reflection, inspiration and emotions, about diversity as well as discrepancies. How are works of art created and which ideas motivated the artist? What motivates the collector - fascination, profit, love, addiction, calculation? How does a curator see his exhibition and how does the audience? We are interested in these and other questions. We want to hear frankly, see differently, be there, make available and tangible, be inspired, and be able to learn. Productions by CastYourArt want to express individuality and leave room for development of creative potential in the production process.  
@@ -1251,21 +1286,21 @@ CastYourArt produced about 250 video-portraits of artists and art-institutions w
 
 CastYourArts services include advice, production and distribution of audio and film features, creation and editing of textual content, online and offline distribution of the features, exhibition activities, project development and organisation in the domain of art, and artist management as well as liaising between art and business. They call art to people’s attention. We offer the infrastructure to show what exhibition halls, museums, galleries, collectors and art-oriented companies offer for art-interested people. We exhibit art. We accompany artists in the actualisation of their ideas, beginning from strategy to financial planning, organisation, communication to sales; we manage artists in every step of their career.
 
-Relevant Projects
+CastYourArt is a product of the KA21 GmbH, based in Vienna. The founding members are Wolfgang Haas, Helmut Feier and Franz Morgenbesser. The managing directors and persons in charge are Wolfgang Haas and Helmut Feier.
+
+######Relevant Personnel
+*Wolfgang Haas* is managing director of CastYourArt. He studied education in Graz, Austria and finished his PhD in Philosophy in Utrecht, the Netherlands. He has had lectureships at the Technical University Graz and University Klagenfurt / Center for interdisciplinary research and advanced education. Haas was Co-publisher of the culture magazine "bob" and is at CastYourArt in charge for editing, production, and strategic development.
+
+*Helmut Feier* is managing director of CastYourArt. Before he was managing director and consultant at e-century consulting and senior consultant for ict-knowledge. At CastYourArt he is in charge for ict-development, production.
+
+######Relevant Projects
 One recent project involved making a short film about artist Gunter Damisch's work. Damisch creates a visual language whose imagry is constantly transformed. This links to the project in its focus on rapid modification. Coding the Humanities as a whole, and the Fair specifically, focus on modification through mutual influence.
 
 Another short film was made about Yelena Popova's artwork. Mixing her own paint using both traditional and invented recipes, as well as locally foraged pigments, she creates transparent, ethereal images that recede into the raw fabric of the linen. The painted image is not quite there. Popova’s interest in the digital — along with the disembodiment of screen-based images and, in particular, touchscreen gestures — is echoed in her painterly technique. The way the paintings are installed creates a clash between the immateriality of their imagery and the gravity of paintings as objects.
 
 The new exhibition "Az W Gold" has also been filmed by CastYourArt. It is a location for reflection about public space and the architecture configuring it – including reflexion about the context of the institution itself, as well as about forms of organizing our environment. Public space as area of social interaction and expression of community – artistic and scientific research has been manifold, identifying the conflict zones as well as the ones of negotiation. In this sense the exhibition joins together different approaches of research: art history, history of architecture, and also the artistic practice that produced those drafts, project designs and models. Behind the displayed works, intersecting issues within the local context of contemporary architecture, art and curatorship join together disciplines, expanding the limits of curatorship towards research. The interdisciplinary nature of this work relates directly to the project's goal of connecting humanities to technology.
 
-CastYourArt is a product of the KA21 GmbH, based in Vienna. The founding members are Wolfgang Haas, Helmut Feier and Franz Morgenbesser. The managing directors and persons in charge are Wolfgang Haas and Helmut Feier.
-
-*Wolfgang Haas* is managing director of CastYourArt. He studied education in Graz, Austria and finished his PhD in Philosophy in Utrecht, the Netherlands. He has had lectureships at the Technical University Graz and University Klagenfurt / Center for interdisciplinary research and advanced education. Haas was Co-publisher of the culture magazine "bob" and is at CastYourArt in charge for editing, production, and strategic development.
-
-*Helmut Feier* is managing director of CastYourArt. Before he was managing director and consultant at e-century consulting and senior consultant for ict-knowledge. At CastYourArt he is in charge for ict-development, production.
-
-
-#### 4.2.	Third parties involved in the project (including use of third party resources)
+#### 4.2.Third parties involved in the project (including use of third party resources)
 *Please complete, for each participant, the following table (or simply state “No third parties involved”, if applicable):*
 No third parties involved.
 
