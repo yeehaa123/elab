@@ -536,8 +536,9 @@ The collaboration with different institutions and organizations will increase th
 **a) Dissemination and exploitation of results** 
 
 ## Users
+To a large extent, the results of the coding platform will automatically be available to all.  A Project Manager will be hired and will be responsible for strategizing and implementing a  campaign to disseminate results. Building the network through the coding platform, as well as connections to our art network will help to extend this project to others. 
 
-How will we reach ...
+We will reach humanities researchers, both novice and experienced, through 
 
 + Humanities researchers (novice and experienced)
   + online courses in regular curriculum
