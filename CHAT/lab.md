@@ -1,8 +1,7 @@
 # Lab as Interface
 
-Partners: Robin Boast (UvA), Jan Hein Hoogstad (UvA), Katja Kwastek
-(VU), Sabrina Sauer (UvA), Ginette Verstraete (VU), Joris van Zundert
-(KNAW)
+Partners: Robin Boast (UvA), Jan Hein Hoogstad (UvA), Marijn Koolen (UvA), 
+Katja Kwastek (VU), Sabrina Sauer (UvA), Ginette Verstraete (VU)
 
 Additional partners
 
@@ -32,6 +31,9 @@ the digital and other worlds.
 
 
 ### How this research contributes to the humanities, and to ‘digital humanities’? 
+
+The recent focus of funding for the humanities towards creative industries and other private partners has resulted in many digital humanities projects with embedded researchers. This project encourages embedded researchers to collaborate and learn from each others experiences, to bring together knowledge on how to best combine academic research, product innovation and commercial interests. This results in new forms of knowledge production in the humanities. 
+
 ### How does the research relate to the ‘opportunities for the humanities’ identified in the White Paper, Section 1?
 
 The proposed living lab focuses on facilitating breakthrough scholarship
@@ -75,19 +77,16 @@ of computational instruments as well as increasing a space to meet
 possible private partners for future research.
 
 
-## How this research relates to the ‘opportunities for the humanities’ in the White Paper:
+## How this research contributes to one or more of the core technologies in section 1 of the white paper 
 
-Core technology identified in section 2 of the white paper:
 
-- visualization
-
-visualization and machine learning: within the OverLab, students and
+*visualization and machine learning*: within the lab, students and
 researchers collaborate to learn and experiment with data visualization,
 grappling with large open data sets provided by e.g. Europeana.
-The OverLab thus not only allows for experimentation, but also
+The embedded research lab thus not only allows for experimentation, but also
 learning-by-doing collaboratively; digital interfaces are developed that
-are discovery oriented. The offline OverLab is complemented by an online
-platform (codingthehumanities) (weyeser text) (Question: is this too
+are discovery oriented. The offline lab is complemented by an online
+platform ([Coding the Humanities](http://codingthehumanities.com/)) (weyeser text) (Question: is this too
 much overlap with the visualization interface proposal?)
 
 ## How does this research build on relevant state-of-the-art research
@@ -130,8 +129,6 @@ practices. The OverLab provides exactly such an opportunity.
 
 
 ## Why this research team would be best to perform this research
-
-BECAUSE WE HAVE SABRINA! (seriously though, this team is the best because 
 
 + Sabrina Sauer: up-and-coming star at uva, expertise on living labs, our secret
   weapon
