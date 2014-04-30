@@ -14,6 +14,7 @@ How can cultural and governmental data sets (API's) be transformed into
 new kinds of collections that are no longer intrinsically linked to the
 original objects and the institutions in which they are displayed?
 
+
 ### Goal and problem:
 
 The goal of this research is to create an international exhibition
@@ -71,6 +72,7 @@ in new and exciting ways. Thereby not only reconfiguring the relation between
 the collection and the institution in which it is displayed, but also between 
 the institutions amongst each other, their relation to the visitors/user, and 
 finally, the user to the artwork.
+
 
 ### how this research contributes to core technologies identified in section 2 white paper:
 
