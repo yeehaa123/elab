@@ -35,7 +35,7 @@ analysis of digital materials. Humanities scholars often have little
 interest in the details of how the tools work, but prefer to focus on
 what they can be used for. However, understanding the intricate details
 of tools is important when drawing conclusions from and basing claims on
-the results from tools.
+their results.
 
 In collaborative projects with computer scienctist, the latter have
 more interest in those details, but may lack the domain expertise
@@ -62,10 +62,11 @@ create an expandable platform for humanities students and scholars to
 collaboratively learn programming and build tools for their research.
 
 In order to initiate a fruitful debate about the use of coding in
-the humanities it is crucial to substantially increase the degree of digital
-literacy. It is our conviction, that people that do not know how to read and
-write code are not truly digital literate. Therefore education should play an
-important role in the formation of a center for humanities and technology.
+the humanities it is crucial to substantially increase the degree of
+digital literacy. It is our conviction, that people that do not know
+how to read and write code are not truly digital literate. Therefore
+education should play an important role in the formation of a center for
+humanities and technology.
 
 However, the past has taught us that this cannot work in a missionary
 way, where the students were addressed as primitives. On the contrary,
@@ -78,25 +79,30 @@ can contribute to their needs before investing in it. This perspective
 often lacks from standard coding courses and tutorials.
 
 
-### How this research contributes to the humanities, and to ‘digital
-humanities’ The contribution of the development and research of this
+### How this research contributes to the humanities, and to ‘digital humanities’ 
+
+The contribution of the development and research of this
 platform contributes to the humanities and digital humanities in several
 ways:
 
 + the development of programming skills will lead DH scholars to better
-understand their digital tools and results, thereby allowing them to
-make more reliable and meaningful interpretations
+  understand their digital tools and results, thereby allowing them to
+  make more reliable and meaningful interpretations
 
 + research on tool building will lead to better models of and guidelines
-for how to develop tools around a specific research question
+  for how to develop tools around a specific research question
 
 + humanities scholars can communicate more easily and clearly with
-computer scientists and collaborate more intuitively through a shared
-vocabulary (coding), i.e. reducing friction at the interface between two
-domains
+  computer scientists and collaborate more intuitively through a shared
+  vocabulary (coding), i.e. reducing friction at the interface between two
+  domains
 
-+ through collaborative project, new tools will be developed that can be
-reused and modified for further research.
++ Humanities scholars will learn skill that is valued outside the confines of
+  the university, thereby increasing both their employability as well as their
+  ability to engage in public-private partnerships.
+
++ Through collaborative project, new tools will be developed that can be used
+  and modified for further research.
 
 In times of big data more and more data is available but not necessary
 turned into knowledge. The Coding the Humanities platform educates
@@ -122,10 +128,16 @@ between humanities and computer science.
 
 
 
-### How this research contributes to one or more of the core technologies in section 1 of the white paper
-Programming underlies all five core technological challenges and a diverse group of researchers collaboration on projects on the platform will cover the whole range of technical challenges and all areas of the humanities. 
+### How this research contributes to one or more of the core
+technologies in section 1 of the white paper Programming underlies all
+five core technological challenges and a diverse group of researchers
+collaboration on projects on the platform will cover the whole range of
+technical challenges and all areas of the humanities.
 
-The strong focus on reflection of humanities scholars and their deep understanding of and multiple perspective on the complexities of their materials can inform the building of tools related to each of the core technologies.
+The strong focus on reflection of humanities scholars and their deep
+understanding of and multiple perspective on the complexities of their
+materials can inform the building of tools related to each of the core
+technologies.
 
 <!--- CtH projects are produced and stored under open licenses which
 encourages the collaboration and reuse of the software tools by other
@@ -137,17 +149,35 @@ the humanities. --->
 
 ### How this research builds on relevant state-of-the-art research:
 
-As far as we know, there is very little research in this area. 
-Companies offering online learning platforms like Apearo, Edx have no courses in this direction. There are programming courses offered for non-computer science students, but they often engage students with technical jargon and a perspective that lacks relevance to those with no such technological bias but a need to know what programming skills have to offer them.
+As far as we know, there is very little research in this area. Companies
+offering online learning platforms like Apearo, Edx have no courses in
+this direction. There are programming courses offered for non-computer
+science students, but they often engage students with technical
+jargon and a perspective that lacks relevance to those with no such
+technological bias but a need to know what programming skills have to
+offer them.
 
- The platform provides an "online first" approach which means that the students find the means to learn coding and work collaboratively online first through courses and tutorials but can complement these tools with offline meetings. This approach avoids the mere transfer of offline teaching methods into the online world, which is a typical weakness of many Massive Open Online Courses (MOOCs), but explores what offline collaboration can be informed by strategies applied with online tools and how innovative offline practices can initiate and foster online cooperation. It seeks to provide students with the technological foundations to acquire and develop these skills by themselves and in peer learning based processes, based on tutorials and assignments.
+The platform provides an "online first" approach which means that
+the students find the means to learn coding and work collaboratively
+online first through courses and tutorials but can complement these
+tools with offline meetings. This approach avoids the mere transfer
+of offline teaching methods into the online world, which is a typical
+weakness of many Massive Open Online Courses (MOOCs), but explores what
+offline collaboration can be informed by strategies applied with online
+tools and how innovative offline practices can initiate and foster
+online cooperation. It seeks to provide students with the technological
+foundations to acquire and develop these skills by themselves and in
+peer learning based processes, based on tutorials and assignments.
 
 ### Why the proposed research team would be the best to perform this research:
 
 
 ### Plans for software and data management and sharing
 
- The platform will embrace open source culture and all contributions to the platform and projects developed on the platform are published using open licenses. The students share their code projects on distributed repositories, which encourages re-use, altering and further development. 
+The platform will embrace open source culture and all contributions to
+the platform and projects developed on the platform are published using
+open licenses. The students share their code projects on distributed
+repositories, which encourages re-use, altering and further development.
 
 ### Budget and Key Deliverables (1 page)
 
