@@ -18,10 +18,22 @@ original objects and the institutions in which they are displayed?
 
 The goal of this research is to create an international exhibition
 that combines on and offline projects. We aim to involve students and
-researchers from the Platform as Interface, as well as other researchers
-and developers. This exhibition will consist of workshops, data events,
+researchers that work on the 'coding the humanities' platform, but the
+exhibition is also a possibility to attract others (artist, developers,
+curators, etc.) to work with and on our platform. 
+
+The goal of this exhibition will be to create and display collections that did
+not exist as such before. This is made possible by the fact that many cultural
+institutions now make their collections publicly available through so-called
+API's (Application Programming Interfaces). In the events that we have planned,
+the participants are encouraged to create and curate their own colllectons. In
+order to facilitate this project, we will offer workshops, data events,
 speakers, art installations, and presentations on relationship between
-ICT, art, business, and cultural heritage.
+technology, art, business, and cultural heritage.
+
+This entirely new kind of exhibition uses coding skills to make an intervention
+in three areas that are crucial to the past, present, and the future of the
+humanities: politics, literacy, and culture.
 
 There are not only dramatic geographic differences in accessibility
 to and user skills of ICT but also socio-economic and demographic
