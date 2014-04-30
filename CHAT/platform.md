@@ -148,30 +148,38 @@ the humanities. --->
 
 
 
-### How this research builds on relevant state-of-the-art research:
+## How does this research build on relevant state-of-the-art research?
 
-As far as we know, there is very little research in this area. Companies
+One of the premisses of this project is that there is hardly any state of the
+art research on this topic. The digital tools that are used in humanities
+research are hardly ever topic of discussion or reflection. The building of new
+custom made tools, such as the platform that we suggest, is even more rare. 
+
+That being said, our project does build on some pioneering work by people such
+as Stefan Sinclair (McGill), John Willinsky (Stanford), Alan Liu (University of
+Santa Barbara), Geoff Bowker (UC Irvine), and Siva Vaidhyanathan (University of
+Virginia). All of which are involved as advisors in our project.
+
+TO DO: LOOK FOR RELATED PROJECTS
+
+<!--- As far as we know, there is very little research in this area. Companies
 offering online learning platforms like Apearo, Edx have no courses in
 this direction. There are programming courses offered for non-computer
 science students, but they often engage students with technical
 jargon and a perspective that lacks relevance to those with no such
 technological bias but a need to know what programming skills have to
-offer them.
+offer them. --->
 
-The platform provides an "online first" approach which means that
-the students find the means to learn coding and work collaboratively
-online first through courses and tutorials but can complement these
-tools with offline meetings. This approach avoids the mere transfer
-of offline teaching methods into the online world, which is a typical
-weakness of many Massive Open Online Courses (MOOCs), but explores what
-offline collaboration can be informed by strategies applied with online
-tools and how innovative offline practices can initiate and foster
-online cooperation. It seeks to provide students with the technological
-foundations to acquire and develop these skills by themselves and in
-peer learning based processes, based on tutorials and assignments.
 
 ### Why the proposed research team would be the best to perform this research:
 
+WHAT'S OUR EXPERTISE IN THIS AREA? IT'S NEW BUT WE HAVE DEVELOPED COURSES, ORGANISED AND GAVE WORKSHOP (ACADEMIC AND PUBLIC), STARTED DEVELOPING PLATFORM
+
++ Expertise Jan Hein
++ Expertise Joris
++ Expertise Marijn
++ Expertise Robin
++ Expertise Sabrina
 
 ### Plans for software and data management and sharing
 
@@ -208,14 +216,14 @@ Post-doc 1FTE~33.500,00
 
 ### Milestones
 
-Year 1: In the first year, both PhD students will publish at least two papers to present at two or three conferences. The post-doc will publish at least four papers to present at four or five conferences as well. 
-Year 2: Both PhD students and the post-doc will publish at least two papers to present at two or three conferences, and at least one paper to be published in an academic journal. 
-Year 3: The post-doc will publish four or five papers to present at four or fice conferences, and will complete the post-doc. The PhD students will continue to publish and present at conferences, including at least five conferences.
-Year 4: The PhDs will publish three articles each in academic journals, and will present these articles at at least three conferences. The PhDs will complete their dissertations.
+Year 1: platform online, X conference/journal papers 
+Year 2: portfolio of tools developed on the platform, papers on platform collaborations
+Year 3: models and guidelines for developing tools based on research questions, more papers
+Year 4: Yet more papers, dissertations?, tools?, models?
 
 
 #### Key Deliverables
-The platform for collaborative humanities research through programming that this project will develop is in itself a key deliverable. The platform will create new libraries for tool building, as well as tools and guidelines / best practices for collaboration. The PhD and post-doc researchers will publish articles for conferences and journals on topics of new forms of valorizing humanities research. 
+The platform for collaborative humanities research through programming that this project will develop is in itself a key deliverable. The platform will create new libraries for tool building, as well as tools and guidelines / best practices for collaboration. 
 
 
 #### Valorization
@@ -238,16 +246,4 @@ The platform is used directly to train staff of the CHAT partners. Partners from
 
 #### Contribution to long-term development of CHAT:
 The platform will create a pool of young, technically proficient humanities scholars, and humanities-informed computer/information science students who would be familiar with and well-connected to CHAT as an excellent network to further their research careers.
-
-## How does this research build on relevant state-of-the-art research
-
-One of the premisses of this project is that there is hardly any state of the
-art research on this topic. The digital tools that are used in humanities
-research are hardly ever topic of discussion or reflection. The building of new
-custom made tools, such as the platform that we suggest, is even more rare. 
-
-That being said, our project does build on some pioneering work by people such
-as Stefan Sinclair (McGill), John Willinsky (Stanford), Alan Liu (University of
-Santa Barbara), Geoff Bowker (UC Irvine), and Siva Tralalala (University of
-Virginia). All of which are involved as advisors in our project.
 
