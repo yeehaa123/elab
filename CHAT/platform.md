@@ -31,20 +31,43 @@ interaction models, Bradley, 2004). We will also investigate about how
 scholarly primitives (Unsworth, 2002) can better guide the development
 and investigation of tools.
 
-### Goal and Problem 
+### Goal and Problem
 
-This project aims to create an expandable platform for humanities
-students and scholars to collaboratively learn programming and build
-tools for their research. In order to initiate a fruitful debate about
-the development and application of ICT it is crucial not only to start
-that debate among ICT experts. On the contrary, this debate should
-evolve around users and their needs. Thus one of the main challenges to
-face for the creation of a sustainable dialogue about the opportunities
-ICT offers is to interest and educate non-technologically biased
-persons, meaning those who are not motivated by technology in and of
-itself, but want to know how it can contribute to their needs before
-investing in it. This perspective often lacks from standard ICT courses
-and tutorials, including those on programming.
+Within digital humanities research a broad range of tools is used for
+analysis of digital materials. Humanities scholars often have little
+interest in the details of how the tools work, but prefer to focus on
+what they can be used for. However, understanding the intricate details
+of tools is important when drawing conclusions from and basing claims on
+the results from tools.
+
+In collaborative projects with computer scienctist, the latter have
+more interest in those details, but may lack the domain expertise
+to understand the full consequences of implementation details for
+humanities research At the University of Amsterdam, we are currently
+developing a collaborative platform for building and reflecting on
+humanities tools through programming
+
+In this project we investigate ways to develop this platform in which
+collaboration learning and research is intuitive and effective. The Goal
+of this project is to get humanities and computer science perspective to
+inform, enrich and enhance each other.
+
+How can the (self)critical reflection of the humanities be brought
+to bear on programming solutions? And how can programming enhance
+reflection on tools and their use for humanities research aims to
+create an expandable platform for humanities students and scholars to
+collaboratively learn programming and build tools for their research.
+
+In order to initiate a fruitful debate about the development and
+application of ICT it is crucial not only to start that debate among ICT
+experts. On the contrary, this debate should evolve around users and
+their needs. Thus one of the main challenges to face for the creation of
+a sustainable dialogue about the opportunities ICT offers is to interest
+and educate non-technologically biased persons, meaning those who are
+not motivated by technology in and of itself, but want to know how it
+can contribute to their needs before investing in it. This perspective
+often lacks from standard ICT courses and tutorials, including those on
+programming.
 
 ### How this research contributes to the humanities, and to ‘digital humanities’
 
@@ -111,6 +134,9 @@ In times of big data more and more data is available but not necessary turned in
  There are several Accessibility 
 
 ### Why the proposed research team would be the best to perform this research:
+
+As far as we know, there is very little research in this area. 
+Companies offering online learning platforms like Apearo, Edx have no courses in this direction. There are programming courses offered for non-computer science students, but they often engage students with technical jargon and a perspective that lacks relevance to those with no such technological bias but a need to know what programming skills have to offer them.
 
 ### Plans for software and data management and sharing
 
