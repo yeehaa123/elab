@@ -44,12 +44,18 @@ Core technology identified in section 2 of the white paper:
 - visualization
 visualization and machine learning: within the OverLab, students and researchers collaborate to learn and experiment with data visualization, grappling with large open data sets provided by e.g. Europeana. The OverLab thus not only allows for experimentation, but also learning-by-doing collaboratively; digital interfaces are developed that are discovery oriented. The offline OverLab is complemented by an online platform (codingthehumanities) (weyeser text) (Question: is this too much overlap with the visualization interface proposal?)
 
+## How does this research build on relevant state-of-the-art research
+
+The living lab uses a user-driven methodology that blurs the boundaries between technology users and producers by including (future) users of technologies from the start of technology development. This inclusion reverses top-down R&D-processes in favour of bottom-up innovation, performed by users and grounded in society instead of in research laboratories. This practice is to lead to unexpected insights into user ideas and practices (Almirall, 2008: 43 Almirall, E. (2008). Living Labs and Open Innovation: Roles and Applicability. The Electronic Journal for Virtual Organizations and Networks, 10 (August), 21–46). and lead to the development of more successful ICTs. To gain unexpected insights, methodologies focus on the inclusion of real (end) users in daily life contexts. The Living Lab thus also comprises a setting; a setting that affords “experimentation environments in which technology is given shape in real life context and in which (end) users are considered co-producers” (Ballon et al., 2005: 13 Ballon, P., Delaere, S., Pierson, J., M, P., Slot, M., Bierhof, J., & Diocaretz, M. (2005). Test & Experimentation Platforms for Broadband Innovation: Conceptualizing and Benchmarking International Best Practice).
+This research builds on recent insights in collaborative living lab practices (B. Dutilleul, F. A. J. Birrer, and W. Mensink, Unpacking European Living Labs: Analysing Innovation’s Social Dimensions, Central European Journal of Public Policy, vol. 4, no. 1, pp. 60-85, 2010., A. Følstad, Living Labs for Innovation and Development of Information and Communication Technology: A Literature Overview, The Electronic Journal for Virtual Organisations and Networks, Special Issue on Living Labs, vol. 10, pp. 99-131, 2008. Sauer, S. (September 2013) User innovativeness in Living Laboratories – Everyday user improvisations with ICTs as a source of innovation. PhD Thesis, University of Twente. Promotor: Prof. dr. N.E.J. Oudshoorn) where the importance of user-centered research in living labs is underlined, but that also underlines that more research about the actual role of “the user” (in this case, the humanities’ scholar) is required in order to more fully embrace the advantages of on and offline collaborative practices. The OverLab provides exactly such an opportunity.
 
 ## Why this research team would be best to perform this research
 
+Brings together experts in the field – living lab research, digital humanities scholars, programmers and developers, artists, embedded researchers, to collaborate?? SOMETHING LIKE THIS??
 
 ## budget: 
 
+- 2 PhD's
 - embedded researcher
 
 ## key deliverables:
