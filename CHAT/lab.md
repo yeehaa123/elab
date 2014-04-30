@@ -99,7 +99,9 @@ Brings together experts in the field – living lab research, digital humanities
 
 ## Expected societal and economic benefits
 
-- creating new products and services 
+- creating new products and services for public-private-civic benefit: insight in how collaborations in online and offline spaces enrich each other
+- Development new research methodologies - further development of embedded research, also of interest for private partners
+- ....
 
 ## Teaching and training benefits
 
