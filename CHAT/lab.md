@@ -83,3 +83,6 @@ Brings together experts in the field – living lab research, digital humanities
 - Circulation of knowledge; articulation of how tacit knowledge informs humanties' research, direct collaboration between different actors to enrich research experience.
 
 ## How the project relates to the long term development of CHAT
+-Contributes to knowledge about public-private-civic collaboration practices and how these may be (re)modeled to benefit or learn from user-centricity
+=Explcit inclusion of humanities' researchers to inform and question ICT developments, in open online and offline environment
+
