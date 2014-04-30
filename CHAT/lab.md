@@ -1,0 +1,97 @@
+# Lab as Interface
+
+Partners: Robin Boast (UvA), Jan Hein Hoogstad (UvA), Katja Kwastek
+(VU), Sabrina Sauer (UvA), Ginette Verstraete (VU), Joris van Zundert
+(KNAW)
+
+Additional partners
+
+## Project description
+
+### Main Research Question
+
+How can we design an on- and offline lab that is optimized for the
+demands of embedded researchers, so that this new type of research is
+no longer physically and discursively marginalized, and can lead to
+productive and sustainable partnerships between universities and the
+private sector?
+
+### Goal and problem
+
+The goal is to accelerate the process of opening universities toward
+other universities, civic movements, and companies by creating a space
+situated between the involved actors. The “living lab” we propose
+shows how this can lead to innovation. The challenge to be addressed is
+forming a community both on and offline whose participants to engage
+with a platform over a longer period of time and actively contribute
+to sustainable projects. The Lab as Interface project addresses this
+challenge by designing and producing an offline living lab as interface
+between digital and analogue world.
+
+### How this research contributes to the humanities, and to ‘digital humanities’
+
+As a user-driven methodology, Living Labs aim to blur the boundaries
+between technology users and producers by including (future) users of
+technologies from the start of technology development. Positioning
+users as co-creators reverses traditional “top-down” R&D-processes
+performed by companies in favour of “bottom-up” innovation,
+performed by users and grounded in society instead of in research
+laboratories. This practice is to lead to unexpected insights into user
+ideas and practices (Almirall, 2008: 43 Almirall, E. (2008). Living Labs
+and Open Innovation: Roles and Applicability. The Electronic Journal for
+Virtual Organizations and Networks, 10 (August), 21–46) and lead to
+the development of more successful ICTs. To gain unexpected insights,
+methodologies focus on the inclusion of real (end) users in daily life
+contexts. The Living Lab thus also comprises a setting; a setting that
+affords “experimentation environments in which technology is given
+shape in real life context and in which (end) users are considered
+co-producers” (Ballon et al., 2005: 13 Ballon, P., Delaere, S.,
+Pierson, J., M, P., Slot, M., Bierhof, J., & Diocaretz, M. (2005). Test
+& Experimentation Platforms for Broadband Innovation: Conceptualizing
+and Benchmarking International Best Practice).
+
+This living lab, the OverLab, will explore the integration and
+complementation of ICT based learning and collaboration into an offline
+environment. It will serve as a testbed to initiate, support and foster
+online ICT projects. At the same time, the strategies and practices
+of the analogue space inform the development of the digital platform.
+Innovative perspectives on the application of ICT in general and its
+integration into an offline space will be explored through experimental,
+user focused workshops that result in a physical space. The conception
+and design of the lab according to user needs is a crucial part within
+this subproject. This approach will produce models and concepts for the
+design and user culture of a living lab that feeds off of and informs
+the online learning platform. The process will be openly documented and
+intends the imitation and formation of living labs related to the coding
+the humanities platform.
+
+## How this research relates to the ‘opportunities for the humanities’ in the White Paper:
+
+Core technology identified in section 2 of the white paper:
+- visualization
+
+## Why this research team would be best to perform this research
+
+
+## budget: 
+
+- embedded researcher
+
+## key deliverables:
+
+- prototypes and models for embedded research labs
+- (articles on) new forms of valorizing humanities research
+
+
+## Valorization
+
+## Expected societal and economic benefits
+
+- creating new products and services 
+
+## Teaching and training benefits
+
+- embedded researcher
+
+
+## How the project relates to the long term development of CHAT
