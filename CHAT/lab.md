@@ -31,9 +31,39 @@ between digital and analogue worlds.
 
 ### How this research contributes to the humanities, and to ‘digital humanities’? How does the research relate to the ‘opportunities for the humanities’ identified in the White Paper, Section 1?
 
-The foreseen living lab focuses on facilitating breakthrough scholarship in the (digital) humanities, by offering a collaborative platform that embraces social learning practices between public-private-civic actors. 
+The foreseen living lab focuses on facilitating breakthrough scholarship
+in the (digital) humanities, by offering a collaborative platform that
+embraces social learning practices between public-private-civic actors.
 
-This living lab, the OverLab, will explore the integration and complementation of ICT based learning and collaboration into an offline environment. It will serve as a real life testbed to initiate, support and foster online ICT projects. At the same time, the strategies and practices of the analogue space inform the development of the digital platform. Innovative perspectives on the application of ICT in general and its integration into an offline space will be explored through experimental, user focused workshops that result in a physical space. The conception and design of the lab according to user needs is a crucial part within this subproject. This approach will produce models and concepts for the design and user culture of a living lab that feeds off of and informs the online learning platform. The process will be openly documented and intends the imitation and formation of living labs related to the coding the humanities platform. As such, the OverLab brings together public-private-civic partners to develop new computational instruments as well as research methods; in addition to this, the embedded researchers’ activities who are of the OverLab set-up help articulate and map how developed instruments and methods form new models and methods for sustainable cooperation so as to extend the developed practices. This will culminate in new areas of enquiry for humanities’ research; bringing forth humanities’ perspectives and research about larger societal and R&D inspired collaboration and ICT innovation practices. The OverLab furthermore allows embedded researchers who work between theory and (artistic) practice, physical and digital research, science and art, universities and public or private partners. Furthermore, within the OverLab humanities’ scholars can experiment with digital humanites and digital methods thereby improving awareness of computational instruments as well as increasing a space to meet possible private partners for future research.
+This living lab, the OverLab, will explore the integration and
+complementation of ICT based learning and collaboration into an offline
+environment. It will serve as a real life testbed to initiate, support
+and foster online ICT projects. At the same time, the strategies and
+practices of the analogue space inform the development of the digital
+platform. Innovative perspectives on the application of ICT in general
+and its integration into an offline space will be explored through
+experimental, user focused workshops that result in a physical space.
+The conception and design of the lab according to user needs is a
+crucial part within this subproject. This approach will produce models
+and concepts for the design and user culture of a living lab that
+feeds off of and informs the online learning platform. The process
+will be openly documented and intends the imitation and formation of
+living labs related to the coding the humanities platform. As such,
+the OverLab brings together public-private-civic partners to develop
+new computational instruments as well as research methods; in addition
+to this, the embedded researchers’ activities who are of the OverLab
+set-up help articulate and map how developed instruments and methods
+form new models and methods for sustainable cooperation so as to extend
+the developed practices. This will culminate in new areas of enquiry
+for humanities’ research; bringing forth humanities’ perspectives
+and research about larger societal and R&D inspired collaboration and
+ICT innovation practices. The OverLab furthermore allows embedded
+researchers who work between theory and (artistic) practice, physical
+and digital research, science and art, universities and public or
+private partners. Furthermore, within the OverLab humanities’ scholars
+can experiment with digital humanites and digital methods thereby
+improving awareness of computational instruments as well as increasing a
+space to meet possible private partners for future research.
 
 
 

@@ -52,14 +52,16 @@ prominent is within humanities research. Academia is increasingly
 confronted with large amounts of data. In order to turn this data
 into information and into knowledge, researchers and students need
 tools that allow to structure, search, correlate, analyze, but most
-importantly, present and visualize this data. This is also true for
-working fields related to the humanities: museums, libraries and
-archives are challenged to make the huge data sets that result from
-digitalization of the cultural heritage they foster2, accessible and
-understandable for as many people as possible. Despite the opportunities
-these mass resources generated in numerous digitization projects
-provide, humanities researchers and students are – due to a lack of
-skills - reluctant to exploit these troves.
+importantly, present and visualize this data. 
+
+The same argument also holds for working fields related to the humanities:
+museums, libraries and archives are challenged to make the huge data
+sets that result from digitalization of the cultural heritage they
+foster, accessible and understandable for as many people as possible.
+Despite the opportunities these mass resources generated in numerous
+digitization projects provide, humanities researchers and students are
+– due to a lack of skills - reluctant to exploit these troves.
+
 
 ### how this research contributes to core technologies identified in section 2 white paper:
 
@@ -89,3 +91,7 @@ be software based.4
  - exhibition / festival
  - models for new types of collaborative exhibitions
  - tools and libraries for data acquisition and manipulation
+
+## How does this research build on relevant state-of-the-art research
+
+- Augmenting Masterpieces (Barnbeck, Hoogstad)
