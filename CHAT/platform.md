@@ -104,14 +104,14 @@ ways:
 + Through collaborative project, new tools will be developed that can be used
   and modified for further research.
 
-In times of big data more and more data is available but not necessary
-turned into knowledge. The Coding the Humanities platform educates
-students, researchers and non-technologically biased people on how to
-approach this data. It allows its participants to gain insights by
-addressing these datasets. The CtH projects and tools are therefore
-easily relateable to already existing open data movements - it seeks to
-provide its users with digital agency that evolves into debates on open
-data.
++ In times of big data, more and more information is available but not
+  necessary turned into knowledge. The Coding the Humanities platform
+  educates students, researchers and non-technologically biased people on
+  how to approach this data. It allows its participants to gain insights
+  by addressing these datasets. The CtH projects and tools are therefore
+  easily relateable to already existing open data movements - it seeks to
+  provide its users with digital agency that evolves into debates on open
+  data.
 
 
 ### Relation to ‘Opportunities for the humanities’ section of the white paper
@@ -128,11 +128,12 @@ between humanities and computer science.
 
 
 
-### How this research contributes to one or more of the core
-technologies in section 1 of the white paper Programming underlies all
-five core technological challenges and a diverse group of researchers
-collaboration on projects on the platform will cover the whole range of
-technical challenges and all areas of the humanities.
+### How this research contributes to one or more of the core technologies in section 1 of the white paper 
+
+Programming underlies all five core technological challenges and a
+diverse group of researchers collaboration on projects on the platform
+will cover the whole range of technical challenges and all areas of the
+humanities.
 
 The strong focus on reflection of humanities scholars and their deep
 understanding of and multiple perspective on the complexities of their
