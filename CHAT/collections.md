@@ -10,18 +10,20 @@ Additional partners:
 
 ### Main Research Question:
 
-How can cultural and governmental data sets (API's) be transformed into
+How can cultural and governmental data sets (APIs) be transformed into
 new kinds of collections that are no longer intrinsically linked to the
 original objects and the institutions in which they are displayed?
 
 
 ### Goal and problem:
 
-The goal of this research is to create an international exhibition
-that combines on and offline projects. We aim to involve students and
-researchers that work on the 'coding the humanities' platform, but the
-exhibition is also a possibility to attract others (artist, developers,
-curators, etc.) to work with and on our platform.
+This research works towards a large international exhibition where
+students, scholars, artists, developers, data scientists, and curators
+collaborately create and display collection based upon publicly
+available data sets. We aim to involve researchers that work on
+the 'coding the humanities' platform, but the exhibition is also a
+possibility to attract others (artist, developers, curators, etc.) to
+work with and on our platform.
 
 The goal of this exhibition will be to create and display collections
 that did not exist as such before. This is made possible by the fact
@@ -34,8 +36,9 @@ installations, and presentations on relationship between technology,
 art, business, and cultural heritage.
 
 This entirely new kind of exhibition uses coding skills to make an
-intervention in three areas that are crucial to the past, present, and
-the future of the humanities: politics, literacy, and culture.
+intervention in areas that are crucial to the past, present, and
+the future of the humanities: politics, literacy, culture, and knowledge
+production.
 
 There are not only dramatic geographic differences in accessibility
 to and user skills of ICT but also socio-economic and demographic
@@ -74,6 +77,22 @@ the institutions amongst each other, their relation to the visitors/user, and
 finally, the user to the artwork.
 
 
+### How this research contributes to the humanities, and to ‘digital humanities’ 
+
++ testbed for new forms of collaboration between public and private partners
+
++ creation of new tools specifically aimed at humanities' scholars
+
++ experimentation with new types of (crowd) funding
+
++ decentralization of the role of the expert (curator, scholar) in the 
+  creation, curation, and exhibition of collections
+
++ communicate the importance of DH to a large non-academic public
+
++ experimentation with new kind of interfaces in the museum space.
+
+
 ### how this research contributes to core technologies identified in section 2 white paper:
 
 
@@ -93,8 +112,11 @@ be software based.
 ### how the research relates to humanities, and ‘digital humanities’
 
 + New forms of exhibitions, citizen research
+
 + new cultural data set and links between existing data sets and items will be created
+
 + visualisations of many relations between heterogeneous and distributed data sets will lead to new knowledge and new questions
+
 + online projects leave a trace of how a new type of exhibition develops
 
 ### how the research relates to the ‘opportunities for the humanities’ section in the white paper:
