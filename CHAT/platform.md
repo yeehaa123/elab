@@ -42,7 +42,7 @@ more interest in those details, but may lack the domain expertise
 to understand the full consequences of implementation details for
 humanities research At the University of Amsterdam, we are currently
 developing a collaborative platform for building and reflecting on
-humanities tools through programming
+humanities tools through programming.
 
 In this project we investigate ways to develop this platform in which
 collaboration learning and research is intuitive and effective. The goal
@@ -64,7 +64,7 @@ collaboratively learn programming and build tools for their research.
 In order to initiate a fruitful debate about the use of coding in
 the humanities it is crucial to substantially increase the degree of
 digital literacy. It is our conviction, that people that do not know
-how to read and write code are not truly digital literate. Therefore
+how to read and write code are not truly digitally literate. Therefore
 education should play an important role in the formation of a center for
 humanities and technology.
 

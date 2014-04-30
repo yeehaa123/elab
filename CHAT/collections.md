@@ -38,7 +38,7 @@ the future of the humanities: politics, literacy, and culture.
 
 There are not only dramatic geographic differences in accessibility
 to and user skills of ICT but also socio-economic and demographic
-gaps.1 Vast societal groups face the problem of digital exclusion.
+gaps. Vast societal groups face the problem of digital exclusion.
 Accessibility to and digital literacy about ICTs determine whether a
 person is included into economic, social and cultural life, and whether
 they can participate in decision making processes within the democratic
@@ -57,10 +57,10 @@ importantly, present and visualize this data.
 
 The same argument also holds for working fields related to the humanities:
 museums, libraries and archives are challenged to make the huge data
-sets that result from digitalization of the cultural heritage they
+sets that result from digitization of the cultural heritage they
 foster, accessible and understandable for as many people as possible.
-Despite the opportunities these mass resources generated in numerous
-digitization projects provide, humanities researchers and students are
+Despite the opportunities provided by these mass resources, generated in numerous
+digitization projects, humanities researchers and students are
 – due to a lack of skills - reluctant to exploit these troves.
 
 Nonetheless, this project is not reducible to a political or didactic agenda.
@@ -74,20 +74,26 @@ finally, the user to the artwork.
 
 ### how this research contributes to core technologies identified in section 2 white paper:
 
+
 - visualization
 
 At the same time, governments, municipalities and cultural institutions
 increasingly share their data openly online. A good example of this
 development in the field of cultural heritage is our partner in this
-project the Europeana network3. But also in the political field a lot
+project the Europeana network. But also in the political field a lot
 of open data sets wait be explored by dedicated citizens. The skills
 to compile graspable information from big data sets therefore become
 more important on the level of politics and social agency. It allows
 civic movements but also single citizens to understand political and
 social processes, identify problems and develop solutions – that can
-be software based.4
+be software based.
 
 ### how the research relates to humanities, and ‘digital humanities’
+
++ New forms of exhibitions, citizen research
++ new cultural data set and links between existing data sets and items will be created
++ visualisations of many relations between heterogeneous and distributed data sets will lead to new knowledge and new questions
++ online projects leave a trace of how a new type of exhibition develops
 
 ### how the research relates to the ‘opportunities for the humanities’ section in the white paper:
 
