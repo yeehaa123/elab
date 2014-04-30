@@ -1,4 +1,4 @@
-List of participants: Jan Hein Hoogstad, Marijn Koolen, Sabrina Sauer, Robin Boast, Johanna Barnbeck, Nynke Bos
+List of participants: Jan Hein Hoogstad, Marijn Koolen, Sabrina Sauer, Robin Boast, Nynke Bos
 
 **Participant No** (*Please use the same participant numbering as that used in the administrative proposal forms.*)
 Participant organisation name: Universiteit van Amsterdam
@@ -1123,7 +1123,7 @@ Robin Boast - **Role?**
 Sabrina C. Sauer - **Role?**
 Marijn Koolen - **Role?**
 Nynke Bos - **Role?**
-Johanna Barnbeck - Creative Consultant for Cross-medial Science Communication
+
 
 //still discuss roles of participants, provide overviwe table// publications
 
@@ -1164,22 +1164,6 @@ the 21st century. Eds. S. Hyysalo, T.E. Jensen, N.E.J. Oudshoorn, Oxford Univers
 2012
 * P. Bellot, T Chappell, A. Doucet, S. Geva, J. Kamps, G. Kazai, M.H.A. Koolen, M. Landoni, M. Marx, V. Moriceau, J. Mothe, G. Ramirez, M. Sanderson, E. SanJuan, F. Scholer, X. Tannier, M. Theobald, M. Trappett, A. Trotman & Q. Wang (2012). Report on INEX 2011. SIGIR Forum, 46(1), 33-42.
 * F. Adriaans, J. Kamps & M.H.A. Koolen (2012). The Importance of Document Ranking and User-Generated Content for Faceted Search and Book Suggestions. In S, Geva, J. Kamps & R. Schenkel (Eds.), Focused Retrieval of Content and Structure: 10th International Workshop of the Initiative for the Evaluation of XML Retrieval (INEX 2011) Vol. 7424. Lecture Notes in Computer Science (pp. 30-44). Heidelberg: Springer.
-
-
-[**Johanna Barnbeck**] (www.johannabarnbeck.com) is an artist, researcher and creative professional offering creative consulting for universities and research institutes who want to use audiovisual media in order to reach their relevant public. Based in Berlin, she develops concepts for film, photography and crossmedial art projects. Currently, she also works as an embedded researcher on the project *Augmenting Masterpieces* at the Rijksmuseum in Amsterdam, which seeks to develop interfaces between the digital and the physical collection of the museum.
-
-Client portfolio (selection): University of Amsterdam (The Netherlands), International Psychoanalytic University (Germany), Anne Frank Center Berlin (Germany), Vrije Universiteit Amsterdam (The Netherlands), Coca Cola Accelerator Europe, 2470media, International Building Exhibition IBA Hamburg 2013.
-
-Conference Talks
-* *Digital Bauhaus Conference - Designing Creative Collaboration* Embedding the Self - Collaborative practices between private and public partners
-* *MeCCSA - Postgraduate Network Conference* Augmenting Masterpieces – Building bridges between Rembrandt and museum visitors, forthcoming Leeds 2014 (UK)
-* *4th International Deleuze Conference Copenhagen*, Self-analysis and Self-portraiture as Interdisciplinary Research Methodology, 2012 (Denmark).
-* *3rd International Deleuze Conference*, Social Practices within Fields and Frames, 2011 (The Netherlands).
-* *Lost Objects - NICA Summer School*, Self-analysis and Self-portraiture as Interdisciplinary Research Methodology, 2011, Amsterdam (The Netherlands).
-
-Artistic Work: Since 2008 Exhibits cross-media installations, performances and short films
-in Amsterdam, Hamburg and Berlin. Upcoming exhibitions in Australia and Canada. 
-See her [website] (www.johannabarnbeck.com) and [vimeo channel] (http://vimeo.com/johannabarnbeck) for her portfolio.
 
 
 ##### Dark Horse GmbH & Co KG  
