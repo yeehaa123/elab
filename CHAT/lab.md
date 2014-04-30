@@ -42,6 +42,8 @@ This living lab, the OverLab, will explore the integration and complementation o
 
 Core technology identified in section 2 of the white paper:
 - visualization
+visualization and machine learning: within the OverLab, students and researchers collaborate to learn and experiment with data visualization, grappling with large open data sets provided by e.g. Europeana. The OverLab thus not only allows for experimentation, but also learning-by-doing collaboratively; digital interfaces are developed that are discovery oriented. The offline OverLab is complemented by an online platform (codingthehumanities) (weyeser text) (Question: is this too much overlap with the visualization interface proposal?)
+
 
 ## Why this research team would be best to perform this research
 
