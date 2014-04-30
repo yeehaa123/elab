@@ -31,6 +31,8 @@ between digital and analogue worlds.
 
 ### How this research contributes to the humanities, and to ‘digital humanities’
 
+The foreseen living lab focuses on facilitating breakthrough scholarship in the (digital) humanities, by offering a collaborative platform that embraces social learning practices between public-private-civic actors. 
+
 As a user-driven methodology, Living Labs aim to blur the boundaries
 between technology users and producers by including (future) users of
 technologies from the start of technology development. Positioning
