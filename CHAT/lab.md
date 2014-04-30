@@ -60,8 +60,9 @@ Brings together experts in the field – living lab research, digital humanities
 
 ## key deliverables:
 
-- prototypes and models for embedded research labs
-- (articles on) new forms of valorizing humanities research
+- PhD's: 2 papers presented in first year, 1 article published in second year, plus 2 papers presented at (inter) national conferences, 1 artible published in third year plus 2 papers presented at (inter)national conferences
+- Developed prototypes and models for embedded research labs
+- Post doc: (articles on) new forms of valorizing humanities research
 
 
 ## Valorization
