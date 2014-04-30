@@ -22,11 +22,12 @@ The goal is to accelerate the process of opening universities toward
 other universities, civic movements, and companies by creating a space
 situated between the involved actors. The “living lab” we propose
 shows how this can lead to innovation. The challenge to be addressed is
-forming a community both on and offline whose participants to engage
-with a platform over a longer period of time and actively contribute
+forming a community both on and offline whose participants are to engage
+with a platform over a longer period of time and to actively contribute
 to sustainable projects. The Lab as Interface project addresses this
 challenge by designing and producing an offline living lab as interface
-between digital and analogue world.
+between digital and analogue worlds.
+
 
 ### How this research contributes to the humanities, and to ‘digital humanities’
 
