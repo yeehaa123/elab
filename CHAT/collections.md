@@ -80,7 +80,7 @@ At the same time, governments, municipalities and cultural institutions
 increasingly share their data openly online. A good example of this
 development in the field of cultural heritage is our partner in this
 project the Europeana network3. But also in the political field a lot
-of open data sets wait be explored by dedicated citizen. The skills
+of open data sets wait be explored by dedicated citizens. The skills
 to compile graspable information from big data sets therefore become
 more important on the level of politics and social agency. It allows
 civic movements but also single citizens to understand political and
