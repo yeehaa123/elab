@@ -104,3 +104,5 @@ be software based.4
 ## How does this research build on relevant state-of-the-art research
 
 - Augmenting Masterpieces (Barnbeck, Hoogstad)
+- Virtual Museum Transnational Network (http://www.v-must.net/)
+- Material Encounters with Digital Cultural Heritage (http://mesch-project.eu/)
