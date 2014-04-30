@@ -3,14 +3,17 @@
 # Grant Proposal 
 
 University of Amsterdam
-Coding the Humanities – Platform for programming and collaborative humanities research
+Coding the Humanities – Platform as Interface
 
 ## Platform 
-* Staffing requirements, in time and money, for each year of the project:
 
- How many PhDs? How many post-docs? How many researchers?
+Staffing requirements, in time and money, for each year of the project:
 
- * IT costs? Any hardware or software acquisition costs? Infrastructural requirements = server space for building platform? Travel costs? yes. researchers publish for conferences 
+How many PhDs? How many post-docs? How many researchers?
+
+IT costs? Any hardware or software acquisition costs? Infrastructural
+requirements = server space for building platform? Travel costs? yes.
+researchers publish for conferences
 
 Partners: Robin Boast (UvA), Jan Hein Hoogstad (UvA), Katja Kwastek
 (VU), Sabrina Sauer (UvA), Ginette Verstraete (VU), Joris van Zundert
@@ -20,15 +23,10 @@ Partners: Robin Boast (UvA), Jan Hein Hoogstad (UvA), Katja Kwastek
 
 ### Main Research Question 
 
-At its core, this project endeavors to explore how programming opens
-up new, innovative types of learning and research in the humanities.
-To answer this question, we want to design a coding platform that
-accelerates these processes and creates new models for collaboration
-in the humanities. Through the platform, we will explore what forms
-of (collaborative) interaction models programming allows (see user
-interaction models, Bradley, 2004). We will also investigate about how
-scholarly primitives (Unsworth, 2002) can better guide the development
-and investigation of tools.
+This project explores how coding can open up new, innovative types
+of learning and research in the humanities. To answer this question,
+we will design a coding platform that accelerates these processes
+and creates new models for collaboration in the humanities. 
 
 ### Goal and Problem
 
@@ -47,9 +45,15 @@ developing a collaborative platform for building and reflecting on
 humanities tools through programming
 
 In this project we investigate ways to develop this platform in which
-collaboration learning and research is intuitive and effective. The Goal
-of this project is to get humanities and computer science perspective to
-inform, enrich and enhance each other.
+collaboration learning and research is intuitive and effective. The goal
+of this project is to get humanities and computer science perspective
+to inform, enrich and enhance each other. 
+
+The importance of this platform, however, is not limited to mere use.
+It allows to explore what forms of (collaborative) interaction models
+programming opens up (see user interaction models, Bradley, 2004). We
+will also investigate about how scholarly primitives (Unsworth, 2002)
+can better guide the development and investigation of tools.
 
 How can the (self)critical reflection of the humanities be brought
 to bear on programming solutions? And how can programming enhance
@@ -57,27 +61,51 @@ reflection on tools and their use for humanities research aims to
 create an expandable platform for humanities students and scholars to
 collaboratively learn programming and build tools for their research.
 
-<!--- In order to initiate a fruitful debate about the development and
-application of ICT it is crucial not only to start that debate among ICT
-experts. On the contrary, this debate should evolve around users and
-their needs. Thus one of the main challenges to face for the creation of
-a sustainable dialogue about the opportunities ICT offers is to interest
+In order to initiate a fruitful debate about the use of coding in
+the humanities it is crucial to substantially increase the degree of digital
+literacy. It is our conviction, that people that do not know how to read and
+write code are not truly digital literate. Therefore education should play an
+important role in the formation of a center for humanities and technology.
+
+However, the past has taught us that this cannot work in a missionary
+way, where the students were addressed as primitives. On the contrary,
+we believe that coding education should evolve around users and their
+needs. Thus one of the main challenges to face for the creation of a
+sustainable dialogue about the opportunities ICT offers is to interest
 and educate non-technologically biased persons, meaning those who are
 not motivated by technology in and of itself, but want to know how it
 can contribute to their needs before investing in it. This perspective
-often lacks from standard ICT courses and tutorials, including those on
-programming. --->
+often lacks from standard coding courses and tutorials.
 
 
-### How this research contributes to the humanities, and to ‘digital humanities’
-The contribution of the development and research of this platform contributes to the humanities and digital humanities in several ways:
+### How this research contributes to the humanities, and to ‘digital
+humanities’ The contribution of the development and research of this
+platform contributes to the humanities and digital humanities in several
+ways:
 
-+ the development of programming skills will lead DH scholars to better understand their digital tools and results, thereby allowing them to make more reliable and meaningful interpretations
-+ research on tool building will lead to better models of and guidelines for how to develop tools around a specific research question
-+ humanities scholars can communicate more easily and clearly with computer scientists and collaborate more intuitively through a shared vocabulary (coding), i.e. reducing friction at the interface between two domains
-+ through collaborative project, new tools will be developed that can be reused and modified for further research. 
++ the development of programming skills will lead DH scholars to better
+understand their digital tools and results, thereby allowing them to
+make more reliable and meaningful interpretations
 
-In times of big data more and more data is available but not necessary turned into knowledge. The Coding the Humanities platform educates students, researchers and non-technologically biased people on how to approach this data. It allows its participants to gain insights by addressing these datasets. The CtH projects and tools are therefore easily relateable to already existing open data movements - it seeks to provide its users with digital agency that evolves into debates on open data. 
++ research on tool building will lead to better models of and guidelines
+for how to develop tools around a specific research question
+
++ humanities scholars can communicate more easily and clearly with
+computer scientists and collaborate more intuitively through a shared
+vocabulary (coding), i.e. reducing friction at the interface between two
+domains
+
++ through collaborative project, new tools will be developed that can be
+reused and modified for further research.
+
+In times of big data more and more data is available but not necessary
+turned into knowledge. The Coding the Humanities platform educates
+students, researchers and non-technologically biased people on how to
+approach this data. It allows its participants to gain insights by
+addressing these datasets. The CtH projects and tools are therefore
+easily relateable to already existing open data movements - it seeks to
+provide its users with digital agency that evolves into debates on open
+data.
 
 
 ### Relation to ‘Opportunities for the humanities’ section of the white paper
