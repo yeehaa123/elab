@@ -4,8 +4,6 @@
 Partners: Robin Boast (UvA), Jan Hein Hoogstad (UvA), Marijn Koolen (UvA), 
 Katja Kwastek (VU), Sabrina Sauer (UvA), Ginette Verstraete (VU), Nynke Bos (UvA)
 
-Additional partners
-
 ## Project description
 
 ### Main Research Question
@@ -73,7 +71,7 @@ The process will be openly documented and intends the imitation
 and formation of living labs related to the coding the [humanities
 platform](http://codingthehumanities.com/) (part of the joint UvA-VU
 initiatives to further Digital Humanities research and education). As
-such, our lab brings together public-private-civic partners to develop
+such, our lab fosters public-private-civic partnerships to develop
 new computational instruments as well as research methods.
 
 In addition to this, the embedded researchers’ activities articulate
@@ -92,7 +90,7 @@ research.
 
 ### How this research contributes to one or more of the core technologies in White Paper, Section 2
 
-**visualization and machine learning**: within the lab, students
+**Visualization and machine learning**: within the lab, students
 and researchers collaborate to learn and experiment with data
 visualization, grappling with large open data sets provided by
 e.g. Europeana. The embedded research lab thus not only allows
