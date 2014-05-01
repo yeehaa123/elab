@@ -97,7 +97,7 @@ Interactive) are excellently equiped to push this agenda forward, because of the
 and interfacing expertise.
 
 ### how the research relates to the ‘opportunities for the humanities’ in White Paper Section 1:
-The opportunities for interdisciplenary collaboration and discovery for this project are tremendous. New networks will be created, and process will be examined through filming of some of the exhibition participants as they make their pieces.
+The opportunities for interdisciplinary collaboration and discovery for this project are tremendous. New networks will be created, and process will be examined through filming of some of the exhibition participants as they make their pieces.
 
 ### how this research contributes to core technologies identified in White Paper Section 2:
 
