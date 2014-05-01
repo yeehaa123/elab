@@ -96,9 +96,9 @@ exhibition develops.
 Our private partners in this project (Cast Your Art, Weyeser, and Tulip
 Interactive) are excellently equiped to push this agenda forward, because ...
 
-### how the research relates to the ‘opportunities for the humanities’ section 1 in the white paper:
+### how the research relates to the ‘opportunities for the humanities’ in White Paper Section 1:
 
-### how this research contributes to core technologies identified in section 2 white paper:
+### how this research contributes to core technologies identified in White Paper Section 2:
 
 Together with Weyeser we will develop data minig tools to search 
 for and discover new patterns and knowledge in governmental and 
