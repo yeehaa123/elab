@@ -3,7 +3,6 @@
 Partners: Robin Boast (UvA), Jan Hein Hoogstad (UvA), Marijn Koolen
 (UvA), Katja Kwastek (VU), Sabrina Sauer (UvA), Ginette Verstraete (VU)
 
-Additional partners:
 
 ## Project Description
 
@@ -102,8 +101,12 @@ Interactive) are excellently equiped to push this agenda forward, because ...
 
 Together with Weyeser we will develop data minig tools to search 
 for and discover new patterns and knowledge in governmental and 
-heritage collections. With Tulip Interactive we will develop new visualization tools for
-presenting collections in different ways. With Cast Your Art we will develop new modes in which these
+heritage collections. 
+
+With Tulip Interactive we will develop new visualization tools for
+presenting collections in different ways. 
+
+With Cast Your Art we will develop new modes in which these
 collections can be displayed on- and offline.
 
 
@@ -137,33 +140,7 @@ interactive ways to experience the physical and digital collection of
 the Rijksmuseum in Amsterdam, with the aim to develop a prototype and
 map interaction scenarios.
 
-##Valorization
-
-+ the exhibition and events working up to it can be used as a model for other collections and locations. Other organisations and movements can easily start their own local events.
-+ existing tools and methods developed in research projects such as CATCH can be reused and the prototypes can be further developed into full-fledged products.
-+ creative industries can use the models for exhibiting collections out of context to make their catalogue of online and offline exhibitions which they can monetize by targeting interested audiences.
-+ the deliverables of this project will create a new market of organisations and individuals with an interest to use discovery and visualisation tools for their own organisational or local exhibitions and fairs. 
-+ because we use MIT licencing, companies can reuse code and tools created in the project to make commercial products. 
-+ Weyeser and Tulip Interactive will develop prototype tools for discovering and visualising new collections and new perspectives of collections that they can further develop into products. Through the interactions with users on the platform and contributors to the exhibition, they gain valuable information about the interests and needs of the users of their tools.
-
-#Expected societal and economic impacts
-
-Society will benefit from community involvement in the exhibition itself. This entirely new kind of exhibition uses coding skills to make an
-intervention in areas that are crucial to the past, present, and
-the future of the humanities: politics, literacy, culture, and knowledge
-production.
-
-# Teaching and training benefits
-
-# How this project contributes to the long-term development of CHAT
-
-We will also build on the work of the Virtual Museum Transnational
-Network (http://www.v-must.net/) and Material Encounters with Digital
-Cultural Heritage (http://mesch-project.eu/). The NWO CATCH and
-CATCHplus projects have developed new tools and collections that this
-project will make use of and extend upon.
-
-## Why the proposed research team would be best to perform this research
+### Why the proposed research team would be best to perform this research
 
 Robin Boast, professor at the University of Amsterdam, has been working
 in what we now call the Digital Humanities for over 30 years.
@@ -186,8 +163,9 @@ sociotechnical transformations raise new substantive issues for the
 study of movement in cities, but also for a humanities-based study of
 media usage.
 
-## Plans for software and data management and sharing
+### Plans for software and data management and sharing
 We will use MIT open source licensing. 
+
 
 ## Budget:
 
@@ -215,4 +193,33 @@ Publication of several articles and at least one book.
 The Principle Investigators will be Robin Boast from the University
 of Amsterdam and Ginette Verstraete from the VU University. They will
 coordinate the collaboration plan. Periodical meetings will take place
+
+## Valorization
+
++ the exhibition and events working up to it can be used as a model for other collections and locations. Other organisations and movements can easily start their own local events.
++ existing tools and methods developed in research projects such as CATCH can be reused and the prototypes can be further developed into full-fledged products.
++ creative industries can use the models for exhibiting collections out of context to make their catalogue of online and offline exhibitions which they can monetize by targeting interested audiences.
++ the deliverables of this project will create a new market of organisations and individuals with an interest to use discovery and visualisation tools for their own organisational or local exhibitions and fairs. 
++ because we use MIT licencing, companies can reuse code and tools created in the project to make commercial products. 
++ Weyeser and Tulip Interactive will develop prototype tools for discovering and visualising new collections and new perspectives of collections that they can further develop into products. Through the interactions with users on the platform and contributors to the exhibition, they gain valuable information about the interests and needs of the users of their tools.
+
+### Expected societal and economic impacts
+
+Society will benefit from community involvement in the exhibition
+itself. This entirely new kind of exhibition uses coding skills to make
+an intervention in areas that are crucial to the past, present, and the
+future of the humanities: politics, literacy, culture, and knowledge
+production.
+
+### Teaching and training benefits
+Developers, students, artists, curators, designers, will all learn from each other in the exhibition's interactive, international and interdisciplenary environment. 
+
+# How this project contributes to the long-term development of CHAT
+
+We will also build on the work of the Virtual Museum Transnational
+Network (http://www.v-must.net/) and Material Encounters with Digital
+Cultural Heritage (http://mesch-project.eu/). The NWO CATCH and
+CATCHplus projects have developed new tools and collections that this
+project will make use of and extend upon.
+
 involving the partners and Dark Horse.

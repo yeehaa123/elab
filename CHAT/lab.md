@@ -1,4 +1,5 @@
-# Spaces for Embedded Research
+## User Interface
+### Spaces for Embedded Research
 
 Partners: Robin Boast (UvA), Jan Hein Hoogstad (UvA), Marijn Koolen (UvA), 
 Katja Kwastek (VU), Sabrina Sauer (UvA), Ginette Verstraete (VU), Nynke Bos (UvA)
@@ -29,8 +30,11 @@ projects. 'The Lab as Interface' project addresses this challenge by
 designing and producing an offline living lab as interface between
 the digital and other worlds.
 
-A lab for embedded research makes digital humanities' projects more sustainable and pushes them beyond the academic borders to engage private partners, civic organisations and the general public. This alternative circulation of
-knowledge leads to new forms and practices of research.
+A lab for embedded research makes digital humanities' projects more
+sustainable and pushes them beyond the academic borders to engage
+private partners, civic organisations and the general public. This
+alternative circulation of knowledge leads to new forms and practices of
+research.
 
 ### How this research contributes to the humanities, and to ‘digital humanities’? 
 
@@ -38,12 +42,12 @@ The recent focus of funding for the humanities towards creative
 industries and other private partners has resulted in many digital
 humanities projects with embedded researchers. This project encourages
 embedded researchers to collaborate and learn from each others'
-experiences, to bring together knowledge on how to best combine academic
-research, product innovation and commercial interests. This results in
-new forms of knowledge production in the humanities, and builds sustainable
-collaborations between embedded researchers.
-Through experience, this research will reveal best practices of setting up embedded research projects,
-and ensures that embedded humanities research is neither too academically oriented nor too product oriented.
+experiences, to bring together knowledge on how to best combine academic research, product innovation and commercial interests. This
+results in new forms of knowledge production in the humanities, and
+builds sustainable collaborations between embedded researchers. Through
+experience, this research will reveal best practices of setting up
+embedded research projects, and ensures that embedded humanities
+research is neither too academically oriented nor too product oriented.
 
 ### How the research relates to the ‘opportunities for the humanities’ identified in the White Paper, Section 1?
 
@@ -66,25 +70,26 @@ lab that feeds off of and informs the online learning platform.
 
 The process will be openly documented and intends the imitation
 and formation of living labs related to the coding the [humanities
-platform](http://codingthehumanities.com/) (part of the joint UvA-VU initiatives to further Digital Humanities research and education). 
-As such, our lab brings together public-private-civic
-partners to develop new computational instruments as well as research
-methods. 
+platform](http://codingthehumanities.com/) (part of the joint UvA-VU
+initiatives to further Digital Humanities research and education). As
+such, our lab brings together public-private-civic partners to develop
+new computational instruments as well as research methods.
 
 In addition to this, the embedded researchers’ activities articulate
 and map how developed instruments and methods form new models and
 methods for sustainable cooperation. This culminates in new areas
-of enquiry for humanities’ research; bringing forth humanities’ perspectives and research about
-larger societal and R&D inspired collaboration and ICT innovation
-practices. The lab also allows embedded researchers to
-work between theory and (artistic) practice, physical and digital
-research, science and art, universities and public or private partners.
-Furthermore, in the lab scholars experiment with digital humanities and methods
-thereby improving awareness of computational instruments while also using the space to meet
-new partners for future research.
+of enquiry for humanities’ research; bringing forth humanities’
+perspectives and research about larger societal and R&D inspired
+collaboration and ICT innovation practices. The lab also allows embedded
+researchers to work between theory and (artistic) practice, physical and
+digital research, science and art, universities and public or private
+partners. Furthermore, in the lab scholars experiment with digital
+humanities and methods thereby improving awareness of computational
+instruments while also using the space to meet new partners for future
+research.
 
 
-## How this research contributes to one or more of the core technologies in White Paper, Section 2
+### How this research contributes to one or more of the core technologies in White Paper, Section 2
 
 **visualization and machine learning**: within the lab, students
 and researchers collaborate to learn and experiment with data
@@ -95,7 +100,7 @@ digital interfaces are developed that are discovery oriented. The
 offline lab is complemented by an online platform ([Coding the
 Humanities](http://codingthehumanities.com/)). 
 
-## How this research builds on relevant state-of-the-art research
+### How this research builds on relevant state-of-the-art research
 
 The living lab uses a user-driven methodology that blurs the boundaries
 between technology users and producers by including (future) users of
@@ -118,17 +123,21 @@ user” (in this case, the humanities’ scholar) is required in order
 to more fully embrace the advantages of on- and offline collaborative
 practices. The lab provides exactly such an opportunity.
 
-The CLUE team "Paradigms of Creativity" at the VU University researches expressions of creativity in everyday life and in artistic production, within their specific historic, institutional and societal contexts. Analyzing creativity's embeddedness in changing relations between digital and physical communities relates directly to the role of this project's embedded researcher.
+The CLUE team "Paradigms of Creativity" at the VU University researches
+expressions of creativity in everyday life and in artistic production,
+within their specific historic, institutional and societal contexts.
+Analyzing creativity's embeddedness in changing relations between
+digital and physical communities relates directly to the role of this
+project's embedded researcher.
 
-Our private partner in this project, The Dark
-Horse GMBH., is one of the leading European consultancy firms in design
-thinking. We believe the user-centered, collaborative approach that
-defines this methodology, is a way out of the individualist research
-culture in the humanities. DH will help us design a lab and a curriculum
-based on this approach.
+Our private partner in this project, The Dark Horse GMBH., is one of the
+leading European consultancy firms in design thinking. We believe the
+user-centered, collaborative approach that defines this methodology, is
+a way out of the individualist research culture in the humanities. DH
+will help us design a lab and a curriculum based on this approach.
 
 
-## Why this research team would be best to perform this research
+### Why this research team would be best to perform this research
 
 Sabrina Sauer is a prominent researcher at the University of Amsterdam,
 with specific expertise on living labs. 
@@ -138,8 +147,10 @@ and Comparative Literature who has also taught coding bootcamps and
 workshops, including at Dev Bootcamp in San Francisco. 
 
 Marijn Koolen, Assistant Professor in the digital humanities at the
-University of Amsterdam, specializes in user studies and user needs, and
-this project is aimed at finding and creating what products and services would most benefit users. Along with Sabrina Sauer and Jan Hein Hoogstad, Marijn Koolen has a background in media studies. 
+University of Amsterdam, specializes in user studies and user needs,
+and this project is aimed at finding and creating what products and
+services would most benefit users. Along with Sabrina Sauer and Jan Hein
+Hoogstad, Marijn Koolen has a background in media studies.
 
 Johanna Barnbeck is an Embedded Artistic Researcher who has worked as a
 creative consultant, making her ideal for a project that links academic
@@ -167,10 +178,11 @@ platform, which is developed by the applicants.
 Dark Horse is a company that works in Design Thinking, which is central
 to the lab.
 
-## Plans for software and data management and sharing
+### Plans for software and data management and sharing
+
 We will use MIT open source licensing.
 
-## budget: 
+## Budget: 
 
 Expenses Per Year (PY)
 PhD positions         46.750,00 for 2 PhDs FTE
@@ -182,7 +194,7 @@ PhD travel            3.000,00 for two PhDs
 Post-doc travel       3.000,00 for 2 post-docs
 
 
-## key deliverables:
+### Key deliverables:
 
 The research deliverables for this will be published papers and
 presentations at conferences for the PhD and post-doc researchers. The
@@ -190,10 +202,11 @@ post-doc will especially write articles on new forms of valorizing
 humanities research. There will also be prototypes developed and models
 created for embedded research labs.
 
-## publish/distribute results
+### Publish/distribute results
 
 Results will be published in academic journals, conferences, workshops,
 and colloquiums.
+
 
 ## Collaboration Plan 
 
@@ -204,7 +217,7 @@ the partners and Dark Horse.
 
 ## Valorization
 
-## Expected societal and economic benefits
+### Expected societal and economic benefits
 
 The concrete deliverables will be the creation of new products and
 services for public-private-civic benefit. This research will gain
@@ -214,7 +227,7 @@ of embedded researcher will be of interest to academia as well as to
 private partners.
 
 
-## Teaching and training benefits
+### Teaching and training benefits
 
 The establishment of the lab as collaborative space allows users to
 train and learn from each other. This also benefits the development
@@ -230,7 +243,7 @@ ICT can provide instruments to make research more open, accessible and
 sustainable.
 
 
-## How the project relates to the long term development of CHAT
+### How the project relates to the long term development of CHAT
 
 This project contributes to knowledge about public-private-civic
 collaboration practices and how these may be (re)modeled to benefit or

@@ -195,7 +195,9 @@ Sabrina Sauer is Assistant Professor at the University of
 Amsterdam. Her research focus on the innovative contributions of
 everyday users on platforms such as this one.
 
-Nynke Bos is Assistant Professor at the University of Amsterdam. She is a psychologist with significant experience in pedagogy, ideal for a platform that creates new ways of learning.
+Nynke Bos is Assistant Professor at the University of Amsterdam. She
+is a psychologist with significant experience in pedagogy, ideal for a
+platform that creates new ways of learning.
 
 
 ### Plans for software and data management and sharing
