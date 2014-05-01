@@ -104,10 +104,7 @@ technologies from the start of technology development. This inclusion
 reverses top-down R&D-processes in favour of bottom-up innovation,
 performed by users and grounded in society instead of in research
 laboratories. This practice is to lead to unexpected insights into user
-ideas and practices (Almirall, 2008: 43 Almirall, E. (2008). Living Labs
-and Open Innovation: Roles and Applicability. The Electronic Journal for
-Virtual Organizations and Networks, 10 (August), 21–46). and lead to
-the development of more successful ICTs. To gain unexpected insights,
+ideas and practices and lead to the development of more successful ICTs. To gain unexpected insights,
 methodologies focus on the inclusion of real (end) users in daily life
 contexts. The Living Lab thus also comprises a setting; a setting that
 affords “experimentation environments in which technology is given
@@ -118,14 +115,7 @@ Pierson, J., M, P., Slot, M., Bierhof, J., & Diocaretz, M. (2005). Test
 and Benchmarking International Best Practice).
 
 This research builds on recent insights in collaborative living lab
-practices (B. Dutilleul, F. A. J. Birrer, and W. Mensink, Unpacking
-European Living Labs: Analysing Innovation’s Social Dimensions,
-Central European Journal of Public Policy, vol. 4, no. 1, pp. 60-85,
-2010., A. Følstad, Living Labs for Innovation and Development of
-Information and Communication Technology: A Literature Overview, The
-Electronic Journal for Virtual Organisations and Networks, Special
-Issue on Living Labs, vol. 10, pp. 99-131, 2008. Sauer, S. (September
-2013) User innovativeness in Living Laboratories – Everyday user
+practices (Sauer, S. (September 2013) User innovativeness in Living Laboratories – Everyday user
 improvisations with ICTs as a source of innovation. PhD Thesis,
 University of Twente. Promotor: Prof. dr. N.E.J. Oudshoorn) where the
 importance of user-centered research in living labs is underlined, but
