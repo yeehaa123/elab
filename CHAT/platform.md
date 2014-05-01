@@ -20,6 +20,10 @@ and creates new models for collaboration in the humanities.
 
 ### Goal and Problem
 
+This project aims to increase the number of people who approach learning and research collaboratively, through an online platform where users learn programming and build tools, thereby increasing digital literacy and at the same time lowering the technological threshold to engage with and reflect on digital tools. The problem we address is that learning and research (in the humanities) are hindered by a lack of coding skills and the seeming incommensurability of educating massive groups of students and providing high quality education. Although traditional knowledge institutions are losing their monopoly on education and research, ICT skills and knowledge production remain privileges of a cultural, technological and economic elite.
+
+We propose to tackle this problem by providing online and offline interfaces between people on the one hand and learning and research on the other hand, which focus on new forms of collaboration and a user- and tool-oriented approach to learning programming skills. These interfaces lower the technological, economic and organizational barriers to participation, empower many different groups of people to more deeply and effectively engage with technology and motivate lifelong learning.
+
 Within digital humanities research a broad range of tools is used for
 analysis of digital materials. Humanities scholars often have little
 interest in the details of how the tools work, but prefer to focus on
@@ -123,7 +127,13 @@ the humanities. --->
 
 One of the premisses of this project is that there is hardly any state-of-the-art research on this topic. The digital tools that are used in humanities
 research are hardly ever made into a topic of discussion or reflection. The building of new
-custom made tools, such as the platform that we suggest, is even more rare.
+custom made tools, such as the platform that we suggest, is even more rare. Companies
+offering online learning platforms like Apearo, Edx have no courses in
+this direction. There are programming courses offered for non-computer
+science students, but they often engage students with technical
+jargon and a perspective that lacks relevance to those with no such
+technological bias but a need to know what programming skills have to
+offer them. 
 
 That being said, our project does build on some pioneering work by people such
 as Stefan Sinclair (McGill), John Willinsky (Stanford), Alan Liu (University of
@@ -132,18 +142,12 @@ Virginia), all of which are involved as advisors in our project.
 
 TO DO: LOOK FOR RELATED PROJECTS
 
-As far as we know, there is very little research in this area. Companies
-offering online learning platforms like Apearo, Edx have no courses in
-this direction. There are programming courses offered for non-computer
-science students, but they often engage students with technical
-jargon and a perspective that lacks relevance to those with no such
-technological bias but a need to know what programming skills have to
-offer them. 
+
 
 
 ### Why the proposed research team would be the best to perform this research:
 
-This research is extremely new. At Coding the Humanities, we have developed three courses in coding for humanities students, two of which are already running and one which will begin in September 2014. We have also organized and given a workshop. In effect we have begun to develop a platform and see the great potential for what can be achieved if we can expand it. Jan Hein Hoogstad has a phenomenal background both in the humanities fields of Cultural Analysis and Literature, as well as in programming. Marijn Koolen has developed expertise in Artificial Intelligence, information retrieval, and information science, making him an ideal fit for this project. Robin Boast has worked in the digital humanities for over 30 years and currently teaches on Cultural Information Science, Neo-colonial information governance, and the history and sociology of digitally and collecting. Sabrina Sauer is an Assistant Professor at the University of Amsterdam. Her research has included examining what happens when the ideas of ordinary people become the starting point for the design of new ICT’s, and this platform pulls previously uninvolved humanities people into ICT's. Joris van Zundert, researcher and developer at the KNAW, manages project Aflab. This project determine the requirements of a digital infrastructure for humanities and to explore and test drive the possibilities of computational humanities for that field, relating directly to this project.
+This research is extremely new, and we are leaders in our pursuit of this coding platform. At Coding the Humanities, we have developed three courses in coding for humanities students, two of which are already running and one which will begin in September 2014. We have also organized and given a workshop EXPLAIN MORE?. In effect we have begun to develop a platform and see the great potential for what can be achieved if we can expand it. Jan Hein Hoogstad has a phenomenal background both in the humanities fields of Cultural Analysis and Literature, as well as in programming. Marijn Koolen has developed expertise in Artificial Intelligence, information retrieval, and information science, making him an ideal fit for this project. Robin Boast has worked in the digital humanities for over 30 years and currently teaches on Cultural Information Science, Neo-colonial information governance, and the history and sociology of digitally and collecting. Sabrina Sauer is an Assistant Professor at the University of Amsterdam. Her research has included examining what happens when the ideas of ordinary people become the starting point for the design of new ICT’s, and this platform pulls previously uninvolved humanities people into ICT's. Joris van Zundert, researcher and developer at the KNAW, manages project Aflab. This project determine the requirements of a digital infrastructure for humanities and to explore and test drive the possibilities of computational humanities for that field, relating directly to this project.
 
 
 ### Plans for software and data management and sharing
@@ -152,6 +156,7 @@ The platform will embrace open source culture and all contributions to
 the platform and projects developed on the platform are published using
 open licenses. The students share their code projects on distributed
 repositories, which encourages re-use, altering and further development.
+- MIT
 
 ### Budget and Key Deliverables (1 page)
 
