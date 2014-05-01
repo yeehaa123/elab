@@ -92,7 +92,7 @@ research.
 
 ### How this research contributes to one or more of the core technologies in White Paper, Section 2
 
-**visualization and machine learning**: within the lab, students
+**Visualization and machine learning**: within the lab, students
 and researchers collaborate to learn and experiment with data
 visualization, grappling with large open data sets provided by
 e.g. Europeana. The embedded research lab thus not only allows
