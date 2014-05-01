@@ -165,35 +165,37 @@ advisors in our project.
 
 ### Why the proposed research team would be the best to perform this research:
 
-+ Our project team has a broad range of expertise on programming,
+Our project team has a broad range of expertise on programming,
 software development, pedagogy, and our research covers several
 humanities disciplines, including Cultural Analysis, Literary Studies,
 Heritage Studies and Mediastudies as well as Computer and Information
 Science.
 
-+ A pilot version of this project (platform and two courses, staff
+A pilot version of this project (platform and two courses, staff
 courses) is already under active development and is co-funded by the UVA
 and VU.
 
-+ Joris van Zundert led the European COST Action 'Interedition' on
+Joris van Zundert led the European COST Action 'Interedition' on
 international collaborative tool development and interoperability in
 the humanities. He studies the interaction between computer science,
 software development, and humanities.
 
-+ Jan Hein Hoogstad has a background in Philosophy, Mediastudies,
+Jan Hein Hoogstad has a background in Philosophy, Mediastudies,
 Cultural Analysis and Literature, and has taught programming at Dev
 BootCamp in San Francisco.
 
-+ Marijn Koolen is Assistant Professor in Digital Humanities, has a
+Marijn Koolen is Assistant Professor in Digital Humanities, has a
 background in Artificial Intelligence and information science.
 
-+ Robin Boast has worked in the digital humanities for over 30 years and
+Robin Boast has worked in the digital humanities for over 30 years and
 currently teaches information governance, and the history and sociology
 of digitally and collecting.
 
-+ Sabrina Sauer is an Assistant Professor at the University of
+Sabrina Sauer is Assistant Professor at the University of
 Amsterdam. Her research focus on the innovative contributions of
 everyday users on platforms such as this one.
+
+Nynke Bos is Assistant Professor at the University of Amsterdam. She is a psychologist with significant experience in pedagogy, ideal for a platform that creates new ways of learning.
 
 
 ### Plans for software and data management and sharing
