@@ -4,8 +4,6 @@
 Partners: Robin Boast (UvA), Jan Hein Hoogstad (UvA), Marijn Koolen (UvA), 
 Katja Kwastek (VU), Sabrina Sauer (UvA), Ginette Verstraete (VU), Nynke Bos (UvA)
 
-Additional partners
-
 ## Project description
 
 ### Main Research Question
@@ -73,7 +71,7 @@ The process will be openly documented and intends the imitation
 and formation of living labs related to the coding the [humanities
 platform](http://codingthehumanities.com/) (part of the joint UvA-VU
 initiatives to further Digital Humanities research and education). As
-such, our lab brings together public-private-civic partners to develop
+such, our lab fosters public-private-civic partnerships to develop
 new computational instruments as well as research methods.
 
 In addition to this, the embedded researchers’ activities articulate
@@ -92,7 +90,7 @@ research.
 
 ### How this research contributes to one or more of the core technologies in White Paper, Section 2
 
-**visualization and machine learning**: within the lab, students
+**Visualization and machine learning**: within the lab, students
 and researchers collaborate to learn and experiment with data
 visualization, grappling with large open data sets provided by
 e.g. Europeana. The embedded research lab thus not only allows
@@ -115,8 +113,7 @@ affords experimentation environments, with users as co-producers.
 
 This research builds on recent insights in collaborative living lab
 practices (Sauer, S. (September 2013) User innovativeness in Living Laboratories – Everyday user
-improvisations with ICTs as a source of innovation. PhD Thesis,
-University of Twente. Promotor: Prof. dr. N.E.J. Oudshoorn) where the
+improvisations with ICTs as a source of innovation) where the
 importance of user-centered research in living labs is underlined, but
 that also stresses how more research about the actual role of “the
 user” (in this case, the humanities’ scholar) is required in order
@@ -149,14 +146,15 @@ workshops, including at Dev Bootcamp in San Francisco.
 Marijn Koolen, Assistant Professor in the digital humanities at the
 University of Amsterdam, specializes in user studies and user needs,
 and this project is aimed at finding and creating what products and
-services would most benefit users. Along with Sabrina Sauer and Jan Hein
-Hoogstad, Marijn Koolen has a background in media studies.
+services would most benefit users. 
+<!--- Along with Sabrina Sauer and Jan Hein
+Hoogstad, Marijn Koolen has a background in media studies. --->
 
 Johanna Barnbeck is an Embedded Artistic Researcher who has worked as a
 creative consultant, making her ideal for a project that links academic
 and non-academic worlds.
 
-Nynke Bos is an expert in ICT innovation. 
+Nynke Bos is an expert in ICT innovation and is project leader of ICT and Education at the UvA. 
 
 Robin Boast has been working for over thirty years in what today we call
 Digital Humanities. His work has focused on diverse topics, ranging from
@@ -183,34 +181,49 @@ to the lab.
 We will use MIT open source licensing.
 
 ## Budget: 
+Year 1: 
+PhD positions 54.158,00 for 2 PhDs FTE 
+Post-doc position 59.000,00 for 2 post-docs FTE 
 
-Expenses Per Year (PY)
-PhD positions         46.750,00 for 2 PhDs FTE
-Post-doc position     83.332,00 for 2 post-docs FTE
-Embedded Researcher   50.000,00 for 1 embedded researcher
-Infrastructure        50.000,00
-Overhead              70.000,00
-PhD travel            3.000,00 for two PhDs
-Post-doc travel       3.000,00 for 2 post-docs
+Year 2: 
+PhD positions 63.102,00 Post-doc position 59.000,00 Development 130.000,00 for 2 developers
+
+Year 3: 
+PhD positions 66.092,00 
+Post-doc position 59.000,00 
+
+Year 4: 
+PhD positions 69.264,00 
+Post-doc position 59.000,00 
+
+Other Costs Over 4 Years 
+Infrastructure 200.000,00 
+Overhead 120.000,00 
+PhD travel 48.000,00 for two PhDs 
+Post-doc travel 24.000,00 for 1 post-doc
+
+TOTAL Over 4 Years 755.524,00
 
 Milestones:
-Year 1: create one new product or service, PhDs and post-doc preesnt at conferences
-Year 2: create one new product or service, PhDs and post-doc present at conferences
-Year 3: create one new product or service, post-doc graduates
-Year 4: create one new product or service, PhDs finnish dissertations
+Year 1: first versions of Amsterdam-based ER lab started 
+Year 2: create first product or service and model for ER lab
+Year 3: first model for ER lab published
+Year 4: ER lab opened by non-CHAT partners
 
 ### Key deliverables:
 
-The research deliverables for this will be published papers and
-presentations at conferences for the PhD and post-doc researchers. The
-post-doc will especially write articles on new forms of valorizing
-humanities research. There will also be prototypes developed and models
-created for embedded research labs.
+The research deliverables for this will be the created products and 
+services, published papers and presentations at conferences for the 
+PhD and post-doc researchers. The post-doc will especially write 
+articles on new forms of valorizing humanities research. There will 
+also be prototypes developed and models created for embedded research 
+labs.
 
 ### Publish/distribute results
 
 Results will be published in academic journals, conferences, workshops,
-and colloquiums.
+and colloquiums. The post-doc will especially write articles on new forms of valorizing
+humanities research. 
 
 
 ## Collaboration Plan 
@@ -221,6 +234,10 @@ the collaboration plan. Periodical meetings will take place involving
 the partners and Dark Horse.
 
 ## Valorization
+
+With successful products/services created and a model for ER labs, more companies and insitutions will look towards humanities faculties to find students for internships to test new ideas and explore new avenues for development.
+In turn, humanities faculties can show their economic relevance and attract new sources of funding and support. Through the network established with the private sector, faculty members can improve the financial situations of their departments by offering their services as consultants to businesses that need domain expertise in developing relevant products.
+ER labs will be a fertile ground for experimentation with new prototypes, reducing the risk for companies to find good products to develop further.
 
 ### Expected societal and economic benefits
 

@@ -17,10 +17,10 @@ original objects and the institutions in which they are displayed?
 
 This research works towards a large international exhibition where
 students, scholars, artists, developers, data scientists, and curators
-collaborately create and display collection based upon publicly
+collaboratively create and display collections based upon publicly
 available data sets. We aim to involve researchers that work on
 the 'coding the humanities' platform, but the exhibition is also a
-possibility to attract others (artist, developers, curators, etc.) to
+possibility to attract others (artists, developers, curators, etc.) to
 work with and on our platform.
 
 The goal of this exhibition will be to create and display collections
@@ -92,20 +92,26 @@ heterogeneous and distributed data sets will lead to new knowledge
 and new questions. Online projects leave a trace of how a new type of
 exhibition develops.
 
-Our private partners in this project (Cast Your Art, Weyeser, and Tulip
-Interactive) are excellently equiped to push this agenda forward, because ...
+Our private partners in this project (Cast Your Art, Weyeser, and Tulp
+Interactive) are excellently equiped to push this agenda forward, because of their visualisation
+and interfacing expertise.
 
 ### how the research relates to the ‘opportunities for the humanities’ in White Paper Section 1:
 
+The opportunities for interdisciplinary collaboration and discovery for
+this project are tremendous. New networks will be created, and process
+will be examined through filming of some of the exhibition participants
+as they make their pieces.
 
 ### how this research contributes to core technologies identified in White Paper Section 2:
 
-Together with Weyeser we will develop data mining tools to search for   
-and discover new patterns and knowledge in governmental and heritage    
-collections.                                                            
 
-With Tulip Interactive we will develop new visualization tools for
-presenting collections in different ways.
+Together with Weyeser we will develop data mining tools to search 
+for and discover new patterns and knowledge in governmental and 
+heritage collections. 
+
+With Tulp Interactive we will develop new visualization tools for
+presenting collections in different ways. 
 
 With Cast Your Art we will develop new modes in which these collections
 can be displayed on- and offline.
@@ -169,20 +175,45 @@ We will use MIT open source licensing.
 
 
 ## Budget:
+Year 1: 
+PhD positions 54.158,00 for 2 PhDs FTE 
+Post-doc position  59.000,00 for 1 post-doc FTE 
+Development 100.000,00 for 2 developers FTE
 
-- 1 post-doc position
-- 2 PhD positions
-- 1 embedded researcher
+Year 2: 
+PhD positions 63.102,00 
+Post-doc position 59.000,00 
+
+
+Year 3: 
+PhD positions 66.092,00 
+Post-doc position 59.000,00 
+
+
+Year 4: 
+PhD positions 69.264,00 
+Post-doc position 59.000,00 
+
+
+Other Costs Over 4 Years 
+Infrastructure 200.000,00 
+Overhead 120.000,00 
+PhD travel 48.000,00 
+Post-doc travel 24.000,00 
+
+TOTAL Over 4 Years 980.616,00
+
+
 
 ## Milestones:
-Year 1: Pilot exhibition
-Year 2: 
-Year 3: Exhibition
-Year 4: 
+Year 1: Pilot exhibition, PhDs publish at first conference
+Year 2: post-doc begins, events begin leading up to the exhibition
+Year 3: Exhibition (coding fair)
+Year 4: PhDs complete dissertations
 
 ### Deliverables:
 
-The major deliverable of this research will be the interdisciplenary
+The major deliverable of this research will be the interdisciplinary
 coding fair, where students, researchers, developers, and business
 people can come together. The fair will demonstrate results of the
 research, in the forms of models for new types of collaborative
@@ -230,6 +261,7 @@ the interactions with users on the platform and contributors to the
 exhibition, they gain valuable information about the interests and needs
 of the users of their tools.
 
+
 ### Expected societal and economic impacts
 
 Society will benefit from community involvement in the exhibition
@@ -238,11 +270,17 @@ an intervention in areas that are crucial to the past, present, and the
 future of the humanities: politics, literacy, culture, and knowledge
 production.
 
+<<<<<<< HEAD
 ### Teaching and training benefits Developers, students, artists,
 curators, designers, will all learn from each other in the exhibition's
 interactive, international and interdisciplenary environment.
+=======
+### Teaching and training benefits
+>>>>>>> 726a09a869ffd98b708b63b6b3154afc33059bdd
 
-# How this project contributes to the long-term development of CHAT
+Developers, students, artists, curators, designers, will all learn from each other in the exhibition's interactive, international and interdisciplinary environment. 
+
+### How this project contributes to the long-term development of CHAT
 
 We will also build on the work of the Virtual Museum Transnational
 Network (http://www.v-must.net/) and Material Encounters with Digital
@@ -250,4 +288,4 @@ Cultural Heritage (http://mesch-project.eu/). The NWO CATCH and
 CATCHplus projects have developed new tools and collections that this
 project will make use of and extend upon.
 
-involving the partners and Dark Horse.
+

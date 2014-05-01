@@ -42,7 +42,7 @@ can be used for. However, understanding the intricate details of tools
 is important when drawing conclusions from and basing claims on their
 results.
 
-In collaborative projects with computer scienctist, the latter have
+In collaborative projects with computer scientists, the latter have
 more interest in those details, but may lack the domain expertise
 to understand the full consequences of implementation details for
 humanities research.
@@ -68,7 +68,7 @@ collaboratively learn programming and build tools for their research.
 
 In order to initiate a fruitful debate about the use of coding in
 the humanities it is crucial to substantially increase the degree of
-digital literacy. It is our conviction that people that do not know
+digital literacy. It is our conviction that people who do not know
 how to read and write code are not truly digitally literate. Therefore
 education should play an important role in the formation of a center for
 humanities and technology.
@@ -126,10 +126,7 @@ between humanities and computer science.
 
 ### How this research contributes to one or more of the core technologies in section 1 of the white paper 
 
-Programming underlies all five core technological challenges and a
-diverse group of researchers collaboration on projects on the platform
-will cover the whole range of technical challenges and all areas of the
-humanities.
+Programming can contribute to each core technology. Through courses offered online and in DH curriculums at universities, a broad range of humanities scholars will build tools covering all five core technologies. 
 
 The strong focus on reflection of humanities scholars and their deep
 understanding of and multiple perspective on the complexities of their
@@ -145,7 +142,7 @@ humanities.
 
 ### How does this research build on relevant state-of-the-art research?
 
-One of the premisses of this project is that there is little
+One of the premises of this project is that there is little
 state-of-the-art research on this topic. The digital tools that are used
 in humanities research are rarely topic of discussion or reflection.
 The building of custom made tools is even more rare. Companies
@@ -195,7 +192,7 @@ Sabrina Sauer is Assistant Professor at the University of
 Amsterdam. Her research focus on the innovative contributions of
 everyday users on platforms such as this one.
 
-Nynke Bos is Assistant Professor at the University of Amsterdam. She
+Nynke Bos is project leader of ICT and Education at the University of Amsterdam. She
 is a psychologist with significant experience in pedagogy, ideal for a
 platform that creates new ways of learning.
 
@@ -211,31 +208,41 @@ development.
 
 ## Budget and Key Deliverables (1 page)
 
-Budget for 4 Years
-- PhD positions        300.000,00 for 2 positions FTE
-- Post-doc position    280.000,00 for 2 positions FTE
-- Developer            400.000,00
-- Infrastructure       200.000,00
-- Overhead             295.000,00
-- Travel (PhD+PD)       21.000,00 for 2 PhDs 2 postdocs
-- TOTAL              1.496.000,00
-
 ### Expenses Per Year (PY)
-- PhD positions         46.750,00 for 2 PhDs FTE
-- Post-doc position     83.332,00 for 2 post-docs FTE
-- Development          100.000,00 for 3 developers
-- Infrastructure        50.000,00 
-- Overhead              70.000,00
-- PhD travel             3.000,00 for two PhDs
-- Post-doc travel        3.000,00 for 2 post-docs
+Year 1: 
+PhD positions         74.000,00 for 2 PhDs FTE 
+Post-doc position    118.000,00 for 2 post-docs FTE
+Development          130.000,00 for 2 developers FTE
 
+Year 2: 
+PhD positions          86.200,00
+Post-doc position     118.000,00
+Development           130.000,00 for 2 developers
+
+Year 3:
+PhD positions          90.400,00
+Post-doc position     118.000,00 for 2 post-docs
+Development           130.000,00 for 2 developers
+
+Year 4:
+PhD positions          95.200,00
+Post-doc position     118.000,00
+Development           130.000,00 for 2 developers
+
+Other Costs Over 4 Years
+Infrastructure       200.000,00 
+Overhead             120.000,00
+PhD travel            12.000,00 for 2 phds
+Post-doc travel        9.000,00 for 2 post-docs
+
+TOTAL Over 4 Years  1558.800,00
 
 ### Milestones
 
-+ Year 1: platform online, X conference/journal papers 
-+ Year 2: portfolio of tools developed on the platform, papers on platform collaborations
-+ Year 3: models and guidelines for developing tools based on research questions, more papers
-+ Year 4: papers, dissertations, tools, and models
++ Year 1: platform online
++ Year 2: online presentation of portfolio of tools developed on the platform
++ Year 3: models and guidelines for developing tools based on research questions
++ Year 4: conference on humanities contributions to software development
 
 
 ### Key Deliverables
@@ -245,6 +252,10 @@ that this project will develop is in itself a key deliverable. The
 platform will create new libraries for tool building, as well as tools
 and guidelines / best practices for collaboration.
 
+## Publishing and distribution
+
+PhDs and post-docs will publish for conferences, as well as in adacemic journals.
+
 ## Project Management
 
 The platform will be coordinated by Jan Hein Hoogstad and Joris van
@@ -253,10 +264,7 @@ the KNAW respectively.
 
 ## Valorization
 
-Programming underlies all five core technological challenges and a
-diverse group of researchers collaboration on projects on the platform
-will cover the whole range of technical challenges and all areas of the
-humanities.
+Developers, but also humanities researchers themselves can turn the open source projects and prototypes into applications that are of interest to tourism, language learning, museums, e-book sellers and many other areas. Large technology companies also increasingly look for programmers with a humanities training.
 
 ### Societal and economic benefits:
 
