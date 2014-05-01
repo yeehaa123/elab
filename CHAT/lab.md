@@ -4,8 +4,6 @@
 Partners: Robin Boast (UvA), Jan Hein Hoogstad (UvA), Marijn Koolen (UvA), 
 Katja Kwastek (VU), Sabrina Sauer (UvA), Ginette Verstraete (VU), Nynke Bos (UvA)
 
-Additional partners
-
 ## Project description
 
 ### Main Research Question
