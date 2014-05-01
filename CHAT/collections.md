@@ -155,9 +155,6 @@ Cultural Heritage (http://mesch-project.eu/). The NWO CATCH and
 CATCHplus projects have developed new tools and collections that this
 project will make use of and extend upon.
 
-Finally, this project also relates to the Horizon 2020 research themes
-of cultural heritage, inclusion and global change.
-
 ## Why the proposed research team would be best to perform this research
 
 Robin Boast, professor at the University of Amsterdam, has been working
