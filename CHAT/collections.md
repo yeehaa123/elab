@@ -175,27 +175,25 @@ Budget for 4 Years
 
 PhD positions 300.000,00 for 2 positions FTE
 Post-doc position 280.000,00 for 2 positions FTE
-Embedded researcher position 160.000,00 for 1 position FTE
 Infrastructure 200.000,00
 Overhead 295.000,00
 Travel (PhD+PD) 21.000,00 for 2 PhDs 2 postdocs
-TOTAL 1,256.000.00
+TOTAL 1,096.000.00
 
 Expenses Per Year (PY)
 
 PhD positions 46.750,00 for 2 PhDs FTE
 Post-doc position 83.332,00 for 2 post-docs FTE
-Embedded researcher 40.000,00 for 1 position FTE
 Infrastructure 50.000,00
 Overhead 70.000,00
 PhD travel 3.000,00 for two PhDs
 Post-doc travel 3.000,00 for 2 post-docs
 
 ## Milestones:
-Year 1: Pilot exhibition
-Year 2: 
-Year 3: Exhibition
-Year 4: 
+Year 1: Pilot exhibition, PhDs publish at first conference
+Year 2: post-doc begins, events begin leading up to the exhibition
+Year 3: Exhibition (coding fair)
+Year 4: PhDs complete dissertations
 
 ### Deliverables:
 
@@ -220,12 +218,12 @@ coordinate the collaboration plan. Periodical meetings will take place
 
 ## Valorization
 
-+ the exhibition and events working up to it can be used as a model for other collections and locations. Other organisations and movements can easily start their own local events.
-+ existing tools and methods developed in research projects such as CATCH can be reused and the prototypes can be further developed into full-fledged products.
-+ creative industries can use the models for exhibiting collections out of context to make their catalogue of online and offline exhibitions which they can monetize by targeting interested audiences.
-+ the deliverables of this project will create a new market of organisations and individuals with an interest to use discovery and visualisation tools for their own organisational or local exhibitions and fairs. 
-+ because we use MIT licencing, companies can reuse code and tools created in the project to make commercial products. 
-+ Weyeser and Tulip Interactive will develop prototype tools for discovering and visualising new collections and new perspectives of collections that they can further develop into products. Through the interactions with users on the platform and contributors to the exhibition, they gain valuable information about the interests and needs of the users of their tools.
+The exhibition and events working up to it can be used as a model for other collections and locations. Other organisations and movements can easily start their own local events.
+Existing tools and methods developed in research projects such as CATCH can be reused and the prototypes can be further developed into full-fledged products.
+Creative industries can use the models for exhibiting collections out of context to make their catalogue of online and offline exhibitions which they can monetize by targeting interested audiences.
+The deliverables of this project will create a new market of organisations and individuals with an interest to use discovery and visualisation tools for their own organisational or local exhibitions and fairs. 
+Because we use MIT licencing, companies can reuse code and tools created in the project to make commercial products. 
+Weyeser and Tulip Interactive will develop prototype tools for discovering and visualising new collections and new perspectives of collections that they can further develop into products. Through the interactions with users on the platform and contributors to the exhibition, they gain valuable information about the interests and needs of the users of their tools.
 
 ### Expected societal and economic impacts
 
