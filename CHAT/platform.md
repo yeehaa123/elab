@@ -5,7 +5,8 @@ University of Amsterdam
 
 ## Coding the Humanities: A Platform for Research and Learning
 
-Partners: Robin Boast (UvA), Jan Hein Hoogstad (UvA), Marijn Koolen (UvA), Sabrina Sauer (UvA), Joris van Zundert (KNAW)
+Partners: Robin Boast (UvA), Jan Hein Hoogstad (UvA), Marijn Koolen
+(UvA), Sabrina Sauer (UvA), Joris van Zundert (KNAW)
 
 ## Project Description 
 
@@ -16,19 +17,14 @@ of learning and research in the humanities.
 
 ### Goal and Problem
 
-To answer this question,
-we will design a coding platform that accelerates these processes
-and creates new models for collaboration in the humanities. This project aims to increase the number of people who approach learning
-and research collaboratively, through an online platform where users
-learn programming and build tools, thereby increasing digital literacy
-and at the same time lowering the technological threshold to engage with
-and reflect on digital tools. The problem we address is that learning
-and research (in the humanities) are hindered by a lack of coding
-skills and the seeming incommensurability of educating massive groups
-of students and providing high quality education. Although traditional
-knowledge institutions are losing their monopoly on education and
-research, ICT skills and knowledge production remain privileges of a
-cultural, technological and economic elite.
+This project aims to stimulate engagement with and reflection on digital
+tools in the humanities. The problem we address is that learning and
+research are hindered by a lack of coding skills and the seeming
+incommensurability of educating massive groups of students and providing
+high quality education. Although traditional knowledge institutions are
+losing their monopoly on education and research, both coding skills and
+an academic education remain privileges of a cultural, technological and
+economic elite.
 
 We propose to tackle this problem by providing online and offline
 interfaces between people on the one hand and learning and research
@@ -39,17 +35,16 @@ to participation, empower many different groups of people to more deeply
 and effectively engage with technology and motivate lifelong learning.
 
 Within digital humanities research a broad range of tools is used for
-analysis of digital materials. Humanities scholars often have little
-interest in the details of how the tools work, but prefer to focus on
-what they can be used for. However, understanding the intricate details
-of tools is important when drawing conclusions from and basing claims on
-their results.
+analysis of digital materials. Scholars often have little interest in
+the details of how the tools work, but prefer to focus on what they
+can be used for. However, understanding the intricate details of tools
+is important when drawing conclusions from and basing claims on their
+results.
+
 In collaborative projects with computer scienctist, the latter have
 more interest in those details, but may lack the domain expertise
 to understand the full consequences of implementation details for
-humanities research At the University of Amsterdam, we are currently
-developing a collaborative platform for building and reflecting on
-humanities tools through programming.
+humanities research.
 
 In this project we investigate ways to develop this platform in which
 collaboration learning and research is intuitive and effective. The goal
@@ -57,6 +52,7 @@ of this project is to get humanities and computer science perspective
 to inform, enrich and enhance each other. We aim to educate a generation 
 of hybrid scholars and computer scientists that embody high end skills 
 of both worlds.
+
 The importance of this platform, however, is not limited to mere use.
 It allows to explore what forms of (collaborative) interaction models
 programming opens up (see user interaction models, Bradley, 2004). We
@@ -76,40 +72,42 @@ how to read and write code are not truly digitally literate. Therefore
 education should play an important role in the formation of a center for
 humanities and technology.
 
-We believe that coding education should evolve around users and their
-needs. Thus one of the main challenges to face for the creation of a
-sustainable dialogue about the opportunities ICT offers is to interest
-and educate non-technologically biased persons, meaning those who are
-not motivated by technology in and of itself, but want to know how it
-can contribute to their needs before investing in it. This perspective
-often lacks from standard coding courses and tutorials.
+However, the past has taught us that this cannot work in a missionary
+way, where the students were addressed as primitives. On the contrary,
+we believe that coding education should evolve around users and their
+needs. Thus one of the main challenges to face for the creation of
+a sustainable dialogue about the opportunities technology offers is
+to interest and educate non-technologically biased persons, meaning
+those who are not motivated by technology in and of itself, but want to
+know how it can contribute to their needs before investing in it. This
+perspective often lacks from standard coding courses and tutorials.
 
 
 ### How this research contributes to the humanities, and to ‘digital humanities’ 
 
-Developing programming skills will lead DH scholars to better
-understand their digital tools and results, thereby allowing them to
-make more reliable and meaningful interpretations. Research on tool building 
-will lead to better models of and guidelines for how to develop tools around 
-a specific research question. 
+Developing programming skills will lead DH scholars to better understand
+their tools and results, thereby allowing them to make more reliable
+and meaningful interpretations. Research on tool building will lead
+to better models of and guidelines for how to develop tools around a
+specific research question.
 
 Humanities scholars can communicate more easily and clearly with
 computer scientists and collaborate more intuitively through a shared
 vocabulary (coding), i.e. reducing friction at the interface between two
-domains. Through collaborative projects, new tools will be developed
-that can be used and modified for further research. Humanities
-scholars will learn a skill that is valued outside the confines of the
-university, thereby increasing both their employability as well as
-their ability to engage in public-private partnerships. In times of big
-data, more and more information is available but not necessary turned
-into knowledge. 
+domains. Through collaborative projects, tools will be developed that
+can be used and modified for further research. Scholars will
+learn a skill that is valued outside the confines of the university,
+thereby increasing both their employability as well as their ability to
+engage in public-private partnerships. 
 
-The Coding the Humanities platform educates students,
-researchers and non-technologically biased people on how to approach
-this data. It allows its participants to gain insights by addressing
-these datasets. The CtH projects and tools are therefore easily
-relateable to already existing open data movements - it seeks to provide
-its users with digital agency that evolves into debates on open data.
+In times of big data, more and more information is available but not
+necessary turned into knowledge.The Coding the Humanities platform
+educates students, researchers and non-technologically biased people on
+how to approach this data. It allows its participants to gain insights
+by addressing these datasets. The CtH projects and tools are therefore
+easily relateable to already existing open data movements - it seeks to
+provide its users with digital agency that evolves into debates on open
+data.
 
 
 ### Relation to ‘Opportunities for the humanities’ section of the white paper
@@ -123,7 +121,6 @@ view.
 Organizational opportunities: the platform will foster new forms of
 collaborations between scholars of different humanities disciplines and
 between humanities and computer science.
-
 
 
 ### How this research contributes to one or more of the core technologies in section 1 of the white paper 
@@ -140,51 +137,72 @@ technologies.
 
 Coding the Humanities projects are produced and stored under open
 licenses, which encourages the collaboration and reuse of the software
-tools by other institutions, companies or partners. In this sense, the
-platform triggers direct debate on the status of ICT in the humanities.
+tools by other institutions, companies or partners. In this sense,
+the platform triggers direct debate on the use of technology in the
+humanities.
 
 
 ## How does this research build on relevant state-of-the-art research?
 
-One of the premisses of this project is that there is hardly any
+One of the premisses of this project is that there is little
 state-of-the-art research on this topic. The digital tools that are used
-in humanities research are hardly ever made into a topic of discussion
-or reflection. The building of new custom made tools, such as the
-platform that we suggest, is even more rare. Companies offering online
-learning platforms like Apearo, Edx have no courses in this direction.
-There are programming courses offered for non-computer science students,
-but they often engage students with technical jargon and a perspective
-that lacks relevance to those with no such technological bias but a need
-to know what programming skills have to offer them.
+in humanities research are rarely topic of discussion or reflection.
+The building of custom made tools is even more rare. Companies
+offering online learning platforms like Apearo, Edx have no courses
+or software in this direction. There are programming courses offered
+for non-computer science students, but they often engage students with
+technical jargon and a perspective that lacks relevance to those with no
+such technological bias but a need to know what programming skills have
+to offer them.
 
-That being said, our project does build on some pioneering work by people such
-as Stefan Sinclair (McGill), John Willinsky (Stanford), Alan Liu (University of
-Santa Barbara), Geoff Bowker (UC Irvine), and Siva Vaidhyanathan (University of
-Virginia), all of which are involved as advisors in our project.
-
-
+That being said, our project does build on some pioneering work by
+people such as Stefan Sinclair (McGill), John Willinsky (Stanford), Alan
+Liu (University of Santa Barbara), Geoff Bowker (UC Irvine), and Siva
+Vaidhyanathan (University of Virginia), all of which are involved as
+advisors in our project.
 
 
 ### Why the proposed research team would be the best to perform this research:
 
-+ Our project team has a broad range of expertise on programming, software development, pedagogy, and our research covers several humanities disciplines, including Cultural Analysis, Literary Studies, Heritage Studies and Mediastudies as well as Computer and Information Science. 
-+ We are directly involved in the development of digital humanities courses for a joint minor program at the UvA and VU and are already running two courses on programming for humanities students and are preparing a follow-up course. 
-+ We have also organized and given workshops and crash courses on digital tools and programming for humanities researchers. 
-+ Joris van Zundert led the European COST Action 'Interedition' on international collaborative tool development and interoperability in the humanities. He studies the interaction between computer science, software development, and humanities.
-+ Jan Hein Hoogstad has a background in Philosophy, Mediastudies, Cultural Analysis and Literature, and has taught programming at Dev BootCamp. 
-+ Marijn Koolen is Assistant Professor in Digital Humanities, has a background in Artificial Intelligence and information science.
-+ Robin Boast has worked in the digital humanities for over 30 years and currently teaches on Cultural Information Science, Neo-colonial information governance, and the history and sociology of digitally and collecting. 
-+ Sabrina Sauer is an Assistant Professor at the University of Amsterdam. Her research has included examining what happens when the ideas of ordinary people become the starting point for the design of new ICT’s, and this platform pulls previously uninvolved humanities people into ICT's. 
++ Our project team has a broad range of expertise on programming,
+software development, pedagogy, and our research covers several
+humanities disciplines, including Cultural Analysis, Literary Studies,
+Heritage Studies and Mediastudies as well as Computer and Information
+Science.
+
++ A pilot version of this project (platform and two courses, staff
+courses) is already under active development and is co-funded by the UVA
+and VU.
+
++ Joris van Zundert led the European COST Action 'Interedition' on
+international collaborative tool development and interoperability in
+the humanities. He studies the interaction between computer science,
+software development, and humanities.
+
++ Jan Hein Hoogstad has a background in Philosophy, Mediastudies,
+Cultural Analysis and Literature, and has taught programming at Dev
+BootCamp in San Francisco.
+
++ Marijn Koolen is Assistant Professor in Digital Humanities, has a
+background in Artificial Intelligence and information science.
+
++ Robin Boast has worked in the digital humanities for over 30 years and
+currently teaches information governance, and the history and sociology
+of digitally and collecting.
+
++ Sabrina Sauer is an Assistant Professor at the University of
+Amsterdam. Her research focus on the innovative contributions of
+everyday users on platforms such as this one.
 
 
 ### Plans for software and data management and sharing
 
 The platform will embrace open source culture and all contributions to
 the platform and projects developed on the platform are published using
-open licenses. The students share their code projects on distributed
-repositories, which encourages re-use, altering and further development.
+a open-source (MIT) license. The students share their code projects on
+distributed repositories, which encourages re-use, altering and further
+development.
 
-- MIT
 
 ### Budget and Key Deliverables (1 page)
 
