@@ -1,7 +1,7 @@
 # Spaces for Embedded Research
 
 Partners: Robin Boast (UvA), Jan Hein Hoogstad (UvA), Marijn Koolen (UvA), 
-Katja Kwastek (VU), Sabrina Sauer (UvA), Ginette Verstraete (VU), ?????? Nynke Bos (UvA) ?????
+Katja Kwastek (VU), Sabrina Sauer (UvA), Ginette Verstraete (VU), Nynke Bos (UvA)
 
 Additional partners
 
