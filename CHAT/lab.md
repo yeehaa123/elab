@@ -228,7 +228,7 @@ collaboration between different actors to enrich research experience.
 
 This project contributes to knowledge about public-private-civic
 collaboration practices and how these may be (re)modeled to benefit or
-learn from user-centricity. It has an explcit inclusion of humanities'
+learn from user-centricity. It has an explicit inclusion of humanities'
 researchers to inform and question ICT developments, in open online and
 offline environments.
 
