@@ -1,6 +1,6 @@
 # Collections as Interfaces
 
-Partners: Robin Boast (UvA), Jan Hein Hoogstad (UvA), Katja Kwastek
+Partners: Robin Boast (UvA), Jan Hein Hoogstad (UvA), Marijn Koolen (UvA), Katja Kwastek
 (VU), Sabrina Sauer (UvA), Ginette Verstraete (VU)
 
 Additional partners:
