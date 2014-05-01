@@ -206,6 +206,7 @@ future of the humanities: politics, literacy, culture, and knowledge
 production.
 
 ### Teaching and training benefits
+Developers, students, artists, curators, designers, will all learn from each other in the exhibition's interactive, international and interdisciplenary environment. 
 
 # How this project contributes to the long-term development of CHAT
 
