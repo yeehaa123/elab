@@ -48,6 +48,8 @@ research, product innovation and commercial interests. This results in
 new forms of knowledge production in the humanities, as well as the building
 of sustainable information sharing and collaborations between embedded researchers.
 
+The OverLab furthermore offers private and civic partners the opportunity to find
+and include humanities' reseachers to include in research projects (????)
 + best practices of setting up embedded research projects.
 + best practives ensuring that embedded humanities research is neither too academically oriented nor to product oriented.
 
