@@ -73,7 +73,7 @@ The process will be openly documented and intends the imitation
 and formation of living labs related to the coding the [humanities
 platform](http://codingthehumanities.com/) (part of the joint UvA-VU
 initiatives to further Digital Humanities research and education). As
-such, our lab brings together public-private-civic partners to develop
+such, our lab fosters public-private-civic partnerships to develop
 new computational instruments as well as research methods.
 
 In addition to this, the embedded researchers’ activities articulate
