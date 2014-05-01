@@ -79,18 +79,7 @@ finally, the user to the artwork.
 
 ### How this research contributes to the humanities, and to ‘digital humanities’ 
 
-+ testbed for new forms of collaboration between public and private partners
-
-+ creation of new tools specifically aimed at humanities' scholars
-
-+ experimentation with new types of (crowd) funding
-
-+ decentralization of the role of the expert (curator, scholar) in the 
-  creation, curation, and exhibition of collections
-
-+ communicate the importance of DH to a large non-academic public
-
-+ experimentation with new kind of interfaces in the museum space.
+This research will serve as a testbed for new forms of collaboration between public and private partners, bringing the humanities into non-academic realms. This change in location will communicate the importance of Dark Horse to a large non-academic public who otherwise would not likely be introduced to design thinking. The role of the expert (curator or scholar) will be decentralized in the creation, curation, and exhibition of collections. It will generate the creation of new tools which are specifically aimed at humanities scholars and will prove useful to them in their research. It will explore creating new kinds of interfaces in the museum space. This research will also experiment with new types of (crowd) funding.  
 
 
 ### how this research contributes to core technologies identified in section 2 white paper:
@@ -111,13 +100,7 @@ be software based.
 
 ### how the research relates to humanities, and ‘digital humanities’
 
-+ New forms of exhibitions, citizen research
-
-+ new cultural data set and links between existing data sets and items will be created
-
-+ visualisations of many relations between heterogeneous and distributed data sets will lead to new knowledge and new questions
-
-+ online projects leave a trace of how a new type of exhibition develops
+This research will discover new forms of exhibitions and citizen research. New cultural data set and links between existing data sets and items will be created. Visualisations of many relations between heterogeneous and distributed data sets will lead to new knowledge and new questions. Online projects leave a trace of how a new type of exhibition develops.
 
 ### how the research relates to the ‘opportunities for the humanities’ section in the white paper:
 
@@ -127,12 +110,9 @@ be software based.
 - PhD(s)?
 
 ### Deliverables:
- - exhibition / festival
- - models for new types of collaborative exhibitions
- - tools and libraries for data acquisition and manipulation
+The major deliverable of this research will be the interdisciplenary coding fair, where students, researchers, developers, and business people can come together. The fair will demonstrate results of the research, in the forms of models for new types of collaborative exhibitions and tools and libraries for data acquisition and manipulation.
+
 
 ## How does this research build on relevant state-of-the-art research
 
-- Augmenting Masterpieces (Barnbeck, Hoogstad)
-- Virtual Museum Transnational Network (http://www.v-must.net/)
-- Material Encounters with Digital Cultural Heritage (http://mesch-project.eu/)
+The project Augmenting Masterpieces by Johanna Barnbeck and Jan Hein Hoogstad will be complemented by this research. We will also build on the work of the Virtual Museum Transnational Network (http://www.v-must.net/) and Material Encounters with Digital Cultural Heritage (http://mesch-project.eu/).
