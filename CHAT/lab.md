@@ -188,11 +188,15 @@ Post-doc travel    9.000,00 for 1 post-doc
 
 TOTAL Over 4 Years 1038.800,00
 
-Milestones:
-+ Year 1: first versions of Amsterdam-based ER lab started 
-+ Year 2: create first product or service and model for ER lab
-+ Year 3: first model for ER lab published
-+ Year 4: ER lab opened by non-CHAT partners
+### Milestones:
+
+Year 1: first versions of Amsterdam-based ER lab started 
+
+Year 2: create first product or service and model for ER lab
+
+Year 3: first model for ER lab published
+
+Year 4: ER lab opened by non-CHAT partners
 
 ### Key deliverables:
 
