@@ -116,10 +116,9 @@ affords experimentation environments, with users as co-producers.
 This research builds on recent insights in collaborative living lab
 practices (Sauer, S. (September 2013) User innovativeness in Living Laboratories – Everyday user
 improvisations with ICTs as a source of innovation. PhD Thesis,
-University of Twente. Promotor: Prof. dr. N.E.J. Oudshoorn) where the
-importance of user-centered research in living labs is underlined, but
-that also stresses how more research about the actual role of “the
-user” (in this case, the humanities’ scholar) is required in order
+University of Twente) where the importance of user-centered research in
+living labs is underlined, but that also stresses how more research about
+the actual role of the user (in this case, the humanities’ scholar) is required in order
 to more fully embrace the advantages of on- and offline collaborative
 practices. The lab provides exactly such an opportunity.
 
