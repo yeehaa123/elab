@@ -29,15 +29,10 @@ that did not exist as such before. This is made possible by the fact
 that many cultural institutions now make their collections publicly
 available through so-called API's (Application Programming Interfaces).
 In the events that we have planned, the participants are encouraged
-to create and curate their own colllectons. In order to facilitate
+to create and curate their own collectons. To facilitate
 this project, we will offer workshops, data events, speakers, art
-installations, and presentations on relationship between technology,
+installations, and presentations on relationships between technology,
 art, business, and cultural heritage.
-
-This entirely new kind of exhibition uses coding skills to make an
-intervention in areas that are crucial to the past, present, and
-the future of the humanities: politics, literacy, culture, and knowledge
-production.
 
 There are not only dramatic geographic differences in accessibility
 to and user skills of ICT but also socio-economic and demographic
@@ -45,8 +40,8 @@ gaps. Vast societal groups face the problem of digital exclusion.
 Accessibility to and digital literacy about ICTs determine whether a
 person is included into economic, social and cultural life, and whether
 they can participate in decision making processes within the democratic
-realm. In other words, using and comprehending ICT is about agency and
-inclusion. With regard to the growing impact of ICT not only on economic
+realm. In other words, using and comprehending programming is about agency and
+inclusion. With regard to the growing impact of programming not only on economic
 productivity but also within the cultural, social and political realm,
 this exclusion forms a challenge in terms of equality, inclusion and
 chances of participation.
@@ -55,7 +50,7 @@ One area in which the challenge of digital literacy and exclusion is
 prominent is within humanities research. Academia is increasingly
 confronted with large amounts of data. In order to turn this data
 into information and into knowledge, researchers and students need
-tools that allow to structure, search, correlate, analyze, but most
+tools that allow them to structure, search, correlate, analyze, but most
 importantly, present and visualize this data. 
 
 The same argument also holds for working fields related to the
@@ -86,7 +81,7 @@ non-academic realms.
 
 The role of the expert (curator or scholar) will be decentralized in
 the creation, curation, and exhibition of collections. It will generate
-the creation of new tools which are specifically aimed at humanities
+new tools which are specifically aimed at humanities
 scholars and will prove useful to them in their research. It will
 explore creating new kinds of interfaces in the museum space. This
 research will also experiment with new types of (crowd) funding.
@@ -105,15 +100,10 @@ Interactive) are excellently equiped to push this agenda forward, because ...
 
 ### how this research contributes to core technologies identified in section 2 white paper:
 
-
-+ Together with Weyeser we will develop data minig tools to search 
+Together with Weyeser we will develop data minig tools to search 
 for and discover new patterns and knowledge in governmental and 
-heritage collections.
-
-+ With Tulip Interactive we will develop new visualization tools for
-presenting collections in different ways.
-
-+ With Cast Your Art we will develop new modes in which these
+heritage collections. With Tulip Interactive we will develop new visualization tools for
+presenting collections in different ways. With Cast Your Art we will develop new modes in which these
 collections can be displayed on- and offline.
 
 
@@ -146,6 +136,18 @@ The Augmenting Masterpieces project (Barnbeck & Hoogstad) investigates
 interactive ways to experience the physical and digital collection of
 the Rijksmuseum in Amsterdam, with the aim to develop a prototype and
 map interaction scenarios.
+
+##Valorization
+
+#Expected societal and economic impacts
+Society will benefit from community involvement in the exhibition itself. This entirely new kind of exhibition uses coding skills to make an
+intervention in areas that are crucial to the past, present, and
+the future of the humanities: politics, literacy, culture, and knowledge
+production.
+
+# Teaching and training benefits
+
+# How this project contributes to the long-term development of CHAT
 
 We will also build on the work of the Virtual Museum Transnational
 Network (http://www.v-must.net/) and Material Encounters with Digital
@@ -180,7 +182,7 @@ study of movement in cities, but also for a humanities-based study of
 media usage.
 
 ## Plans for software and data management and sharing
-open source licensing. MIT. 
+We will use MIT open source licensing. 
 
 ## Budget:
 
@@ -202,7 +204,6 @@ Additional deliverables will be digital tools for searching,
 discovering, analysing and visualising patterns in online collections.
 
 Publication of several articles and at least one book.
-
 
 ## Project Management
 
