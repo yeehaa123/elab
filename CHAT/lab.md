@@ -171,9 +171,15 @@ to the lab.
 
 ## budget: 
 
-- 2 PhD's          
-- 1 Postdoc
-- 1 Embedded researcher
+Expenses Per Year (PY)
+PhD positions         46.750,00 for 2 PhDs FTE
+Post-doc position     83.332,00 for 2 post-docs FTE
+Embedded Researcher   50.000,00 for 1 embedded researcher
+Infrastructure        50.000,00
+Overhead              70.000,00
+PhD travel            3.000,00 for two PhDs
+Post-doc travel       3.000,00 for 2 post-docs
+
 
 ## key deliverables:
 
