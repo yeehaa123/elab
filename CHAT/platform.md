@@ -166,17 +166,17 @@ Post-doc 1FTE~33.500,00
 
 #### Other Expenses
 
-|-------------------------------|
-| Description 					| Cost |
-|-------------------------------|-|
-| Hardware acquisition 			| |
-| Software acquisition			| |
-| Infrastructural requirements	| Server space for building platform |
-| Travel expenses 				| 5.000 |
-| Overhead Office space 		| 30.000,00 |
-|-------------------------------| |
+|-------------------------------|-------------|
+| Description 					| Cost        |
+|-------------------------------|-------------|
+| Hardware acquisition 			|             |
+| Software acquisition			|-------------|
+| Infrastructural requirements	| Server      |
+| Travel expenses 				| 5.000       |
+| Overhead Office space 		| 30.000,00   |
+|-------------------------------|-------------|
 | Total Cost PY					| ~118.599,00 |
-|-------------------------------| |
+|-------------------------------|-------------|
 
 ### Milestones
 
