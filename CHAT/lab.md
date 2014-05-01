@@ -186,8 +186,7 @@ PhD positions 54.158,00 for 2 PhDs FTE
 Post-doc position 59.000,00 for 2 post-docs FTE 
 
 Year 2: 
-PhD positions 63.102,00 P
-ost-doc position 59.000,00 Development 130.000,00 for 2 developers
+PhD positions 63.102,00 Post-doc position 59.000,00 Development 130.000,00 for 2 developers
 
 Year 3: 
 PhD positions 66.092,00 
