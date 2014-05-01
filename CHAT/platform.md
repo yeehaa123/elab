@@ -121,15 +121,14 @@ the humanities. --->
 
 ## How does this research build on relevant state-of-the-art research?
 
-One of the premisses of this project is that there is hardly any state of the
-art research on this topic. The digital tools that are used in humanities
-research are hardly ever topic of discussion or reflection. The building of new
-custom made tools, such as the platform that we suggest, is even more rare. 
+One of the premisses of this project is that there is hardly any state-of-the-art research on this topic. The digital tools that are used in humanities
+research are hardly ever made into a topic of discussion or reflection. The building of new
+custom made tools, such as the platform that we suggest, is even more rare.
 
 That being said, our project does build on some pioneering work by people such
 as Stefan Sinclair (McGill), John Willinsky (Stanford), Alan Liu (University of
 Santa Barbara), Geoff Bowker (UC Irvine), and Siva Vaidhyanathan (University of
-Virginia). All of which are involved as advisors in our project.
+Virginia), all of which are involved as advisors in our project.
 
 TO DO: LOOK FOR RELATED PROJECTS
 
@@ -144,13 +143,8 @@ offer them.
 
 ### Why the proposed research team would be the best to perform this research:
 
-WHAT'S OUR EXPERTISE IN THIS AREA? IT'S NEW BUT WE HAVE DEVELOPED COURSES, ORGANISED AND GAVE WORKSHOP (ACADEMIC AND PUBLIC), STARTED DEVELOPING PLATFORM
+This research is extremely new. At Coding the Humanities, we have developed three courses in coding for humanities students, two of which are already running and one which will begin in September 2014. We have also organized and given a workshop. In effect we have begun to develop a platform and see the great potential for what can be achieved if we can expand it. Jan Hein Hoogstad has a phenomenal background both in the humanities fields of Cultural Analysis and Literature, as well as in programming. Marijn Koolen has developed expertise in Artificial Intelligence, information retrieval, and information science, making him an ideal fit for this project. Robin Boast has worked in the digital humanities for over 30 years and currently teaches on Cultural Information Science, Neo-colonial information governance, and the history and sociology of digitally and collecting. Sabrina Sauer is an Assistant Professor at the University of Amsterdam. Her research has included examining what happens when the ideas of ordinary people become the starting point for the design of new ICT’s, and this platform pulls previously uninvolved humanities people into ICT's. Joris van Zundert, researcher and developer at the KNAW, manages project Aflab. This project determine the requirements of a digital infrastructure for humanities and to explore and test drive the possibilities of computational humanities for that field, relating directly to this project.
 
-+ Expertise Jan Hein
-+ Expertise Joris
-+ Expertise Marijn
-+ Expertise Robin
-+ Expertise Sabrina
 
 ### Plans for software and data management and sharing
 
@@ -161,7 +155,8 @@ repositories, which encourages re-use, altering and further development.
 
 ### Budget and Key Deliverables (1 page)
 
-
+- 2 PhD positions
+- 
 #### Expenses Per Year (PY)
 
  PositionFTE/PTESalary
@@ -196,6 +191,7 @@ Year 4: papers, dissertations, tools, and models
 #### Key Deliverables
 The platform for collaborative humanities research through programming that this project will develop is in itself a key deliverable. The platform will create new libraries for tool building, as well as tools and guidelines / best practices for collaboration. 
 
+### Collaboration Plan
 
 #### Valorization
 
