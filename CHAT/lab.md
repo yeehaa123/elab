@@ -43,8 +43,7 @@ embedded researchers to collaborate and learn from each others'
 experiences, to bring together knowledge on how to best combine
 academic research, product innovation and commercial interests. This
 results in new forms of knowledge production in the humanities, and
-builds sustainable collaborations between embedded researchers. Through
-experience, this research will reveal best practices of setting up
+builds sustainable collaborations. This research will reveal best practices of setting up
 embedded research projects, and ensures that embedded humanities
 research is neither too academically oriented nor too product oriented.
 
@@ -54,16 +53,15 @@ The proposed living lab focuses on facilitating breakthrough scholarship
 in the (digital) humanities, by offering a collaborative space that
 embraces social learning practices between public-private-civic actors.
 This lab explores the integration and augmentation of online
-learning and collaboration into an offline environment. It serves as
-a real life testbed to initiate, support and foster online digital humanities
-projects. At the same time, the strategies and practices of the
+learning and collaboration into an offline environment.
+At the same time, the strategies and practices of the
 physical space of the lab inform the development of the digital platform. 
 
-Innovative perspectives on the application of technology in general
-and its integration into an offline space will be explored through
+Innovative perspectives on the application of technology and
+its integration into an offline space will be explored through
 experimental, user focused workshops that result in a physical space.
 The conception and design of the lab according to user needs is a
-crucial part within this subproject. This approach will produce
+crucial part within this subproject. This approach produces
 models and concepts for the design and user culture of a living
 lab that feeds off of and informs the online learning platform.
 
@@ -84,8 +82,7 @@ researchers to work between theory and (artistic) practice, physical and
 digital research, science and art, universities and public or private
 partners. Furthermore, in the lab scholars experiment with digital
 humanities and methods thereby improving awareness of computational
-instruments while also using the space to meet new partners for future
-research.
+instruments.
 
 
 ### How this research contributes to one or more of the core technologies in White Paper, Section 2
@@ -106,10 +103,9 @@ technologies from the start of technology development. This inclusion
 reverses top-down R&D-processes in favour of bottom-up innovation,
 performed by users and grounded in society instead of in research
 laboratories. This practice is to lead to unexpected insights into user
-ideas and practices and lead to the development of more successful ICTs. To gain unexpected insights,
+ideas and practices and the development of more successful ICTs. To gain unexpected insights,
 methodologies focus on the inclusion of real (end) users in daily life
-contexts. The Living Lab thus also comprises a setting; a setting that
-affords experimentation environments, with users as co-producers.
+contexts.
 
 This research builds on recent insights in collaborative living lab
 practices (Sauer, S. (September 2013) User innovativeness in Living Laboratories – Everyday user
