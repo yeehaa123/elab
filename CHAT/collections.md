@@ -151,18 +151,14 @@ map interaction scenarios.
 
 Robin Boast, professor at the University of Amsterdam, has been working
 in what we now call the Digital Humanities for over 30 years.
-
 Jan Hein Hoogstad, Assistant Professor at the University of Amsterdam
 in Cultural Analysis and Comparative Literature, has extensive coding
 experience and a background that connects programming to the humanities.
-
 Katja Kwastek is a professor in Art History at the VU University in
 Amsterdam and researches crossroads between art and new media.
-
 Sabrina Sauer is an Assistant Professor at the University of Amsterdam.
 Her research combines approaches from Media Studies and Science and
 Technology Studies.
-
 Ginette Verstraete, Professor at the VU University, researches the way
 mobile (location-based) technologies and their applications (such as
 GPS on iPhones) have transformed mobility through urban space.These
@@ -176,32 +172,34 @@ We will use MIT open source licensing.
 
 ## Budget:
 Year 1: 
-PhD positions 54.158,00 for 2 PhDs FTE 
+PhD positions      74.000,00 for 2 PhDs FTE 
 Post-doc position  59.000,00 for 1 post-doc FTE 
-Development 100.000,00 for 2 developers FTE
+Development       130.000,00 for 2 developers FTE
 
 Year 2: 
-PhD positions 63.102,00 
-Post-doc position 59.000,00 
+PhD positions      86.200,00
+Post-doc position  59.000,00 
+Development       130.000,00 
 
 
 Year 3: 
-PhD positions 66.092,00 
-Post-doc position 59.000,00 
+PhD positions      90.400,00 
+Post-doc position  59.000,00 
+Development       130.000,00 
 
 
 Year 4: 
-PhD positions 69.264,00 
-Post-doc position 59.000,00 
+PhD positions      95.200,00 
+Development       130.000,00 
 
 
 Other Costs Over 4 Years 
-Infrastructure 200.000,00 
-Overhead 120.000,00 
-PhD travel 48.000,00 
-Post-doc travel 24.000,00 
+Infrastructure    200.000,00 
+Organising        120.000,00
+PhD travel         12.000,00 
+Post-doc travel     4.500,00 
 
-TOTAL Over 4 Years 980.616,00
+TOTAL Over 4 Years 1379.300,00
 
 
 
