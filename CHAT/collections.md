@@ -136,7 +136,7 @@ manipulation.
 
 ## How does this research build on relevant state-of-the-art research
 
-CATCH project in the Netherlands. opening up data collections.
+The NWO CATCH and CATCHplus projects have developed tools and collections that will be brought to and used by a broader audience of humanities scholars, creative industries and interested non-professionals. The private partners of the many CATCHplus can use this project to find new users for their products. 
 
 The Augmenting Masterpieces project of Johanna Barnbeck and Jan Hein
 Hoogstad investigates interactive ways to experience the physical
