@@ -99,8 +99,8 @@ Humanities](http://codingthehumanities.com/))
 Horse GMBH., is one of the leading european consultancy firms in design
 thinking. We believe the user-centered, collaborative approach that
 defines this methodology, is a way out of the individualist research
-culture in the humanities. DH will help us design a lab and a curriculum based
-on this approach.
+culture in the humanities. DH will help us design a lab and a curriculum
+based on this approach.
 
 ## How does this research build on relevant state-of-the-art research
 
