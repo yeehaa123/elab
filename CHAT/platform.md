@@ -2,7 +2,7 @@
 # Grant Proposal 
 
 University of Amsterdam
-Coding the Humanities – Platform as Interface
+Coding the Humanities
 
 ## Platform 
 
