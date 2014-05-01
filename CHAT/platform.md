@@ -68,7 +68,7 @@ collaboratively learn programming and build tools for their research.
 
 In order to initiate a fruitful debate about the use of coding in
 the humanities it is crucial to substantially increase the degree of
-digital literacy. It is our conviction that people that do not know
+digital literacy. It is our conviction that people who do not know
 how to read and write code are not truly digitally literate. Therefore
 education should play an important role in the formation of a center for
 humanities and technology.
