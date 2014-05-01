@@ -29,7 +29,6 @@ interest in the details of how the tools work, but prefer to focus on
 what they can be used for. However, understanding the intricate details
 of tools is important when drawing conclusions from and basing claims on
 their results.
-
 In collaborative projects with computer scienctist, the latter have
 more interest in those details, but may lack the domain expertise
 to understand the full consequences of implementation details for
@@ -40,8 +39,9 @@ humanities tools through programming.
 In this project we investigate ways to develop this platform in which
 collaboration learning and research is intuitive and effective. The goal
 of this project is to get humanities and computer science perspective
-to inform, enrich and enhance each other. 
-
+to inform, enrich and enhance each other. We aim to educate a generation 
+of hybrid scholars and computer scientists that embody high end skills 
+of both worlds.
 The importance of this platform, however, is not limited to mere use.
 It allows to explore what forms of (collaborative) interaction models
 programming opens up (see user interaction models, Bradley, 2004). We
@@ -137,7 +137,15 @@ Virginia), all of which are involved as advisors in our project.
 
 ### Why the proposed research team would be the best to perform this research:
 
-This research is extremely new, and we are leaders in our pursuit of this coding platform. At Coding the Humanities, we have developed three courses in coding for humanities students, two of which are already running and one which will begin in September 2014. We have also organized and given a workshop on Coding the Humanities in January 2014. In effect we have begun to develop a platform and see the great potential for what can be achieved if we can expand it. Jan Hein Hoogstad has a phenomenal background both in the humanities fields of Cultural Analysis and Literature, as well as in programming. Marijn Koolen has developed expertise in Artificial Intelligence, information retrieval, and information science, making him an ideal fit for this project. Robin Boast has worked in the digital humanities for over 30 years and currently teaches on Cultural Information Science, Neo-colonial information governance, and the history and sociology of digitally and collecting. Sabrina Sauer is an Assistant Professor at the University of Amsterdam. Her research has included examining what happens when the ideas of ordinary people become the starting point for the design of new ICT’s, and this platform pulls previously uninvolved humanities people into ICT's. Joris van Zundert, researcher and developer at the KNAW, manages project Aflab. This project determine the requirements of a digital infrastructure for humanities and to explore and test drive the possibilities of computational humanities for that field, relating directly to this project.
+
++ Our project team has a broad range of expertise on programming, software development, pedagogy, and our research covers several humanities disciplines, including Cultural Analysis, Literary Studies, Heritage Studies and Mediastudies as well as Computer and Information Science. 
++ We are directly involved in the development of digital humanities courses for a joint minor program at the UvA and VU and are already running two courses on programming for humanities students and are preparing a follow-up course. 
++ We have also organized and given workshops and crash courses on digital tools and programming for humanities researchers. 
++ Joris van Zundert led the European COST Action 'Interedition' on international collaborative tool development and interoperability in the humanities. He studies the interaction between computer science, software development, and humanities.
++ Jan Hein Hoogstad has a background in Philosophy, Mediastudies, Cultural Analysis and Literature, and has taught programming at Dev BootCamp. 
++ Marijn Koolen is Assistant Professor in Digital Humanities, has a background in Artificial Intelligence and information science.
++ Robin Boast has worked in the digital humanities for over 30 years and currently teaches on Cultural Information Science, Neo-colonial information governance, and the history and sociology of digitally and collecting. 
++ Sabrina Sauer is an Assistant Professor at the University of Amsterdam. Her research has included examining what happens when the ideas of ordinary people become the starting point for the design of new ICT’s, and this platform pulls previously uninvolved humanities people into ICT's. 
 
 
 ### Plans for software and data management and sharing
@@ -151,44 +159,30 @@ repositories, which encourages re-use, altering and further development.
 ### Budget and Key Deliverables (1 page)
 
 Budget for 4 Years
-- PhD positions        187.000,00 for 2 positions FTE
-- Post-doc position    125.000,00 for 1 position  FTE
-- Infrastructure     1.096.000,00
-- Overhead             120.000,00
-- PhD travel            48.000,00 for 2 PhDs
-- Post-doc travel       24.000,00 for 1 post-doc
-- TOTAL            1,2.000.000,00
+- PhD positions        300.000,00 for 2 positions FTE
+- Post-doc position    280.000,00 for 2 positions FTE
+- Developer            400.000,00
+- Infrastructure       200.000,00
+- Overhead             295.000,00
+- Travel (PhD+PD)       21.000,00 for 2 PhDs 2 postdocs
+- TOTAL              1.496.000,00
 
 #### Expenses Per Year (PY)
 - PhD positions         46.750,00 for 2 PhDs FTE
-- Post-doc position     41.666,00 for 1 post-doc FTE
-- Infrastructure        
-- Overhead              30.000,00
-- PhD travel            12.000,00 for two PhDs
-- Post-doc travel        8.000,00 for 1 post-doc
+- Post-doc position     83.332,00 for 2 post-docs FTE
+- Development          100.000,00 for 3 developers
+- Infrastructure        50.000,00 
+- Overhead              70.000,00
+- PhD travel             3.000,00 for two PhDs
+- Post-doc travel        3.000,00 for 2 post-docs
 
-
-
-#### Other Expenses
-
-|-------------------------------|-------------|
-| Description                   | Cost        |
-|-------------------------------|-------------|
-| Hardware acquisition 			| 2,000       |
-| Software acquisition			| 2,000       |
-| Infrastructura (server)       | 10,000      |
-| Travel expenses 				| 5,000       |
-| Overhead Office space 		| 30,000      |
-|-------------------------------|-------------|
-| Total Cost PY                 | 127,500     |
-|-------------------------------|-------------|
 
 ### Milestones
 
-Year 1: platform online, X conference/journal papers 
-Year 2: portfolio of tools developed on the platform, papers on platform collaborations
-Year 3: models and guidelines for developing tools based on research questions, more papers
-Year 4: papers, dissertations, tools, and models
++ Year 1: platform online, X conference/journal papers 
++ Year 2: portfolio of tools developed on the platform, papers on platform collaborations
++ Year 3: models and guidelines for developing tools based on research questions, more papers
++ Year 4: papers, dissertations, tools, and models
 
 
 #### Key Deliverables
