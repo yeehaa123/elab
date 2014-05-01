@@ -11,14 +11,14 @@ Partners: Robin Boast (UvA), Jan Hein Hoogstad (UvA), Marijn Koolen (UvA), Sabri
 
 ### Main Research Question 
 
-This project explores how coding can open up new, innovative types
-of learning and research in the humanities. To answer this question,
-we will design a coding platform that accelerates these processes
-and creates new models for collaboration in the humanities. 
+This project explores how coding can open up innovative types
+of learning and research in the humanities.  
 
 ### Goal and Problem
 
-This project aims to increase the number of people who approach learning
+To answer this question,
+we will design a coding platform that accelerates these processes
+and creates new models for collaboration in the humanities. This project aims to increase the number of people who approach learning
 and research collaboratively, through an online platform where users
 learn programming and build tools, thereby increasing digital literacy
 and at the same time lowering the technological threshold to engage with
@@ -71,14 +71,12 @@ collaboratively learn programming and build tools for their research.
 
 In order to initiate a fruitful debate about the use of coding in
 the humanities it is crucial to substantially increase the degree of
-digital literacy. It is our conviction, that people that do not know
+digital literacy. It is our conviction that people that do not know
 how to read and write code are not truly digitally literate. Therefore
 education should play an important role in the formation of a center for
 humanities and technology.
 
-However, the past has taught us that this cannot work in a missionary
-way, where the students were addressed as primitives. On the contrary,
-we believe that coding education should evolve around users and their
+We believe that coding education should evolve around users and their
 needs. Thus one of the main challenges to face for the creation of a
 sustainable dialogue about the opportunities ICT offers is to interest
 and educate non-technologically biased persons, meaning those who are
