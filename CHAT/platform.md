@@ -20,7 +20,9 @@ and creates new models for collaboration in the humanities.
 
 ### Goal and Problem
 
-This project aims to create a coding platform for humanities students and researchers to 
+This project aims to increase the number of people who approach learning and research collaboratively, through an online platform where users learn programming and build tools, thereby increasing digital literacy and at the same time lowering the technological threshold to engage with and reflect on digital tools. The problem we address is that learning and research (in the humanities) are hindered by a lack of coding skills and the seeming incommensurability of educating massive groups of students and providing high quality education. Although traditional knowledge institutions are losing their monopoly on education and research, ICT skills and knowledge production remain privileges of a cultural, technological and economic elite.
+
+We propose to tackle this problem by providing online and offline interfaces between people on the one hand and learning and research on the other hand, which focus on new forms of collaboration and a user- and tool-oriented approach to learning programming skills. These interfaces lower the technological, economic and organizational barriers to participation, empower many different groups of people to more deeply and effectively engage with technology and motivate lifelong learning.
 
 Within digital humanities research a broad range of tools is used for
 analysis of digital materials. Humanities scholars often have little
