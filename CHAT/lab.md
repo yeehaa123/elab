@@ -29,8 +29,12 @@ projects. 'The Lab as Interface' project addresses this challenge by
 designing and producing an offline living lab as interface between
 the digital and other worlds.
 
+ANOTHER GOAL MAY BE TO MAKE THE LAB GO BEYOND ACADEMIC BORDERS TO INCLUDE PRIVATE PARTNERS, CIVIC ORGANISATIONS, GENERAL PUBLIC, OPENING UP HUMANITIES RESEARCH TO OTHER TYPES OF USERS
+
 
 ### How this research contributes to the humanities, and to ‘digital humanities’? 
+
+WE SHOULD MAYBE MENTION A RECOGNISABLE HUMANITIES RESEARCH PROBLEM IN HERE SOMEWHERE. SOMETHING LIKE NEW RESEARCH POSSIBILITIES ON MEDIA ENGAGEMENT? POSSIBILITIES FOR EMPIRICAL MEDIASTUDIES WITH LESSONS FOR PRIVATE PARTNERS ON THEIR PRODUCTS?
 
 The recent focus of funding for the humanities towards creative
 industries and other private partners has resulted in many digital
@@ -39,6 +43,9 @@ embedded researchers to collaborate and learn from each others
 experiences, to bring together knowledge on how to best combine academic
 research, product innovation and commercial interests. This results in
 new forms of knowledge production in the humanities.
+
++ best practices of setting up embedded research projects.
++ best practives ensuring that embedded humanities research is neither too academically oriented nor to product oriented.
 
 ### How does the research relate to the ‘opportunities for the humanities’ identified in the White Paper, Section 1?
 
@@ -63,8 +70,8 @@ lab that feeds off of and informs the online learning platform.
 
 The process will be openly documented and intends the imitation
 and formation of living labs related to the coding the [humanities
-platform](http://codingthehumanities.com/) (currently in development
-at the UvA). As such, our lab brings together public-private-civic
+platform](http://codingthehumanities.com/) (part of the joint UvA-VU initiatives to further Digital Humanities research and education). 
+As such, our lab brings together public-private-civic
 partners to develop new computational instruments as well as research
 methods. 
 
@@ -77,7 +84,7 @@ larger societal and R&D inspired collaboration and ICT innovation
 practices. The lab furthermore allows embedded researchers who
 work between theory and (artistic) practice, physical and digital
 research, science and art, universities and public or private partners.
-Furthermore, within the OverLab humanities’ scholars can experiment
+Furthermore, in the lab humanities’ scholars can experiment
 with digital humanites and digital methods thereby improving awareness
 of computational instruments as well as increasing a space to meet
 possible private partners for future research.
@@ -94,13 +101,6 @@ for experimentation, but also learning-by-doing collaboratively;
 digital interfaces are developed that are discovery oriented. The
 offline lab is complemented by an online platform ([Coding the
 Humanities](http://codingthehumanities.com/)) 
-
-**Design Thinking**: Our private partner in this project, The Dark
-Horse GMBH., is one of the leading european consultancy firms in design
-thinking. We believe the user-centered, collaborative approach that
-defines this methodology, is a way out of the individualist research
-culture in the humanities. DH will help us design a lab and a curriculum
-based on this approach.
 
 ## How does this research build on relevant state-of-the-art research
 
@@ -140,15 +140,20 @@ user” (in this case, the humanities’ scholar) is required in order
 to more fully embrace the advantages of on- and offline collaborative
 practices. The OverLab provides exactly such an opportunity.
 
+The CLUE team "Paradigms of Creativity" ...
+
+**Design Thinking**: Our private partner in this project, The Dark
+Horse GMBH., is one of the leading european consultancy firms in design
+thinking. We believe the user-centered, collaborative approach that
+defines this methodology, is a way out of the individualist research
+culture in the humanities. DH will help us design a lab and a curriculum
+based on this approach.
+
 
 ## Why this research team would be best to perform this research
 
 Sabrina Sauer is a prominent researcher at the University of Amsterdam,
 with specific expertise on living labs. 
-
-Johanna Barnbeck is an Embedded Artistic Researcher who has worked as a
-creative consultant, making her ideal for a project that links academic
-and non-academic worlds.
 
 Jan Hein Hoogstad is an Assistant Professor in Cultural Analysis
 and Comparative Literature who has also taught coding bootcamps and
@@ -157,11 +162,14 @@ workshops, including at Dev Bootcamp in San Francisco.
 Marijn Koolen, an Assistant Professor in the digital humanities at the
 University of Amsterdam, specializes in user studies and user needs, and
 this project is aimed at finding what tools would most benefit users and
-then creating them. All three of the above have backgrounds in media
-studies.
+then creating them. <!--- All three of the above have backgrounds in media
+studies. --->
 
-Nynke Bos is an expert in ICT innovation. Ginette
-Verstraete ... ... ... 
+Johanna Barnbeck is an Embedded Artistic Researcher who has worked as a
+creative consultant, making her ideal for a project that links academic
+and non-academic worlds.
+
+Nynke Bos is an expert in ICT innovation. 
 
 Robin Boast has been working for over thirty years in what today we call
 Digital Humanities. His work has focused on diverse topics, ranging from
@@ -176,9 +184,9 @@ sociotechnical transformations raise new substantive issues for the
 study of movement in cities, but also for a humanities-based study of
 media usage.
 
-Participants from the University of Amsterdam are currently developing a
-lab at their university as well as the coding platform, which links to
-this lab project.
+Both the UvA and VU have and are developing Humanities research labs 
+This project also connects to the development of the Coding the Humanities 
+platform, which is developed by the applicants.
 
 Dark Horse is a company that works in Design Thinking, which is central
 to the lab.
@@ -187,7 +195,8 @@ to the lab.
 ## budget: 
 
 - 2 PhD's
-- embedded researcher
+- 1 Postdoc
+- 1 Embedded researcher
 
 ## key deliverables:
 
