@@ -194,10 +194,10 @@ PhD travel            3.000,00 for two PhDs
 Post-doc travel       3.000,00 for 2 post-docs
 
 Milestones:
-Year 1: create one new product or service, PhDs and post-doc preesnt at conferences
+Year 1: create one new product or service, PhDs and post-doc present at conferences
 Year 2: PhDs and post-doc present at conferences
 Year 3: post-doc graduates
-Year 4: PhDs finnish dissertations
+Year 4: PhDs finish dissertations
 
 ### Key deliverables:
 
@@ -210,8 +210,7 @@ created for embedded research labs.
 ### Publish/distribute results
 
 Results will be published in academic journals, conferences, workshops,
-and colloquiums. The
-post-doc will especially write articles on new forms of valorizing
+and colloquiums. The post-doc will especially write articles on new forms of valorizing
 humanities research. 
 
 
