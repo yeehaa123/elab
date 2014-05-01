@@ -20,7 +20,10 @@ private sector?
 The goal is to accelerate the process of opening universities towards
 private partners, cultural institutions, civic movements, and other
 universities by creating a physical space situated between the involved
-agents. 
+agents. This process of opening up aims to move humanities' reseach to include
+other types of users and move research beyond academic borders. By including private
+and civic partners in new forms and practices of research within the lab, new circulation
+of knowledge is foreseen, leading to new research questions and new types of research. 
 
 The challenge that needs to be overcome is forming a community both
 on- and offline whose participants are to engage with a platform over
