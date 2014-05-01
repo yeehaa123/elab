@@ -139,7 +139,15 @@ map interaction scenarios.
 
 ##Valorization
 
++ the exhibition and events working up to it can be used as a model for other collections and locations. Other organisations and movements can easily start their own local events.
++ existing tools and methods developed in research projects such as CATCH can be reused and the prototypes can be further developed into full-fledged products.
++ creative industries can use the models for exhibiting collections out of context to make their catalogue of online and offline exhibitions which they can monetize by targeting interested audiences.
++ the deliverables of this project will create a new market of organisations and individuals with an interest to use discovery and visualisation tools for their own organisational or local exhibitions and fairs. 
++ because we use MIT licencing, companies can reuse code and tools created in the project to make commercial products. 
++ Weyeser and Tulip Interactive will develop prototype tools for discovering and visualising new collections and new perspectives of collections that they can further develop into products. Through the interactions with users on the platform and contributors to the exhibition, they gain valuable information about the interests and needs of the users of their tools.
+
 #Expected societal and economic impacts
+
 Society will benefit from community involvement in the exhibition itself. This entirely new kind of exhibition uses coding skills to make an
 intervention in areas that are crucial to the past, present, and
 the future of the humanities: politics, literacy, culture, and knowledge
