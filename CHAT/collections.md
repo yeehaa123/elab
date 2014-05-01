@@ -158,6 +158,8 @@ Additionally, the VU University project Perspective and Perception,
 which explores how graphical projections commonly used in interactive
 digital environments influence our perception.
 
+Robin Boast's project Assemblage and Diversity: Working with Incommensurability in Distributed, Emergent Knowledge Networks is also closely related to this research. It creates a network of objects that are normally placed in museums and moves them to locations that are directly relevant to their meaning.
+
 ## Why the proposed research team would be best to perform this research
 
 Robin Boast, professor at the University of Amsterdam, has been working
