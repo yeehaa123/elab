@@ -209,8 +209,11 @@ TOTAL Over 4 Years 1459.300,00
 
 ## Milestones:
 Year 1: Pilot exhibition, PhDs publish at first conference
+
 Year 2: post-doc begins, events begin leading up to the exhibition
+
 Year 3: Exhibition (coding fair)
+
 Year 4: PhDs complete dissertations
 
 ### Deliverables:
@@ -272,13 +275,7 @@ an intervention in areas that are crucial to the past, present, and the
 future of the humanities: politics, literacy, culture, and knowledge
 production.
 
-<<<<<<< HEAD
-### Teaching and training benefits Developers, students, artists,
-curators, designers, will all learn from each other in the exhibition's
-interactive, international and interdisciplenary environment.
-=======
 ### Teaching and training benefits
->>>>>>> 726a09a869ffd98b708b63b6b3154afc33059bdd
 
 Developers, students, artists, curators, designers, will all learn from each other in the exhibition's interactive, international and interdisciplinary environment. 
 
