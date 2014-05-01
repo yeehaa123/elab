@@ -115,12 +115,7 @@ understanding of and multiple perspective on the complexities of their
 materials can inform the building of tools related to each of the core
 technologies.
 
-<!--- CtH projects are produced and stored under open licenses which
-encourages the collaboration and reuse of the software tools by other
-institutions, companies or partners and therefore provides. These
-platform in this sense triggers direct debate on the status of ICT in
-the humanities. --->
-
+Coding the Humanities projects are produced and stored under open licenses, which encourages the collaboration and reuse of the software tools by other institutions, companies or partners. In this sense, the platform triggers direct debate on the status of ICT in the humanities.
 
 
 ## How does this research build on relevant state-of-the-art research?
@@ -139,8 +134,6 @@ That being said, our project does build on some pioneering work by people such
 as Stefan Sinclair (McGill), John Willinsky (Stanford), Alan Liu (University of
 Santa Barbara), Geoff Bowker (UC Irvine), and Siva Vaidhyanathan (University of
 Virginia), all of which are involved as advisors in our project.
-
-TO DO: LOOK FOR RELATED PROJECTS
 
 
 
