@@ -155,8 +155,8 @@ repositories, which encourages re-use, altering and further development.
 
 ### Budget and Key Deliverables (1 page)
 
-- 2 PhD positions
-- 
+- 2 PhD positions      186.000,00
+- 1 post-doc position  
 #### Expenses Per Year (PY)
 
  PositionFTE/PTESalary
