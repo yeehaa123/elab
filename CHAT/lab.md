@@ -184,6 +184,7 @@ platform, which is developed by the applicants.
 Dark Horse is a company that works in Design Thinking, which is central
 to the lab.
 
+## Plans for software and data management and sharing
 
 ## budget: 
 
@@ -203,6 +204,9 @@ created for embedded research labs.
 
 Results will be published in academic journals, conferences, workshops,
 and colloquiums.
+
+## Collaboration Plan
+The Principle Investigators will be Robin Boast from the University of Amsterdam and Ginette Verstraete from the VU University. They will coordinate the collaboration plan. Periodical meetings will take place involving the partners and Dark Horse.
 
 ## Valorization
 
