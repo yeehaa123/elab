@@ -81,6 +81,9 @@ finally, the user to the artwork.
 
 This research will serve as a testbed for new forms of collaboration between public and private partners, bringing the humanities into non-academic realms. This change in location will communicate the importance of Dark Horse to a large non-academic public who otherwise would not likely be introduced to design thinking. The role of the expert (curator or scholar) will be decentralized in the creation, curation, and exhibition of collections. It will generate the creation of new tools which are specifically aimed at humanities scholars and will prove useful to them in their research. It will explore creating new kinds of interfaces in the museum space. This research will also experiment with new types of (crowd) funding.  
 
+This research will discover new forms of exhibitions and citizen research. New cultural data set and links between existing data sets and items will be created. Visualisations of many relations between heterogeneous and distributed data sets will lead to new knowledge and new questions. Online projects leave a trace of how a new type of exhibition develops.
+
+### how the research relates to the ‘opportunities for the humanities’ section 1 in the white paper:
 
 ### how this research contributes to core technologies identified in section 2 white paper:
 
@@ -98,11 +101,8 @@ civic movements but also single citizens to understand political and
 social processes, identify problems and develop solutions – that can
 be software based.
 
-### how the research relates to humanities, and ‘digital humanities’
 
-This research will discover new forms of exhibitions and citizen research. New cultural data set and links between existing data sets and items will be created. Visualisations of many relations between heterogeneous and distributed data sets will lead to new knowledge and new questions. Online projects leave a trace of how a new type of exhibition develops.
 
-### how the research relates to the ‘opportunities for the humanities’ section in the white paper:
 
 ### Budget:
 
@@ -116,3 +116,7 @@ The major deliverable of this research will be the interdisciplenary coding fair
 ## How does this research build on relevant state-of-the-art research
 
 The project Augmenting Masterpieces by Johanna Barnbeck and Jan Hein Hoogstad investigates interactive ways to experience the physical and digital collection of the Rijksmuseum in Amsterdam, with the aim to develop a prototype and map interaction scenarios. This research will complement Augmenting Masterpieces in that it also examines the relationship between the user, the tools available, and their experience of the collection. We will also build on the work of the Virtual Museum Transnational Network (http://www.v-must.net/) and Material Encounters with Digital Cultural Heritage (http://mesch-project.eu/). Additionally, the VU University project Perspective and Perception, which explores how graphical projections commonly used in interactive digital environments influence our perception.
+
+## Why the proposed research team would be best to perform this research
+
+## Plans for software and data management and sharing
