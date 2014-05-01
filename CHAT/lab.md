@@ -130,26 +130,7 @@ practices. The OverLab provides exactly such an opportunity.
 
 ## Why this research team would be best to perform this research
 
-+ Sabrina Sauer: up-and-coming star at uva, expertise on living labs, our secret
-  weapon
-
-+ Johanna Barnbeck: Embedded and Artistic Researcher that worked as a consultant
-
-+ Dark Horse: For Design Thinking
-
-+ Jan Hein Hoogstad: Professional Coding Education and Mentorship in SF
-
-+ Marijn Koolen: user studies and user needs, 
-
-+ Nynke Bos: ICT Innovation Bad-ass
-
-+ Ginette Verstraete: 
-
-+ Robin Boast: Yoda
-
-+ UvA participants are currently developing a lab at the UvA as well as the coding the platform to which this is linked, 
-
-+ Boast, Hoogstad and Sauer: media studies backgrounds
+Sabrina Sauer is a prominent researcher at the University of Amsterdam, with specific expertise on living labs. Johanna Barnbeck is an Embedded Artistic Researcher who has worked as a creative consultant, making her ideal for a project that links academic and non-academic worlds. Jan Hein Hoogstad is an Assistant Professor in Cultural Analysis and Comparative Literature who has also taught coding bootcamps and workshops, including at the Dev Bootcamp in San Francisco. Marijn Koolen, an Assistant Professor in the digital humanities at the University of Amsterdam, specializes in user studies and user needs, and this project is aimed at finding what tools would most benefit users and then creating them. All three of the above have backgrounds in media studies. Nynke Bos is an expert in ICT innovation. Ginette Verstraete ... ... ... Robin Boast has been working for over thirty years in what today we call Digital Humanities. His work has focused on diverse topics, ranging from the first digital collection projects in museums and universities to the more recent emergence of the Web and social computing, to the question of digitality itself. Partiipants from the University of Amsterdam are currently developing a lab at their university as well as the coding platform, which links to this lab project. Dark Horse is a company that works in Design Thinking, which is central to the lab.
 
 + VU expertise
 
@@ -162,30 +143,24 @@ practices. The OverLab provides exactly such an opportunity.
 
 ## key deliverables:
 
-- PhD's: 2 papers presented in first year, 1 article published in second year, plus 2 papers presented at (inter) national conferences, 1 artible published in third year plus 2 papers presented at (inter)national conferences
-- Developed prototypes and models for embedded research labs
-- Post doc: (articles on) new forms of valorizing humanities research
+The research deliverables for this will be published papers and presentations at conferences for the PhD and post-doc researchers. The post-doc will especially write articles on new forms of valorizing humanities research. There will also be protypes developed and models created for embedded research labs. 
 
 ## publish/distribute results
 
-- conferences, workshops, colloquiums?
+Results will be published in academic journals, conferences, workshops, and colloquiums.
 
 ## Valorization
 
 ## Expected societal and economic benefits
 
-- creating new products and services for public-private-civic benefit: insight in how collaborations in online and offline spaces enrich each other
-- Development of new research methodologies - further development of embedded research, also of interest for private partners
-- ....
+The concrete deliverables will be the creation of new products and services for public-private-civic benefit. This research will gain insight in how collaborations in online and offline spaces enrich each other. It will also develop new research methodologies. Assigning a role of embedded researcher will be of interest to academia as well as to private partners.
+
 
 ## Teaching and training benefits
 
-The establishment of OverLab as collaborative space allows users to train and learn from each other. This also benefits the development digital humanities' skillset and experimentation for future digital humanities' scholars; In addition, the learning-by-doing approach helps overcome the reluctance of relfectively minded scholars to engage with new technologies 
+The establishment of OverLab as collaborative space allows users to train and learn from each other. This also benefits the development digital humanities' skillset and experimentation for future digital humanities' scholars. In addition, the learning-by-doing approach helps overcome the reluctance of relfectively minded scholars to engage with new technologies. Embedded researchers work between theory and (artistic) practice, physical and digital research, science and art, universities and public or private partners. Their needs as digital knowledge worker on the one hand and a specific but homogeneous group on the other hand, allow valuable insights concerning the question of how ICT can provide instruments to make research more open, accessible and sustainable. This project will circulate knowledge; it will articulate how tacit knowledge informs humanities' research through direct collaboration between different actors to enrich research experience.
 
-- embedded researcher
-- Circulation of knowledge; articulation of how tacit knowledge informs humanties' research, direct collaboration between different actors to enrich research experience.
 
 ## How the project relates to the long term development of CHAT
--Contributes to knowledge about public-private-civic collaboration practices and how these may be (re)modeled to benefit or learn from user-centricity
-=Explcit inclusion of humanities' researchers to inform and question ICT developments, in open online and offline environment
+This project contributes to knowledge about public-private-civic collaboration practices and how these may be (re)modeled to benefit or learn from user-centricity. It has an explcit inclusion of humanities' researchers to inform and question ICT developments, in open online and offline environments. 
 
