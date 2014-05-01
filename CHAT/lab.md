@@ -73,7 +73,7 @@ methods.
 
 In addition to this, the embedded researchers’ activities articulate
 and map how developed instruments and methods form new models and
-methods for sustainable cooperation.This culminates in new areas
+methods for sustainable cooperation. This culminates in new areas
 of enquiry for humanities’ research; bringing forth humanities’ perspectives and research about
 larger societal and R&D inspired collaboration and ICT innovation
 practices. The lab also allows embedded researchers to
@@ -106,7 +106,7 @@ laboratories. This practice is to lead to unexpected insights into user
 ideas and practices and lead to the development of more successful ICTs. To gain unexpected insights,
 methodologies focus on the inclusion of real (end) users in daily life
 contexts. The Living Lab thus also comprises a setting; a setting that
-affords experimentation environments,with users as co-producers.
+affords experimentation environments, with users as co-producers.
 
 This research builds on recent insights in collaborative living lab
 practices (Sauer, S. (September 2013) User innovativeness in Living Laboratories – Everyday user
