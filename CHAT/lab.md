@@ -130,7 +130,7 @@ Issue on Living Labs, vol. 10, pp. 99-131, 2008. Sauer, S. (September
 improvisations with ICTs as a source of innovation. PhD Thesis,
 University of Twente. Promotor: Prof. dr. N.E.J. Oudshoorn) where the
 importance of user-centered research in living labs is underlined, but
-that also underlines that more research about the actual role of “the
+that also stresses how more research about the actual role of “the
 user” (in this case, the humanities’ scholar) is required in order
 to more fully embrace the advantages of on- and offline collaborative
 practices. The lab provides exactly such an opportunity.
