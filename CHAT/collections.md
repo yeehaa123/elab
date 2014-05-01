@@ -178,17 +178,17 @@ Development 100.000,00 for 2 developers FTE
 Year 2: 
 PhD positions 63.102,00 
 Post-doc position 59.000,00 
-Development 130.000,00 for 2 developers
+
 
 Year 3: 
 PhD positions 66.092,00 
 Post-doc position 59.000,00 
-Development 130.000,00 
+
 
 Year 4: 
 PhD positions 69.264,00 
-Post-doc position 118.000,00 
-Development 130.000,00
+Post-doc position 59.000,00 
+
 
 Other Costs Over 4 Years 
 Infrastructure 200.000,00 
@@ -196,26 +196,9 @@ Overhead 120.000,00
 PhD travel 48.000,00 
 Post-doc travel 24.000,00 
 
-TOTAL Over 4 Years 
+TOTAL Over 4 Years 980.616,00
 
 
-Budget for 4 Years
-
-PhD positions 300.000,00 for 2 positions FTE
-Post-doc position 280.000,00 for 2 positions FTE
-Infrastructure 200.000,00
-Overhead 295.000,00
-Travel (PhD+PD) 21.000,00 for 2 PhDs 2 postdocs
-TOTAL 1,096.000.00
-
-Expenses Per Year (PY)
-
-PhD positions 46.750,00 for 2 PhDs FTE
-Post-doc position 83.332,00 for 2 post-docs FTE
-Infrastructure 50.000,00
-Overhead 70.000,00
-PhD travel 3.000,00 for two PhDs
-Post-doc travel 3.000,00 for 2 post-docs
 
 ## Milestones:
 Year 1: Pilot exhibition, PhDs publish at first conference
