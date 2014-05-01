@@ -115,9 +115,7 @@ affords experimentation environments, with users as co-producers.
 
 This research builds on recent insights in collaborative living lab
 practices (Sauer, S. (September 2013) User innovativeness in Living Laboratories – Everyday user
-improvisations with ICTs as a source of innovation.)
-<!--- PhD Thesis, University of Twente. Promotor: Prof. dr. N.E.J. Oudshoorn --->
-where the
+improvisations with ICTs as a source of innovation) where the
 importance of user-centered research in living labs is underlined, but
 that also stresses how more research about the actual role of “the
 user” (in this case, the humanities’ scholar) is required in order
@@ -213,8 +211,7 @@ labs.
 ### Publish/distribute results
 
 Results will be published in academic journals, conferences, workshops,
-and colloquiums. The
-post-doc will especially write articles on new forms of valorizing
+and colloquiums. The post-doc will especially write articles on new forms of valorizing
 humanities research. 
 
 

@@ -245,6 +245,10 @@ that this project will develop is in itself a key deliverable. The
 platform will create new libraries for tool building, as well as tools
 and guidelines / best practices for collaboration.
 
+## Publishing and distribution
+
+PhDs and post-docs will publish for conferences, as well as in adacemic journals.
+
 ## Project Management
 
 The platform will be coordinated by Jan Hein Hoogstad and Joris van

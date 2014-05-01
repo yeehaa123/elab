@@ -170,9 +170,25 @@ We will use MIT open source licensing.
 
 ## Budget:
 
-- 1 post-doc position
-- 2 PhD positions
-- 1 embedded researcher
+Budget for 4 Years
+
+PhD positions 300.000,00 for 2 positions FTE
+Post-doc position 280.000,00 for 2 positions FTE
+Embedded researcher position 160.000,00 for 1 position FTE
+Infrastructure 200.000,00
+Overhead 295.000,00
+Travel (PhD+PD) 21.000,00 for 2 PhDs 2 postdocs
+TOTAL 1,256.000.00
+
+Expenses Per Year (PY)
+
+PhD positions 46.750,00 for 2 PhDs FTE
+Post-doc position 83.332,00 for 2 post-docs FTE
+Embedded researcher 40.000,00 for 1 position FTE
+Infrastructure 50.000,00
+Overhead 70.000,00
+PhD travel 3.000,00 for two PhDs
+Post-doc travel 3.000,00 for 2 post-docs
 
 ## Milestones:
 Year 1: Pilot exhibition
