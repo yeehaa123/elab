@@ -223,7 +223,7 @@ Existing tools and methods developed in research projects such as CATCH can be r
 Creative industries can use the models for exhibiting collections out of context to make their catalogue of online and offline exhibitions which they can monetize by targeting interested audiences.
 The deliverables of this project will create a new market of organisations and individuals with an interest to use discovery and visualisation tools for their own organisational or local exhibitions and fairs. 
 Because we use MIT licencing, companies can reuse code and tools created in the project to make commercial products. 
-Weyeser and Tulip Interactive will develop prototype tools for discovering and visualising new collections and new perspectives of collections that they can further develop into products. Through the interactions with users on the platform and contributors to the exhibition, they gain valuable information about the interests and needs of the users of their tools.
+Weyeser and Tulp Interactive will develop prototype tools for discovering and visualising new collections and new perspectives of collections that they can further develop into products. Through the interactions with users on the platform and contributors to the exhibition, they gain valuable information about the interests and needs of the users of their tools.
 
 ### Expected societal and economic impacts
 
@@ -235,7 +235,7 @@ production.
 
 ### Teaching and training benefits
 
-Developers, students, artists, curators, designers, will all learn from each other in the exhibition's interactive, international and interdisciplenary environment. 
+Developers, students, artists, curators, designers, will all learn from each other in the exhibition's interactive, international and interdisciplinary environment. 
 
 ### How this project contributes to the long-term development of CHAT
 
