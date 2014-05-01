@@ -126,7 +126,10 @@ between humanities and computer science.
 
 ### How this research contributes to one or more of the core technologies in section 1 of the white paper 
 
-Programming underlies all interaction models (Bradley, 2004) and can contribute to each core technology. Through courses offered online and in DH curriculums at universities, a broad range of humanities scholars will build tools covering all five core technologies. 
+Programming underlies all five core technological challenges and a
+diverse group of researchers collaboration on projects on the platform
+will cover the whole range of technical challenges and all areas of the
+humanities.
 
 The strong focus on reflection of humanities scholars and their deep
 understanding of and multiple perspective on the complexities of their
@@ -192,7 +195,7 @@ Sabrina Sauer is Assistant Professor at the University of
 Amsterdam. Her research focus on the innovative contributions of
 everyday users on platforms such as this one.
 
-Nynke Bos is project leader of ICT and Education at the University of Amsterdam. She
+Nynke Bos is Assistant Professor at the University of Amsterdam. She
 is a psychologist with significant experience in pedagogy, ideal for a
 platform that creates new ways of learning.
 
@@ -208,26 +211,41 @@ development.
 
 ## Budget and Key Deliverables (1 page)
 
-Budget for 4 Years
-- PhD positions        346.000,00 for 2 positions FTE
-- Post-doc position    354.000,00 for 2 positions FTE
-- Developer            520.000,00
-- Infrastructure       300.000,00
-- Travel (PhD+PD)       21.000,00 for 2 PhDs 2 postdocs
-- TOTAL              1.541.000,00
-
 ### Expenses Per Year (PY)
-- PhD positions         46.750,00 for 2 PhDs FTE
-- Post-doc position     83.332,00 for 2 post-docs FTE
-- Developer    2*1FTE * 65k/year * 4 years = 520k
-- meetings              3k/year * 5 years  = 15k
+Year 1: 
+PhD positions         54.158,00 for 2 PhDs FTE + holiday
+Post-doc position     59.000,00 for 1 post-doc
+Development          100.000,00 for 2 developers
+
+Year 2: 
+PhD positions          63.102,00
+Post-doc position      59.000,00
+Development           100.000,00 for 2 developers
+
+Year 3:
+PhD positions          66.092,00
+Post-doc position      59.000,00
+Development           100.000,00 for 2 developers
+
+Year 4:
+PhD positions          69.264,00
+Post-doc position      59.000,00
+Development           100.000,00 for 2 developers
+
+Other Costs Over 4 Years
+Infrastructure        50.000,00 
+Overhead              70.000,00
+PhD travel            48.000,00 for two PhDs
+Post-doc travel       24.000,00 for 1 post-doc
+
+TOTAL Over 4 Years     1.080.616,00
 
 ### Milestones
 
-+ Year 1: platform online
-+ Year 2: online publiction of portfolio of tools developed on the platform, 
-+ Year 3: models and guidelines for developing tools based on research questions
-+ Year 4: conference on humanities contributions to software development
+Year 1: platform online, X conference/journal papers 
+Year 2: portfolio of tools developed on the platform, papers on platform collaborations
+Year 3: models and guidelines for developing tools based on research questions, more papers
+Year 4: papers, dissertations, tools, and models
 
 
 ### Key Deliverables
@@ -249,11 +267,10 @@ the KNAW respectively.
 
 ## Valorization
 
-Developers, but also humanities researchers themselves can turn the 
-open source projects and prototypes into applications that are of 
-interest to tourism, language learning, museums, e-book sellers and 
-many other areas. Large technology companies also increasingly look for 
-programmers with a humanities training.
+Programming underlies all five core technological challenges and a
+diverse group of researchers collaboration on projects on the platform
+will cover the whole range of technical challenges and all areas of the
+humanities.
 
 ### Societal and economic benefits:
 
