@@ -101,7 +101,7 @@ The opportunities for interdisciplinary collaboration and discovery for this pro
 
 ### how this research contributes to core technologies identified in White Paper Section 2:
 
-Together with Weyeser we will develop data minig tools to search 
+Together with Weyeser we will develop data mining tools to search 
 for and discover new patterns and knowledge in governmental and 
 heritage collections. 
 
