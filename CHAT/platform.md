@@ -3,7 +3,8 @@
 
 University of Amsterdam
 
-## Coding the Humanities: A Platform for Research and Learning
+## Coding the Humanities
+### A Platform for Research and Learning
 
 Partners: Robin Boast (UvA), Jan Hein Hoogstad (UvA), Marijn Koolen
 (UvA), Sabrina Sauer (UvA), Joris van Zundert (KNAW)
@@ -142,7 +143,7 @@ the platform triggers direct debate on the use of technology in the
 humanities.
 
 
-## How does this research build on relevant state-of-the-art research?
+### How does this research build on relevant state-of-the-art research?
 
 One of the premisses of this project is that there is little
 state-of-the-art research on this topic. The digital tools that are used
@@ -204,7 +205,7 @@ distributed repositories, which encourages re-use, altering and further
 development.
 
 
-### Budget and Key Deliverables (1 page)
+## Budget and Key Deliverables (1 page)
 
 Budget for 4 Years
 - PhD positions        300.000,00 for 2 positions FTE
@@ -215,7 +216,7 @@ Budget for 4 Years
 - Travel (PhD+PD)       21.000,00 for 2 PhDs 2 postdocs
 - TOTAL              1.496.000,00
 
-#### Expenses Per Year (PY)
+### Expenses Per Year (PY)
 - PhD positions         46.750,00 for 2 PhDs FTE
 - Post-doc position     83.332,00 for 2 post-docs FTE
 - Development          100.000,00 for 3 developers
@@ -233,7 +234,7 @@ Budget for 4 Years
 + Year 4: papers, dissertations, tools, and models
 
 
-#### Key Deliverables
+### Key Deliverables
 
 The platform for collaborative humanities research through programming
 that this project will develop is in itself a key deliverable. The
@@ -246,7 +247,7 @@ The platform will be coordinated by Jan Hein Hoogstad and Joris van
 Zundert, who will serve as the Principle Investigators for the UvA and
 the KNAW respectively.
 
-#### Valorization
+##### Valorization
 
 Programming underlies all five core technological challenges and a
 diverse group of researchers collaboration on projects on the platform
