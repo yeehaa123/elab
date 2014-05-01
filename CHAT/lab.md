@@ -172,7 +172,7 @@ of digitality itself.
 
 Ginette Verstraete, Professor at the VU University, researches the way
 mobile (location-based) technologies and their applications (such as
-GPS on iPhones) have transformed mobility through urban space.These
+GPS on iPhones) have transformed mobility through urban space. These
 sociotechnical transformations raise new substantive issues for the
 study of movement in cities, but also for a humanities-based study of
 media usage.
