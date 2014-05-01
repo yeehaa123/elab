@@ -42,7 +42,8 @@ The recent focus of funding for the humanities towards creative
 industries and other private partners has resulted in many digital
 humanities projects with embedded researchers. This project encourages
 embedded researchers to collaborate and learn from each others'
-experiences, to bring together knowledge on how to best combine academic research, product innovation and commercial interests. This
+experiences, to bring together knowledge on how to best combine
+academic research, product innovation and commercial interests. This
 results in new forms of knowledge production in the humanities, and
 builds sustainable collaborations between embedded researchers. Through
 experience, this research will reveal best practices of setting up
@@ -97,8 +98,7 @@ visualization, grappling with large open data sets provided by
 e.g. Europeana. The embedded research lab thus not only allows
 for experimentation, but also learning-by-doing collaboratively;
 digital interfaces are developed that are discovery oriented. The
-offline lab is complemented by an online platform ([Coding the
-Humanities](http://codingthehumanities.com/)). 
+offline lab is complemented by an online platform.
 
 ### How this research builds on relevant state-of-the-art research
 
