@@ -197,7 +197,7 @@ Year 4: PhDs complete dissertations
 
 ### Deliverables:
 
-The major deliverable of this research will be the interdisciplenary
+The major deliverable of this research will be the interdisciplinary
 coding fair, where students, researchers, developers, and business
 people can come together. The fair will demonstrate results of the
 research, in the forms of models for new types of collaborative
