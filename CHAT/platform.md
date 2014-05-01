@@ -142,7 +142,7 @@ humanities.
 
 ### How does this research build on relevant state-of-the-art research?
 
-One of the premisses of this project is that there is little
+One of the premises of this project is that there is little
 state-of-the-art research on this topic. The digital tools that are used
 in humanities research are rarely topic of discussion or reflection.
 The building of custom made tools is even more rare. Companies
