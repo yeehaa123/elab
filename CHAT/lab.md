@@ -215,7 +215,7 @@ The establishment of the lab as collaborative space allows users to
 train and learn from each other. This also benefits the development
 digital humanities' skillset and experimentation for future digital
 humanities' scholars. In addition, the learning-by-doing approach helps
-overcome the reluctance of relfectively minded scholars to engage
+overcome the reluctance of reflectively minded scholars to engage
 with new technologies. Embedded researchers work between theory and
 (artistic) practice, physical and digital research, science and art,
 universities and public or private partners. Their needs as digital
