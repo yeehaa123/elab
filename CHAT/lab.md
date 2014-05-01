@@ -193,6 +193,11 @@ Overhead              70.000,00
 PhD travel            3.000,00 for two PhDs
 Post-doc travel       3.000,00 for 2 post-docs
 
+Milestones:
+Year 1: create one new product or service, PhDs and post-doc preesnt at conferences
+Year 2: create one new product or service, PhDs and post-doc present at conferences
+Year 3: create one new product or service, post-doc graduates
+Year 4: create one new product or service, PhDs finnish dissertations
 
 ### Key deliverables:
 
