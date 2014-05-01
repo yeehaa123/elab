@@ -129,22 +129,29 @@ will help us design a lab and a curriculum based on this approach.
 ### Why this research team would be best to perform this research
 
 Sabrina Sauer is a prominent researcher at the University of Amsterdam,
-with specific expertise on living labs. Jan Hein Hoogstad is Assistant Professor in Cultural Analysis
+with specific expertise on living labs. 
+
+Jan Hein Hoogstad is Assistant Professor in Cultural Analysis
 and Comparative Literature who has also taught coding bootcamps and
 workshops, including at Dev Bootcamp in San Francisco. 
+
 Marijn Koolen, Assistant Professor in the digital humanities at the
 University of Amsterdam, specializes in user studies and user needs,
 and this project is aimed at finding and creating what products and
 services would most benefit users. 
+
 Johanna Barnbeck is an Embedded Artistic Researcher who has worked as a
 creative consultant, making her ideal for a project that links academic
 and non-academic worlds.
+
 Nynke Bos is an expert in ICT innovation and is project leader of ICT and Education at the UvA. 
+
 Robin Boast has been working for over thirty years in what today we call
 Digital Humanities. His work has focused on diverse topics, ranging from
 the first digital collection projects in museums and universities to the
 more recent emergence of the Web and social computing, to the question
 of digitality itself.
+
 Ginette Verstraete, Professor at the VU University, researches the way
 mobile (location-based) technologies and their applications (such as
 GPS on iPhones) have transformed mobility through urban space. These
@@ -152,9 +159,10 @@ sociotechnical transformations raise new substantive issues for the
 study of movement in cities, but also for a humanities-based study of
 media usage.
 
-Both the UvA and VU have and are developing Humanities research labs 
-This project also connects to the development of the Coding the Humanities 
-platform, which is developed by the applicants. Dark Horse is a company that works in Design Thinking, which is central to the lab.
+Both the UvA and VU have and are developing Humanities research labs
+This project also connects to the development of the Coding the
+Humanities platform, which is developed by the applicants. Dark Horse is
+a company that works in Design Thinking, which is central to the lab.
 
 ### Plans for software and data management and sharing
 
