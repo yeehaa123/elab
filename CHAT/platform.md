@@ -74,29 +74,10 @@ often lacks from standard coding courses and tutorials.
 
 The contribution of the development and research of this
 platform contributes to the humanities and digital humanities in several
-ways:
-
-+ the development of programming skills will lead DH scholars to better
-  understand their digital tools and results, thereby allowing them to
-  make more reliable and meaningful interpretations
-
-+ research on tool building will lead to better models of and guidelines
-  for how to develop tools around a specific research question
-
-+ humanities scholars can communicate more easily and clearly with
-  computer scientists and collaborate more intuitively through a shared
-  vocabulary (coding), i.e. reducing friction at the interface between two
-  domains
-
-+ Humanities scholars will learn skill that is valued outside the confines of
-  the university, thereby increasing both their employability as well as their
-  ability to engage in public-private partnerships.
-
-+ Through collaborative project, new tools will be developed that can be used
-  and modified for further research.
-
-+ In times of big data, more and more information is available but not
-  necessary turned into knowledge. The Coding the Humanities platform
+ways. Developing programming skills will lead DH scholars to better
+understand their digital tools and results, thereby allowing them to
+make more reliable and meaningful interpretations. Research on tool building will lead to better models of and guidelines for how to develop tools around a specific research question. Humanities scholars can communicate more easily and clearly with computer scientists and collaborate more intuitively through a shared vocabulary (coding), i.e. reducing friction at the interface between two domains. Through collaborative projects, new tools will be developed that can be used and modified for further research. Humanities scholars will learn a skill that is valued outside the confines of the university, thereby increasing both their employability as well as their
+ability to engage in public-private partnerships. In times of big data, more and more information is available but not necessary turned into knowledge. The Coding the Humanities platform
   educates students, researchers and non-technologically biased people on
   how to approach this data. It allows its participants to gain insights
   by addressing these datasets. The CtH projects and tools are therefore
@@ -153,13 +134,13 @@ Virginia). All of which are involved as advisors in our project.
 
 TO DO: LOOK FOR RELATED PROJECTS
 
-<!--- As far as we know, there is very little research in this area. Companies
+As far as we know, there is very little research in this area. Companies
 offering online learning platforms like Apearo, Edx have no courses in
 this direction. There are programming courses offered for non-computer
 science students, but they often engage students with technical
 jargon and a perspective that lacks relevance to those with no such
 technological bias but a need to know what programming skills have to
-offer them. --->
+offer them. 
 
 
 ### Why the proposed research team would be the best to perform this research:
