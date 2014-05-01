@@ -20,10 +20,7 @@ private sector?
 The goal is to accelerate the process of opening universities towards
 private partners, cultural institutions, civic movements, and other
 universities by creating a physical space situated between the involved
-agents. This process of opening up aims to move humanities' reseach to include
-other types of users and move research beyond academic borders. By including private
-and civic partners in new forms and practices of research within the lab, new circulation
-of knowledge is foreseen, leading to new research questions and new types of research. 
+agents.
 
 The challenge that needs to be overcome is forming a community both
 on- and offline whose participants engage with a platform over
@@ -32,9 +29,10 @@ projects. 'The Lab as Interface' project addresses this challenge by
 designing and producing an offline living lab as interface between
 the digital and other worlds.
 
-A lab for embedded research makes digital humanities projects more sustainable and pushes them beyond the academic borders to engage private partners, civic organisations and the general public.
+A lab for embedded research makes digital humanities' projects more sustainable and pushes them beyond the academic borders to engage private partners, civic organisations and the general public. This alternative circulation of
+knowledge leads to new forms and practices of research.
 
-### How this research contributes to the humanities, and to ‘digital humanities’
+### How this research contributes to the humanities, and to ‘digital humanities’? 
 
 The recent focus of funding for the humanities towards creative
 industries and other private partners has resulted in many digital
@@ -46,18 +44,17 @@ new forms of knowledge production in the humanities, as well as the building
 of sustainable information sharing and collaborations between embedded researchers.
 Through experience, this research will reveal best practices of setting up embedded research projects, as well as best practices ensuring that embedded humanities research is neither too academically oriented nor too product oriented.
 
-### How the research relate to the ‘opportunities for the humanities’ identified in the White Paper, Section 1
+### How does the research relate to the ‘opportunities for the humanities’ identified in the White Paper, Section 1?
 
 The proposed living lab focuses on facilitating breakthrough scholarship
 in the (digital) humanities, by offering a collaborative platform that
 embraces social learning practices between public-private-civic actors.
 
-This lab will explore the integration and augmentation of online
-learning and collaboration into an offline environment. It will serve as
+This lab explores the integration and augmentation of online
+learning and collaboration into an offline environment. It serves as
 a real life testbed to initiate, support and foster online humanities
 ICT projects. At the same time, the strategies and practices of the
-physical space in which the lab is located inform the development
-of the digital platform. 
+physical space of the lab inform the development of the digital platform. 
 
 Innovative perspectives on the application of technology in general
 and its integration into an offline space will be explored through
@@ -76,20 +73,19 @@ methods.
 
 In addition to this, the embedded researchers’ activities articulate
 and map how developed instruments and methods form new models and
-methods for sustainable cooperation so as to extend the developed
-practices. This will culminate in new areas of enquiry for humanities’
-research; bringing forth humanities’ perspectives and research about
+methods for sustainable cooperation.This will culminate in new areas
+of enquiry for humanities’ research; bringing forth humanities’ perspectives and research about
 larger societal and R&D inspired collaboration and ICT innovation
-practices. The lab furthermore allows embedded researchers who
+practices. The lab furthermore allows embedded researchers to
 work between theory and (artistic) practice, physical and digital
 research, science and art, universities and public or private partners.
-Furthermore, in the lab humanities’ scholars can experiment
-with digital humanites and digital methods thereby improving awareness
-of computational instruments as well as increasing a space to meet
-possible private partners for future research.
+Furthermore, in the lab humanities’ scholars experiment with digital humanities and methods
+thereby improving awareness of computational instruments while also using the space to meet
+new partners for future research.
 
 
-## How this research contributes to one or more of the core technologies in White Paper, Section 2
+## How this research contributes to one or more of the core technologies in section 1 of the white paper 
+
 
 **visualization and machine learning**: within the lab, students
 and researchers collaborate to learn and experiment with data
@@ -100,7 +96,7 @@ digital interfaces are developed that are discovery oriented. The
 offline lab is complemented by an online platform ([Coding the
 Humanities](http://codingthehumanities.com/)). 
 
-## How this research builds on relevant state-of-the-art research
+## How does this research build on relevant state-of-the-art research
 
 The living lab uses a user-driven methodology that blurs the boundaries
 between technology users and producers by including (future) users of
@@ -187,8 +183,6 @@ platform, which is developed by the applicants.
 Dark Horse is a company that works in Design Thinking, which is central
 to the lab.
 
-## Plans for software and data management and sharing
-We will use open source licensing. 
 
 ## budget: 
 
