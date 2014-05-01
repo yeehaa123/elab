@@ -35,9 +35,9 @@ installations, and presentations on relationships between technology,
 art, business, and cultural heritage.
 
 There are not only dramatic geographic differences in accessibility
-to and user skills of ICT but also socio-economic and demographic
+to and user skills of coding but also socio-economic and demographic
 gaps. Vast societal groups face the problem of digital exclusion.
-Accessibility to and digital literacy about ICTs determine whether a
+Accessibility to and digital literacy about coding determine whether a
 person is included into economic, social and cultural life, and whether
 they can participate in decision making processes within the democratic
 realm. In other words, using and comprehending programming is about agency and
