@@ -136,6 +136,8 @@ manipulation.
 
 ## How does this research build on relevant state-of-the-art research
 
+CATCH project in the Netherlands. opening up data collections.
+
 The Augmenting Masterpieces project of Johanna Barnbeck and Jan Hein
 Hoogstad investigates interactive ways to experience the physical
 and digital collection of the Rijksmuseum in Amsterdam, with the aim
@@ -184,5 +186,6 @@ study of movement in cities, but also for a humanities-based study of
 media usage.
 
 ## Plans for software and data management and sharing
+open source licensing. MIT. 
 
 ## Collaboration Plan
