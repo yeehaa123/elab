@@ -196,7 +196,8 @@ PhD travel            3.000,00 for two PhDs
 Post-doc travel       3.000,00 for 2 post-docs
 
 Milestones:
-Year 1: create at least one new product or service
+Year 1: first version of lab started
+Year 2: first new product or service created
 Year 2: create at least one new product or service
 Year 3: create at least one new product or service
 Year 4: create at least one new product or service
@@ -224,6 +225,8 @@ the collaboration plan. Periodical meetings will take place involving
 the partners and Dark Horse.
 
 ## Valorization
+
+
 
 ### Expected societal and economic benefits
 
