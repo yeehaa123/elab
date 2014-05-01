@@ -92,7 +92,7 @@ heterogeneous and distributed data sets will lead to new knowledge
 and new questions. Online projects leave a trace of how a new type of
 exhibition develops.
 
-Our private partners in this project (Cast Your Art, Weyeser, and Tulip
+Our private partners in this project (Cast Your Art, Weyeser, and Tulp
 Interactive) are excellently equiped to push this agenda forward, because ...
 
 ### how the research relates to the ‘opportunities for the humanities’ in White Paper Section 1:
@@ -104,7 +104,7 @@ Together with Weyeser we will develop data minig tools to search
 for and discover new patterns and knowledge in governmental and 
 heritage collections. 
 
-With Tulip Interactive we will develop new visualization tools for
+With Tulp Interactive we will develop new visualization tools for
 presenting collections in different ways. 
 
 With Cast Your Art we will develop new modes in which these
