@@ -79,7 +79,7 @@ larger societal and R&D inspired collaboration and ICT innovation
 practices. The lab also allows embedded researchers to
 work between theory and (artistic) practice, physical and digital
 research, science and art, universities and public or private partners.
-Furthermore, in the lab humanities’ scholars experiment with digital humanities and methods
+Furthermore, in the lab scholars experiment with digital humanities and methods
 thereby improving awareness of computational instruments while also using the space to meet
 new partners for future research.
 
@@ -168,6 +168,7 @@ Dark Horse is a company that works in Design Thinking, which is central
 to the lab.
 
 ## Plans for software and data management and sharing
+We will use MIT open source licensing.
 
 ## budget: 
 
