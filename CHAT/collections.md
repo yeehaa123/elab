@@ -1,8 +1,7 @@
 # Collections as Interfaces
 
 Partners: Robin Boast (UvA), Jan Hein Hoogstad (UvA), Katja Kwastek
-(VU), Sabrina Sauer (UvA), Ginette Verstraete (VU), Joris van Zundert
-(KNAW) 
+(VU), Sabrina Sauer (UvA), Ginette Verstraete (VU)
 
 Additional partners:
 
@@ -59,29 +58,45 @@ into information and into knowledge, researchers and students need
 tools that allow to structure, search, correlate, analyze, but most
 importantly, present and visualize this data. 
 
-The same argument also holds for working fields related to the humanities:
-museums, libraries and archives are challenged to make the huge data
-sets that result from digitization of the cultural heritage they
-foster, accessible and understandable for as many people as possible.
-Despite the opportunities provided by these mass resources, generated in numerous
-digitization projects, humanities researchers and students are
-– due to a lack of skills - reluctant to exploit these troves.
+The same argument also holds for working fields related to the
+humanities: museums, libraries and archives are challenged to make the
+huge data sets that result from digitization of the cultural heritage
+they foster, accessible and understandable for as many people as
+possible. Despite the opportunities provided by these mass resources,
+generated in numerous digitization projects, humanities researchers and
+students are – due to a lack of skills - reluctant to exploit these
+troves.
 
-Nonetheless, this project is not reducible to a political or didactic agenda.
-Our primary goal is to show that APIs can lead to new forms of knowledge
-production. By treating collections primarily as data sets, we believe that
-the artworks, cultural artifacts, and policy documents can be recontextualized
-in new and exciting ways. Thereby not only reconfiguring the relation between
-the collection and the institution in which it is displayed, but also between 
-the institutions amongst each other, their relation to the visitors/user, and 
-finally, the user to the artwork.
+Nonetheless, this project is not reducible to a political or didactic
+agenda. Our primary goal is to show that APIs can lead to new forms of
+knowledge production. By treating collections primarily as data sets,
+we believe that the artworks, cultural artifacts, and policy documents
+can be recontextualized in new and exciting ways. Thereby not only
+reconfiguring the relation between the collection and the institution in
+which it is displayed, but also between the institutions amongst each
+other, their relation to the visitors/user, and finally, the user to the
+artwork.
 
 
 ### How this research contributes to the humanities, and to ‘digital humanities’ 
 
-This research will serve as a testbed for new forms of collaboration between public and private partners, bringing the humanities into non-academic realms. This change in location will communicate the importance of Dark Horse to a large non-academic public who otherwise would not likely be introduced to design thinking. The role of the expert (curator or scholar) will be decentralized in the creation, curation, and exhibition of collections. It will generate the creation of new tools which are specifically aimed at humanities scholars and will prove useful to them in their research. It will explore creating new kinds of interfaces in the museum space. This research will also experiment with new types of (crowd) funding.  
+This research will serve as a testbed for new forms of collaboration
+between public and private partners, bringing the humanities into
+non-academic realms. 
 
-This research will discover new forms of exhibitions and citizen research. New cultural data set and links between existing data sets and items will be created. Visualisations of many relations between heterogeneous and distributed data sets will lead to new knowledge and new questions. Online projects leave a trace of how a new type of exhibition develops.
+The role of the expert (curator or scholar) will be decentralized in
+the creation, curation, and exhibition of collections. It will generate
+the creation of new tools which are specifically aimed at humanities
+scholars and will prove useful to them in their research. It will
+explore creating new kinds of interfaces in the museum space. This
+research will also experiment with new types of (crowd) funding.
+
+This research will discover new forms of exhibitions and citizen
+research. New cultural data set and links between existing data sets
+and items will be created. Visualisations of many relations between
+heterogeneous and distributed data sets will lead to new knowledge
+and new questions. Online projects leave a trace of how a new type of
+exhibition develops.
 
 ### how the research relates to the ‘opportunities for the humanities’ section 1 in the white paper:
 
@@ -110,16 +125,55 @@ be software based.
 - 2 PhD positions
 
 ### Deliverables:
-The major deliverable of this research will be the interdisciplenary coding fair, where students, researchers, developers, and business people can come together. The fair will demonstrate results of the research, in the forms of models for new types of collaborative exhibitions and tools and libraries for data acquisition and manipulation.
+
+The major deliverable of this research will be the interdisciplenary
+coding fair, where students, researchers, developers, and business
+people can come together. The fair will demonstrate results of the
+research, in the forms of models for new types of collaborative
+exhibitions and tools and libraries for data acquisition and
+manipulation.
 
 
 ## How does this research build on relevant state-of-the-art research
 
-The Augmenting Masterpieces project of Johanna Barnbeck and Jan Hein Hoogstad investigates interactive ways to experience the physical and digital collection of the Rijksmuseum in Amsterdam, with the aim to develop a prototype and map interaction scenarios. This research will complement Augmenting Masterpieces in that it also examines the relationship between the user, the tools available, and their experience of the collection. We will also build on the work of the Virtual Museum Transnational Network (http://www.v-must.net/) and Material Encounters with Digital Cultural Heritage (http://mesch-project.eu/). Additionally, the VU University project Perspective and Perception, which explores how graphical projections commonly used in interactive digital environments influence our perception.
+The Augmenting Masterpieces project of Johanna Barnbeck and Jan Hein
+Hoogstad investigates interactive ways to experience the physical
+and digital collection of the Rijksmuseum in Amsterdam, with the aim
+to develop a prototype and map interaction scenarios. This research
+will complement Augmenting Masterpieces in that it also examines the
+relationship between the user, the tools available, and their experience
+of the collection.
+
+We will also build on the work of the Virtual Museum Transnational
+Network (http://www.v-must.net/) and Material Encounters with Digital
+Cultural Heritage (http://mesch-project.eu/).
+
+Additionally, the VU University project Perspective and Perception,
+which explores how graphical projections commonly used in interactive
+digital environments influence our perception.
 
 ## Why the proposed research team would be best to perform this research
-Robin Boast, professor at the University of Amsterdam, has been working in what we now call the Digital Humanities for over 30 years. Jan Hein Hoogstad, Assistant Professor at the University of Amsterdam in Cultural Analysis and Comparative Literature, has extensive coding experience and a background that connects programming to the humanities. Katja Kwastek is a professor in Art History at the VU University in Amsterdam and researches crossroads between art and new media. Sabrina Sauer is an Assistant Professor at the University of Amsterdam. Her research combines approaches from Media Studies and Science and Technology Studies. Ginette Verstraete, Professor at the VU University, researches the way mobile (location-based) technologies and their applications (such as GPS on iPhones) have transformed mobility through urban space.These sociotechnical transformations raise new substantive issues for the study of movement in cities, but also for a humanities-based study of media usage. 
-(KNAW) Joris van Zundert is a scientific researcher and developer at KNAW, where he also leads the program on Methodology. This program fosters discussion and research on textual scholarship, documentary editing and their relation to digital and computational methods. 
+
+Robin Boast, professor at the University of Amsterdam, has been working
+in what we now call the Digital Humanities for over 30 years.
+
+Jan Hein Hoogstad, Assistant Professor at the University of Amsterdam
+in Cultural Analysis and Comparative Literature, has extensive coding
+experience and a background that connects programming to the humanities.
+
+Katja Kwastek is a professor in Art History at the VU University in
+Amsterdam and researches crossroads between art and new media.
+
+Sabrina Sauer is an Assistant Professor at the University of Amsterdam.
+Her research combines approaches from Media Studies and Science and
+Technology Studies.
+
+Ginette Verstraete, Professor at the VU University, researches the way
+mobile (location-based) technologies and their applications (such as
+GPS on iPhones) have transformed mobility through urban space.These
+sociotechnical transformations raise new substantive issues for the
+study of movement in cities, but also for a humanities-based study of
+media usage.
 
 ## Plans for software and data management and sharing
 
