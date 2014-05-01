@@ -17,7 +17,7 @@ original objects and the institutions in which they are displayed?
 
 This research works towards a large international exhibition where
 students, scholars, artists, developers, data scientists, and curators
-collaborately create and display collections based upon publicly
+collaboratively create and display collections based upon publicly
 available data sets. We aim to involve researchers that work on
 the 'coding the humanities' platform, but the exhibition is also a
 possibility to attract others (artists, developers, curators, etc.) to
