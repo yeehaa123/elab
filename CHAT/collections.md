@@ -237,11 +237,11 @@ production.
 Developers, students, artists, curators, designers, will all learn from each other in the exhibition's interactive, international and interdisciplenary environment. 
 
 # How this project contributes to the long-term development of CHAT
-
 We will also build on the work of the Virtual Museum Transnational
 Network (http://www.v-must.net/) and Material Encounters with Digital
 Cultural Heritage (http://mesch-project.eu/). The NWO CATCH and
 CATCHplus projects have developed new tools and collections that this
 project will make use of and extend upon.
+
 
 involving the partners and Dark Horse.
