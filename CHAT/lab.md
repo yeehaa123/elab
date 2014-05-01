@@ -182,34 +182,37 @@ We will use MIT open source licensing.
 
 ## Budget: 
 Year 1: 
-PhD positions 54.158,00 for 2 PhDs FTE 
-Post-doc position 59.000,00 for 2 post-docs FTE 
+PhD positions     74.000,00 for 2 PhDs FTE 
+Post-doc position 59.000,00 for 1 post-doc FTE 
+Embedded research 59.000,00 for 1 embedded research FTE 
 
 Year 2: 
-PhD positions 63.102,00 P
-ost-doc position 59.000,00 Development 130.000,00 for 2 developers
+PhD positions     86.200,00 
+Post-doc position 59.000,00 
+Embedded research 59.000,00 
 
 Year 3: 
-PhD positions 66.092,00 
+PhD positions     90.400,00 
 Post-doc position 59.000,00 
+Embedded research 59.000,00 
 
 Year 4: 
-PhD positions 69.264,00 
+PhD positions     95.200,00 
 Post-doc position 59.000,00 
+Embedded research 59.000,00 
 
 Other Costs Over 4 Years 
-Infrastructure 200.000,00 
-Overhead 120.000,00 
-PhD travel 48.000,00 for two PhDs 
-Post-doc travel 24.000,00 for 1 post-doc
+Infrastructure   200.000,00 
+PhD travel        12.000,00 for two PhDs 
+Post-doc travel    9.000,00 for 1 post-doc
 
-TOTAL Over 4 Years 755.524,00
+TOTAL Over 4 Years 1038.800,00
 
 Milestones:
-Year 1: first versions of Amsterdam-based ER lab started 
-Year 2: create first product or service and model for ER lab
-Year 3: first model for ER lab published
-Year 4: ER lab opened by non-CHAT partners
++ Year 1: first versions of Amsterdam-based ER lab started 
++ Year 2: create first product or service and model for ER lab
++ Year 3: first model for ER lab published
++ Year 4: ER lab opened by non-CHAT partners
 
 ### Key deliverables:
 
