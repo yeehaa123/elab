@@ -181,15 +181,29 @@ to the lab.
 We will use MIT open source licensing.
 
 ## Budget: 
+Year 1: 
+PhD positions 54.158,00 for 2 PhDs FTE 
+Post-doc position 59.000,00 for 2 post-docs FTE 
 
-Expenses Per Year (PY)
-PhD positions         46.750,00 for 2 PhDs FTE
-Post-doc position     83.332,00 for 2 post-docs FTE
-Embedded Researcher   50.000,00 for 1 embedded researcher
-Infrastructure        50.000,00
-Overhead              70.000,00
-PhD travel            3.000,00 for two PhDs
-Post-doc travel       3.000,00 for 2 post-docs
+Year 2: 
+PhD positions 63.102,00 P
+ost-doc position 59.000,00 Development 130.000,00 for 2 developers
+
+Year 3: 
+PhD positions 66.092,00 
+Post-doc position 59.000,00 
+
+Year 4: 
+PhD positions 69.264,00 
+Post-doc position 59.000,00 
+
+Other Costs Over 4 Years 
+Infrastructure 200.000,00 
+Overhead 120.000,00 
+PhD travel 48.000,00 for two PhDs 
+Post-doc travel 24.000,00 for 1 post-doc
+
+TOTAL Over 4 Years 755.524,00
 
 Milestones:
 Year 1: first versions of Amsterdam-based ER lab started 
@@ -222,9 +236,9 @@ the partners and Dark Horse.
 
 ## Valorization
 
-+ with successful products/services created and a model for ER labs, more companies and insitutions will look towards humanities faculties to find students for internships to test new ideas and explore new avenues for development.
-+ in turn, humanities faculties can show their economic relevance and attract new sources of funding and support. Through the network established with the private sector, faculty members can improve the financial situations of their departments by offering their services as consultants to businesses that need domain expertise in developing relevant products.
-+ ER labs will be a fertile ground for experimentation with new prototypes, reducing the risk for companies to find good products to develop further.
+With successful products/services created and a model for ER labs, more companies and insitutions will look towards humanities faculties to find students for internships to test new ideas and explore new avenues for development.
+In turn, humanities faculties can show their economic relevance and attract new sources of funding and support. Through the network established with the private sector, faculty members can improve the financial situations of their departments by offering their services as consultants to businesses that need domain expertise in developing relevant products.
+ER labs will be a fertile ground for experimentation with new prototypes, reducing the risk for companies to find good products to develop further.
 
 ### Expected societal and economic benefits
 
