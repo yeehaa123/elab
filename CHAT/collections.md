@@ -1,7 +1,7 @@
-# Collections .....
+# Assembling Collections
 
-Partners: Robin Boast (UvA), Jan Hein Hoogstad (UvA), Marijn Koolen (UvA), Katja Kwastek
-(VU), Sabrina Sauer (UvA), Ginette Verstraete (VU)
+Partners: Robin Boast (UvA), Jan Hein Hoogstad (UvA), Marijn Koolen
+(UvA), Katja Kwastek (VU), Sabrina Sauer (UvA), Ginette Verstraete (VU)
 
 Additional partners:
 
@@ -151,25 +151,34 @@ how museums can work with digital technologies to construct distributed
 stakeholder communities and allowing these objects to travel (mobility)
 and develop emergent, often incommensurable, meanings (mutability). --->
 
-Robin Boast's project Assemblage and Diversity: Working with Incommensurability in Distributed, Emergent Knowledge Networks is also closely related to this research. It creates a network of objects that are normally placed in museums and moves them to locations that are directly relevant to their meaning.
+Robin Boast's project Assemblage and Diversity: Working with
+Incommensurability in Distributed, Emergent Knowledge Networks is also
+closely related to this research. It creates a network of objects that
+are normally placed in museums and moves them to locations that are
+directly relevant to their meaning.
 
 
-This project is related to several embedded research projects, "Object-User Relationships (Maldini & Verstraete), Archiving Interactives (Verstraete & de Vos) and "Users as Muse" (Gimeno-Martinez, Verstraete & Whittle), which explore the changing relationships between museums, objects and visitors due to shifts from consumers to users or prosumers.
+This project is related to several embedded research projects,
+"Object-User Relationships (Maldini & Verstraete), Archiving
+Interactives (Verstraete & de Vos) and "Users as Muse" (Gimeno-Martinez,
+Verstraete & Whittle), which explore the changing relationships between
+museums, objects and visitors due to shifts from consumers to users or
+prosumers.
 
 Additionally, the VU University project Perspective and Perception,
 which explores how graphical projections commonly used in interactive
 digital environments influence our perception.
 
-<!--- The project Users as Muse (VU), which explores a changing relationship
+The project Users as Muse (VU), which explores a changing relationship
 between museums and their visitors, due to tremendous changes in
 audience empowerement, especially in an online environment. Consumers
 become prosumers, but museum institutes are still struggling to cope
-with the developments in social media and consumer technology. --->
+with the developments in social media and consumer technology. 
 
-The Augmenting Masterpieces project (Barnbeck & Hoogstad) investigates 
-interactive ways to experience the physical
-and digital collection of the Rijksmuseum in Amsterdam, with the aim
-to develop a prototype and map interaction scenarios. 
+The Augmenting Masterpieces project (Barnbeck & Hoogstad) investigates
+interactive ways to experience the physical and digital collection of
+the Rijksmuseum in Amsterdam, with the aim to develop a prototype and
+map interaction scenarios.
 
 <!--- This research
 will complement Augmenting Masterpieces in that it also examines the
@@ -178,9 +187,12 @@ of the collection. --->
 
 We will also build on the work of the Virtual Museum Transnational
 Network (http://www.v-must.net/) and Material Encounters with Digital
-Cultural Heritage (http://mesch-project.eu/). The NWO CATCH and CATCHplus projects have developed new tools and collections that this project will make use of and extend upon. 
+Cultural Heritage (http://mesch-project.eu/). The NWO CATCH and
+CATCHplus projects have developed new tools and collections that this
+project will make use of and extend upon.
 
-Finally, this project also relates to the Horizon 2020 research themes of cultural heritage, inclusion and global change.
+Finally, this project also relates to the Horizon 2020 research themes
+of cultural heritage, inclusion and global change.
 
 ## Why the proposed research team would be best to perform this research
 
@@ -209,3 +221,5 @@ media usage.
 open source licensing. MIT. 
 
 ## Collaboration Plan
+
+The Principle Investigators will be Robin Boast from the University of Amsterdam and Ginette Verstraete from the VU University. They will coordinate the collaboration plan. Periodical meetings will take place involving the partners and Dark Horse.

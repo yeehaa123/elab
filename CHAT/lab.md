@@ -194,8 +194,12 @@ created for embedded research labs.
 Results will be published in academic journals, conferences, workshops,
 and colloquiums.
 
-## Collaboration Plan
-The Principle Investigators will be Robin Boast from the University of Amsterdam and Ginette Verstraete from the VU University. They will coordinate the collaboration plan. Periodical meetings will take place involving the partners and Dark Horse.
+## Collaboration Plan 
+
+The Principle Investigators will be Sabrina Sauer from the University of
+Amsterdam and Katja Kwastek from the VU University. They will coordinate
+the collaboration plan. Periodical meetings will take place involving
+the partners and Dark Horse.
 
 ## Valorization
 
