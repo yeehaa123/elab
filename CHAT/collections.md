@@ -17,10 +17,10 @@ original objects and the institutions in which they are displayed?
 
 This research works towards a large international exhibition where
 students, scholars, artists, developers, data scientists, and curators
-collaborately create and display collection based upon publicly
+collaborately create and display collections based upon publicly
 available data sets. We aim to involve researchers that work on
 the 'coding the humanities' platform, but the exhibition is also a
-possibility to attract others (artist, developers, curators, etc.) to
+possibility to attract others (artists, developers, curators, etc.) to
 work with and on our platform.
 
 The goal of this exhibition will be to create and display collections
