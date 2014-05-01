@@ -155,9 +155,10 @@ repositories, which encourages re-use, altering and further development.
 
 - 2 PhD positions      186.000,00
 - 1 post-doc position  
+
 #### Expenses Per Year (PY)
 
- PositionFTE/PTESalary
+PositionFTE/PTESalary
  
 | PhD 1FTE      | ~24,504 |
 | PhD 2FTE      | ~24,504 |
@@ -169,13 +170,13 @@ repositories, which encourages re-use, altering and further development.
 |-------------------------------|-------------|
 | Description                   | Cost        |
 |-------------------------------|-------------|
-| Hardware acquisition 			    | 2,000       |
-| Software acquisition			    | 2,000       |
+| Hardware acquisition 			| 2,000       |
+| Software acquisition			| 2,000       |
 | Infrastructura (server)       | 10,000      |
-| Travel expenses 				      | 5,000       |
-| Overhead Office space 		    | 30,000      |
+| Travel expenses 				| 5,000       |
+| Overhead Office space 		| 30,000      |
 |-------------------------------|-------------|
-| Total Cost PY					        | 127,500     |
+| Total Cost PY                 | 127,500     |
 |-------------------------------|-------------|
 
 ### Milestones
