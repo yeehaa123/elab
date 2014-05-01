@@ -1,7 +1,7 @@
 # Lab as Interface
 
 Partners: Robin Boast (UvA), Jan Hein Hoogstad (UvA), Marijn Koolen (UvA), 
-Katja Kwastek (VU), Sabrina Sauer (UvA), Ginette Verstraete (VU)
+Katja Kwastek (VU), Sabrina Sauer (UvA), Ginette Verstraete (VU), ?????? Nynke Bos (UvA) ?????
 
 Additional partners
 
@@ -45,7 +45,7 @@ collaborations between embedded researchers.
 Through experience, this research will reveal best practices of setting up embedded research projects,
 and ensures that embedded humanities research is neither too academically oriented nor too product oriented.
 
-### How does the research relate to the ‘opportunities for the humanities’ identified in the White Paper, Section 1?
+### How the research relates to the ‘opportunities for the humanities’ identified in the White Paper, Section 1?
 
 The proposed living lab focuses on facilitating breakthrough scholarship
 in the (digital) humanities, by offering a collaborative platform that
@@ -97,7 +97,7 @@ digital interfaces are developed that are discovery oriented. The
 offline lab is complemented by an online platform ([Coding the
 Humanities](http://codingthehumanities.com/)). 
 
-## How does this research build on relevant state-of-the-art research
+## How this research builds on relevant state-of-the-art research
 
 The living lab uses a user-driven methodology that blurs the boundaries
 between technology users and producers by including (future) users of
@@ -150,14 +150,14 @@ based on this approach.
 Sabrina Sauer is a prominent researcher at the University of Amsterdam,
 with specific expertise on living labs. 
 
-Jan Hein Hoogstad is an Assistant Professor in Cultural Analysis
+Jan Hein Hoogstad is Assistant Professor in Cultural Analysis
 and Comparative Literature who has also taught coding bootcamps and
 workshops, including at Dev Bootcamp in San Francisco. 
 
-Marijn Koolen, an Assistant Professor in the digital humanities at the
+Marijn Koolen, Assistant Professor in the digital humanities at the
 University of Amsterdam, specializes in user studies and user needs, and
-this project is aimed at finding what tools would most benefit users and
-then creating them. Along with Sabrina Sauer and Jan Hein Hoogstad, Marijn Koolen has a background in media studies. 
+this project is aimed at finding and creating what products and services would most benefit users. Along with Sabrina Sauer and Jan Hein Hoogstad, Marijn Koolen has a background in media studies. 
+
 Johanna Barnbeck is an Embedded Artistic Researcher who has worked as a
 creative consultant, making her ideal for a project that links academic
 and non-academic worlds.
@@ -187,7 +187,7 @@ to the lab.
 
 ## budget: 
 
-- 2 PhD's
+- 2 PhD's          
 - 1 Postdoc
 - 1 Embedded researcher
 
