@@ -241,20 +241,20 @@ that this project will develop is in itself a key deliverable. The
 platform will create new libraries for tool building, as well as tools
 and guidelines / best practices for collaboration.
 
-### Collaboration Plan
+## Project Management
 
 The platform will be coordinated by Jan Hein Hoogstad and Joris van
 Zundert, who will serve as the Principle Investigators for the UvA and
 the KNAW respectively.
 
-##### Valorization
+## Valorization
 
 Programming underlies all five core technological challenges and a
 diverse group of researchers collaboration on projects on the platform
 will cover the whole range of technical challenges and all areas of the
 humanities.
 
-#### Societal and economic benefits:
+### Societal and economic benefits:
 
 The platform is developed to be inclusive. People who are reluctant to
 engage with technology in research because of the technologically biased
@@ -262,7 +262,7 @@ approach of most trainings will find a more inviting humanities-oriented
 approach to learning those skills. Knowledge of programming and better
 models of collaboration reduces the power of the elite over the rest.
  
-#### Teaching and training benefits:
+### Teaching and training benefits:
 
 The platform is used directly to train staff of the CHAT partners.
 Partners from different backgrounds and disciplines learn to communicate
@@ -271,7 +271,7 @@ their research projects on the platform. This also leads to better
 visibility of who does what and a stronger, more connected, network for
 collaboration among the CHAT partners.
 
-#### Contribution to long-term development of CHAT:
+### Contribution to long-term development of CHAT:
 
 The platform will create a pool of young, technically proficient
 humanities scholars, and humanities-informed computer/information
