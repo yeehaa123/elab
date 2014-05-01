@@ -42,7 +42,7 @@ can be used for. However, understanding the intricate details of tools
 is important when drawing conclusions from and basing claims on their
 results.
 
-In collaborative projects with computer scienctist, the latter have
+In collaborative projects with computer scientists, the latter have
 more interest in those details, but may lack the domain expertise
 to understand the full consequences of implementation details for
 humanities research.
