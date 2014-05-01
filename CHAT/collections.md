@@ -106,8 +106,8 @@ This research will discover new forms of exhibitions and citizen research. New c
 
 ### Budget:
 
-- post-doc 
-- PhD(s)?
+- 1 post-doc position
+- 2 PhD positions
 
 ### Deliverables:
 The major deliverable of this research will be the interdisciplenary coding fair, where students, researchers, developers, and business people can come together. The fair will demonstrate results of the research, in the forms of models for new types of collaborative exhibitions and tools and libraries for data acquisition and manipulation.
