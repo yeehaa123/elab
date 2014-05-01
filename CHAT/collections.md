@@ -170,6 +170,34 @@ We will use MIT open source licensing.
 
 
 ## Budget:
+Year 1: 
+PhD positions 54.158,00 for 2 PhDs FTE 
+Post-doc position  59.000,00 for 1 post-doc FTE 
+Development 100.000,00 for 2 developers FTE
+
+Year 2: 
+PhD positions 63.102,00 
+Post-doc position 59.000,00 
+Development 130.000,00 for 2 developers
+
+Year 3: 
+PhD positions 66.092,00 
+Post-doc position 59.000,00 
+Development 130.000,00 
+
+Year 4: 
+PhD positions 69.264,00 
+Post-doc position 118.000,00 
+Development 130.000,00
+
+Other Costs Over 4 Years 
+Infrastructure 200.000,00 
+Overhead 120.000,00 
+PhD travel 48.000,00 
+Post-doc travel 24.000,00 
+
+TOTAL Over 4 Years 
+
 
 Budget for 4 Years
 
