@@ -19,9 +19,25 @@ and creates new models for collaboration in the humanities.
 
 ### Goal and Problem
 
-This project aims to increase the number of people who approach learning and research collaboratively, through an online platform where users learn programming and build tools, thereby increasing digital literacy and at the same time lowering the technological threshold to engage with and reflect on digital tools. The problem we address is that learning and research (in the humanities) are hindered by a lack of coding skills and the seeming incommensurability of educating massive groups of students and providing high quality education. Although traditional knowledge institutions are losing their monopoly on education and research, ICT skills and knowledge production remain privileges of a cultural, technological and economic elite.
+This project aims to increase the number of people who approach learning
+and research collaboratively, through an online platform where users
+learn programming and build tools, thereby increasing digital literacy
+and at the same time lowering the technological threshold to engage with
+and reflect on digital tools. The problem we address is that learning
+and research (in the humanities) are hindered by a lack of coding
+skills and the seeming incommensurability of educating massive groups
+of students and providing high quality education. Although traditional
+knowledge institutions are losing their monopoly on education and
+research, ICT skills and knowledge production remain privileges of a
+cultural, technological and economic elite.
 
-We propose to tackle this problem by providing online and offline interfaces between people on the one hand and learning and research on the other hand, which focus on new forms of collaboration and a user- and tool-oriented approach to learning programming skills. These interfaces lower the technological, economic and organizational barriers to participation, empower many different groups of people to more deeply and effectively engage with technology and motivate lifelong learning.
+We propose to tackle this problem by providing online and offline
+interfaces between people on the one hand and learning and research
+on the other hand, which focus on new forms of collaboration and a
+user- and tool-oriented approach to learning programming skills. These
+interfaces lower the technological, economic and organizational barriers
+to participation, empower many different groups of people to more deeply
+and effectively engage with technology and motivate lifelong learning.
 
 Within digital humanities research a broad range of tools is used for
 analysis of digital materials. Humanities scholars often have little
@@ -76,14 +92,27 @@ often lacks from standard coding courses and tutorials.
 
 Developing programming skills will lead DH scholars to better
 understand their digital tools and results, thereby allowing them to
-make more reliable and meaningful interpretations. Research on tool building will lead to better models of and guidelines for how to develop tools around a specific research question. Humanities scholars can communicate more easily and clearly with computer scientists and collaborate more intuitively through a shared vocabulary (coding), i.e. reducing friction at the interface between two domains. Through collaborative projects, new tools will be developed that can be used and modified for further research. Humanities scholars will learn a skill that is valued outside the confines of the university, thereby increasing both their employability as well as their
-ability to engage in public-private partnerships. In times of big data, more and more information is available but not necessary turned into knowledge. The Coding the Humanities platform
-  educates students, researchers and non-technologically biased people on
-  how to approach this data. It allows its participants to gain insights
-  by addressing these datasets. The CtH projects and tools are therefore
-  easily relateable to already existing open data movements - it seeks to
-  provide its users with digital agency that evolves into debates on open
-  data.
+make more reliable and meaningful interpretations. Research on tool building 
+will lead to better models of and guidelines for how to develop tools around 
+a specific research question. 
+
+Humanities scholars can communicate more easily and clearly with
+computer scientists and collaborate more intuitively through a shared
+vocabulary (coding), i.e. reducing friction at the interface between two
+domains. Through collaborative projects, new tools will be developed
+that can be used and modified for further research. Humanities
+scholars will learn a skill that is valued outside the confines of the
+university, thereby increasing both their employability as well as
+their ability to engage in public-private partnerships. In times of big
+data, more and more information is available but not necessary turned
+into knowledge. 
+
+The Coding the Humanities platform educates students,
+researchers and non-technologically biased people on how to approach
+this data. It allows its participants to gain insights by addressing
+these datasets. The CtH projects and tools are therefore easily
+relateable to already existing open data movements - it seeks to provide
+its users with digital agency that evolves into debates on open data.
 
 
 ### Relation to ‘Opportunities for the humanities’ section of the white paper
@@ -112,20 +141,24 @@ understanding of and multiple perspective on the complexities of their
 materials can inform the building of tools related to each of the core
 technologies.
 
-Coding the Humanities projects are produced and stored under open licenses, which encourages the collaboration and reuse of the software tools by other institutions, companies or partners. In this sense, the platform triggers direct debate on the status of ICT in the humanities.
+Coding the Humanities projects are produced and stored under open
+licenses, which encourages the collaboration and reuse of the software
+tools by other institutions, companies or partners. In this sense, the
+platform triggers direct debate on the status of ICT in the humanities.
 
 
 ## How does this research build on relevant state-of-the-art research?
 
-One of the premisses of this project is that there is hardly any state-of-the-art research on this topic. The digital tools that are used in humanities
-research are hardly ever made into a topic of discussion or reflection. The building of new
-custom made tools, such as the platform that we suggest, is even more rare. Companies
-offering online learning platforms like Apearo, Edx have no courses in
-this direction. There are programming courses offered for non-computer
-science students, but they often engage students with technical
-jargon and a perspective that lacks relevance to those with no such
-technological bias but a need to know what programming skills have to
-offer them. 
+One of the premisses of this project is that there is hardly any
+state-of-the-art research on this topic. The digital tools that are used
+in humanities research are hardly ever made into a topic of discussion
+or reflection. The building of new custom made tools, such as the
+platform that we suggest, is even more rare. Companies offering online
+learning platforms like Apearo, Edx have no courses in this direction.
+There are programming courses offered for non-computer science students,
+but they often engage students with technical jargon and a perspective
+that lacks relevance to those with no such technological bias but a need
+to know what programming skills have to offer them.
 
 That being said, our project does build on some pioneering work by people such
 as Stefan Sinclair (McGill), John Willinsky (Stanford), Alan Liu (University of
@@ -136,7 +169,6 @@ Virginia), all of which are involved as advisors in our project.
 
 
 ### Why the proposed research team would be the best to perform this research:
-
 
 + Our project team has a broad range of expertise on programming, software development, pedagogy, and our research covers several humanities disciplines, including Cultural Analysis, Literary Studies, Heritage Studies and Mediastudies as well as Computer and Information Science. 
 + We are directly involved in the development of digital humanities courses for a joint minor program at the UvA and VU and are already running two courses on programming for humanities students and are preparing a follow-up course. 
@@ -154,6 +186,7 @@ The platform will embrace open source culture and all contributions to
 the platform and projects developed on the platform are published using
 open licenses. The students share their code projects on distributed
 repositories, which encourages re-use, altering and further development.
+
 - MIT
 
 ### Budget and Key Deliverables (1 page)
@@ -186,10 +219,17 @@ Budget for 4 Years
 
 
 #### Key Deliverables
-The platform for collaborative humanities research through programming that this project will develop is in itself a key deliverable. The platform will create new libraries for tool building, as well as tools and guidelines / best practices for collaboration. 
+
+The platform for collaborative humanities research through programming
+that this project will develop is in itself a key deliverable. The
+platform will create new libraries for tool building, as well as tools
+and guidelines / best practices for collaboration.
 
 ### Collaboration Plan
-The platform will be coordinated by Jan Hein Hoogstad and Joris van Zundert, who will serve as the Principle Investigators for the UvA and the KNAW respectively.
+
+The platform will be coordinated by Jan Hein Hoogstad and Joris van
+Zundert, who will serve as the Principle Investigators for the UvA and
+the KNAW respectively.
 
 #### Valorization
 
@@ -207,8 +247,17 @@ approach to learning those skills. Knowledge of programming and better
 models of collaboration reduces the power of the elite over the rest.
  
 #### Teaching and training benefits:
-The platform is used directly to train staff of the CHAT partners. Partners from different backgrounds and disciplines learn to communicate better through a shared vocabulary by learning to program and develop their research projects on the platform. This also leads to better visibility of who does what and a stronger, more connected, network for collaboration among the CHAT partners. 
+
+The platform is used directly to train staff of the CHAT partners.
+Partners from different backgrounds and disciplines learn to communicate
+better through a shared vocabulary by learning to program and develop
+their research projects on the platform. This also leads to better
+visibility of who does what and a stronger, more connected, network for
+collaboration among the CHAT partners.
 
 #### Contribution to long-term development of CHAT:
-The platform will create a pool of young, technically proficient humanities scholars, and humanities-informed computer/information science students who would be familiar with and well-connected to CHAT as an excellent network to further their research careers.
 
+The platform will create a pool of young, technically proficient
+humanities scholars, and humanities-informed computer/information
+science students who would be familiar with and well-connected to CHAT
+as an excellent network to further their research careers.

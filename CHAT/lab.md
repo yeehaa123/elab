@@ -1,7 +1,7 @@
 # Lab as Interface
 
 Partners: Robin Boast (UvA), Jan Hein Hoogstad (UvA), Marijn Koolen (UvA), 
-Katja Kwastek (VU), Sabrina Sauer (UvA), Ginette Verstraete (VU)
+Katja Kwastek (VU), Sabrina Sauer (UvA), Ginette Verstraete (VU), ?????? Nynke Bos (UvA) ?????
 
 Additional partners
 
@@ -20,10 +20,7 @@ private sector?
 The goal is to accelerate the process of opening universities towards
 private partners, cultural institutions, civic movements, and other
 universities by creating a physical space situated between the involved
-agents. This process of opening up aims to move humanities' reseach to include
-other types of users and move research beyond academic borders. By including private
-and civic partners in new forms and practices of research within the lab, new circulation
-of knowledge is foreseen, leading to new research questions and new types of research. 
+agents.
 
 The challenge that needs to be overcome is forming a community both
 on- and offline whose participants engage with a platform over
@@ -32,7 +29,8 @@ projects. 'The Lab as Interface' project addresses this challenge by
 designing and producing an offline living lab as interface between
 the digital and other worlds.
 
-A lab for embedded research makes digital humanities projects more sustainable and pushes them beyond the academic borders to engage private partners, civic organisations and the general public.
+A lab for embedded research makes digital humanities' projects more sustainable and pushes them beyond the academic borders to engage private partners, civic organisations and the general public. This alternative circulation of
+knowledge leads to new forms and practices of research.
 
 ### How this research contributes to the humanities, and to ‘digital humanities’? 
 
@@ -42,22 +40,22 @@ humanities projects with embedded researchers. This project encourages
 embedded researchers to collaborate and learn from each others'
 experiences, to bring together knowledge on how to best combine academic
 research, product innovation and commercial interests. This results in
-new forms of knowledge production in the humanities, as well as the building
-of sustainable information sharing and collaborations between embedded researchers.
-Through experience, this research will reveal best practices of setting up embedded research projects, as well as best practices ensuring that embedded humanities research is neither too academically oriented nor too product oriented.
+new forms of knowledge production in the humanities, and builds sustainable
+collaborations between embedded researchers.
+Through experience, this research will reveal best practices of setting up embedded research projects,
+and ensures that embedded humanities research is neither too academically oriented nor too product oriented.
 
-### How does the research relate to the ‘opportunities for the humanities’ identified in the White Paper, Section 1?
+### How the research relates to the ‘opportunities for the humanities’ identified in the White Paper, Section 1?
 
 The proposed living lab focuses on facilitating breakthrough scholarship
 in the (digital) humanities, by offering a collaborative platform that
 embraces social learning practices between public-private-civic actors.
 
-This lab will explore the integration and augmentation of online
-learning and collaboration into an offline environment. It will serve as
+This lab explores the integration and augmentation of online
+learning and collaboration into an offline environment. It serves as
 a real life testbed to initiate, support and foster online humanities
 ICT projects. At the same time, the strategies and practices of the
-physical space in which the lab is located inform the development
-of the digital platform. 
+physical space of the lab inform the development of the digital platform. 
 
 Innovative perspectives on the application of technology in general
 and its integration into an offline space will be explored through
@@ -76,20 +74,18 @@ methods.
 
 In addition to this, the embedded researchers’ activities articulate
 and map how developed instruments and methods form new models and
-methods for sustainable cooperation so as to extend the developed
-practices. This will culminate in new areas of enquiry for humanities’
-research; bringing forth humanities’ perspectives and research about
+methods for sustainable cooperation.This will culminate in new areas
+of enquiry for humanities’ research; bringing forth humanities’ perspectives and research about
 larger societal and R&D inspired collaboration and ICT innovation
-practices. The lab furthermore allows embedded researchers who
+practices. The lab furthermore allows embedded researchers to
 work between theory and (artistic) practice, physical and digital
 research, science and art, universities and public or private partners.
-Furthermore, in the lab humanities’ scholars can experiment
-with digital humanites and digital methods thereby improving awareness
-of computational instruments as well as increasing a space to meet
-possible private partners for future research.
+Furthermore, in the lab humanities’ scholars experiment with digital humanities and methods
+thereby improving awareness of computational instruments while also using the space to meet
+new partners for future research.
 
 
-## How this research contributes to one or more of the core technologies in section 1 of the white paper 
+## How this research contributes to one or more of the core technologies in White Paper, Section 2
 
 
 **visualization and machine learning**: within the lab, students
@@ -101,7 +97,7 @@ digital interfaces are developed that are discovery oriented. The
 offline lab is complemented by an online platform ([Coding the
 Humanities](http://codingthehumanities.com/)). 
 
-## How does this research build on relevant state-of-the-art research
+## How this research builds on relevant state-of-the-art research
 
 The living lab uses a user-driven methodology that blurs the boundaries
 between technology users and producers by including (future) users of
@@ -134,7 +130,7 @@ Issue on Living Labs, vol. 10, pp. 99-131, 2008. Sauer, S. (September
 improvisations with ICTs as a source of innovation. PhD Thesis,
 University of Twente. Promotor: Prof. dr. N.E.J. Oudshoorn) where the
 importance of user-centered research in living labs is underlined, but
-that also underlines that more research about the actual role of “the
+that also stresses how more research about the actual role of “the
 user” (in this case, the humanities’ scholar) is required in order
 to more fully embrace the advantages of on- and offline collaborative
 practices. The lab provides exactly such an opportunity.
@@ -154,14 +150,14 @@ based on this approach.
 Sabrina Sauer is a prominent researcher at the University of Amsterdam,
 with specific expertise on living labs. 
 
-Jan Hein Hoogstad is an Assistant Professor in Cultural Analysis
+Jan Hein Hoogstad is Assistant Professor in Cultural Analysis
 and Comparative Literature who has also taught coding bootcamps and
 workshops, including at Dev Bootcamp in San Francisco. 
 
-Marijn Koolen, an Assistant Professor in the digital humanities at the
+Marijn Koolen, Assistant Professor in the digital humanities at the
 University of Amsterdam, specializes in user studies and user needs, and
-this project is aimed at finding what tools would most benefit users and
-then creating them. Along with Sabrina Sauer and Jan Hein Hoogstad, Marijn Koolen has a background in media studies. 
+this project is aimed at finding and creating what products and services would most benefit users. Along with Sabrina Sauer and Jan Hein Hoogstad, Marijn Koolen has a background in media studies. 
+
 Johanna Barnbeck is an Embedded Artistic Researcher who has worked as a
 creative consultant, making her ideal for a project that links academic
 and non-academic worlds.
@@ -176,7 +172,7 @@ of digitality itself.
 
 Ginette Verstraete, Professor at the VU University, researches the way
 mobile (location-based) technologies and their applications (such as
-GPS on iPhones) have transformed mobility through urban space.These
+GPS on iPhones) have transformed mobility through urban space. These
 sociotechnical transformations raise new substantive issues for the
 study of movement in cities, but also for a humanities-based study of
 media usage.
@@ -188,10 +184,11 @@ platform, which is developed by the applicants.
 Dark Horse is a company that works in Design Thinking, which is central
 to the lab.
 
+## Plans for software and data management and sharing
 
 ## budget: 
 
-- 2 PhD's
+- 2 PhD's          
 - 1 Postdoc
 - 1 Embedded researcher
 
@@ -200,13 +197,16 @@ to the lab.
 The research deliverables for this will be published papers and
 presentations at conferences for the PhD and post-doc researchers. The
 post-doc will especially write articles on new forms of valorizing
-humanities research. There will also be protypes developed and models
+humanities research. There will also be prototypes developed and models
 created for embedded research labs.
 
 ## publish/distribute results
 
 Results will be published in academic journals, conferences, workshops,
 and colloquiums.
+
+## Collaboration Plan
+The Principle Investigators will be Robin Boast from the University of Amsterdam and Ginette Verstraete from the VU University. They will coordinate the collaboration plan. Periodical meetings will take place involving the partners and Dark Horse.
 
 ## Valorization
 
