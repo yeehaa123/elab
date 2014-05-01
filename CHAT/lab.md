@@ -29,12 +29,9 @@ projects. 'The Lab as Interface' project addresses this challenge by
 designing and producing an offline living lab as interface between
 the digital and other worlds.
 
-ANOTHER GOAL MAY BE TO MAKE THE LAB GO BEYOND ACADEMIC BORDERS TO INCLUDE PRIVATE PARTNERS, CIVIC ORGANISATIONS, GENERAL PUBLIC, OPENING UP HUMANITIES RESEARCH TO OTHER TYPES OF USERS
-
+A lab for embedded research makes digital humanities projects more sustainable and pushes them beyond the academic borders to engage private partners, civic organisations and the general public.
 
 ### How this research contributes to the humanities, and to ‘digital humanities’? 
-
-WE SHOULD MAYBE MENTION A RECOGNISABLE HUMANITIES RESEARCH PROBLEM IN HERE SOMEWHERE. SOMETHING LIKE NEW RESEARCH POSSIBILITIES ON MEDIA ENGAGEMENT? POSSIBILITIES FOR EMPIRICAL MEDIASTUDIES WITH LESSONS FOR PRIVATE PARTNERS ON THEIR PRODUCTS?
 
 The recent focus of funding for the humanities towards creative
 industries and other private partners has resulted in many digital
