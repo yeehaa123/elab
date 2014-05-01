@@ -6,8 +6,7 @@ Coding the Humanities – Platform as Interface
 
 ## Platform 
 
-Partners: Robin Boast (UvA), Jan Hein Hoogstad (UvA), Marijn Koolen (UvA), Katja Kwastek
-(VU), Sabrina Sauer (UvA), Joris van Zundert (KNAW)
+Partners: Robin Boast (UvA), Jan Hein Hoogstad (UvA), Marijn Koolen (UvA), Sabrina Sauer (UvA), Joris van Zundert (KNAW)
 
 ## Project Description 
 
@@ -75,9 +74,7 @@ often lacks from standard coding courses and tutorials.
 
 ### How this research contributes to the humanities, and to ‘digital humanities’ 
 
-The contribution of the development and research of this
-platform contributes to the humanities and digital humanities in several
-ways. Developing programming skills will lead DH scholars to better
+Developing programming skills will lead DH scholars to better
 understand their digital tools and results, thereby allowing them to
 make more reliable and meaningful interpretations. Research on tool building will lead to better models of and guidelines for how to develop tools around a specific research question. Humanities scholars can communicate more easily and clearly with computer scientists and collaborate more intuitively through a shared vocabulary (coding), i.e. reducing friction at the interface between two domains. Through collaborative projects, new tools will be developed that can be used and modified for further research. Humanities scholars will learn a skill that is valued outside the confines of the university, thereby increasing both their employability as well as their
 ability to engage in public-private partnerships. In times of big data, more and more information is available but not necessary turned into knowledge. The Coding the Humanities platform
@@ -140,7 +137,7 @@ Virginia), all of which are involved as advisors in our project.
 
 ### Why the proposed research team would be the best to perform this research:
 
-This research is extremely new, and we are leaders in our pursuit of this coding platform. At Coding the Humanities, we have developed three courses in coding for humanities students, two of which are already running and one which will begin in September 2014. We have also organized and given a workshop EXPLAIN MORE?. In effect we have begun to develop a platform and see the great potential for what can be achieved if we can expand it. Jan Hein Hoogstad has a phenomenal background both in the humanities fields of Cultural Analysis and Literature, as well as in programming. Marijn Koolen has developed expertise in Artificial Intelligence, information retrieval, and information science, making him an ideal fit for this project. Robin Boast has worked in the digital humanities for over 30 years and currently teaches on Cultural Information Science, Neo-colonial information governance, and the history and sociology of digitally and collecting. Sabrina Sauer is an Assistant Professor at the University of Amsterdam. Her research has included examining what happens when the ideas of ordinary people become the starting point for the design of new ICT’s, and this platform pulls previously uninvolved humanities people into ICT's. Joris van Zundert, researcher and developer at the KNAW, manages project Aflab. This project determine the requirements of a digital infrastructure for humanities and to explore and test drive the possibilities of computational humanities for that field, relating directly to this project.
+This research is extremely new, and we are leaders in our pursuit of this coding platform. At Coding the Humanities, we have developed three courses in coding for humanities students, two of which are already running and one which will begin in September 2014. We have also organized and given a workshop on Coding the Humanities in January 2014. In effect we have begun to develop a platform and see the great potential for what can be achieved if we can expand it. Jan Hein Hoogstad has a phenomenal background both in the humanities fields of Cultural Analysis and Literature, as well as in programming. Marijn Koolen has developed expertise in Artificial Intelligence, information retrieval, and information science, making him an ideal fit for this project. Robin Boast has worked in the digital humanities for over 30 years and currently teaches on Cultural Information Science, Neo-colonial information governance, and the history and sociology of digitally and collecting. Sabrina Sauer is an Assistant Professor at the University of Amsterdam. Her research has included examining what happens when the ideas of ordinary people become the starting point for the design of new ICT’s, and this platform pulls previously uninvolved humanities people into ICT's. Joris van Zundert, researcher and developer at the KNAW, manages project Aflab. This project determine the requirements of a digital infrastructure for humanities and to explore and test drive the possibilities of computational humanities for that field, relating directly to this project.
 
 
 ### Plans for software and data management and sharing
@@ -153,16 +150,23 @@ repositories, which encourages re-use, altering and further development.
 
 ### Budget and Key Deliverables (1 page)
 
-- 2 PhD positions      186.000,00
-- 1 post-doc position  
+Budget for 4 Years
+- PhD positions        187.000,00 for 2 positions FTE
+- Post-doc position    125.000,00 for 1 position  FTE
+- Infrastructure     1.096.000,00
+- Overhead             120.000,00
+- PhD travel            48.000,00 for 2 PhDs
+- Post-doc travel       24.000,00 for 1 post-doc
+- TOTAL            1,2.000.000,00
 
 #### Expenses Per Year (PY)
+- PhD positions         46.750,00 for 2 PhDs FTE
+- Post-doc position     41.666,00 for 1 post-doc FTE
+- Infrastructure        
+- Overhead              30.000,00
+- PhD travel            12.000,00 for two PhDs
+- Post-doc travel        8.000,00 for 1 post-doc
 
-PositionFTE/PTESalary
- 
-| PhD 1FTE      | ~24,504 |
-| PhD 2FTE      | ~24,504 |
-| Post-doc 1FTE | ~33,500 |
 
 
 #### Other Expenses
@@ -191,6 +195,7 @@ Year 4: papers, dissertations, tools, and models
 The platform for collaborative humanities research through programming that this project will develop is in itself a key deliverable. The platform will create new libraries for tool building, as well as tools and guidelines / best practices for collaboration. 
 
 ### Collaboration Plan
+The platform will be coordinated by Jan Hein Hoogstad and Joris van Zundert, who will serve as the Principle Investigators for the UvA and the KNAW respectively.
 
 #### Valorization
 
