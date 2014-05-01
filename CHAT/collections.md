@@ -98,12 +98,14 @@ heterogeneous and distributed data sets will lead to new knowledge
 and new questions. Online projects leave a trace of how a new type of
 exhibition develops.
 
+Our private partners in this project (Cast Your Art, Weyeser, and Tulip
+Interactive) are excellently equiped to push this agenda forward, because ...
+
 ### how the research relates to the ‘opportunities for the humanities’ section 1 in the white paper:
 
 ### how this research contributes to core technologies identified in section 2 white paper:
 
-
-- visualization
++ visualization
 
 At the same time, governments, municipalities and cultural institutions
 increasingly share their data openly online. A good example of this
@@ -115,8 +117,6 @@ more important on the level of politics and social agency. It allows
 civic movements but also single citizens to understand political and
 social processes, identify problems and develop solutions – that can
 be software based.
-
-
 
 
 ### Budget:
@@ -147,6 +147,12 @@ of the collection.
 We will also build on the work of the Virtual Museum Transnational
 Network (http://www.v-must.net/) and Material Encounters with Digital
 Cultural Heritage (http://mesch-project.eu/).
+
+The project Users as Muse (VU), which explores a changing relationship
+between museums and their visitors, due to tremendous changes in
+audience empowerement, especially in an online environment. Consumers
+become prosumers, but museum institutes are still struggling to cope
+with the developments in social media and consumer technology.
 
 Additionally, the VU University project Perspective and Perception,
 which explores how graphical projections commonly used in interactive
