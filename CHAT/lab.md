@@ -34,7 +34,7 @@ the digital and other worlds.
 
 A lab for embedded research makes digital humanities projects more sustainable and pushes them beyond the academic borders to engage private partners, civic organisations and the general public.
 
-### How this research contributes to the humanities, and to ‘digital humanities’? 
+### How this research contributes to the humanities, and to ‘digital humanities’
 
 The recent focus of funding for the humanities towards creative
 industries and other private partners has resulted in many digital
@@ -46,7 +46,7 @@ new forms of knowledge production in the humanities, as well as the building
 of sustainable information sharing and collaborations between embedded researchers.
 Through experience, this research will reveal best practices of setting up embedded research projects, as well as best practices ensuring that embedded humanities research is neither too academically oriented nor too product oriented.
 
-### How does the research relate to the ‘opportunities for the humanities’ identified in the White Paper, Section 1?
+### How the research relate to the ‘opportunities for the humanities’ identified in the White Paper, Section 1
 
 The proposed living lab focuses on facilitating breakthrough scholarship
 in the (digital) humanities, by offering a collaborative platform that
@@ -89,8 +89,7 @@ of computational instruments as well as increasing a space to meet
 possible private partners for future research.
 
 
-## How this research contributes to one or more of the core technologies in section 1 of the white paper 
-
+## How this research contributes to one or more of the core technologies in White Paper, Section 2
 
 **visualization and machine learning**: within the lab, students
 and researchers collaborate to learn and experiment with data
@@ -101,7 +100,7 @@ digital interfaces are developed that are discovery oriented. The
 offline lab is complemented by an online platform ([Coding the
 Humanities](http://codingthehumanities.com/)). 
 
-## How does this research build on relevant state-of-the-art research
+## How this research builds on relevant state-of-the-art research
 
 The living lab uses a user-driven methodology that blurs the boundaries
 between technology users and producers by including (future) users of
@@ -188,6 +187,8 @@ platform, which is developed by the applicants.
 Dark Horse is a company that works in Design Thinking, which is central
 to the lab.
 
+## Plans for software and data management and sharing
+We will use open source licensing. 
 
 ## budget: 
 
