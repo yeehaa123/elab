@@ -85,7 +85,7 @@ thereby improving awareness of computational instruments while also using the sp
 new partners for future research.
 
 
-## How this research contributes to one or more of the core technologies in section 1 of the white paper 
+## How this research contributes to one or more of the core technologies in White Paper, Section 2
 
 
 **visualization and machine learning**: within the lab, students
