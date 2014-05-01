@@ -26,7 +26,7 @@ and civic partners in new forms and practices of research within the lab, new ci
 of knowledge is foreseen, leading to new research questions and new types of research. 
 
 The challenge that needs to be overcome is forming a community both
-on- and offline whose participants are to engage with a platform over
+on- and offline whose participants engage with a platform over
 a longer period of time and to actively contribute to sustainable
 projects. 'The Lab as Interface' project addresses this challenge by
 designing and producing an offline living lab as interface between
@@ -39,16 +39,12 @@ A lab for embedded research makes digital humanities projects more sustainable a
 The recent focus of funding for the humanities towards creative
 industries and other private partners has resulted in many digital
 humanities projects with embedded researchers. This project encourages
-embedded researchers to collaborate and learn from each others
+embedded researchers to collaborate and learn from each others'
 experiences, to bring together knowledge on how to best combine academic
 research, product innovation and commercial interests. This results in
 new forms of knowledge production in the humanities, as well as the building
 of sustainable information sharing and collaborations between embedded researchers.
-
-The OverLab furthermore offers private and civic partners the opportunity to find
-and include humanities' reseachers to include in research projects (????)
-+ best practices of setting up embedded research projects.
-+ best practives ensuring that embedded humanities research is neither too academically oriented nor to product oriented.
+Through experience, this research will reveal best practices of setting up embedded research projects, as well as best practices ensuring that embedded humanities research is neither too academically oriented nor too product oriented.
 
 ### How does the research relate to the ‘opportunities for the humanities’ identified in the White Paper, Section 1?
 
@@ -103,7 +99,7 @@ e.g. Europeana. The embedded research lab thus not only allows
 for experimentation, but also learning-by-doing collaboratively;
 digital interfaces are developed that are discovery oriented. The
 offline lab is complemented by an online platform ([Coding the
-Humanities](http://codingthehumanities.com/)) 
+Humanities](http://codingthehumanities.com/)). 
 
 ## How does this research build on relevant state-of-the-art research
 
@@ -141,12 +137,12 @@ importance of user-centered research in living labs is underlined, but
 that also underlines that more research about the actual role of “the
 user” (in this case, the humanities’ scholar) is required in order
 to more fully embrace the advantages of on- and offline collaborative
-practices. The OverLab provides exactly such an opportunity.
+practices. The lab provides exactly such an opportunity.
 
-The CLUE team "Paradigms of Creativity" ...
+The CLUE team "Paradigms of Creativity" at the VU University researches expressions of creativity in everyday life and in artistic production, within their specific historic, institutional and societal contexts. Analyzing creativity's embeddedness in changing relations between digital and physical communities relates directly to the role of this project's embedded researcher.
 
-**Design Thinking**: Our private partner in this project, The Dark
-Horse GMBH., is one of the leading european consultancy firms in design
+Our private partner in this project, The Dark
+Horse GMBH., is one of the leading European consultancy firms in design
 thinking. We believe the user-centered, collaborative approach that
 defines this methodology, is a way out of the individualist research
 culture in the humanities. DH will help us design a lab and a curriculum
@@ -165,9 +161,7 @@ workshops, including at Dev Bootcamp in San Francisco.
 Marijn Koolen, an Assistant Professor in the digital humanities at the
 University of Amsterdam, specializes in user studies and user needs, and
 this project is aimed at finding what tools would most benefit users and
-then creating them. <!--- All three of the above have backgrounds in media
-studies. --->
-
+then creating them. Along with Sabrina Sauer and Jan Hein Hoogstad, Marijn Koolen has a background in media studies. 
 Johanna Barnbeck is an Embedded Artistic Researcher who has worked as a
 creative consultant, making her ideal for a project that links academic
 and non-academic worlds.
