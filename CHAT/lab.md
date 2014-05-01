@@ -197,7 +197,7 @@ to the lab.
 The research deliverables for this will be published papers and
 presentations at conferences for the PhD and post-doc researchers. The
 post-doc will especially write articles on new forms of valorizing
-humanities research. There will also be protypes developed and models
+humanities research. There will also be prototypes developed and models
 created for embedded research labs.
 
 ## publish/distribute results
