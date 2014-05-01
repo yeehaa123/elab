@@ -19,8 +19,8 @@ private sector?
 
 The goal is to accelerate the process of opening universities towards
 private partners, cultural institutions, civic movements, and other
-universities by creating a space situated between the involved agents.
-The 'living lab' that we propose shows how this can lead to innovation.
+universities by creating a physical space situated between the involved
+agents. 
 
 The challenge that needs to be overcome is forming a community both
 on- and offline whose participants are to engage with a platform over
@@ -86,15 +86,21 @@ possible private partners for future research.
 ## How this research contributes to one or more of the core technologies in section 1 of the white paper 
 
 
-*visualization and machine learning*: within the lab, students
+**visualization and machine learning**: within the lab, students
 and researchers collaborate to learn and experiment with data
 visualization, grappling with large open data sets provided by
 e.g. Europeana. The embedded research lab thus not only allows
 for experimentation, but also learning-by-doing collaboratively;
 digital interfaces are developed that are discovery oriented. The
 offline lab is complemented by an online platform ([Coding the
-Humanities](http://codingthehumanities.com/)) (weyeser text) (Question:
-is this too much overlap with the visualization interface proposal?)
+Humanities](http://codingthehumanities.com/)) 
+
+**Design Thinking**: Our private partner in this project, The Dark
+Horse GMBH., is one of the leading european consultancy firms in design
+thinking. We believe the user-centered, collaborative approach that
+defines this methodology, is a way out of the individualist research
+culture in the humanities. DH will help us design a lab and a curriculum based
+on this approach.
 
 ## How does this research build on relevant state-of-the-art research
 
@@ -140,9 +146,9 @@ practices. The OverLab provides exactly such an opportunity.
 Sabrina Sauer is a prominent researcher at the University of Amsterdam,
 with specific expertise on living labs. 
 
-Johanna Barnbeck is an Embedded
-Artistic Researcher who has worked as a creative consultant, making
-her ideal for a project that links academic and non-academic worlds.
+Johanna Barnbeck is an Embedded Artistic Researcher who has worked as a
+creative consultant, making her ideal for a project that links academic
+and non-academic worlds.
 
 Jan Hein Hoogstad is an Assistant Professor in Cultural Analysis
 and Comparative Literature who has also taught coding bootcamps and
@@ -163,6 +169,13 @@ the first digital collection projects in museums and universities to the
 more recent emergence of the Web and social computing, to the question
 of digitality itself.
 
+Ginette Verstraete, Professor at the VU University, researches the way
+mobile (location-based) technologies and their applications (such as
+GPS on iPhones) have transformed mobility through urban space.These
+sociotechnical transformations raise new substantive issues for the
+study of movement in cities, but also for a humanities-based study of
+media usage.
+
 Participants from the University of Amsterdam are currently developing a
 lab at their university as well as the coding platform, which links to
 this lab project.
@@ -170,11 +183,6 @@ this lab project.
 Dark Horse is a company that works in Design Thinking, which is central
 to the lab.
 
-+ VU expertise
-
-<!--- Brings together experts in the field – living lab research,
-digital humanities scholars, programmers and developers, artists,
-embedded researchers, to collaborate?? SOMETHING LIKE THIS?? --->
 
 ## budget: 
 
@@ -208,7 +216,7 @@ private partners.
 
 ## Teaching and training benefits
 
-The establishment of OverLab as collaborative space allows users to
+The establishment of the lab as collaborative space allows users to
 train and learn from each other. This also benefits the development
 digital humanities' skillset and experimentation for future digital
 humanities' scholars. In addition, the learning-by-doing approach helps

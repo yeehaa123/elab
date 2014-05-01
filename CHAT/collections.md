@@ -136,7 +136,17 @@ manipulation.
 
 ## How does this research build on relevant state-of-the-art research
 
-The NWO CATCH and CATCHplus projects have developed tools and collections that will be brought to and used by a broader audience of humanities scholars, creative industries and interested non-professionals. The private partners of the many CATCHplus can use this project to find new users for their products. 
+The NWO CATCH and CATCHplus projects have developed tools and
+collections that will be brought to and used by a broader audience
+of humanities scholars, creative industries and interested
+non-professionals. The private partners of the many CATCHplus can use
+this project to find new users for their products.
+
+Assemblage and Diversity (National Science Foundation) which explores
+how museums can work with digital technologies to construct distributed
+'mutable mobiles'. We do this by sharing digital objects among relevant
+stakeholder communities and allowing these objects to travel (mobility)
+and develop emergent, often incommensurable, meanings (mutability).
 
 The Augmenting Masterpieces project of Johanna Barnbeck and Jan Hein
 Hoogstad investigates interactive ways to experience the physical
