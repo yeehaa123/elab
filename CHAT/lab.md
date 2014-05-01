@@ -115,8 +115,9 @@ affords experimentation environments, with users as co-producers.
 
 This research builds on recent insights in collaborative living lab
 practices (Sauer, S. (September 2013) User innovativeness in Living Laboratories – Everyday user
-improvisations with ICTs as a source of innovation. PhD Thesis,
-University of Twente. Promotor: Prof. dr. N.E.J. Oudshoorn) where the
+improvisations with ICTs as a source of innovation.)
+<!--- PhD Thesis, University of Twente. Promotor: Prof. dr. N.E.J. Oudshoorn --->
+where the
 importance of user-centered research in living labs is underlined, but
 that also stresses how more research about the actual role of “the
 user” (in this case, the humanities’ scholar) is required in order
@@ -149,8 +150,9 @@ workshops, including at Dev Bootcamp in San Francisco.
 Marijn Koolen, Assistant Professor in the digital humanities at the
 University of Amsterdam, specializes in user studies and user needs,
 and this project is aimed at finding and creating what products and
-services would most benefit users. Along with Sabrina Sauer and Jan Hein
-Hoogstad, Marijn Koolen has a background in media studies.
+services would most benefit users. 
+<!--- Along with Sabrina Sauer and Jan Hein
+Hoogstad, Marijn Koolen has a background in media studies. --->
 
 Johanna Barnbeck is an Embedded Artistic Researcher who has worked as a
 creative consultant, making her ideal for a project that links academic
@@ -194,18 +196,19 @@ PhD travel            3.000,00 for two PhDs
 Post-doc travel       3.000,00 for 2 post-docs
 
 Milestones:
-Year 1: create one new product or service, PhDs and post-doc preesnt at conferences
-Year 2: create one new product or service, PhDs and post-doc present at conferences
-Year 3: create one new product or service, post-doc graduates
-Year 4: create one new product or service, PhDs finnish dissertations
+Year 1: create at least one new product or service
+Year 2: create at least one new product or service
+Year 3: create at least one new product or service
+Year 4: create at least one new product or service
 
 ### Key deliverables:
 
-The research deliverables for this will be published papers and
-presentations at conferences for the PhD and post-doc researchers. The
-post-doc will especially write articles on new forms of valorizing
-humanities research. There will also be prototypes developed and models
-created for embedded research labs.
+The research deliverables for this will be the created products and 
+services, published papers and presentations at conferences for the 
+PhD and post-doc researchers. The post-doc will especially write 
+articles on new forms of valorizing humanities research. There will 
+also be prototypes developed and models created for embedded research 
+labs.
 
 ### Publish/distribute results
 
