@@ -105,12 +105,14 @@ Interactive) are excellently equiped to push this agenda forward, because ...
 
 ### how this research contributes to core technologies identified in section 2 white paper:
 
-+ visualization
 
 + Together with Weyeser we will develop data minig tools to search 
 for and discover new patterns and knowledge in governmental and 
 heritage collections.
++ With Tulip Interactive we will develop new visualization tools for
+presenting collections in different ways.
 
+<!--- NOT SURE WHY THIS PARAGRAPH IS HERE: 
 At the same time, governments, municipalities and cultural institutions
 increasingly share their data openly online. A good example of this
 development in the field of cultural heritage is our partner in this
@@ -120,13 +122,13 @@ to compile graspable information from big data sets therefore become
 more important on the level of politics and social agency. It allows
 civic movements but also single citizens to understand political and
 social processes, identify problems and develop solutions – that can
-be software based.
-
+be software based. --->
 
 ### Budget:
 
 - 1 post-doc position
 - 2 PhD positions
+- 1 embedded researcher
 
 ### Deliverables:
 
@@ -167,7 +169,9 @@ with the developments in social media and consumer technology. --->
 The Augmenting Masterpieces project (Barnbeck & Hoogstad) investigates 
 interactive ways to experience the physical
 and digital collection of the Rijksmuseum in Amsterdam, with the aim
-to develop a prototype and map interaction scenarios. <!--- This research
+to develop a prototype and map interaction scenarios. 
+
+<!--- This research
 will complement Augmenting Masterpieces in that it also examines the
 relationship between the user, the tools available, and their experience
 of the collection. --->
