@@ -195,11 +195,11 @@ Development       130.000,00
 
 Other Costs Over 4 Years 
 Infrastructure    200.000,00 
-Organising        120.000,00
+Organising        200.000,00
 PhD travel         12.000,00 
 Post-doc travel     4.500,00 
 
-TOTAL Over 4 Years 1379.300,00
+TOTAL Over 4 Years 1459.300,00
 
 
 
