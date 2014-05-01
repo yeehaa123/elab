@@ -97,9 +97,14 @@ Interactive) are excellently equiped to push this agenda forward, because of the
 and interfacing expertise.
 
 ### how the research relates to the ‘opportunities for the humanities’ in White Paper Section 1:
-The opportunities for interdisciplinary collaboration and discovery for this project are tremendous. New networks will be created, and process will be examined through filming of some of the exhibition participants as they make their pieces.
+
+The opportunities for interdisciplinary collaboration and discovery for
+this project are tremendous. New networks will be created, and process
+will be examined through filming of some of the exhibition participants
+as they make their pieces.
 
 ### how this research contributes to core technologies identified in White Paper Section 2:
+
 
 Together with Weyeser we will develop data mining tools to search 
 for and discover new patterns and knowledge in governmental and 
@@ -108,8 +113,8 @@ heritage collections.
 With Tulp Interactive we will develop new visualization tools for
 presenting collections in different ways. 
 
-With Cast Your Art we will develop new modes in which these
-collections can be displayed on- and offline.
+With Cast Your Art we will develop new modes in which these collections
+can be displayed on- and offline.
 
 
 ### How does this research build on relevant state-of-the-art research
@@ -229,12 +234,33 @@ coordinate the collaboration plan. Periodical meetings will take place
 
 ## Valorization
 
-The exhibition and events working up to it can be used as a model for other collections and locations. Other organisations and movements can easily start their own local events.
-Existing tools and methods developed in research projects such as CATCH can be reused and the prototypes can be further developed into full-fledged products.
-Creative industries can use the models for exhibiting collections out of context to make their catalogue of online and offline exhibitions which they can monetize by targeting interested audiences.
-The deliverables of this project will create a new market of organisations and individuals with an interest to use discovery and visualisation tools for their own organisational or local exhibitions and fairs. 
-Because we use MIT licencing, companies can reuse code and tools created in the project to make commercial products. 
-Weyeser and Tulp Interactive will develop prototype tools for discovering and visualising new collections and new perspectives of collections that they can further develop into products. Through the interactions with users on the platform and contributors to the exhibition, they gain valuable information about the interests and needs of the users of their tools.
++ the exhibition and events working up to it can be used as a model for
+other collections and locations. Other organisations and movements can
+easily start their own local events.
+
++ existing tools and methods developed in research projects such as
+CATCH can be reused and the prototypes can be further developed into
+full-fledged products.
+
++ creative industries can use the models for exhibiting collections out
+of context to make their catalogue of online and offline exhibitions
+which they can monetize by targeting interested audiences.
+
++ the deliverables of this project will create a new market of
+organisations and individuals with an interest to use discovery and
+visualisation tools for their own organisational or local exhibitions
+and fairs.
+
++ because we use MIT licencing, companies can reuse code and tools
+created in the project to make commercial products.
+
++ Weyeser and Tulip Interactive will develop prototype tools for
+discovering and visualising new collections and new perspectives of
+collections that they can further develop into products. Through
+the interactions with users on the platform and contributors to the
+exhibition, they gain valuable information about the interests and needs
+of the users of their tools.
+
 
 ### Expected societal and economic impacts
 
@@ -244,7 +270,13 @@ an intervention in areas that are crucial to the past, present, and the
 future of the humanities: politics, literacy, culture, and knowledge
 production.
 
+<<<<<<< HEAD
+### Teaching and training benefits Developers, students, artists,
+curators, designers, will all learn from each other in the exhibition's
+interactive, international and interdisciplenary environment.
+=======
 ### Teaching and training benefits
+>>>>>>> 726a09a869ffd98b708b63b6b3154afc33059bdd
 
 Developers, students, artists, curators, designers, will all learn from each other in the exhibition's interactive, international and interdisciplinary environment. 
 
