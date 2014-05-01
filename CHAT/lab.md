@@ -222,9 +222,7 @@ universities and public or private partners. Their needs as digital
 knowledge worker on the one hand and a specific but homogeneous group on
 the other hand, allow valuable insights concerning the question of how
 ICT can provide instruments to make research more open, accessible and
-sustainable. This project will circulate knowledge; it will articulate
-how tacit knowledge informs humanities' research through direct
-collaboration between different actors to enrich research experience.
+sustainable.
 
 
 ## How the project relates to the long term development of CHAT
