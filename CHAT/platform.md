@@ -1,4 +1,3 @@
-
 # Center for Humanities and Technology
 # Grant Proposal 
 
@@ -6,14 +5,6 @@ University of Amsterdam
 Coding the Humanities – Platform as Interface
 
 ## Platform 
-
-Staffing requirements, in time and money, for each year of the project:
-
-How many PhDs? How many post-docs? How many researchers?
-
-IT costs? Any hardware or software acquisition costs? Infrastructural
-requirements = server space for building platform? Travel costs? yes.
-researchers publish for conferences
 
 Partners: Robin Boast (UvA), Jan Hein Hoogstad (UvA), Katja Kwastek
 (VU), Sabrina Sauer (UvA), Ginette Verstraete (VU), Joris van Zundert
@@ -219,7 +210,7 @@ Post-doc 1FTE~33.500,00
 Year 1: platform online, X conference/journal papers 
 Year 2: portfolio of tools developed on the platform, papers on platform collaborations
 Year 3: models and guidelines for developing tools based on research questions, more papers
-Year 4: Yet more papers, dissertations?, tools?, models?
+Year 4: papers, dissertations, tools, and models
 
 
 #### Key Deliverables
