@@ -42,7 +42,8 @@ The recent focus of funding for the humanities towards creative
 industries and other private partners has resulted in many digital
 humanities projects with embedded researchers. This project encourages
 embedded researchers to collaborate and learn from each others'
-experiences, to bring together knowledge on how to best combine academic research, product innovation and commercial interests. This
+experiences, to bring together knowledge on how to best combine
+academic research, product innovation and commercial interests. This
 results in new forms of knowledge production in the humanities, and
 builds sustainable collaborations between embedded researchers. Through
 experience, this research will reveal best practices of setting up
@@ -97,8 +98,7 @@ visualization, grappling with large open data sets provided by
 e.g. Europeana. The embedded research lab thus not only allows
 for experimentation, but also learning-by-doing collaboratively;
 digital interfaces are developed that are discovery oriented. The
-offline lab is complemented by an online platform ([Coding the
-Humanities](http://codingthehumanities.com/)). 
+offline lab is complemented by an online platform.
 
 ### How this research builds on relevant state-of-the-art research
 
@@ -158,7 +158,7 @@ Johanna Barnbeck is an Embedded Artistic Researcher who has worked as a
 creative consultant, making her ideal for a project that links academic
 and non-academic worlds.
 
-Nynke Bos is an expert in ICT innovation. 
+Nynke Bos is an expert in ICT innovation and is project leader of ICT and Education at the UvA. 
 
 Robin Boast has been working for over thirty years in what today we call
 Digital Humanities. His work has focused on diverse topics, ranging from
@@ -196,11 +196,10 @@ PhD travel            3.000,00 for two PhDs
 Post-doc travel       3.000,00 for 2 post-docs
 
 Milestones:
-Year 1: first version of lab started
-Year 2: first new product or service created
-Year 2: create at least one new product or service
-Year 3: create at least one new product or service
-Year 4: create at least one new product or service
+Year 1: first versions of Amsterdam-based ER lab started 
+Year 2: create first product or service and model for ER lab
+Year 3: first model for ER lab published
+Year 4: ER lab opened by non-CHAT partners
 
 ### Key deliverables:
 
@@ -214,7 +213,9 @@ labs.
 ### Publish/distribute results
 
 Results will be published in academic journals, conferences, workshops,
-and colloquiums.
+and colloquiums. The
+post-doc will especially write articles on new forms of valorizing
+humanities research. 
 
 
 ## Collaboration Plan 
@@ -226,7 +227,9 @@ the partners and Dark Horse.
 
 ## Valorization
 
-
++ with successful products/services created and a model for ER labs, more companies and insitutions will look towards humanities faculties to find students for internships to test new ideas and explore new avenues for development.
++ in turn, humanities faculties can show their economic relevance and attract new sources of funding and support. Through the network established with the private sector, faculty members can improve the financial situations of their departments by offering their services as consultants to businesses that need domain expertise in developing relevant products.
++ ER labs will be a fertile ground for experimentation with new prototypes, reducing the risk for companies to find good products to develop further.
 
 ### Expected societal and economic benefits
 

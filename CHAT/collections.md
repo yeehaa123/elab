@@ -97,6 +97,7 @@ Interactive) are excellently equiped to push this agenda forward, because ...
 
 ### how the research relates to the ‘opportunities for the humanities’ in White Paper Section 1:
 
+
 ### how this research contributes to core technologies identified in White Paper Section 2:
 
 Together with Weyeser we will develop data minig tools to search 
@@ -172,6 +173,12 @@ We will use MIT open source licensing.
 - 1 post-doc position
 - 2 PhD positions
 - 1 embedded researcher
+
+## Milestones:
+Year 1: Pilot exhibition
+Year 2: 
+Year 3: Exhibition
+Year 4: 
 
 ### Deliverables:
 
