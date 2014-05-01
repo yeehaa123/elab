@@ -211,9 +211,8 @@ Year 4: ER lab opened by non-CHAT partners
 The research deliverables for this will be the created products and 
 services, published papers and presentations at conferences for the 
 PhD and post-doc researchers. The post-doc will especially write 
-articles on new forms of valorizing humanities research. There will 
-also be prototypes developed and models created for embedded research 
-labs.
+articles on new forms of valorizing humanities research. Prototypes
+and models for embedded research labs will also be developed.
 
 ### Publish/distribute results
 
