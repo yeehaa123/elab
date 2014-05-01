@@ -73,7 +73,7 @@ methods.
 
 In addition to this, the embedded researchers’ activities articulate
 and map how developed instruments and methods form new models and
-methods for sustainable cooperation.This culminates in new areas
+methods for sustainable cooperation. This culminates in new areas
 of enquiry for humanities’ research; bringing forth humanities’ perspectives and research about
 larger societal and R&D inspired collaboration and ICT innovation
 practices. The lab also allows embedded researchers to
@@ -106,7 +106,7 @@ laboratories. This practice is to lead to unexpected insights into user
 ideas and practices and lead to the development of more successful ICTs. To gain unexpected insights,
 methodologies focus on the inclusion of real (end) users in daily life
 contexts. The Living Lab thus also comprises a setting; a setting that
-affords experimentation environments,with users as co-producers.
+affords experimentation environments, with users as co-producers.
 
 This research builds on recent insights in collaborative living lab
 practices (Sauer, S. (September 2013) User innovativeness in Living Laboratories – Everyday user
@@ -219,16 +219,14 @@ The establishment of the lab as collaborative space allows users to
 train and learn from each other. This also benefits the development
 digital humanities' skillset and experimentation for future digital
 humanities' scholars. In addition, the learning-by-doing approach helps
-overcome the reluctance of relfectively minded scholars to engage
+overcome the reluctance of reflectively minded scholars to engage
 with new technologies. Embedded researchers work between theory and
 (artistic) practice, physical and digital research, science and art,
 universities and public or private partners. Their needs as digital
 knowledge worker on the one hand and a specific but homogeneous group on
 the other hand, allow valuable insights concerning the question of how
 ICT can provide instruments to make research more open, accessible and
-sustainable. This project will circulate knowledge; it will articulate
-how tacit knowledge informs humanities' research through direct
-collaboration between different actors to enrich research experience.
+sustainable.
 
 
 ## How the project relates to the long term development of CHAT

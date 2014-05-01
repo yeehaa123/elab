@@ -2,9 +2,8 @@
 # Grant Proposal 
 
 University of Amsterdam
-Coding the Humanities
 
-## Platform 
+## Coding the Humanities: A Platform for Research and Learning
 
 Partners: Robin Boast (UvA), Jan Hein Hoogstad (UvA), Marijn Koolen (UvA), Sabrina Sauer (UvA), Joris van Zundert (KNAW)
 
