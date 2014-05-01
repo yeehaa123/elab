@@ -219,7 +219,7 @@ the partners and Dark Horse.
 ## Valorization
 
 With successful products/services created and a model for ER labs, more companies and insitutions will look towards humanities faculties to find students for internships to test new ideas and explore new avenues for development.
-In turn, humanities faculties can show their economic relevance and attract new sources of funding and support. Through the network established with the private sector, faculty members can improve the financial situations of their departments by offering their services as consultants to businesses that need domain expertise in developing relevant products.
+In turn, humanities faculties can show their economic relevance and attract new sources of funding and support. Through the network established with the private sector, faculty members can improve the financial situations of their departmens by offering their services as consultants to businesses that need domain expertise in developing relevant products.
 ER labs will be a fertile ground for experimentation with new prototypes, reducing the risk for companies to find good products to develop further.
 
 ### Expected societal and economic benefits
@@ -240,9 +240,9 @@ digital humanities' skillset and experimentation for future digital
 humanities' scholars. In addition, the learning-by-doing approach helps
 overcome the reluctance of reflectively minded scholars to engage
 with new technologies. Embedded researchers work between theory and
-(artistic) practice, physical and digital research, science and art,
-universities and public or private partners. Their needs as digital
-knowledge worker on the one hand and a specific but homogeneous group on
+(artistic) practice, physical and digital research, universities and
+public or private partners. Their needs as digital knowledge worker
+on the one hand and a specific but homogeneous group on
 the other hand, allow valuable insights concerning the question of how
 ICT can provide instruments to make research more open, accessible and
 sustainable.
