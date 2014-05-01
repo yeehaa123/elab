@@ -50,7 +50,6 @@ and ensures that embedded humanities research is neither too academically orient
 The proposed living lab focuses on facilitating breakthrough scholarship
 in the (digital) humanities, by offering a collaborative platform that
 embraces social learning practices between public-private-civic actors.
-
 This lab explores the integration and augmentation of online
 learning and collaboration into an offline environment. It serves as
 a real life testbed to initiate, support and foster online humanities
