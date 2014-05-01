@@ -20,6 +20,8 @@ and creates new models for collaboration in the humanities.
 
 ### Goal and Problem
 
+This project aims to create a coding platform for humanities students and researchers to 
+
 Within digital humanities research a broad range of tools is used for
 analysis of digital materials. Humanities scholars often have little
 interest in the details of how the tools work, but prefer to focus on
@@ -123,7 +125,13 @@ the humanities. --->
 
 One of the premisses of this project is that there is hardly any state-of-the-art research on this topic. The digital tools that are used in humanities
 research are hardly ever made into a topic of discussion or reflection. The building of new
-custom made tools, such as the platform that we suggest, is even more rare.
+custom made tools, such as the platform that we suggest, is even more rare. Companies
+offering online learning platforms like Apearo, Edx have no courses in
+this direction. There are programming courses offered for non-computer
+science students, but they often engage students with technical
+jargon and a perspective that lacks relevance to those with no such
+technological bias but a need to know what programming skills have to
+offer them. 
 
 That being said, our project does build on some pioneering work by people such
 as Stefan Sinclair (McGill), John Willinsky (Stanford), Alan Liu (University of
@@ -132,13 +140,7 @@ Virginia), all of which are involved as advisors in our project.
 
 TO DO: LOOK FOR RELATED PROJECTS
 
-As far as we know, there is very little research in this area. Companies
-offering online learning platforms like Apearo, Edx have no courses in
-this direction. There are programming courses offered for non-computer
-science students, but they often engage students with technical
-jargon and a perspective that lacks relevance to those with no such
-technological bias but a need to know what programming skills have to
-offer them. 
+
 
 
 ### Why the proposed research team would be the best to perform this research:
@@ -152,6 +154,7 @@ The platform will embrace open source culture and all contributions to
 the platform and projects developed on the platform are published using
 open licenses. The students share their code projects on distributed
 repositories, which encourages re-use, altering and further development.
+- MIT
 
 ### Budget and Key Deliverables (1 page)
 
