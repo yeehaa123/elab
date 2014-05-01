@@ -116,51 +116,14 @@ presenting collections in different ways.
 + With Cast Your Art we will develop new modes in which these
 collections can be displayed on- and offline.
 
-<!--- NOT SURE WHY THIS PARAGRAPH IS HERE: 
-At the same time, governments, municipalities and cultural institutions
-increasingly share their data openly online. A good example of this
-development in the field of cultural heritage is our partner in this
-project the Europeana network. But also in the political field a lot
-of open data sets wait be explored by dedicated citizens. The skills
-to compile graspable information from big data sets therefore become
-more important on the level of politics and social agency. It allows
-civic movements but also single citizens to understand political and
-social processes, identify problems and develop solutions – that can
-be software based. --->
 
-### Budget:
-
-- 1 post-doc position
-- 2 PhD positions
-- 1 embedded researcher
-
-### Deliverables:
-
-The major deliverable of this research will be the interdisciplenary
-coding fair, where students, researchers, developers, and business
-people can come together. The fair will demonstrate results of the
-research, in the forms of models for new types of collaborative
-exhibitions and tools and libraries for data acquisition and
-manipulation.
-
-Additional deliverables will be digital tools for searching, discovering, analysing and visualising patterns in online collections. 
-
-Publication of several articles and at least one book.
-
-## How does this research build on relevant state-of-the-art research
-
-<!--- Assemblage and Diversity (National Science Foundation) which explores
-how museums can work with digital technologies to construct distributed
-'mutable mobiles'. We do this by sharing digital objects among relevant
-stakeholder communities and allowing these objects to travel (mobility)
-and develop emergent, often incommensurable, meanings (mutability). --->
+### How does this research build on relevant state-of-the-art research
 
 Robin Boast's project Assemblage and Diversity: Working with
 Incommensurability in Distributed, Emergent Knowledge Networks is also
 closely related to this research. It creates a network of objects that
 are normally placed in museums and moves them to locations that are
 directly relevant to their meaning.
-
 
 This project is related to several embedded research projects,
 "Object-User Relationships (Maldini & Verstraete), Archiving
@@ -183,11 +146,6 @@ The Augmenting Masterpieces project (Barnbeck & Hoogstad) investigates
 interactive ways to experience the physical and digital collection of
 the Rijksmuseum in Amsterdam, with the aim to develop a prototype and
 map interaction scenarios.
-
-<!--- This research
-will complement Augmenting Masterpieces in that it also examines the
-relationship between the user, the tools available, and their experience
-of the collection. --->
 
 We will also build on the work of the Virtual Museum Transnational
 Network (http://www.v-must.net/) and Material Encounters with Digital
@@ -224,6 +182,31 @@ media usage.
 ## Plans for software and data management and sharing
 open source licensing. MIT. 
 
-## Collaboration Plan
+## Budget:
 
-The Principle Investigators will be Robin Boast from the University of Amsterdam and Ginette Verstraete from the VU University. They will coordinate the collaboration plan. Periodical meetings will take place involving the partners and Dark Horse.
+- 1 post-doc position
+- 2 PhD positions
+- 1 embedded researcher
+
+### Deliverables:
+
+The major deliverable of this research will be the interdisciplenary
+coding fair, where students, researchers, developers, and business
+people can come together. The fair will demonstrate results of the
+research, in the forms of models for new types of collaborative
+exhibitions and tools and libraries for data acquisition and
+manipulation. This event will be preceded by several smaller pilot
+fairs.
+
+Additional deliverables will be digital tools for searching,
+discovering, analysing and visualising patterns in online collections.
+
+Publication of several articles and at least one book.
+
+
+## Project Management
+
+The Principle Investigators will be Robin Boast from the University
+of Amsterdam and Ginette Verstraete from the VU University. They will
+coordinate the collaboration plan. Periodical meetings will take place
+involving the partners and Dark Horse.
