@@ -77,7 +77,7 @@ and map how developed instruments and methods form new models and
 methods for sustainable cooperation.This will culminate in new areas
 of enquiry for humanities’ research; bringing forth humanities’ perspectives and research about
 larger societal and R&D inspired collaboration and ICT innovation
-practices. The lab furthermore allows embedded researchers to
+practices. The lab also allows embedded researchers to
 work between theory and (artistic) practice, physical and digital
 research, science and art, universities and public or private partners.
 Furthermore, in the lab humanities’ scholars experiment with digital humanities and methods
