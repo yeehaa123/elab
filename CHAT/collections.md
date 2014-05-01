@@ -93,7 +93,8 @@ and new questions. Online projects leave a trace of how a new type of
 exhibition develops.
 
 Our private partners in this project (Cast Your Art, Weyeser, and Tulp
-Interactive) are excellently equiped to push this agenda forward, because ...
+Interactive) are excellently equiped to push this agenda forward, because of their visualisation
+and interfacing expertise.
 
 ### how the research relates to the ‘opportunities for the humanities’ in White Paper Section 1:
 The opportunities for interdisciplenary collaboration and discovery for this project are tremendous. New networks will be created, and process will be examined through filming of some of the exhibition participants as they make their pieces.
