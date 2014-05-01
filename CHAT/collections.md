@@ -107,6 +107,10 @@ Interactive) are excellently equiped to push this agenda forward, because ...
 
 + visualization
 
++ Together with Weyeser we will develop data minig tools to search 
+for and discover new patterns and knowledge in governmental and 
+heritage collections.
+
 At the same time, governments, municipalities and cultural institutions
 increasingly share their data openly online. A good example of this
 development in the field of cultural heritage is our partner in this
@@ -133,44 +137,46 @@ research, in the forms of models for new types of collaborative
 exhibitions and tools and libraries for data acquisition and
 manipulation.
 
+Additional deliverables will be digital tools for searching, discovering, analysing and visualising patterns in online collections. 
+
+Publication of several articles and at least one book.
 
 ## How does this research build on relevant state-of-the-art research
 
-The NWO CATCH and CATCHplus projects have developed tools and
-collections that will be brought to and used by a broader audience
-of humanities scholars, creative industries and interested
-non-professionals. The private partners of the many CATCHplus can use
-this project to find new users for their products.
-
-Assemblage and Diversity (National Science Foundation) which explores
+<!--- Assemblage and Diversity (National Science Foundation) which explores
 how museums can work with digital technologies to construct distributed
 'mutable mobiles'. We do this by sharing digital objects among relevant
 stakeholder communities and allowing these objects to travel (mobility)
-and develop emergent, often incommensurable, meanings (mutability).
+and develop emergent, often incommensurable, meanings (mutability). --->
 
-The Augmenting Masterpieces project of Johanna Barnbeck and Jan Hein
-Hoogstad investigates interactive ways to experience the physical
-and digital collection of the Rijksmuseum in Amsterdam, with the aim
-to develop a prototype and map interaction scenarios. This research
-will complement Augmenting Masterpieces in that it also examines the
-relationship between the user, the tools available, and their experience
-of the collection.
+Robin Boast's project Assemblage and Diversity: Working with Incommensurability in Distributed, Emergent Knowledge Networks is also closely related to this research. It creates a network of objects that are normally placed in museums and moves them to locations that are directly relevant to their meaning.
 
-We will also build on the work of the Virtual Museum Transnational
-Network (http://www.v-must.net/) and Material Encounters with Digital
-Cultural Heritage (http://mesch-project.eu/).
 
-The project Users as Muse (VU), which explores a changing relationship
-between museums and their visitors, due to tremendous changes in
-audience empowerement, especially in an online environment. Consumers
-become prosumers, but museum institutes are still struggling to cope
-with the developments in social media and consumer technology.
+This project is related to several embedded research projects, "Object-User Relationships (Maldini & Verstraete), Archiving Interactives (Verstraete & de Vos) and "Users as Muse" (Gimeno-Martinez, Verstraete & Whittle), which explore the changing relationships between museums, objects and visitors due to shifts from consumers to users or prosumers.
 
 Additionally, the VU University project Perspective and Perception,
 which explores how graphical projections commonly used in interactive
 digital environments influence our perception.
 
-Robin Boast's project Assemblage and Diversity: Working with Incommensurability in Distributed, Emergent Knowledge Networks is also closely related to this research. It creates a network of objects that are normally placed in museums and moves them to locations that are directly relevant to their meaning.
+<!--- The project Users as Muse (VU), which explores a changing relationship
+between museums and their visitors, due to tremendous changes in
+audience empowerement, especially in an online environment. Consumers
+become prosumers, but museum institutes are still struggling to cope
+with the developments in social media and consumer technology. --->
+
+The Augmenting Masterpieces project (Barnbeck & Hoogstad) investigates 
+interactive ways to experience the physical
+and digital collection of the Rijksmuseum in Amsterdam, with the aim
+to develop a prototype and map interaction scenarios. <!--- This research
+will complement Augmenting Masterpieces in that it also examines the
+relationship between the user, the tools available, and their experience
+of the collection. --->
+
+We will also build on the work of the Virtual Museum Transnational
+Network (http://www.v-must.net/) and Material Encounters with Digital
+Cultural Heritage (http://mesch-project.eu/). The NWO CATCH and CATCHplus projects have developed new tools and collections that this project will make use of and extend upon. 
+
+Finally, this project also relates to the Horizon 2020 research themes of cultural heritage, inclusion and global change.
 
 ## Why the proposed research team would be best to perform this research
 
