@@ -109,8 +109,12 @@ Interactive) are excellently equiped to push this agenda forward, because ...
 + Together with Weyeser we will develop data minig tools to search 
 for and discover new patterns and knowledge in governmental and 
 heritage collections.
+
 + With Tulip Interactive we will develop new visualization tools for
 presenting collections in different ways.
+
++ With Cast Your Art we will develop new modes in which these
+collections can be displayed on- and offline.
 
 <!--- NOT SURE WHY THIS PARAGRAPH IS HERE: 
 At the same time, governments, municipalities and cultural institutions
