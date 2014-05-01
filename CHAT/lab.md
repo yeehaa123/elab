@@ -32,7 +32,13 @@ the digital and other worlds.
 
 ### How this research contributes to the humanities, and to ‘digital humanities’? 
 
-The recent focus of funding for the humanities towards creative industries and other private partners has resulted in many digital humanities projects with embedded researchers. This project encourages embedded researchers to collaborate and learn from each others experiences, to bring together knowledge on how to best combine academic research, product innovation and commercial interests. This results in new forms of knowledge production in the humanities. 
+The recent focus of funding for the humanities towards creative
+industries and other private partners has resulted in many digital
+humanities projects with embedded researchers. This project encourages
+embedded researchers to collaborate and learn from each others
+experiences, to bring together knowledge on how to best combine academic
+research, product innovation and commercial interests. This results in
+new forms of knowledge production in the humanities.
 
 ### How does the research relate to the ‘opportunities for the humanities’ identified in the White Paper, Section 1?
 
@@ -80,14 +86,15 @@ possible private partners for future research.
 ## How this research contributes to one or more of the core technologies in section 1 of the white paper 
 
 
-*visualization and machine learning*: within the lab, students and
-researchers collaborate to learn and experiment with data visualization,
-grappling with large open data sets provided by e.g. Europeana.
-The embedded research lab thus not only allows for experimentation, but also
-learning-by-doing collaboratively; digital interfaces are developed that
-are discovery oriented. The offline lab is complemented by an online
-platform ([Coding the Humanities](http://codingthehumanities.com/)) (weyeser text) (Question: is this too
-much overlap with the visualization interface proposal?)
+*visualization and machine learning*: within the lab, students
+and researchers collaborate to learn and experiment with data
+visualization, grappling with large open data sets provided by
+e.g. Europeana. The embedded research lab thus not only allows
+for experimentation, but also learning-by-doing collaboratively;
+digital interfaces are developed that are discovery oriented. The
+offline lab is complemented by an online platform ([Coding the
+Humanities](http://codingthehumanities.com/)) (weyeser text) (Question:
+is this too much overlap with the visualization interface proposal?)
 
 ## How does this research build on relevant state-of-the-art research
 
@@ -130,11 +137,44 @@ practices. The OverLab provides exactly such an opportunity.
 
 ## Why this research team would be best to perform this research
 
-Sabrina Sauer is a prominent researcher at the University of Amsterdam, with specific expertise on living labs. Johanna Barnbeck is an Embedded Artistic Researcher who has worked as a creative consultant, making her ideal for a project that links academic and non-academic worlds. Jan Hein Hoogstad is an Assistant Professor in Cultural Analysis and Comparative Literature who has also taught coding bootcamps and workshops, including at the Dev Bootcamp in San Francisco. Marijn Koolen, an Assistant Professor in the digital humanities at the University of Amsterdam, specializes in user studies and user needs, and this project is aimed at finding what tools would most benefit users and then creating them. All three of the above have backgrounds in media studies. Nynke Bos is an expert in ICT innovation. Ginette Verstraete ... ... ... Robin Boast has been working for over thirty years in what today we call Digital Humanities. His work has focused on diverse topics, ranging from the first digital collection projects in museums and universities to the more recent emergence of the Web and social computing, to the question of digitality itself. Partiipants from the University of Amsterdam are currently developing a lab at their university as well as the coding platform, which links to this lab project. Dark Horse is a company that works in Design Thinking, which is central to the lab.
+Sabrina Sauer is a prominent researcher at the University of Amsterdam,
+with specific expertise on living labs. 
+
+Johanna Barnbeck is an Embedded
+Artistic Researcher who has worked as a creative consultant, making
+her ideal for a project that links academic and non-academic worlds.
+
+Jan Hein Hoogstad is an Assistant Professor in Cultural Analysis
+and Comparative Literature who has also taught coding bootcamps and
+workshops, including at Dev Bootcamp in San Francisco. 
+
+Marijn Koolen, an Assistant Professor in the digital humanities at the
+University of Amsterdam, specializes in user studies and user needs, and
+this project is aimed at finding what tools would most benefit users and
+then creating them. All three of the above have backgrounds in media
+studies.
+
+Nynke Bos is an expert in ICT innovation. Ginette
+Verstraete ... ... ... 
+
+Robin Boast has been working for over thirty years in what today we call
+Digital Humanities. His work has focused on diverse topics, ranging from
+the first digital collection projects in museums and universities to the
+more recent emergence of the Web and social computing, to the question
+of digitality itself.
+
+Participants from the University of Amsterdam are currently developing a
+lab at their university as well as the coding platform, which links to
+this lab project.
+
+Dark Horse is a company that works in Design Thinking, which is central
+to the lab.
 
 + VU expertise
 
-<!--- Brings together experts in the field – living lab research, digital humanities scholars, programmers and developers, artists, embedded researchers, to collaborate?? SOMETHING LIKE THIS?? --->
+<!--- Brings together experts in the field – living lab research,
+digital humanities scholars, programmers and developers, artists,
+embedded researchers, to collaborate?? SOMETHING LIKE THIS?? --->
 
 ## budget: 
 
@@ -143,24 +183,52 @@ Sabrina Sauer is a prominent researcher at the University of Amsterdam, with spe
 
 ## key deliverables:
 
-The research deliverables for this will be published papers and presentations at conferences for the PhD and post-doc researchers. The post-doc will especially write articles on new forms of valorizing humanities research. There will also be protypes developed and models created for embedded research labs. 
+The research deliverables for this will be published papers and
+presentations at conferences for the PhD and post-doc researchers. The
+post-doc will especially write articles on new forms of valorizing
+humanities research. There will also be protypes developed and models
+created for embedded research labs.
 
 ## publish/distribute results
 
-Results will be published in academic journals, conferences, workshops, and colloquiums.
+Results will be published in academic journals, conferences, workshops,
+and colloquiums.
 
 ## Valorization
 
 ## Expected societal and economic benefits
 
-The concrete deliverables will be the creation of new products and services for public-private-civic benefit. This research will gain insight in how collaborations in online and offline spaces enrich each other. It will also develop new research methodologies. Assigning a role of embedded researcher will be of interest to academia as well as to private partners.
+The concrete deliverables will be the creation of new products and
+services for public-private-civic benefit. This research will gain
+insight in how collaborations in online and offline spaces enrich each
+other. It will also develop new research methodologies. Assigning a role
+of embedded researcher will be of interest to academia as well as to
+private partners.
 
 
 ## Teaching and training benefits
 
-The establishment of OverLab as collaborative space allows users to train and learn from each other. This also benefits the development digital humanities' skillset and experimentation for future digital humanities' scholars. In addition, the learning-by-doing approach helps overcome the reluctance of relfectively minded scholars to engage with new technologies. Embedded researchers work between theory and (artistic) practice, physical and digital research, science and art, universities and public or private partners. Their needs as digital knowledge worker on the one hand and a specific but homogeneous group on the other hand, allow valuable insights concerning the question of how ICT can provide instruments to make research more open, accessible and sustainable. This project will circulate knowledge; it will articulate how tacit knowledge informs humanities' research through direct collaboration between different actors to enrich research experience.
+The establishment of OverLab as collaborative space allows users to
+train and learn from each other. This also benefits the development
+digital humanities' skillset and experimentation for future digital
+humanities' scholars. In addition, the learning-by-doing approach helps
+overcome the reluctance of relfectively minded scholars to engage
+with new technologies. Embedded researchers work between theory and
+(artistic) practice, physical and digital research, science and art,
+universities and public or private partners. Their needs as digital
+knowledge worker on the one hand and a specific but homogeneous group on
+the other hand, allow valuable insights concerning the question of how
+ICT can provide instruments to make research more open, accessible and
+sustainable. This project will circulate knowledge; it will articulate
+how tacit knowledge informs humanities' research through direct
+collaboration between different actors to enrich research experience.
 
 
 ## How the project relates to the long term development of CHAT
-This project contributes to knowledge about public-private-civic collaboration practices and how these may be (re)modeled to benefit or learn from user-centricity. It has an explcit inclusion of humanities' researchers to inform and question ICT developments, in open online and offline environments. 
+
+This project contributes to knowledge about public-private-civic
+collaboration practices and how these may be (re)modeled to benefit or
+learn from user-centricity. It has an explcit inclusion of humanities'
+researchers to inform and question ICT developments, in open online and
+offline environments.
 

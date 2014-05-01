@@ -7,8 +7,7 @@ Coding the Humanities – Platform as Interface
 ## Platform 
 
 Partners: Robin Boast (UvA), Jan Hein Hoogstad (UvA), Katja Kwastek
-(VU), Sabrina Sauer (UvA), Ginette Verstraete (VU), Joris van Zundert
-(KNAW)
+(VU), Sabrina Sauer (UvA), Joris van Zundert (KNAW)
 
 ## Project Description 
 
