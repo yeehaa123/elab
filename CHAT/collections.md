@@ -151,14 +151,18 @@ map interaction scenarios.
 
 Robin Boast, professor at the University of Amsterdam, has been working
 in what we now call the Digital Humanities for over 30 years.
+
 Jan Hein Hoogstad, Assistant Professor at the University of Amsterdam
 in Cultural Analysis and Comparative Literature, has extensive coding
 experience and a background that connects programming to the humanities.
+
 Katja Kwastek is a professor in Art History at the VU University in
 Amsterdam and researches crossroads between art and new media.
+
 Sabrina Sauer is an Assistant Professor at the University of Amsterdam.
 Her research combines approaches from Media Studies and Science and
 Technology Studies.
+
 Ginette Verstraete, Professor at the VU University, researches the way
 mobile (location-based) technologies and their applications (such as
 GPS on iPhones) have transformed mobility through urban space.These
