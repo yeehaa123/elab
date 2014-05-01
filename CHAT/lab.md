@@ -40,9 +40,10 @@ humanities projects with embedded researchers. This project encourages
 embedded researchers to collaborate and learn from each others'
 experiences, to bring together knowledge on how to best combine academic
 research, product innovation and commercial interests. This results in
-new forms of knowledge production in the humanities, as well as the building
-of sustainable information sharing and collaborations between embedded researchers.
-Through experience, this research will reveal best practices of setting up embedded research projects, as well as best practices ensuring that embedded humanities research is neither too academically oriented nor too product oriented.
+new forms of knowledge production in the humanities, and builds sustainable
+collaborations between embedded researchers.
+Through experience, this research will reveal best practices of setting up embedded research projects,
+and ensures that embedded humanities research is neither too academically oriented nor too product oriented.
 
 ### How does the research relate to the ‘opportunities for the humanities’ identified in the White Paper, Section 1?
 
