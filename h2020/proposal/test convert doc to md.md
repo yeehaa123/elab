@@ -1,447 +1,311 @@
-List of participants: Jan Hein Hoogstad, Marijn Koolen, Sabrina Sauer,
-Robin Boast, Nynke Bos
+**List of participants:** Jan Hein Hoogstad, Marijn Koolen, Sabrina Sauer, Robin Boast, Nynke Bos
 
-\
+#Coding the Humanities - Interfaces for learning and research
 
-**Coding the Humanities ‚Äì Interfaces for learning and research**
+| 			Participant No *    | 			Participant organisation name     | 			Country     |
+|------------------------|--------------------------------------|----------------|
+| 			1 Jan Hein Hoogstad | 			University of Amsterdam           | 			Netherlands |
+| 			2 Robin Boast       | 			University of Amsterdam           | 			Netherlands |
+| 			3 Marijn Koolen     | 			University of Amsterdam           | 			Netherlands |
+| 			4 Sabrina C. Sauer  | 			University of Amsterdam           | 			Netherlands |
+| 			5 Nynke Bos         | 			University of Amsterdam           | 			Netherlands |
+| 			6 Lisa Zoth         | 			Dark Horse                        | 			Germany     |
+| 			7 Patrick Kenzler   | 			Dark Horse                        | 			Germany     |
+| 			8 Jill Cousins      | 			Europeana                         | 			Netherlands |
+| 			9 Alexandro Mancusi | 			Weyeser                           | 			Netherlands |
+| 			10 Wayne Modest     | 			National Museum of World Cultures | 			Netherlands |
+| 			11 Helmut Feier     | 			CastYourArt                       | 			Austria     |
+| 			12 Wolfgang Haas    | 			CastYourArt                       | 			Austria     |
 
-****\
 
-**List of participants**
 
-\
+#Table of Contents
 
-+-------------------------+-------------------------+-------------------------+
-| **Participant No \***   | **Participant           | **Country**             |
-|                         | organisation name**     |                         |
-+-------------------------+-------------------------+-------------------------+
-| 1 Jan Hein Hoogstad     | University of Amsterdam | Netherlands             |
-+-------------------------+-------------------------+-------------------------+
-| 2 Robin Boast           | University of Amsterdam | Netherlands             |
-+-------------------------+-------------------------+-------------------------+
-| 3 Marijn Koolen         | University of Amsterdam | Netherlands             |
-+-------------------------+-------------------------+-------------------------+
-| 4 Sabrina C. Sauer      | University of           | Netherlands             |
-|                         | Amsterdam¬†              |                         |
-+-------------------------+-------------------------+-------------------------+
-| 5 Nynke Bos             | University of Amsterdam | Netherlands             |
-+-------------------------+-------------------------+-------------------------+
-| 6 Lisa Zoth             | Dark Horse              | Germany                 |
-+-------------------------+-------------------------+-------------------------+
-| 7 Patrick Kenzler       | Dark Horse              | Germany                 |
-+-------------------------+-------------------------+-------------------------+
-| 8 Jill Cousins¬†         | Europeana               | Netherlands             |
-+-------------------------+-------------------------+-------------------------+
-| 9 Alexandro Mancusi     | Weyeser                 | Netherlands             |
-+-------------------------+-------------------------+-------------------------+
-| 10 Wayne Modest         | National Museum of      | Netherlands             |
-|                         | World Cultures¬†         |                         |
-+-------------------------+-------------------------+-------------------------+
-| 11 Helmut Feier         | CastYourArt             | Austria                 |
-+-------------------------+-------------------------+-------------------------+
-| 12 Wolfgang Haas        | CastYourArt             | Austria                 |
-+-------------------------+-------------------------+-------------------------+
+**1. Excellence**  
 
-\
-
-\
-
-\
-
-****\
-
-****\
-
-****\
-
-****\
-
-****\
-
-****\
-
-****\
-
-****\
-
-****\
-
-****\
-
-****\
-
-****\
-
-****\
-
-****\
-
-****\
-
-****\
-
-**Table of Contents**
-
-\
-
-**1. Excellence**
-
-1.1 Objectives
-
-1.2 Relation to the Work Programme
-
-1.3 Concept and approach, quality of the coordination and support
+1.1 Objectives  
+1.2 Relation to the Work Programme  
+1.3 Concept and approach, quality of the coordination and support  
 measures
+1.3.1 Introduction  
+1.3.2 Assumptions involved  
+1.3.3 Approach  
+1.3.3.1 The Platform as Interface  
+1.3.3.2 The Lab as Interface  
+1.3.3.3 Collections as Interfaces  
 
-1.3.1 Introduction
+**2. Impact**  
 
-1.3.2 Assumptions involved
+2.1 Expected Impacts  
+2.2 Measures to maximize impact  
+2.2.1 Dissemination and Exploitation of Results  
+2.2.2 Communication Activities  
 
-1.3.3 Approach
+**3. Implementation**  
 
-1.3.3.1 The Platform as Interface
+3.1 Work plan - Work packages, deliverables and milestones  
+Table 3.1 a: Work package description  
+Table 3.1 b: List of Work Packages  
+Table 3.1 c: List of Deliverables  
+3.2 Management Structure and Procedures  
+Table 3.2 a: List of Milestones  
+Table 3.2 b: Critical Risks for Implementation  
+3.3 Consortium as a Whole  
+3.4 Resources to be Commited  
+Table 3.4 a: Summary of Staff Effort  
+Table 3.4 b: Other Direct Cost Items  
 
-1.3.3.2 The Lab as Interface
+**4. Members of the consortium**  
 
-1.3.3.3 Collections as Interfaces
-
-****\
-
-**2. Impact**
-
-2.1 Expected Impacts¬†
-
-2.2 Measures to maximize impact
-
-2.2.1 Dissemination and Exploitation of Results
-
-2.2.2 Communication Activities
-
-****\
-
-**3. Implementation**
-
-3.1 Work plan ‚Äì Work packages, deliverables and milestones
-
-Table 3.1 a: Work package description¬†
-
-Table 3.1 b: List of Work Packages
-
-Table 3.1 c: List of Deliverables
-
-3.2 Management Structure and Procedures
-
-Table 3.2 a: List of Milestones¬†
-
-Table 3.2 b: Critical Risks for Implementation
-
-3.3 Consortium as a Whole
-
-3.4 Resources to be Commited
-
-Table 3.4 a: Summary of Staff Effort
-
-Table 3.4 b: Other Direct Cost Items
-
-****\
-
-**4. Members of the consortium**
-
-4.1 Participants (applicants)
-
-4.1.1 University of Amsterdam
-
-4.1.2 Dark Horse
-
-4.1.3 Europeana
-
-4.1.4 National Museum of World Cultures
-
-4.1.5 Weyeser
-
-4.1.6 CastYourArt
+4.1 Participants (applicants)  
+4.1.1 University of Amsterdam  
+4.1.2 Dark Horse  
+4.1.3 Europeana  
+4.1.4 National Museum of World Cultures  
+4.1.5 Weyeser  
+4.1.6 CastYourArt  
 
 **5. Ethics and Security**
 
-¬†
+#1. Excellence
 
-\
+## 1.1 Objectives 
 
-\
+Learning and research (in the Humanities) are hindered by a lack of 
+coding skills and the seeming incommensurability of educating massive groups 
+of students and providing high quality education. Although traditional knowledge 
+institutions are losing their monopoly on education and research, ICT skills 
+and knowledge production remain privileges of a cultural, technological and economic 
+elite. We propose to tackle this problem by providing online and offline interfaces 
+between people on the one hand and learning and research on the other hand, which 
+focus on new forms of collaboration and a user- and tool-oriented approach to 
+learning programming skills. These interfaces lower the technological, economic 
+and organizational barriers to participation, empower many different groups of 
+people to more deeply and effectively engage with technology and motivate lifelong 
+learning.
 
-****\
+We identify four dilemmas about statements on learning and research that can be 
+challenged or embraced:
 
-****\
+1. *Digital Literacy*: Education and research (in the Humanities) increasingly depend on people with programming skills.
+2. *Organization*: Traditional knowledge institutions are losing their monopoly on education and research.
+3. *Numbers*: Future education should revolve around massive numbers (Big Data, MOOC).
+4. *Elite*: Coding and knowledge production remain privileges of a cultural, technological and economic elite.
 
-****\
 
-****\
-
-****\
-
-****\
-
-****\
-
-****\
-
-****\
-
-****\
-
-****\
-
-****\
-
-****\
-
-****\
-
-****\
-
-****\
-
-****\
-
-****\
-
-****\
-
-****\
-
-****\
-
-****\
-
-****\
-
-****\
-
-**1. Excellence**
-
-\
-
-**1.1 Objectives**
-
-\
-
-Learning and research (in the humanities) are hindered by a lack of
-coding skills and the seeming incommensurability of educating massive
-groups of students and providing high quality education. Although
-traditional knowledge institutions are losing their monopoly on
-education and research, ICT skills and knowledge production remain
-privileges of a cultural, technological and economic elite. We propose
-to tackle this problem by providing online and offline interfaces
-between people on the one hand and learning and research on the other
-hand, which focus on new forms of collaboration and a user- and
-tool-oriented approach to learning programming skills. These interfaces
-lower the technological, economic and organizational barriers to
-participation, empower many different groups of people to more deeply
-and effectively engage with technology and motivate lifelong learning.
-
-\
-
-We identify four dilemmas about statements on learning and research that
-can be challenged or embraced:
-
-\
-
-**Digital Literacy:**Education and research (in the humanities)
-increasingly depend on people with programming skills.
-
-**Organization:** Traditional knowledge institutions are losing their
-monopoly on education and research.
-
-**Numbers:**Future education should revolve around massive numbers (Big
-Data, MOOC).
-
-**Elite:** Coding and knowledge production remain privileges of a
-cultural, technological and economic elite.
-
-\
-
-**Problems and Projects**
-
-\
+### Problems and Projects
 
 Our answer to these dilemmas provide the following objectives:
 
-\
+1. The goal to heighten digital literacy. We want to increase the number of people who approach learning and research collaboratively, through an online platform where users learn programming and build tools, thereby increasing digital literacy and at the same time lowering the technological threshold to engage with and reflect on digital tools. 
 
-**The goal to heighten digital literacy**. We want to increase the
-number of people who approach learning and research collaboratively,
-through an online platform where users learn programming and build
-tools, thereby increasing digital literacy and at the same time lowering
-the technological threshold to engage with and reflect on digital tools.
+2. The goal of organization. We intend to create interfaces for users to teach each other and learn and research collaboratively, out of their own motivation, but use institutional structures to kick-start this process and provide disciplinary contexts.
 
-\
+3. The goal of strengthening numbers. We want to increase the number of people learning and researching by focusing on collaboration and sharing knowledge, so that individual approaches and feedback remain possible, thereby retaining high quality education. 
 
-**The goal of organization**. We intend to create interfaces for users
-to teach each other and learn and research collaboratively, out of their
-own motivation, but use institutional structures to kick-start this
-process and provide disciplinary contexts.
+4. The goal of addressing the issue of the elite. We want to make learning and research accessible and relevant by offering interfaces that allow many different types of users to learn to use and do research with technology 
 
-\
+These objectives present learning and inclusion as problems of interfaces. By definition, interfaces determine who or what is included and excluded. The focus of this project is thus on providing interfaces that increase inclusion, where users build, explore and reflect on digital tools and how we use them. The overarching goal is to weave technology and humanities together to foster innovation through three forums: an expandable platform for humanities students collaborate through coding, a lab space where humanities thinking influences product and business design, and an exhibition which engages technology, art, business, and humanities. We propose to do this in three parts:
 
-**The goal of strengthening numbers**. We want to increase the number of
-people learning and researching by focusing on collaboration and sharing
-knowledge, so that individual approaches and feedback remain possible,
-thereby retaining high quality education.
+1. *Platform as interface*: an expandable platform for humanities students to collaboratively learn programming and build tools for their research. The coding platform would develop new courses with both on and offline components. Our goal is to introduce four new courses of 12 ETCs, one each year. The new courses would enable Coding the Humanities to expand students’ introduction to programming to an open space where they would collaborate with people from all over the world in their ICT engagement. It would foster communication among students and other participants by serving as a space where they can share and experiment with findings, improvise together, and enjoy the thrill of new learning with a network of support. The goal in terms of inclusion would be to reach 20,000 users in four years. The University of Amsterdam would begin by including four other universities in this platform, linking the students through the coursework. The University of California Santa Barbara, University of California Irvine, and Humboldt University of Berlin are highly motivated to take part in this platform. 
 
-\
+2. *Lab as interface*: The lab space would be an offline physical space in Amsterdam where students could work together with private partners to create new products and services that involve humanities thinking; applying a humanities perspective to practical applications outside academia. Our goal is to create one new product or service per year that meets a need within the humanities, and one new product or service per year that meets a need for a more general or different audience.
 
-**The goal of addressing the issue of the elite**. We want to make
-learning and research accessible and relevant by offering interfaces
-that allow many different types of users to learn to use and do research
-with technology
+3. *Collections as interfaces*: The exhibition would be a combination of on and offline projects, culminating in a public six week exhibition in the Museum Square in Vienna three years into the project. We endeavor to involve students from the platform, partners from the lab space, as well as other private and public partners, developers, and the general population. This exhibition would consist of workshops, data events, speakers, art installations, and presentations on relationships between ITC, art, business, and cultural heritage. 
 
-\
+<table border="1" style="border-collapse: collapse">
+	<tr>
+		<th></th>
+		<th colspan="5">Project</th>
+	</tr>
+	<tr>
+		<th>Problem</th>
+		<th>Platforms as Interfaces</th>
+		<th>Labs as Interface</th>
+		<th>Collections as Interfaces</th>
+	</tr>
+	<tr>
+		<td>Literacy</td>
+		<td>X</td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Organisation</td>
+		<td></td>
+		<td>X</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Numbers</td>
+		<td>X</td>
+		<td></td>
+		<td>X</td>
+	</tr>
+	<tr>
+		<td>Elite</td>
+		<td>X</td>
+		<td>X</td>
+		<td>X</td>
+	</tr>
+</table>
 
-These objectives present learning and inclusion as problems of
-interfaces. By definition, interfaces determine who or what is included
-and excluded. The focus of this project is thus on providing interfaces
-that increase inclusion, where users build, explore and reflect on
-digital tools and how we use them. The overarching goal is to weave
-technology and humanities together to foster innovation through three
-forums: an expandable platform for humanities students collaborate
-through coding, a lab space where humanities thinking influences product
-and business design, and an exhibition which engages technology, art,
-business, and humanities. We propose to do this in three parts:
 
-\
+### Problems and Principles
 
-**Platform as interface:** an expandable platform for humanities
-students to collaboratively learn programming and build tools for their
-research. The coding platform would develop new courses with both on and
-offline components. Our goal is to introduce four new courses of 12
-ETCs, one each year. The new courses would enable Coding the Humanities
-to expand students‚Äô introduction to programming to an open space where
-they would collaborate with people from all over the world in their ICT
-engagement. It would foster communication among students and other
-participants by serving as a space where they can share and experiment
-with findings, improvise together, and enjoy the thrill of new learning
-with a network of support. The goal in terms of inclusion would be to
-reach 20,000 users in four years. The University of Amsterdam would
-begin by including four other universities in this platform, linking the
-students through the coursework. The University of California Santa
-Barbara, University of California Irvine, and Humboldt University of
-Berlin are highly motivated to take part in this platform.
+We also challenge the traditional educational dichotomy of researchers as experts and students as novices. Learning and research are hard to separate as both revolve around involve producing and sharing knowledge, where each participant can be both the sender and receiver of knowledge. This leads us to five principles which will guide our implementation of these interfaces:
 
-\
+1. *Training over support*: Our first core value is training so that a learner will soon be able to pass on the knowledge to another learner. While support can result in repeatedly assisting the same person with the same issue, maintaining a distinction and even hierarchy in skillsets, training provides experience to the learner to bring them to an equal level to the trainer.
+2. *Collaboration over ownership*: Related to training over support is our second core principle, which favors collaborative over competitive efforts. Owning processes and results together on an equal basis promotes great teamwork.
+3. *Online over Massive*: The format of the platform encourages students to first learn coding online, but intends them to also have a physical team within their institution. This complements the Massive Open Online Course (MOOC) concept, which includes only an online context for learning.
+4. *Knowledge production over data processing*: <explanation>
+5. *Accessibility over state-of-the-art*: Our fifth core value is that of tools that are less complicated to begin to use over those that are state-of-the-art. Whereas state-of-the-art tools attract primarily the technically biased, more accessible tools have the power to reach a wider group of new users, including the non-technically biased. This supports our goal of inclusion of traditionally and currently underrepresented populations in ICT.
 
-**Lab as interface:**The lab space would be an offline physical space in
-Amsterdam where students could work together with private partners to
-create new products and services that involve humanities thinking;
-applying a humanities perspective to practical applications outside
-academia. Our goal is to create one new product or service per year that
-meets a need within the humanities, and one new product or service per
-year that meets a need for a more general or different audience.
+<table border="1" style="border-collapse: collapse">
+	<tr>
+		<th></th>
+		<th colspan="5">Principle</th>
+	</tr>
+	<tr>
+		<th>Problem</th>
+		<th>Training over Support</th>
+		<th>Collaboration over Ownership</th>
+		<th>Online over Massive</th>
+		<th>Knowledge Production over Data Processing</th>
+		<th>Accessibility over State-of-the-art</th>
+	</tr>
+	<tr>
+		<td>Literacy</td>
+		<td>X</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>X</td>
+	</tr>
+	<tr>
+		<td>Organisation</td>
+		<td></td>
+		<td>X</td>
+		<td>X</td>
+		<td></td>
+		<td>X</td>
+	</tr>
+	<tr>
+		<td>Numbers</td>
+		<td>X</td>
+		<td>X</td>
+		<td></td>
+		<td>X</td>
+		<td>X</td>
+	</tr>
+	<tr>
+		<td>Elite</td>
+		<td>X</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>X</td>
+	</tr>
+</table>
 
-\
 
-**Collections as interfaces:** The exhibition would be a combination of
-on and offline projects, culminating in a public six week exhibition in
-Vienna three years into the project. We endeavor to involve students
-from the platform, partners from the lab space, as well as other private
-and public partners, developers, and the general population. This
-exhibition would consist of workshops, data events, speakers, art
-installations, and presentations on relationships between ITC, art,
-business, and cultural heritage.
+<br/><br/>
 
-\
+### Principles and Implementation
 
-We also challenge the traditional educational dichotomy of researchers
-as experts and students as novices. Learning and research are hard to
-separate as both revolve around involve producing and sharing knowledge,
-where each participant can be both the sender and receiver of knowledge.
-This leads us to five principles which will guide our implementation of
-these interfaces:
+<table border="1" style="border-collapse: collapse;">
+	<tr>
+		<th>Implementation</th>
+		<th>Training over Support</th>
+		<th>Collaboration over Ownership</th>
+		<th>Online over Massive</th>
+		<th>Knowledge Production over Data Processing</th>
+		<th>Accessibility over State-of-the-art</th>
+	</tr>
+	<tr>
+		<td>Language based</td>
+		<td></td>
+		<td>X</td>
+		<td></td>
+		<td>X</td>
+		<td>X</td>
+	</tr>
+	<tr>
+		<td>Tool-oriented</td>
+		<td>X</td>
+		<td></td>
+		<td></td>
+		<td>X</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>User-centered</td>
+		<td></td>
+		<td>X</td>
+		<td></td>
+		<td>X</td>
+		<td>X</td>
+	</tr>
+	<tr>
+		<td>Embedded Research</td>
+		<td></td>
+		<td>X</td>
+		<td></td>
+		<td>X</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>JavaScript</td>
+		<td>X</td>
+		<td></td>
+		<td>X</td>
+		<td></td>
+		<td>X</td>
+	</tr>
+	<tr>
+		<td>Git</td>
+		<td>X</td>
+		<td>X</td>
+		<td>X</td>
+		<td></td>
+		<td>X</td>
+	</tr>
+	<tr>
+		<td>Peer organisation &amp; evaluation</td>
+		<td></td>
+		<td>X</td>
+		<td></td>
+		<td>X</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Browser first</td>
+		<td></td>
+		<td></td>
+		<td>X</td>
+		<td></td>
+		<td>X</td>
+	</tr>
+	<tr>
+		<td>Webcomponents</td>
+		<td></td>
+		<td>X</td>
+		<td>X</td>
+		<td>X</td>
+		<td>X</td>
+	</tr>
 
-\
+</table>
 
-**Training over support:** Our first core value is training so that a
-learner will soon be able to pass on the knowledge to another learner.
-While support can result in repeatedly assisting the same person with
-the same issue, maintaining a distinction and even hierarchy in skill
-sets, training provides experience to the learner to bring them to an
-equal level to the trainer.
+Coding the Humanities is already a strong and unique research project in Amsterdam (UvA, VU, HvA) that has been successfully running for over one year. Closely linked to projects such as zooniverse, dh, data drive, AAA, chat, and circa, Coding the Humanities explores interplay between humanities and technology. We engage traditionally non-technically biased students with technology in order to empower them to proactively create their own tools, as well as to more deeply and holistically reflect on those tools. We aim to extend beyond the coursework currently offered in order to connect humanities students to artistic, cultural, and business institutions. 
 
-\
+To enrich these courses and enhance the analysis of the coding platform's processes and results, we seek funding from other sources to offer two PhD positions related to relationships between humanities and technology. These positions would be excellent additions to the project, whose primary focus is to create new products and services and support research and development activities. Each project will address a key aspect of the overall objective to foster connections between technology and humanities.
 
-**Collaboration over ownership:** Related to training over support is
-our second core principle, which favors collaborative over competitive
-efforts. Owning processes and results together on an equal basis
-promotes great teamwork.
+The first project will address the Physical Lab element, and will involve a PhD student working part-time as an embedded researcher in a separate institution. The project will investigate sustainable forms of knowledge transfer and creative and collaborative work practices in combined digital and physical learning environments.
 
-\
+The second project would relate to the core project of the coding platform. The PhD student would research how to reflect on tools through coding. S/he would conceptualize, plan, monitor, and program the coding platform. This PhD would serve as a way of measuing the development and success of the platform over four years. This researcher will be well integrated into the context of the university's department of digital humanities, and will also collaborate with private and public partners.
 
-**Online over Massive:**The format of the platform encourages students
-to first learn coding online, but intends them to also have a physical
-team within their institution. This complements the Massive Open Online
-Course (MOOC) concept, which includes only an online context for
-learning.
 
-\
-
-**Knowledge production over data processing:**The increasing amount of
-data available demands the skill not just to process this data but to
-make sense of it. In order to turn data into knowledge, technical data
-processing needs to be accompanied by interpretation and conscious
-understanding. Numbers need to be turned into narratives.¬†
-
-\
-
-**Accessibility over state-of-the-art:** Our fifth core value is that of
-tools that are less complicated to begin to use over those that are
-state-of-the-art. Whereas state-of-the-art tools attract primarily the
-technically biased, more accessible tools have the power to reach a
-wider group of new users, including the non-technically biased. This
-supports our goal of inclusion of traditionally and currently
-underrepresented populations in ICT.
-
-\
-
-Coding the Humanities is already a strong and unique research project in
-Amsterdam (UvA, VU, HvA) that has been successfully running for over one
-year. Closely linked to projects such as dh, data drive, AAA, chat, and
-circa, Coding the Humanities explores interplay between humanities and
-technology. We engage traditionally non-technically biased students with
-technology in order to empower them to proactively create their own
-tools, as well as to more deeply and holistically reflect on those
-tools. We aim to extend beyond the coursework currently offered in order
-to connect humanities students to artistic, cultural, and business
-institutions.
-
-\
-
-To enrich these courses and enhance the analysis of the coding
-platform's processes and results, we seek funding from other sources to
-offer two PhD positions related to relationships between humanities and
-technology. These positions would be excellent additions to the project,
-whose primary focus is to create new products and services and support
-research and development activities. Each project will address a key
-aspect of the overall objective to foster connections between technology
-and humanities.
-
-\
-
-The first project will address the Physical Lab element, and will
-involve a PhD student working part-time as an embedded researcher in a
-separate institution. The project will investigate sustainable forms of
-knowledge transfer and creative and collaborative work practices in
-combined digital and physical learning environments.
-
-\
-
-The second project would relate to the core project of the coding
-platform. The PhD student would research how to reflect on tools through
-coding. S/he would conceptualize, plan, monitor, and program the coding
-platform. This PhD would serve as a way of measuring the development and
-success of the platform over four years. This researcher will be well
-integrated into the context of the university's department of digital
-humanities, and will also collaborate with private and public partners.
-
-\
 
 **1.2 Relation to the Work Programme**
 
