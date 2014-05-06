@@ -762,6 +762,8 @@ These three fields will be developed simultaneously, with an emphasis in the ear
 
 Inspired by open source culture and software development practices the fields are going to be explored simulataneously so that insights from one of the fields can be applied tranfered early on to the other fields. 
 
+Table  3.1 a:	Work package description 
+Collections as interfaces: The exhibition would be a combination of on and offline projects, culminating in a public six week exhibition in Vienna three years into the project. We endeavor to involve students from the platform, partners from the lab space, as well as other private and public partners, developers, and the general population. This exhibition would consist of workshops, data events, speakers, art installations, and presentations on relationships between ITC, art, business, and cultural heritage.
 
 CastYourArt: October 2014: presentation at kick-off event in Amsterdam further information in word tables
 
@@ -769,61 +771,54 @@ CastYourArt: October 2014: presentation at kick-off event in Amsterdam further i
 <table border="1" style="border-collapse: collapse">
 	<tr>
 		<th></th>
-		<th colspan="5">Work package number</th>
+		<th colspan="4">Work package number</th>
 		<th>3</th>
 		<th>Date of Start of Starting Event</th>
 		<th>Kick-off workshop 10/2014</th>
 	</tr>
 	<tr>
-		<td>work package number</td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>work package title</td>
-		<td>collections as interfaces</td>
+		<td colspan="4">collections as interfaces</td>
 		<td></td>
 		<td></td>
 	</tr>
 	<tr>
 		<td>participant number</td>
-		<td>12</td>
+		<td colspan="4">12</td>
 		<td></td>
 		<td></td>
 	</tr>
 	<tr>
 		<td>short name participant</td>
-		<td>Haas</td>
+		<td colspan="4">Haas</td>
 		<td></td>
 		<td></td>
 	</tr>
 		<tr>
 		<td>person/month per participant</td>
-		<td>2/12</td>
+		<td colspan="4">2/12</td>
 		<td></td>
 		<td></td>
 	</tr>
 </table>
 <table border="1" style="border-collapse: collapse">
 		<tr>
-		<td>**Objectives:** The objective is to build a network that bridges ICT to art that culminates in the first World Coding Fair, participate in the Fair both as the primary organizer and as a participant.</td>
+		<td>Objectives: <p>The objective is to build a network that bridges ICT to art that culminates in the first World Coding Fair, participate in the Fair both as the primary organizer and as a participant.</p></td>
 	</tr>
 </table>
 <table border="1" style="border-collapse: collapse">
 		<tr>
-		<td>**Description of work:**Lead partner and role of participants
-CastYourArt will use their network of electronic media, art, and museums to bring in new participants to the pilot fair in July 2015 and the complete World Coding Fair in July 2017. This will take place over time, starting in September 2014 and continuing throughout the process until the pilot Fair in July 2015. 
+		<td>Description of work: <p>CastYourArt will use their network of electronic media, art, and museums to bring in new participants to the pilot fair in July 2015 and the complete World Coding Fair in July 2017. This will take place over time, starting in September 2014 and continuing throughout the process until the pilot Fair in July 2015. 
 
 Additionally, they will organize and participate in the World Coding Fair that will take place in Vienna in 2016, as well as the pilot Fair that will take place in Amsterdam in 2015. The organization will consist of recruiting participants (artists, developers, students) to be a part of the pilot Fair, as well as arranging the venue ( in Vienna). CastYourArt will also promote the pilot Fair to attract international participants and attendees. 
 
-CastYourArt will also make two short films documenting one participating artist and one participating developer in their process of making their contribution to the Fair.</td>
+CastYourArt will also make two short films documenting one participating artist and one participating developer in their process of making their contribution to the Fair.</p></td>
 	</tr>
 </table>
 <table border="1" style="border-collapse: collapse">
 		<tr>
-		<td>**Deliverables:** In October 2014, Wolfgang Haas will present himself and CastYourArt’s work at a 2 day kick-off workshop in Amsterdam that includes students, as well as other partners. He will connect what they do to the students' research.
-The other deliverables will be the films made, as well as a presentation at the Fair itself.</td>
+		<td>Deliverables: <p>In October 2014, Wolfgang Haas will present himself and CastYourArt’s work at a 2 day kick-off workshop in Amsterdam that includes students, as well as other partners. He will connect what they do to the students' research.
+The other deliverables will be the films made, as well as a presentation at the Fair itself.</p></td>
 	</tr>
 </table>
 <br/><br/>
@@ -833,54 +828,214 @@ The other deliverables will be the films made, as well as a presentation at the 
 		<th></th>
 		<th colspan="5">Work package number</th>
 		<th>2</th>
-		<th>Date of Start of Starting Event</th>
+		<th>Date of Start or Starting Event</th>
 		<th>Kick-off event in Amsterdam 2 persons / 5 days</th>
 	</tr>
 	<tr>
-		<td>work package number</td>
-		<td>2</td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>work package title</td>
-		<td>lab as interface</td>
+		<td colspan="5">lab as interface</td>
+		<td></td>
+		<td></td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>participant number</td>
-		<td>6 & 7</td>
+		<td colspan="5">6 & 7</td>
+		<td></td>
 		<td></td>
 		<td></td>
 	</tr>
 	<tr>
 		<td>short name participant</td>
-		<td>DH</td>
+		<td colspan="5">DH</td>
+		<td></td>
 		<td></td>
 		<td></td>
 	</tr>
 		<tr>
 		<td>person/month per participant</td>
-		<td>2/12</td>
+		<td colspan="5">2/12</td>
 		<td></td>
 		<td></td>
+		<td></td>
 	</tr>
 </table>
 <table border="1" style="border-collapse: collapse">
 		<tr>
-		<td>**Objectives:**Within the proposed project Dark Horse is going to conduct research on and develop a conceptual framework and design for a physical space that accompanies and complements the online learning platform</td>
+		<td>Objectives: <p>Within the proposed project Dark Horse is going to conduct research on and develop a conceptual framework and design for a physical space that accompanies and complements the online learning platform</p></td>
 	</tr>
 </table>
 <table border="1" style="border-collapse: collapse">
 		<tr>
-		<td>**Description of work:**Their user centered approach and the background in anthropology and interior design allows Lisa Zoth and Patrick Kenzler to understand and translate the requirements of such a space into a practical design concept and the according user culture. They will provide an answer to the crucial question of how online collaboration and innovative practice can be initiated, accelerated and fostered through an offline setting. Moreover their research will provide insights to the students’ needs that cannot be satisfied merely by the application of ICT but are better addressed with a combination of digital instruments and offline collaboration and training methods.</td>
+		<td>Description of work: <p>Their user centered approach and the background in anthropology and interior design allows Lisa Zoth and Patrick Kenzler to understand and translate the requirements of such a space into a practical design concept and the according user culture. They will provide an answer to the crucial question of how online collaboration and innovative practice can be initiated, accelerated and fostered through an offline setting. Moreover their research will provide insights to the students’ needs that cannot be satisfied merely by the application of ICT but are better addressed with a combination of digital instruments and offline collaboration and training methods.</p></td>
 	</tr>
 </table>
 <table border="1" style="border-collapse: collapse">
 		<tr>
-		<td>**Deliverables:** Deliverables will include new products and services developed in the course of their work. See section Deliverables and Milestones for details.</td>
+		<td>Deliverables: <p>Deliverables will include new products and services developed in the course of their work. See section Deliverables and Milestones for details.</p></td>
 	</tr>
 </table>
 <br/><br/>
+<table border="1" style="border-collapse: collapse">
+	<tr>
+		<th></th>
+		<th colspan="5">Work package number</th>
+		<th>3</th>
+		<th>Date of Start or Starting Event</th>
+		<th></th>
+	</tr>
+	<tr>
+		<td>work package title</td>
+		<td colspan="5">collections as interfaces</td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>participant number</td>
+		<td colspan="5">9</td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>short name participant</td>
+		<td colspan="5">WEY</td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+		<tr>
+		<td>person/month per participant</td>
+		<td colspan="5">2/12</td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+</table>
+<table border="1" style="border-collapse: collapse">
+		<tr>
+		<td>Objectives: <p>First and foremost this is due to the interfacing options offered as dialog systems on top of these 
+datasets. They focus mainly on retrieval and object by object examination. They offer retrieval for which the user needs to know what he or she wants to retrieve. A move towards interfaces that are more discovery oriented is desirable. These discovery environments would offer the user a way to look at the body of data as a whole in a visual way and while examining the data in such a way find what there is to discovery, this might well lead to a classic retrieval scenarios but one in which the user has been able to educate him or herself about the data with little to no upfront knowledge. That would result in greater inclusion with regard to all potential users of such datasets.</p></td>
+	</tr>
+</table>
+<table border="1" style="border-collapse: collapse">
+		<tr>
+		<td>Description of work: <p>We propose a system that includes a visualization and interface layer that is exposed to the user via web browser. This vis/ux layer will be fed by the dataset directly and by an engine performing the necessary operations to do such things as item matching (image or text similarity). Thirdly we would want to open up these capabilities not only through our vis/ux layer but also by means of an API so others can build their own vis/ux layers and for instance build mobile applications.</p></td>
+	</tr>
+</table>
+<table border="1" style="border-collapse: collapse">
+		<tr>
+		<td>Deliverables:
+<p>1. Visualization and interface layer</p> 
+<p>2. Machine learning capabilities to enable similarity searches</p> 
+<p>3. API to expose these capabilities to others</p> 
+</table>
+<br/><br/>
+
+#####Table 3.1 b: List of work packages
+
+
+<table border="1" style="border-collapse: collapse">
+	<tr>
+		<th></th>
+		<th>Work Package No</th>
+		<th>Work Package Title</th>
+		<th>Lead Participant No</th>
+		<th>Lead Participant Short Name</th>
+		<th>Person-Months</th>
+		<th>Start Month</th>
+		<th>End Month</th>
+	</tr>
+	<tr>
+		<td>1</td>
+		<td>Platform as Interface</td>
+		<td></td>
+		<td></td>
+		<td>UvA</td>
+		<td>1-30</td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td>Lab as Interface</td>
+		<td></td>
+		<td></td>
+		<td>DH</td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td>Collections as Interfaces</td>
+		<td></td>
+		<td></td>
+		<td>CYA</td>
+		<td>Haas - 12</td>
+		<td>9/2014</td>
+		<td>9/2015</td>
+	</tr>
+		<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>Total Months: 12</td>
+		<td></td>
+	</tr>
+</table>
+<br></br>
+
+#####Table 3.1 c:	List of Deliverables   
+
+<table border="1" style="border-collapse: collapse">
+	<tr>
+		<th></th>
+		<th>D. Number</th>
+		<th>D. Name</th>
+		<th>Work Package Number</th>
+		<th>Lead Participant Short Name</th>
+		<th>Type</th>
+		<th>Dissemination Level</th>
+		<th>Delivery Date</th>
+	</tr>
+	<tr>
+		<td></td>
+		<td>3.1</td>
+		<td>Organizing Fair</td>
+		<td>3</td>
+		<td>Haas</td>
+		<td>DEC</td>
+		<td>PU</td>
+		<td>7/2015</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>3.2</td>
+		<td>Presentation</td>
+		<td>3</td>
+		<td>Feier</td>
+		<td>DEC</td>
+		<td>PU</td>
+		<td>10/2014</td>
+	</tr>
+	<tr>
+	        <td></td>
+		<td>3.3</td>
+		<td>Making Films</td>
+		<td>3</td>
+		<td>Haas</td>
+		<td>DEC</td>
+		<td>PU</td>
+		<td>10/2015</td>
+	</tr>
+</table>
+<br></br>
+
+
+
 
 
 
@@ -1136,27 +1291,7 @@ evaluation / "Including Interfaces"
 coming out: cultural hackathon event inviting the general public to work with the student proposals and the museum datasets
 
 
-**Table 3.1 b: 	List of work packages**
 
-|Work package No|Work Package Title|Lead Participant No|Lead Participant Short Name|Person-Months|Start Month|End month|
-|---------------|------------------|-------------------|---------------------------|-------------|-----------|---------|
-||||||||
-||||||||
-||||||||
-||||||||
-|||||Total months|||
-
-
-
-**Table 3.1 c:	List of Deliverables**   
-
-| d. number| d. name| work package number | short name of lead participant | Type | Dissemination level| Delivery date| 
-|----------|--------|---------------------|--------------------------------|------|--------------------|--------------| 
-||||||
-||||||
-||||||
-||||||
-||||||
 
 
 **KEY** 
