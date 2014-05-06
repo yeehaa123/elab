@@ -1,5 +1,3 @@
-List of participants: Jan Hein Hoogstad, Marijn Koolen, Sabrina Sauer, Robin Boast, Nynke Bos
-
 **List of participants:** Jan Hein Hoogstad, Marijn Koolen, Sabrina Sauer, Robin Boast, Nynke Bos
 
 #Coding the Humanities - Interfaces for learning and research
@@ -992,7 +990,6 @@ datasets. They focus mainly on retrieval and object by object examination. They 
 
 <table border="1" style="border-collapse: collapse">
 	<tr>
-		<th></th>
 		<th>D. Number</th>
 		<th>D. Name</th>
 		<th>Work Package Number</th>
@@ -1002,7 +999,6 @@ datasets. They focus mainly on retrieval and object by object examination. They 
 		<th>Delivery Date</th>
 	</tr>
 	<tr>
-		<td></td>
 		<td>3.1</td>
 		<td>Organizing Fair</td>
 		<td>3</td>
@@ -1012,7 +1008,6 @@ datasets. They focus mainly on retrieval and object by object examination. They 
 		<td>7/2015</td>
 	</tr>
 	<tr>
-		<td></td>
 		<td>3.2</td>
 		<td>Presentation</td>
 		<td>3</td>
@@ -1022,7 +1017,6 @@ datasets. They focus mainly on retrieval and object by object examination. They 
 		<td>10/2014</td>
 	</tr>
 	<tr>
-	        <td></td>
 		<td>3.3</td>
 		<td>Making Films</td>
 		<td>3</td>
@@ -1034,31 +1028,136 @@ datasets. They focus mainly on retrieval and object by object examination. They 
 </table>
 <br></br>
 
+#####Table 3.2 a:	List of Milestones   
+
+<table border="1" style="border-collapse: collapse">
+	<tr>
+		<th>Milestone Number</th>
+		<th>Milestone Name</th>
+		<th>Related Work Package(s)</th>
+		<th>Estimated Date</th>
+		<th>Means of Varification</th>
+	</tr>
+	<tr>
+		<td>1</td>
+		<td>5 Participants on Board</td>
+		<td></td>
+		<td>04/2015</td>
+		<td>Participation Contract</td
+	</tr>
+	<tr>
+		<td>2</td>
+		<td>Fair Participants Chosen to Film</td>
+		<td></td>
+		<td>02/2015</td>
+		<td>Written Agreement with Participants</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td>Event of World Coding Fair</td>
+		<td></td>
+		<td>07/2015</td>
+		<td>Documented Event</td>
+	</tr>
+</table>
+<br></br>
+
+#####Table 3.2 b: Critical Risks for Implementation  
+
+<table border="1" style="border-collapse: collapse">
+	<tr>
+		<th>Description of Risk</th>
+		<th>Work Package(s) Involved </th>
+		<th>Proposed Risk-Mitigation Measures</th>
+	</tr>
+	<tr>
+		<td>High Dropout Rates in Courses</td>
+		<td>1</td>
+		<td>Empowering and collaborative style encourages students to involve themselves</td>
+	</tr>
+	<tr>
+		<td>No guarantee of deliverables: innovation, experimentation</td>
+		<td>2</td>
+		<td>Focus on creating one high-quality product or service per year</td>
+	</tr>
+	<tr>
+		<td>Low level of interest in participation (artists, developers to participate in Fair)</td>
+		<td>3</td>
+		<td>Begin early to organize high-quality Fair, network extensively</td>
+	</tr>
+	<tr>
+		<td>Exclusive to high socio-economic people</td>
+		<td>3</td>
+		<td>Develop and implement strategies to increase audience of lower socio-economic people</td>
+	</tr>
+</table>
+<br></br>
+
+#####Table 3.4a: 	Summary of Staff Effort
+
+**Work Package: Platform as Interface**
 
 
 
 
+Participant Number/Short Name 
+/Weyeser
 
 
-//Milestones//
-//research about conceptualization of online learning environment **paper** "Requirements to online learning environment for humanities research", "The merits of open source development platforms and methodologies for Humanities Research" 
--'back end'
--- which features should be involved?
--- which features do exists as open (source) programs and platforms (how to integrate them)?
--- which features have to be developed from scratch or adjusted?
+12
+Participant Number/Short Name 
+/Europeana
 
--'interface'
--- how should the interface be designed to integrate the needed features and platforms? (work with a media designer and UX-experts) 
 
-//development and design of the platform// 
 
-//enrollment to students// **paper** experience and evaluation of the students practical use of the platfrom
-//further development of the platform, integration of the evaluation of student's experience//
+Total Person/Months
+2/12
 
-//research on on- and offline cooperation// **paper** "The merit of collaboration via github for humanities research" 
-//integartion of a physical space//    
-//communication campaign: events, hackathons, presentations to trigger collaborations with other institutions, SMEs, integrate more students//
 
+1/12
+
+WPn
+WPn+1
+WPn+2
+Total Person/
+<table border="1" style="border-collapse: collapse">
+	<tr>
+		<th></th>	
+		<th>WPn</th>
+		<th>WPn+1</th>
+		<th>WPn+2</th>
+		<th>Total Person/Months</th>
+	</tr>
+	<tr>
+		<td>Participant Number/Short Name </td>
+		<td>1564486/Hoogstad</td>
+		<td></td>
+		<td></td>
+	</tr>
+Participant Number/Short Name 
+
+
+
+12
+
+
+	<tr>
+		<td>No guarantee of deliverables: innovation, experimentation</td>
+		<td>2</td>
+		<td>Focus on creating one high-quality product or service per year</td>
+	</tr>
+	<tr>
+		<td>Low level of interest in participation (artists, developers to participate in Fair)</td>
+		<td>3</td>
+		<td>Begin early to organize high-quality Fair, network extensively</td>
+	</tr>
+	<tr>
+		<td>Exclusive to high socio-economic people</td>
+		<td>3</td>
+		<td>Develop and implement strategies to increase audience of lower socio-economic people</td>
+	</tr>
+</table>
+<br></br>
 
 
 #### 3.2	Management structure and procedures 
