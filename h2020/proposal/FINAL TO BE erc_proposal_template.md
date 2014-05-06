@@ -1,21 +1,78 @@
 List of participants: Jan Hein Hoogstad, Marijn Koolen, Sabrina Sauer, Robin Boast, Nynke Bos
 
-**Participant No** (*Please use the same participant numbering as that used in the administrative proposal forms.*)
-Participant organisation name: Universiteit van Amsterdam
-Country: Netherlands
-Coordinator: Jan Hein Hoogstad
+**List of participants:** Jan Hein Hoogstad, Marijn Koolen, Sabrina Sauer, Robin Boast, Nynke Bos
+
+#Coding the Humanities - Interfaces for learning and research
+
+| 			Participant No *    | 			Participant organisation name     | 			Country     |
+|------------------------|--------------------------------------|----------------|
+| 			1 Jan Hein Hoogstad | 			University of Amsterdam           | 			Netherlands |
+| 			2 Robin Boast       | 			University of Amsterdam           | 			Netherlands |
+| 			3 Marijn Koolen     | 			University of Amsterdam           | 			Netherlands |
+| 			4 Sabrina C. Sauer  | 			University of Amsterdam           | 			Netherlands |
+| 			5 Nynke Bos         | 			University of Amsterdam           | 			Netherlands |
+| 			6 Lisa Zoth         | 			Dark Horse                        | 			Germany     |
+| 			7 Patrick Kenzler   | 			Dark Horse                        | 			Germany     |
+| 			8 Jill Cousins      | 			Europeana                         | 			Netherlands |
+| 			9 Alexandro Mancusi | 			Weyeser                           | 			Netherlands |
+| 			10 Wayne Modest     | 			National Museum of World Cultures | 			Netherlands |
+| 			11 Helmut Feier     | 			CastYourArt                       | 			Austria     |
+| 			12 Wolfgang Haas    | 			CastYourArt                       | 			Austria     |
 
 
-## Table of Contents
+
+#Table of Contents
+
+**1. Excellence**  
+
+1.1 Objectives  
+1.2 Relation to the Work Programme  
+1.3 Concept and approach, quality of the coordination and support  
+measures
+1.3.1 Introduction  
+1.3.2 Assumptions involved  
+1.3.3 Approach  
+1.3.3.1 The Platform as Interface  
+1.3.3.2 The Lab as Interface  
+1.3.3.3 Collections as Interfaces  
+
+**2. Impact**  
+
+2.1 Expected Impacts  
+2.2 Measures to maximize impact  
+2.2.1 Dissemination and Exploitation of Results  
+2.2.2 Communication Activities  
+
+**3. Implementation**  
+
+3.1 Work plan - Work packages, deliverables and milestones  
+Table 3.1 a: Work package description  
+Table 3.1 b: List of Work Packages  
+Table 3.1 c: List of Deliverables  
+3.2 Management Structure and Procedures  
+Table 3.2 a: List of Milestones  
+Table 3.2 b: Critical Risks for Implementation  
+3.3 Consortium as a Whole  
+3.4 Resources to be Commited  
+Table 3.4 a: Summary of Staff Effort  
+Table 3.4 b: Other Direct Cost Items  
+
+**4. Members of the consortium**  
+
+4.1 Participants (applicants)  
+4.1.1 University of Amsterdam  
+4.1.2 Dark Horse  
+4.1.3 Europeana  
+4.1.4 National Museum of World Cultures  
+4.1.5 Weyeser  
+4.1.6 CastYourArt  
+
+**5. Ethics and Security**
 
 
-### 1. Excellence 
+## 1. Excellence 
 
-*Your proposal must address a topic set out in the work programme, for this call for proposals. This section of your proposal will be assessed only to the extent that it is relevant to that topic.*
-
-
-#### 1.1 Objectives 
-*Describe the specific objectives for the project, which should be clear, measurable, realistic and achievable within the duration of the project. Objectives should be consistent with the expected exploitation and impact of the project (see section 2).* 
+### 1.1 Objectives 
 
 Learning and research (in the Humanities) are hindered by a lack of coding skills and the seeming incommensurability of educating massive groups of students and providing high quality education. Although traditional knowledge institutions are losing their monopoly on education and research, ICT skills and knowledge production remain privileges of a cultural, technological and economic elite. We propose to tackle this problem by providing online and offline interfaces between people on the one hand and learning and research on the other hand, which focus on new forms of collaboration and a user- and tool-oriented approach to learning programming skills. These interfaces lower the technological, economic and organizational barriers to participation, empower many different groups of people to more deeply and effectively engage with technology and motivate lifelong learning.
 
@@ -25,7 +82,6 @@ We identify four dilemmas about statements on learning and research that can be 
 2. *Organization*: Traditional knowledge institutions are losing their monopoly on education and research.
 3. *Numbers*: Future education should revolve around massive numbers (Big Data, MOOC).
 4. *Elite*: Coding and knowledge production remain privileges of a cultural, technological and economic elite.
-
 
 
 ### Problems and Projects
@@ -691,11 +747,7 @@ The curation of the physical lab includes a variety of communication activities:
 
 ### 3. Implementation
 
-#### 3.1	Work plan – Work packages, deliverables and milestones
-
-*Please provide the following:*
-
-*brief presentation of the overall structure of the work plan* 
+#### 3.1 Work plan – Work packages, deliverables and milestones
 
 The proposed project is structured into three fields: 
 
@@ -710,32 +762,128 @@ These three fields will be developed simultaneously, with an emphasis in the ear
 
 Inspired by open source culture and software development practices the fields are going to be explored simulataneously so that insights from one of the fields can be applied tranfered early on to the other fields. 
 
-*timing of the different work packages and their components (Gantt chart or similar)*
-CastYourArt: October 2014: presentation at kick-off event in Amsterdam
-	     further information in word tables
-*detailed work description, i.e.:*
-*a description of each work package (table 3.1a)*
-*a list of work packages (table 3.1b);*
-*a list of major deliverables (table 3.1c);*
-*graphical presentation of the components showing how they inter-relate (Pert chart or similar)*
 
-*Give full details. Base your account on the logical structure of the project and the stages in which it is to be carried out. Include details of the resources to be allocated to each work package. The number of work packages should be proportionate to the scale and complexity of the project.* 
+CastYourArt: October 2014: presentation at kick-off event in Amsterdam further information in word tables
 
-*You should give enough detail in each work package to justify the proposed resources to be allocated and also quantified information so that progress can be monitored, including by the Commission.* 
 
-*You are advised to include a distinct work package on ‘Management’ (see section 3.2), and to give due visibility in the work plan to ‘dissemination and exploitation’ and ‘communication activities’, either with distinct tasks, or possibly distinct work packages.* 
+<table border="1" style="border-collapse: collapse">
+	<tr>
+		<th></th>
+		<th colspan="5">Work package number</th>
+		<th>3</th>
+		<th>Date of Start of Starting Event</th>
+		<th>Kick-off workshop 10/2014</th>
+	</tr>
+	<tr>
+		<td>work package number</td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>work package title</td>
+		<td>collections as interfaces</td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>participant number</td>
+		<td>12</td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>short name participant</td>
+		<td>Haas</td>
+		<td></td>
+		<td></td>
+	</tr>
+		<tr>
+		<td>person/month per participant</td>
+		<td>2/12</td>
+		<td></td>
+		<td></td>
+	</tr>
+</table>
+<table border="1" style="border-collapse: collapse">
+		<tr>
+		<td>**Objectives:** The objective is to build a network that bridges ICT to art that culminates in the first World Coding Fair, participate in the Fair both as the primary organizer and as a participant.</td>
+	</tr>
+</table>
+<table border="1" style="border-collapse: collapse">
+		<tr>
+		<td>**Description of work:**Lead partner and role of participants
+CastYourArt will use their network of electronic media, art, and museums to bring in new participants to the pilot fair in July 2015 and the complete World Coding Fair in July 2017. This will take place over time, starting in September 2014 and continuing throughout the process until the pilot Fair in July 2015. 
 
-*You will be required to include an updated (or confirmed) plan for ‘dissemination and exploitation’ in both the mid-term and final reports. (This does not apply to topics where a draft plan was not required.) This should include a record of activities related to dissemination and exploitation that have been undertaken, and those still planned. A report of completed and planned communication activities will also be required.* 
+Additionally, they will organize and participate in the World Coding Fair that will take place in Vienna in 2016, as well as the pilot Fair that will take place in Amsterdam in 2015. The organization will consist of recruiting participants (artists, developers, students) to be a part of the pilot Fair, as well as arranging the venue ( in Vienna). CastYourArt will also promote the pilot Fair to attract international participants and attendees. 
 
-*If your project is taking part in the Pilot on Open Research Data, you must include a 'data management plan' as a distinct deliverable within the first 6 months of the project. A template for such a plan is given in the guidelines on data management in the H2020 Online Manual. This deliverable will evolve during the lifetime of the project in order to present the status of the project's reflections on data management.*
+CastYourArt will also make two short films documenting one participating artist and one participating developer in their process of making their contribution to the Fair.</td>
+	</tr>
+</table>
+<table border="1" style="border-collapse: collapse">
+		<tr>
+		<td>**Deliverables:** In October 2014, Wolfgang Haas will present himself and CastYourArt’s work at a 2 day kick-off workshop in Amsterdam that includes students, as well as other partners. He will connect what they do to the students' research.
+The other deliverables will be the films made, as well as a presentation at the Fair itself.</td>
+	</tr>
+</table>
+<br/><br/>
 
-**Definitions:**
+<table border="1" style="border-collapse: collapse">
+	<tr>
+		<th></th>
+		<th colspan="5">Work package number</th>
+		<th>2</th>
+		<th>Date of Start of Starting Event</th>
+		<th>Kick-off event in Amsterdam 2 persons / 5 days</th>
+	</tr>
+	<tr>
+		<td>work package number</td>
+		<td>2</td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>work package title</td>
+		<td>lab as interface</td>
+	</tr>
+	<tr>
+		<td>participant number</td>
+		<td>6 & 7</td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>short name participant</td>
+		<td>DH</td>
+		<td></td>
+		<td></td>
+	</tr>
+		<tr>
+		<td>person/month per participant</td>
+		<td>2/12</td>
+		<td></td>
+		<td></td>
+	</tr>
+</table>
+<table border="1" style="border-collapse: collapse">
+		<tr>
+		<td>**Objectives:**Within the proposed project Dark Horse is going to conduct research on and develop a conceptual framework and design for a physical space that accompanies and complements the online learning platform</td>
+	</tr>
+</table>
+<table border="1" style="border-collapse: collapse">
+		<tr>
+		<td>**Description of work:**Their user centered approach and the background in anthropology and interior design allows Lisa Zoth and Patrick Kenzler to understand and translate the requirements of such a space into a practical design concept and the according user culture. They will provide an answer to the crucial question of how online collaboration and innovative practice can be initiated, accelerated and fostered through an offline setting. Moreover their research will provide insights to the students’ needs that cannot be satisfied merely by the application of ICT but are better addressed with a combination of digital instruments and offline collaboration and training methods.</td>
+	</tr>
+</table>
+<table border="1" style="border-collapse: collapse">
+		<tr>
+		<td>**Deliverables:** Deliverables will include new products and services developed in the course of their work. See section Deliverables and Milestones for details.</td>
+	</tr>
+</table>
+<br/><br/>
 
-**Work package** *means a major sub-division of the proposed project*
 
-**Deliverable** *means a distinct output of the project, meaningful in terms of the project’s  overall objectives, and constituted by a report, a document, a technical diagram, a software etc.*
 
-**‘Milestones’** *means control points in the project that help to chart progress. Milestones may correspond to the completion of a key deliverable, allowing the next phase of the work to begin. They may also be needed at intermediary points so that, if problems have arisen, corrective measures can be taken. A milestone may be a critical decision point in the project where, for example, the consortium must decide which of several technologies to adopt for further development.*
 
 //Milestones//
 //research about conceptualization of online learning environment **paper** "Requirements to online learning environment for humanities research", "The merits of open source development platforms and methodologies for Humanities Research" 
