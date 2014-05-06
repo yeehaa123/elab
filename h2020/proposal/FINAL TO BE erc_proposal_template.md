@@ -1097,29 +1097,6 @@ datasets. They focus mainly on retrieval and object by object examination. They 
 
 **Work Package: Platform as Interface**
 
-
-
-
-Participant Number/Short Name 
-/Weyeser
-
-
-12
-Participant Number/Short Name 
-/Europeana
-
-
-
-Total Person/Months
-2/12
-
-
-1/12
-
-WPn
-WPn+1
-WPn+2
-Total Person/
 <table border="1" style="border-collapse: collapse">
 	<tr>
 		<th></th>	
@@ -1133,28 +1110,107 @@ Total Person/
 		<td>1564486/Hoogstad</td>
 		<td></td>
 		<td></td>
-	</tr>
-Participant Number/Short Name 
-
-
-
-12
-
-
-	<tr>
-		<td>No guarantee of deliverables: innovation, experimentation</td>
-		<td>2</td>
-		<td>Focus on creating one high-quality product or service per year</td>
+		<td>12</td>
 	</tr>
 	<tr>
-		<td>Low level of interest in participation (artists, developers to participate in Fair)</td>
-		<td>3</td>
-		<td>Begin early to organize high-quality Fair, network extensively</td>
+		<td>Participant Number/Short Name</td>
+		<td>Weyeser</td>
+		<td></td>
+		<td></td>
+		<td>12</td>
 	</tr>
 	<tr>
-		<td>Exclusive to high socio-economic people</td>
-		<td>3</td>
-		<td>Develop and implement strategies to increase audience of lower socio-economic people</td>
+		<td>Participant Number/Short Name</td>
+		<td>Europeana</td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+		<td>Total Person/Months</td>
+		<td>2/12</td>
+		<td></td>
+		<td></td>
+		<td>1/12</td>
+	</tr>
+</table>
+<br></br>
+
+**Work Package: Lab as Interface**
+
+<table border="1" style="border-collapse: collapse">
+	<tr>
+		<th></th>	
+		<th>WPn</th>
+		<th>WPn+1</th>
+		<th>WPn+2</th>
+		<th>Total Person/Months</th>
+	</tr>
+	<tr>
+		<td>Participant Number/Short Name </td>
+		<td>DH</td>
+		<td></td>
+		<td></td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>Participant Number/Short Name</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>Participant Number/Short Name</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+		<td>Total Person/Months</td>
+		<td>2/12</td>
+		<td></td>
+		<td></td>
+		<td>1/12</td>
+	</tr>
+</table>
+<br></br>
+
+**Work Package: Collections as Interfaces**
+
+<table border="1" style="border-collapse: collapse">
+	<tr>
+		<th></th>	
+		<th>WPn</th>
+		<th>WPn+1</th>
+		<th>WPn+2</th>
+		<th>Total Person/Months</th>
+	</tr>
+	<tr>
+		<td>Participant Number/Short Name </td>
+		<td>Haas</td>
+		<td></td>
+		<td></td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>Participant Number/Short Name</td>
+		<td>Feier</td>
+		<td></td>
+		<td></td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>Participant Number/Short Name</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+		<td>Total Person/Months</td>
+		<td>2/12</td>
+		<td></td>
+		<td></td>
+		<td>1/12</td>
 	</tr>
 </table>
 <br></br>
