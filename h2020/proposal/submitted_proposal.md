@@ -2418,7 +2418,7 @@ to work with the student proposals and the museum datasets
 	<tr>
 		<td>Equipment</td>
 		<td>0.00</td>
-		<td>td>
+		<td><td>
 	</tr>
 	<tr>
 		<td>Other goods and services</td>
@@ -2445,34 +2445,7 @@ to work with the student proposals and the museum datasets
 	<tr>
 		<td>Equipment</td>
 		<td>0.00</td>
-		<td>td>
-	</tr>
-	<tr>
-		<td>Other goods and services</td>
-		<td>15.000</td>
-		<td>Organizational activities</td>
-	</tr>
-		<td>Total</td>
-		<td>35.000</td>
-	</tr>
-</table>
-<br></br>
-
-<table border="1" style="border-collapse: collapse">
-	<tr>
-		<th>/ Weyeser</th>	
-		<th>Cost (€)</th>
-		<th>Justification</th>
-	</tr>
-	<tr>
-		<td>Travel</td>
-		<td>5.000</td>
-		<td>Travel costs for conferences and meetings</td>
-	</tr>
-	<tr>
-		<td>Equipment</td>
-		<td>0.00</td>
-		<td>td>
+		<td><td>
 	</tr>
 	<tr>
 		<td>Other goods and services</td>
@@ -2626,6 +2599,10 @@ to work with the student proposals and the museum datasets
 		<th></th>
 		<th></th>
 	</tr>
+	<td></td>
+		<th></th>
+		<th></th>
+		<th></th>
 		<td>968.108</td>
 	</tr>
 </table>
@@ -2812,11 +2789,11 @@ New Work Award, Berlin 2013
 *Audi AG:* Ideas Virus The Audi AG hired Dark Horse in order to find out about existing innovation hubs within their company. Through interviews and observation Dark Horse identified persons and departments that are key to the innovation processes and product development at Audi. Based on these findings the Audi AG launched a process that aims at designing a concept for collaboration among the employees and thus foster innovation. 
 
 #####Europeana
-The Europeana Office
-Koninklijke Bibliotheek
-Prins Willem-Alexanderhof 5
-2595 BE Den Haag
-The Netherlands
+The Europeana Office  
+Koninklijke Bibliotheek  
+Prins Willem-Alexanderhof 5  
+2595 BE Den Haag  
+The Netherlands  
 
 ######Organization
 The Europeana Foundation is a cross domain foundation, under Dutch law, set up for the purpose of fostering collaboration between museums, archives, libraries and audiovisual collections in Europe. It aims to provide access to Europe’s cultural heritage by facilitating formal agreement across museums, archives, audio-visual archives and libraries on how to cooperate in the delivery and sustainability of a joint portal. It also provides a legal framework for use by EU funded projects to bring their research or content into Europeana. The Europeana Foundation governs Europeana and employs its staff, who make up the Europeana Office. The commitment of Foundation Supervisory Board members, its Executive Group and the Europeana Office is huge. The Foundation members give all their time voluntarily and the Europeana Office carries out the work with a very committed, capable staff from fourteen countries with expertise in technologies, the semantic web, multilingualism, online exhibitions, awareness raising, data modeling, interoperability, collaboration, fund raising, business development and project management. The Europeana Office has 47 staff, well versed in European projects and delivering to time and budget. It has three Directors, reporting to an Executive Committee of the Europeana Foundation led by the Executive Director Jill Cousins
@@ -2859,8 +2836,8 @@ Europeana gives access to a European treasury of over 33 million books, pictures
 
 
 #####National Museum of World Cultures
-Linnaeusstraat 2
-1092 AD Amsterdam
+Linnaeusstraat 2  
+1092 AD Amsterdam  
 
 The National Museum of World Cultures (NMvM) is one of the newest museums in the Dutch museum landscape. Created out of the merger of the Africa Museum in Berg-en-Dal, the National Museum of Ethnology, Leiden and the Tropenmuseum, Amsterdam, this new institution is the designated national focal point for ethnographic museum practice in the Netherlands. This national designation includes the research portfolio for ethnographic collections research. Research in the museum is carried out within the museum’s recently created Research Centre for Material Culture (RCMC). One of the focal areas of RCMC is Digital Futures for Ethnographic museums.
 
@@ -2898,9 +2875,9 @@ The museum cares for a collection of over 400.000 objects and 1.000.000 photogra
 
 ##### Weyeser
 
-Delftechpark 26
-2628 XH Delft
-Netherlands
+Delftechpark 26  
+2628 XH Delft  
+Netherlands  
 
 
 *Weyeser* is a company specialized in supporting organizations to translate big amounts of data into knowledge by means of data mining, text mining and visualization. Their solutions offer governments, governmental institutions, universities, think tanks and corporations ways of objectively assessing their knowledge portfolio and that of their peers.
@@ -2910,9 +2887,9 @@ Within this proposed project weyeser will provide expertise concerning the quest
 
 #####CastYourArt
 
-Gumpendorfer Straße 55
-1060 Wien
-Austria
+Gumpendorfer Straße 55  
+1060 Wien  
+Austria  
 
  
 ######Company
@@ -2952,7 +2929,7 @@ Does the participant envisage that part of its work is performed by linked third
 Does the participant envisage the use of contributions in kind provided by third parties
 - NO
  
-### 5: 	Ethics and security 
+#5: 	Ethics and security 
 
 ##5.1 Ethics
 
